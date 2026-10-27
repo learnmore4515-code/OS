@@ -1,0 +1,342 @@
+# Transcript: AqzFRaxi5Mg
+Language: en
+
+[0.3s - 4.2s] Welcome to day 11 and today we are going
+[4.2s - 4.2s] Welcome to day 11 and today we are going
+[4.2s - 6.8s] Welcome to day 11 and today we are going to discuss the chatbot tutorials that
+[6.8s - 6.8s] to discuss the chatbot tutorials that
+[6.8s - 9.2s] to discuss the chatbot tutorials that I'm going to do over the next one week.
+[9.2s - 9.2s] I'm going to do over the next one week.
+[9.2s - 12.1s] I'm going to do over the next one week. I will be sharing the presentations that
+[12.1s - 12.1s] I will be sharing the presentations that
+[12.1s - 15.9s] I will be sharing the presentations that you can use in your future sales calls
+[15.9s - 15.9s] you can use in your future sales calls
+[15.9s - 19.8s] you can use in your future sales calls or really give you an idea as to what
+[19.8s - 19.8s] or really give you an idea as to what
+[19.8s - 22.1s] or really give you an idea as to what client problems that I'm trying to solve
+[22.1s - 22.1s] client problems that I'm trying to solve
+[22.1s - 25.1s] client problems that I'm trying to solve with my AI solutions. Initially, I was
+[25.1s - 25.1s] with my AI solutions. Initially, I was
+[25.1s - 27.4s] with my AI solutions. Initially, I was planning to upload an e-commerce chatbot
+[27.4s - 27.4s] planning to upload an e-commerce chatbot
+[27.4s - 29.8s] planning to upload an e-commerce chatbot today, but I didn't get a chance to film
+[29.8s - 29.8s] today, but I didn't get a chance to film
+[29.8s - 32.5s] today, but I didn't get a chance to film it. So here we are. These are the bots
+[32.5s - 32.5s] it. So here we are. These are the bots
+[32.5s - 34.8s] it. So here we are. These are the bots that I'm planning to upload. First, two
+[34.8s - 34.8s] that I'm planning to upload. First, two
+[34.8s - 37.6s] that I'm planning to upload. First, two real estate chatbots. I'll be using
+[37.6s - 37.6s] real estate chatbots. I'll be using
+[37.6s - 40.9s] real estate chatbots. I'll be using Voiceflow, Make, and will be integrating
+[40.9s - 40.9s] Voiceflow, Make, and will be integrating
+[40.9s - 43.3s] Voiceflow, Make, and will be integrating that on WhatsApp. And the second one
+[43.3s - 43.3s] that on WhatsApp. And the second one
+[43.3s - 46.7s] that on WhatsApp. And the second one would be Botpress mixed with Zapier and
+[46.7s - 46.7s] would be Botpress mixed with Zapier and
+[46.7s - 49.4s] would be Botpress mixed with Zapier and will be integrating that on a website
+[49.4s - 49.4s] will be integrating that on a website
+[49.4s - 51.8s] will be integrating that on a website using the embed code. Three and four
+[51.8s - 51.8s] using the embed code. Three and four
+[51.8s - 54.2s] using the embed code. Three and four will be e-commerce chatbots.
+[54.2s - 54.2s] will be e-commerce chatbots.
+[54.2s - 56.8s] will be e-commerce chatbots. We'll be using Voiceflow and Make and
+[56.8s - 56.8s] We'll be using Voiceflow and Make and
+[56.8s - 60.0s] We'll be using Voiceflow and Make and integrating to a Shopify store and we'll
+[60.0s - 60.0s] integrating to a Shopify store and we'll
+[60.0s - 63.5s] integrating to a Shopify store and we'll also use Botpress, Zapier
+[63.5s - 63.6s] also use Botpress, Zapier
+[63.6s - 66.3s] also use Botpress, Zapier on Instagram. I understand that some
+[66.3s - 66.3s] on Instagram. I understand that some
+[66.3s - 70.3s] on Instagram. I understand that some stores have really huge inventories and
+[70.3s - 70.3s] stores have really huge inventories and
+[70.3s - 72.7s] stores have really huge inventories and thousands of products. For that,
+[72.7s - 72.7s] thousands of products. For that,
+[72.7s - 74.7s] thousands of products. For that, Voiceflow and Botpress won't be able to
+[74.7s - 74.7s] Voiceflow and Botpress won't be able to
+[74.7s - 77.1s] Voiceflow and Botpress won't be able to make it. I will show you how to connect
+[77.1s - 77.1s] make it. I will show you how to connect
+[77.1s - 80.4s] make it. I will show you how to connect it with either Flowise AI or Stack AI.
+[80.4s - 80.4s] it with either Flowise AI or Stack AI.
+[80.4s - 83.0s] it with either Flowise AI or Stack AI. You can follow along with it. I already
+[83.0s - 83.0s] You can follow along with it. I already
+[83.0s - 85.6s] You can follow along with it. I already made a tutorials on that. Either I will
+[85.6s - 85.6s] made a tutorials on that. Either I will
+[85.6s - 88.0s] made a tutorials on that. Either I will provide the link or briefly explain how
+[88.0s - 88.0s] provide the link or briefly explain how
+[88.0s - 90.4s] provide the link or briefly explain how that works as well. And then we have AI
+[90.4s - 90.4s] that works as well. And then we have AI
+[90.4s - 93.0s] that works as well. And then we have AI persona chatbots. Initially, I was only
+[93.0s - 93.0s] persona chatbots. Initially, I was only
+[93.0s - 95.8s] persona chatbots. Initially, I was only planning to make one. So I may end up
+[95.8s - 95.8s] planning to make one. So I may end up
+[95.8s - 98.8s] planning to make one. So I may end up making only one using Voiceflow, Make,
+[98.8s - 98.8s] making only one using Voiceflow, Make,
+[98.8s - 101.1s] making only one using Voiceflow, Make, and WhatsApp or website. When I say
+[101.1s - 101.1s] and WhatsApp or website. When I say
+[101.1s - 103.8s] and WhatsApp or website. When I say website, it would mainly be a course
+[103.8s - 103.8s] website, it would mainly be a course
+[103.8s - 106.3s] website, it would mainly be a course platform since it will be coaches or
+[106.3s - 106.4s] platform since it will be coaches or
+[106.4s - 108.3s] platform since it will be coaches or consultants. Botpress, Zapier, and
+[108.3s - 108.3s] consultants. Botpress, Zapier, and
+[108.3s - 110.2s] consultants. Botpress, Zapier, and Messenger. This is the optional thing.
+[110.2s - 110.2s] Messenger. This is the optional thing.
+[110.2s - 112.8s] Messenger. This is the optional thing. And the career coach SAS that I told you
+[112.8s - 112.8s] And the career coach SAS that I told you
+[112.8s - 115.1s] And the career coach SAS that I told you about, we'll be using one chatbot
+[115.1s - 115.1s] about, we'll be using one chatbot
+[115.1s - 118.1s] about, we'll be using one chatbot builder and Bubble for UI. And this
+[118.1s - 118.1s] builder and Bubble for UI. And this
+[118.1s - 120.5s] builder and Bubble for UI. And this depends on whether I still have time to
+[120.5s - 120.6s] depends on whether I still have time to
+[120.6s - 122.6s] depends on whether I still have time to film everything. Next up, let's talk
+[122.6s - 122.6s] film everything. Next up, let's talk
+[122.6s - 125.2s] film everything. Next up, let's talk about the real estate chatbot. This
+[125.2s - 125.2s] about the real estate chatbot. This
+[125.2s - 127.8s] about the real estate chatbot. This presentation is mostly based on the
+[127.8s - 127.8s] presentation is mostly based on the
+[127.8s - 130.2s] presentation is mostly based on the sales call e-commerce presentation that
+[130.2s - 130.2s] sales call e-commerce presentation that
+[130.2s - 132.1s] sales call e-commerce presentation that I did few days ago. If you haven't
+[132.1s - 132.1s] I did few days ago. If you haven't
+[132.1s - 134.3s] I did few days ago. If you haven't watched that, please do because I will
+[134.3s - 134.3s] watched that, please do because I will
+[134.3s - 137.1s] watched that, please do because I will show you step-by-step as to how I
+[137.1s - 137.1s] show you step-by-step as to how I
+[137.1s - 139.1s] show you step-by-step as to how I pitched the client starting from dream
+[139.1s - 139.1s] pitched the client starting from dream
+[139.1s - 141.2s] pitched the client starting from dream outcome, benefits of the chatbot, our
+[141.2s - 141.2s] outcome, benefits of the chatbot, our
+[141.2s - 143.3s] outcome, benefits of the chatbot, our development process, everything. I won't
+[143.3s - 143.4s] development process, everything. I won't
+[143.4s - 145.7s] development process, everything. I won't be covering that in detail here. I will
+[145.7s - 145.7s] be covering that in detail here. I will
+[145.7s - 148.4s] be covering that in detail here. I will just show you the differences from the
+[148.4s - 148.4s] just show you the differences from the
+[148.4s - 151.0s] just show you the differences from the last time. This is straightforward. We
+[151.0s - 151.0s] last time. This is straightforward. We
+[151.0s - 153.6s] last time. This is straightforward. We make it easy for your customers to find
+[153.6s - 153.6s] make it easy for your customers to find
+[153.6s - 155.2s] make it easy for your customers to find what they're looking for. Whether it's
+[155.2s - 155.2s] what they're looking for. Whether it's
+[155.2s - 158.4s] what they're looking for. Whether it's house, 2 BHK, 3 BHK, we will cover all
+[158.4s - 158.4s] house, 2 BHK, 3 BHK, we will cover all
+[158.4s - 160.7s] house, 2 BHK, 3 BHK, we will cover all that in the chatbot. Get answers to any
+[160.7s - 160.7s] that in the chatbot. Get answers to any
+[160.7s - 162.9s] that in the chatbot. Get answers to any questions in seconds, even if you have
+[162.9s - 162.9s] questions in seconds, even if you have
+[162.9s - 165.3s] questions in seconds, even if you have hundreds of listings. Multiple flows,
+[165.3s - 165.4s] hundreds of listings. Multiple flows,
+[165.4s - 168.1s] hundreds of listings. Multiple flows, intents. This is something new. If you
+[168.1s - 168.1s] intents. This is something new. If you
+[168.1s - 170.2s] intents. This is something new. If you already listened to my sales
+[170.2s - 170.2s] already listened to my sales
+[170.2s - 172.8s] already listened to my sales presentation, we only had a customer
+[172.8s - 172.8s] presentation, we only had a customer
+[172.8s - 175.4s] presentation, we only had a customer service focused chatbot over there where
+[175.4s - 175.4s] service focused chatbot over there where
+[175.4s - 177.9s] service focused chatbot over there where it will just answer the questions that
+[177.9s - 178.0s] it will just answer the questions that
+[178.0s - 180.7s] it will just answer the questions that customers ask and provide them coupons
+[180.7s - 180.7s] customers ask and provide them coupons
+[180.7s - 182.6s] customers ask and provide them coupons and capture the lead. That's it. This
+[182.6s - 182.6s] and capture the lead. That's it. This
+[182.6s - 185.6s] and capture the lead. That's it. This time we are focusing on multiple flows
+[185.6s - 185.6s] time we are focusing on multiple flows
+[185.6s - 187.9s] time we are focusing on multiple flows or intents. What do I mean by that? We
+[187.9s - 187.9s] or intents. What do I mean by that? We
+[187.9s - 190.6s] or intents. What do I mean by that? We can take the customer to a different
+[190.6s - 190.6s] can take the customer to a different
+[190.6s - 192.8s] can take the customer to a different flow based on whether they are buying,
+[192.8s - 192.8s] flow based on whether they are buying,
+[192.8s - 194.4s] flow based on whether they are buying, selling, learning more about the
+[194.4s - 194.4s] selling, learning more about the
+[194.4s - 196.9s] selling, learning more about the company, featured listings, financing.
+[196.9s - 196.9s] company, featured listings, financing.
+[196.9s - 200.2s] company, featured listings, financing. This is a more sophisticated bot than
+[200.2s - 200.2s] This is a more sophisticated bot than
+[200.2s - 203.2s] This is a more sophisticated bot than what we had with e-commerce the other
+[203.2s - 203.2s] what we had with e-commerce the other
+[203.2s - 205.6s] what we had with e-commerce the other day. So ideally charge more as well.
+[205.6s - 205.6s] day. So ideally charge more as well.
+[205.6s - 207.9s] day. So ideally charge more as well. This is another slide that I've added.
+[207.9s - 208.0s] This is another slide that I've added.
+[208.0s - 210.2s] This is another slide that I've added. Types of chatbots and services. We
+[210.2s - 210.2s] Types of chatbots and services. We
+[210.2s - 212.6s] Types of chatbots and services. We already discussed lead gen and staff
+[212.6s - 212.6s] already discussed lead gen and staff
+[212.6s - 214.8s] already discussed lead gen and staff training. Liam Otley already did a great
+[214.8s - 214.8s] training. Liam Otley already did a great
+[214.8s - 217.3s] training. Liam Otley already did a great video on that and customer service, AI
+[217.3s - 217.3s] video on that and customer service, AI
+[217.3s - 219.8s] video on that and customer service, AI personas, workflow automations. Staff
+[219.8s - 219.8s] personas, workflow automations. Staff
+[219.8s - 222.2s] personas, workflow automations. Staff training, they always be hiring people,
+[222.2s - 222.2s] training, they always be hiring people,
+[222.2s - 225.3s] training, they always be hiring people, so there is this learning curve where AI
+[225.3s - 225.4s] so there is this learning curve where AI
+[225.4s - 227.8s] so there is this learning curve where AI chatbots would make perfect sense to
+[227.8s - 227.8s] chatbots would make perfect sense to
+[227.8s - 230.6s] chatbots would make perfect sense to use. Customer service, we've seen that.
+[230.6s - 230.6s] use. Customer service, we've seen that.
+[230.6s - 233.4s] use. Customer service, we've seen that. AI personas, imagine a sales manager or
+[233.4s - 233.4s] AI personas, imagine a sales manager or
+[233.4s - 235.6s] AI personas, imagine a sales manager or a manager in general that has knowledge
+[235.6s - 235.6s] a manager in general that has knowledge
+[235.6s - 239.2s] a manager in general that has knowledge to share. He can use AI persona chatbot
+[239.2s - 239.2s] to share. He can use AI persona chatbot
+[239.2s - 241.0s] to share. He can use AI persona chatbot to do that effectively. And workflow
+[241.0s - 241.0s] to do that effectively. And workflow
+[241.0s - 243.1s] to do that effectively. And workflow automations, the possibilities are
+[243.1s - 243.1s] automations, the possibilities are
+[243.1s - 246.0s] automations, the possibilities are endless. The goal of showing this is we
+[246.0s - 246.0s] endless. The goal of showing this is we
+[246.0s - 247.8s] endless. The goal of showing this is we are not just providing them with
+[247.8s - 247.8s] are not just providing them with
+[247.8s - 250.5s] are not just providing them with chatbots. It's that's a very short-term
+[250.5s - 250.5s] chatbots. It's that's a very short-term
+[250.5s - 253.6s] chatbots. It's that's a very short-term thinking. If we want clients on a
+[253.6s - 253.6s] thinking. If we want clients on a
+[253.6s - 256.4s] thinking. If we want clients on a long-term basis or a monthly retainer or
+[256.4s - 256.4s] long-term basis or a monthly retainer or
+[256.4s - 259.3s] long-term basis or a monthly retainer or a productized service, this is what we
+[259.3s - 259.3s] a productized service, this is what we
+[259.3s - 261.9s] a productized service, this is what we need to start thinking from day one. And
+[261.9s - 261.9s] need to start thinking from day one. And
+[261.9s - 263.5s] need to start thinking from day one. And benefits, I've already covered
+[263.5s - 263.5s] benefits, I've already covered
+[263.5s - 265.6s] benefits, I've already covered everything. Availability, complete,
+[265.6s - 265.6s] everything. Availability, complete,
+[265.6s - 268.3s] everything. Availability, complete, efficient, lead gen. I can't stress this
+[268.3s - 268.3s] efficient, lead gen. I can't stress this
+[268.3s - 270.1s] efficient, lead gen. I can't stress this enough. Watch that video. And
+[270.1s - 270.1s] enough. Watch that video. And
+[270.1s - 272.1s] enough. Watch that video. And development process as well. Starting
+[272.1s - 272.1s] development process as well. Starting
+[272.1s - 275.1s] development process as well. Starting from initial consult, data processing,
+[275.1s - 275.1s] from initial consult, data processing,
+[275.1s - 277.9s] from initial consult, data processing, we'll ideally be using uh tools like
+[277.9s - 277.9s] we'll ideally be using uh tools like
+[277.9s - 280.9s] we'll ideally be using uh tools like OpenAI moderation uh framework, etc.
+[280.9s - 281.0s] OpenAI moderation uh framework, etc.
+[281.0s - 283.4s] OpenAI moderation uh framework, etc. Prompt engineering, we test the prompts
+[283.4s - 283.4s] Prompt engineering, we test the prompts
+[283.4s - 285.4s] Prompt engineering, we test the prompts thoroughly, the system prompts, prompt
+[285.4s - 285.4s] thoroughly, the system prompts, prompt
+[285.4s - 287.8s] thoroughly, the system prompts, prompt templates, etc. This is all covered in
+[287.8s - 287.8s] templates, etc. This is all covered in
+[287.8s - 290.0s] templates, etc. This is all covered in that video. Designing chatbot, testing
+[290.0s - 290.0s] that video. Designing chatbot, testing
+[290.0s - 292.1s] that video. Designing chatbot, testing and deploying, maintaining the chatbot,
+[292.1s - 292.2s] and deploying, maintaining the chatbot,
+[292.2s - 295.1s] and deploying, maintaining the chatbot, the reason for retainer, etc. And that's
+[295.1s - 295.1s] the reason for retainer, etc. And that's
+[295.1s - 298.4s] the reason for retainer, etc. And that's how the presentation ends. This is the
+[298.4s - 298.4s] how the presentation ends. This is the
+[298.4s - 300.8s] how the presentation ends. This is the e-commerce presentation that I did. We
+[300.8s - 300.8s] e-commerce presentation that I did. We
+[300.8s - 304.1s] e-commerce presentation that I did. We can still add a V2. We can include
+[304.1s - 304.1s] can still add a V2. We can include
+[304.1s - 306.5s] can still add a V2. We can include customer intents here. People that wants
+[306.5s - 306.5s] customer intents here. People that wants
+[306.5s - 309.4s] customer intents here. People that wants to, let's say, return the product or
+[309.4s - 309.4s] to, let's say, return the product or
+[309.4s - 311.4s] to, let's say, return the product or leave a review, things like that. And
+[311.4s - 311.4s] leave a review, things like that. And
+[311.4s - 313.6s] leave a review, things like that. And benefits, I've already discussed this.
+[313.6s - 313.6s] benefits, I've already discussed this.
+[313.6s - 315.6s] benefits, I've already discussed this. And types of chatbot, this is something
+[315.6s - 315.6s] And types of chatbot, this is something
+[315.6s - 317.7s] And types of chatbot, this is something I added today. Customer service, lead
+[317.7s - 317.7s] I added today. Customer service, lead
+[317.7s - 320.0s] I added today. Customer service, lead gen, personas, staff training. The same
+[320.0s - 320.0s] gen, personas, staff training. The same
+[320.0s - 321.8s] gen, personas, staff training. The same way that we did with the real estate
+[321.8s - 321.8s] way that we did with the real estate
+[321.8s - 324.8s] way that we did with the real estate chatbot. And AI personas, I did
+[324.8s - 324.8s] chatbot. And AI personas, I did
+[324.8s - 326.5s] chatbot. And AI personas, I did something different with the
+[326.5s - 326.5s] something different with the
+[326.5s - 328.9s] something different with the presentation. Dream outcomes would be
+[328.9s - 328.9s] presentation. Dream outcomes would be
+[328.9s - 331.1s] presentation. Dream outcomes would be accessibility, convenience, available
+[331.1s - 331.2s] accessibility, convenience, available
+[331.2s - 333.9s] accessibility, convenience, available 24/7, straightforward, new monetization
+[333.9s - 333.9s] 24/7, straightforward, new monetization
+[333.9s - 335.9s] 24/7, straightforward, new monetization channels, creating opportunities for
+[335.9s - 335.9s] channels, creating opportunities for
+[335.9s - 337.7s] channels, creating opportunities for businesses to communicate and sell
+[337.7s - 337.7s] businesses to communicate and sell
+[337.7s - 339.5s] businesses to communicate and sell products or services through chat
+[339.5s - 339.5s] products or services through chat
+[339.5s - 341.4s] products or services through chat interface. You can look at this in two
+[341.4s - 341.4s] interface. You can look at this in two
+[341.4s - 344.0s] interface. You can look at this in two ways. We can place ads between the
+[344.0s - 344.0s] ways. We can place ads between the
+[344.0s - 346.8s] ways. We can place ads between the messages and also monetize these
+[346.8s - 346.8s] messages and also monetize these
+[346.8s - 348.8s] messages and also monetize these channels. You imagine
+[348.8s - 348.8s] channels. You imagine
+[348.8s - 351.1s] channels. You imagine a coach is selling his consulting
+[351.1s - 351.2s] a coach is selling his consulting
+[351.2s - 354.7s] a coach is selling his consulting services for $5,000 a month. Most people
+[354.7s - 354.7s] services for $5,000 a month. Most people
+[354.7s - 357.0s] services for $5,000 a month. Most people cannot afford that, but if he offers a
+[357.0s - 357.0s] cannot afford that, but if he offers a
+[357.0s - 360.8s] cannot afford that, but if he offers a service, a chatbot like this for $200 a
+[360.8s - 360.8s] service, a chatbot like this for $200 a
+[360.8s - 363.4s] service, a chatbot like this for $200 a month or $300 a month, his services will
+[363.4s - 363.4s] month or $300 a month, his services will
+[363.4s - 365.7s] month or $300 a month, his services will be accessible to more people, and that
+[365.7s - 365.7s] be accessible to more people, and that
+[365.7s - 368.0s] be accessible to more people, and that opens up new monetization channels.
+[368.0s - 368.0s] opens up new monetization channels.
+[368.0s - 370.4s] opens up new monetization channels. Personalized engagement, imagine having
+[370.4s - 370.4s] Personalized engagement, imagine having
+[370.4s - 373.2s] Personalized engagement, imagine having a mini salesman, a mini you, or a mini
+[373.2s - 373.2s] a mini salesman, a mini you, or a mini
+[373.2s - 375.1s] a mini salesman, a mini you, or a mini coach on the landing page trying to
+[375.1s - 375.2s] coach on the landing page trying to
+[375.2s - 376.6s] coach on the landing page trying to convert these people. It would be a
+[376.6s - 376.6s] convert these people. It would be a
+[376.6s - 378.5s] convert these people. It would be a game-changer for their conversions.
+[378.5s - 378.5s] game-changer for their conversions.
+[378.5s - 380.6s] game-changer for their conversions. Expand your reach to new markets
+[380.6s - 380.6s] Expand your reach to new markets
+[380.6s - 382.8s] Expand your reach to new markets demographics effectively because new
+[382.8s - 382.8s] demographics effectively because new
+[382.8s - 385.3s] demographics effectively because new price points will open up in their
+[385.3s - 385.3s] price points will open up in their
+[385.3s - 386.9s] price points will open up in their offerings, in their services.
+[386.9s - 387.0s] offerings, in their services.
+[387.0s - 389.4s] offerings, in their services. Sustainable growth, scale your coaching
+[389.4s - 389.4s] Sustainable growth, scale your coaching
+[389.4s - 391.7s] Sustainable growth, scale your coaching practice without need to proportionally
+[391.7s - 391.7s] practice without need to proportionally
+[391.7s - 393.6s] practice without need to proportionally increase your resources. Even the
+[393.6s - 393.6s] increase your resources. Even the
+[393.6s - 395.9s] increase your resources. Even the settings like one-to-one or one-to-many,
+[395.9s - 395.9s] settings like one-to-one or one-to-many,
+[395.9s - 399.0s] settings like one-to-one or one-to-many, and AI, which is 24/7, helps you to
+[399.0s - 399.0s] and AI, which is 24/7, helps you to
+[399.0s - 401.7s] and AI, which is 24/7, helps you to reach more people, especially when it's
+[401.7s - 401.7s] reach more people, especially when it's
+[401.7s - 404.1s] reach more people, especially when it's info products and services. Development
+[404.1s - 404.1s] info products and services. Development
+[404.1s - 406.6s] info products and services. Development process is straightforward. I've already
+[406.6s - 406.6s] process is straightforward. I've already
+[406.6s - 408.4s] process is straightforward. I've already covered everything in previous
+[408.4s - 408.4s] covered everything in previous
+[408.4s - 410.6s] covered everything in previous presentations. You can go through that.
+[410.6s - 410.6s] presentations. You can go through that.
+[410.6s - 413.1s] presentations. You can go through that. And these are all the presentations that
+[413.1s - 413.2s] And these are all the presentations that
+[413.2s - 415.0s] And these are all the presentations that I made. You can download all these
+[415.0s - 415.0s] I made. You can download all these
+[415.0s - 418.0s] I made. You can download all these presentations and use it in your own
+[418.0s - 418.0s] presentations and use it in your own
+[418.0s - 421.5s] presentations and use it in your own style and make it for your own niche.
+[421.5s - 421.5s] style and make it for your own niche.
+[421.5s - 423.5s] style and make it for your own niche. And I'll see you tomorrow on the first
+[423.5s - 423.5s] And I'll see you tomorrow on the first
+[423.5s - 426.0s] And I'll see you tomorrow on the first tutorial.

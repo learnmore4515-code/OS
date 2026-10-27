@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nairobi Trendz — Autonomous AI Sales Agent Demo</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  :root { --theme: #25D366; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; }
+  .chat-scroll { max-height: 420px; overflow-y: auto; }
+  @media (max-width: 768px) { .chat-scroll { max-height: 320px; } }
+  .table-wrap { overflow-x: auto; }
+  .table-wrap table { min-width: 720px; }
+  .badge { display:inline-block; padding:2px 8px; border-radius:10px; font-size:11px; font-weight:600; }
+  .pulse { animation: pulse 1.6s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+</style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+
+<!-- ============ GLOBAL RETAILER CONFIG — edit per retailer ============ -->
+<script>
+const LAUNCH_CONFIG = {
+  brandName: "Nairobi Trendz",
+  themeColor: "#25D366",
+  inventory: [
+    { id: 1, name: "Premium Tech Sneakers", price: 4500, image: "https://placehold.co/200x140?text=Sneakers", sizes: ["EU 38","EU 40","EU 42","EU 44"], colors: [], stock: 12 },
+    { id: 2, name: "Slim-Fit Stretch Jeans", price: 2200, image: "https://placehold.co/200x140?text=Jeans", sizes: ["30","32","34","36"], colors: ["Indigo","Black","Stone"], stock: 20 },
+    { id: 3, name: "Heavyweight T-Shirt", price: 1500, image: "https://placehold.co/200x140?text=T-Shirt", sizes: ["S","M","L","XL"], colors: ["White","Black","Navy"], stock: 40 },
+    { id: 4, name: "Linen Summer Dress", price: 3800, image: "https://placehold.co/200x140?text=Dress", sizes: ["S","M","L","XL"], colors: ["Cream","Olive","Pink"], stock: null },
+    { id: 5, name: "Leather Crossbody Bag", price: 5200, image: "https://placehold.co/200x140?text=Bag", sizes: [], colors: ["Tan","Black","Brown"], stock: 6 }
+  ],
+  deliveryZones: { "CBD": 150, "Nairobi Suburbs": 300, "Upcountry": 450 },
+  mpesaTill: "554433",
+  demoMode: true,
+  // Retailer-specific overrides: discountAllowed, followUpsAllowed, optOutRequired
+  discountAllowed: false,
+  followUpsAllowed: true,
+  optOutRequired: true,
+  // WhatsApp CTA target (real link; empty string leaves button disabled in demo)
+  whatsappNumber: ""
+};
+</script>
+
+<!-- ============ APP ============ -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  (function () {
+    const CFG = LAUNCH_CONFIG;
+  const LS_KEY = "nairobi_trendz_demo_orders_v1";
+  const STATES = ["GREETING","DISCOVERY","PRODUCT_SELECTED","VARIANT_SELECTION","CART_BUILDING",
+    "DELIVERY_SELECTION","CUSTOMER_DETAILS","ORDER_REVIEW","AWAITING_CONFIRMATION","ORDER_CREATED",
+    "AWAITING_PAYMENT","PAYMENT_VERIFIED","FULFILMENT","COMPLETED","HUMAN_HANDOFF"];
+
+  // ---- persistent state ----
+  let orders = loadOrders();
+  let cart = [];
+  let customer = { name: "", phone: "" };
+  let deliveryZone = "";
+  let order = null;          // active order object
+  let state = "GREETING";
+  let orderIdCounter = orders.length + 1;
+
+  // ---- DOM refs ----
+  const chatLog = document.getElementById("chat-log");
+  const msgInput = document.getElementById("msg-input");
+  const sendBtn = document.getElementById("send-btn");
+  const cartBox = document.getElementById("cart-box");
+  const cartList = document.getElementById("cart-list");
+  const dashOrders = document.getElementById("dash-orders");
+  const dashCount = document.getElementById("dash-count");
+  const dashPaid = document.getElementById("dash-paid");
+  const dashPending = document.getElementById("dash-pending");
+  const dashSearch = document.getElementById("dash-search");
+  const statusChip = document.getElementById("status-chip");
+  const resetBtn = document.getElementById("reset-btn");
+  const verifyBtn = document.getElementById("verify-pay-btn");
+
+  // ---- helpers ----
+  function loadOrders() {
+    try { const raw = localStorage.getItem(LS_KEY); return raw ? JSON.parse(raw) : []; }
+    catch { return []; }
+  }
+  function saveOrders() { localStorage.setItem(LS_KEY, JSON.stringify(orders)); renderDashboard(); }
+
+  function findProduct(id) { return CFG.inventory.find(p => p.id === id); }
+  function zoneFee(name) {
+    if (!name) return null;
+    for (const [zone, fee] of Object.entries(CFG.deliveryZones)) {
+      if (name.toLowerCase().includes(zone.toLowerCase().split(" ")[0].toLowerCase())) return fee;
+    }
+    return null;
+  }
+  function lineTotal(unitPrice, qty) { return unitPrice * qty; }
+  function calcTotals() {
+    const subtotal = cart.reduce((s, i) => s + lineTotal(i.price, i.qty), 0);
+    const discount = CFG.discountAllowed ? 0 : 0;   // only applied if retailer authorised
+    const deliveryFee = deliveryZone ? zoneFee(deliveryZone) : 0;
+    const grandTotal = subtotal - discount + (deliveryFee || 0);
+    return { subtotal, discount, deliveryFee, grandTotal };
+  }
+
+  // ---- rendering: chat ----
+  function addMsg(who, html, stateLabel) {
+    const row = document.createElement("div");
+    row.className = "flex " + (who === "agent" ? "justify-start" : "justify-end");
+    const bg = who === "agent"
+      ? "bg-white border border-gray-200"
+      : "text-white";
+    row.innerHTML = `<div class="max-w-[80%] px-3 py-2 rounded-lg text-sm ${bg} ${who==="agent" ? "text-gray-800" : ""}">${html}
+      ${stateLabel ? `<div class="text-[10px] mt-1 opacity-50">${stateLabel}</div>` : ""}</div>`;
+    chatLog.appendChild(row);
+    chatLog.scrollTop = chatLog.scrollHeight;
+    return row;
+  }
+
+  function productCard(p, variantNote) {
+    const price = "KES " + p.price;
+    const sizes = (p.sizes && p.sizes.length) ? `Sizes: ${p.sizes.join(", ")}` : "";
+    const colors = (p.colors && p.colors.length) ? `Colors: ${p.colors.join(", ")}` : "";
+    const stock = (p.stock === null) ? "Stock: on request" : `In stock: ${p.stock}`;
+    return `<div class="flex gap-2 items-start my-1">
+      <img src="${p.image}" alt="${p.name}" class="w-14 h-14 rounded object-cover bg-gray-100" onerror="this.style.display='none'">
+      <div>
+        <div class="font-semibold">${p.name}</div>
+        <div class="text-xs">${price}</div>
+        ${sizes ? `<div class="text-xs">${sizes}</div>` : ""}
+        ${colors ? `<div class="text-xs">${colors}</div>` : ""}
+        <div class="text-xs opacity-70">${stock}</div>
+        ${variantNote ? `<div class="text-[11px] mt-1 bg-black/10 rounded px-1 inline-block">${variantNote}</div>` : ""}
+      </div>
+    </div>`;
+  }
+
+  function updateCartUI() {
+    if (!cart.length) { cartBox.classList.add("hidden"); return; }
+    cartBox.classList.remove("hidden");
+    const t = calcTotals();
+    cartList.innerHTML = cart.map(i => {
+      const p = findProduct(i.productId);
+      return `<div class="flex justify-between text-xs py-1 border-b border-gray-100">
+        <span>${p ? p.name : i.productId} × ${i.qty}${i.variant ? " · " + i.variant : ""}</span>
+        <span>KES ${lineTotal(i.price, i.qty)}</span>
+      </div>`;
+    }).join("") +
+    `<div class="flex justify-between text-xs mt-1 font-semibold"><span>Subtotal</span><span>KES ${t.subtotal}</span></div>` +
+    (t.deliveryFee ? `<div class="flex justify-between text-xs"><span>Delivery (${deliveryZone})</span><span>KES ${t.deliveryFee}</span></div>` : "") +
+    `<div class="flex justify-between text-sm mt-1 font-bold"><span>Total</span><span>KES ${t.grandTotal}</span></div>`;
+  }
+
+  function updateStateChip() {
+    statusChip.textContent = CFG.demoMode ? "DEMO · " + state : state;
+    statusChip.className = "badge pulse " + (state === "HUMAN_HANDOFF" ? "bg-red-100 text-red-700" : "bg-gray-200 text-gray-700");
+  }
+
+  // ---- rendering: dashboard ----
+  function renderDashboard() {
+    const q = (dashSearch.value || "").toLowerCase();
+    const rows = orders.filter(o =>
+      !q || o.name.toLowerCase().includes(q) || String(o.phone).includes(q) || o.zone.toLowerCase().includes(q)
+    );
+    if (!rows.length) {
+      dashOrders.innerHTML = `<tr><td colspan="7" class="text-center py-6 text-sm text-gray-400">No orders yet</td></tr>`;
+    } else {
+      dashOrders.innerHTML = rows.map(o => {
+        const totalPaid = o.paymentVerified ? o.grandTotal : 0;
+        const sync = o.syncedToSheets ? "SYNCED TO GOOGLE SHEETS" : "DEMO ORDER CREATED";
+        const syncColor = o.syncedToSheets ? "text-green-700 bg-green-50" : "text-amber-700 bg-amber-50";
+        return `<tr class="border-b border-gray-100">
+          <td class="py-2 pr-2 text-xs">${o.timestamp}</td>
+          <td class="pr-2 text-xs">${o.name}</td>
+          <td class="pr-2 text-xs">${o.phone}</td>
+          <td class="pr-2 text-xs">${o.items}</td>
+          <td class="pr-2 text-xs">${o.zone}</td>
+          <td class="pr-2 text-xs font-semibold">${totalPaid ? "KES " + totalPaid : "KES 0"}</td>
+          <td class="pr-2"><span class="badge ${syncColor}">${sync}</span></td>
+        </tr>`;
+      }).join("");
+    }
+    dashCount.textContent = orders.length;
+    dashPaid.textContent = orders.filter(o => o.paymentVerified).length;
+    dashPending.textContent = orders.filter(o => !o.paymentVerified).length;
+  }
+
+  // ---- Zara state machine ----
+  function respond(html, next, label) {
+    addMsg("agent", html, label || state);
+    if (next) { state = next; updateStateChip(); }
+  }
+
+  function tryCreateOrder() {
+    if (order) return order; // idempotent — never create twice
+    const t = calcTotals();
+    order = {
+      id: "ORD-" + String(orderIdCounter++).padStart(4, "0"),
+      timestamp: new Date().toLocaleString(),
+      name: customer.name || "Unknown",
+      phone: customer.phone || "",
+      items: cart.map(i => `${findProduct(i.productId) ? findProduct(i.productId).name : i.productId} × ${i.qty}`).join(", ") || "—",
+      zone: deliveryZone || "Unspecified",
+      grandTotal: t.grandTotal,
+      paid: 0,
+      paymentVerified: false,
+      syncedToSheets: false,
+      status: "created"
+    };
+    orders.push(order);
+    saveOrders();
+    return order;
+  }
+
+  function handleCustomerMessage(raw) {
+    const msg = raw.trim().toLowerCase();
+    addMsg("customer", raw);
+
+    // universal human handoff
+    if (/human|agent|representative|staff|talk to someone/.test(msg)) {
+      respond(`<div class="text-amber-700 font-medium">Connecting you to a human agent…</div>I'm escalating your request. A team member will respond shortly.`);
+      state = "HUMAN_HANDOFF"; updateStateChip();
+      return;
+    }
+    // universal payment-verify trigger (simulated trusted callback)
+    if (order && order.paymentVerified === false && /paid|payment.*done|verify.*payment|mpesa.*done/i.test(msg)) {
+      order.paymentVerified = true;
+      order.paid = order.grandTotal;
+      order.status = "paid";
+      saveOrders();
+      respond(`<div class="text-green-700 font-semibold">✅ Payment confirmed — ${order.id}</div>
+        M-Pesa transaction received. We're processing your order now.`, "PAYMENT_VERIFIED", "PAYMENT VERIFIED");
+      setTimeout(() => {
+        respond(`<div class="text-blue-700">📦 Fulfilment: your order is being prepared for delivery.</div>
+        Expected delivery window: 2–4 business days to your zone (${order.zone}).`, "FULFILMENT", "FULFILMENT");
+        setTimeout(() => {
+          respond(`<div class="text-green-700">🎉 Order complete. Thank you for shopping with ${CFG.brandName}!</div>
+          Need anything else? I'm here.`, "COMPLETED", "COMPLETED");
+        }, 800);
+      }, 600);
+      return;
+    }
+
+    switch (state) {
+      case "GREETING":
+      case "DISCOVERY":
+        // product discovery: name match
+        {
+          const match = CFG.inventory.find(p => msg && p.name.toLowerCase().includes(msg.split(" ").filter(w => w.length > 3).join(" ").toLowerCase()));
+          const intent = CFG.inventory.filter(p => msg.split(" ").some(w => p.name.toLowerCase().split(" ").includes(w))).slice(0, 3);
+          const show = intent.length ? intent : CFG.inventory.slice(0, 3);
+          respond(
+            `<div class="font-medium mb-1">Here's what we have in stock:</div>` +
+            show.map(p => productCard(p)).join("") +
+            `<div class="text-xs mt-1 opacity-70">Want me to add one to your cart? Just say “add [item]” or tell me which size.</div>`,
+            "PRODUCT_SELECTED", "PRODUCT SELECTED");
+          state = "PRODUCT_SELECTED"; updateStateChip();
+          return;
+        }
+      case "PRODUCT_SELECTED":
+        // variant selection: look for size/color mentions
+        {
+          let variant = null;
+          for (const p of CFG.inventory) {
+            const m = msg.match(/(size|colour|color)?\s*(S|M|L|XL|XXL|3\d|4\d|EU\s*\d+|\d+|\w+\s*color|\w+\s*colour)/i);
+            if (p.name.toLowerCase().includes(msg.split(" ").filter(w => w.length > 2).join(" ").toLowerCase())) {
+              variant = p;
+              break;
+            }
+          }
+          if (variant) {
+            state = "VARIANT_SELECTION";
+            const sizes = variant.sizes.length ? `Sizes available: ${variant.sizes.join(", ")}. Which size?` : `We have it in: ${variant.colors.join(", ")}. Which colour?`;
+            respond(`<div class="font-medium">${variant.name}</div>${sizes} <span class="text-xs opacity-70">(price KES ${variant.price})</span>`, "VARIANT_SELECTION", "VARIANT SELECTION");
+          } else {
+            respond(`Which product would you like? I have: ${CFG.inventory.map(p => p.name).join(", ")}.
+              Or if you'd like to add one to your cart now, say “add [item]”.`);
+          }
+          return;
+        }
+      case "VARIANT_SELECTION":
+        {
+          const p = CFG.inventory.find(x => cart.length ? false : msg.split(" ").some(w => x.name.toLowerCase().includes(w))) || CFG.inventory[0];
+          const variant = msg;
+          if (cart.length && p) {
+            const existing = cart.find(i => i.productId === p.id);
+            if (existing) existing.qty++;
+            else cart.push({ productId: p.id, price: p.price, qty: 1, variant });
+          } else {
+            cart.push({ productId: p.id, price: p.price, qty: 1, variant });
+          }
+          updateCartUI();
+          respond(`<div class="text-green-700 font-medium">Added to cart:</div> ${p.name} × 1 ${variant ? "(" + variant + ")" : ""}
+            <span class="text-xs opacity-70">${cart.length} item${cart.length>1?"s":""} in cart. Would you like to add more or proceed to delivery?</span>`,
+            "CART_BUILDING", "CART BUILDING");
+          return;
+        }
+      case "CART_BUILDING":
+        if (/delivery|deliver|zone|where.*send|address/.test(msg)) {
+          state = "DELIVERY_SELECTION"; updateStateChip();
+          respond(`Where would you like delivery?<br>
+            <span class="text-xs">${Object.entries(CFG.deliveryZones).map(([z,f]) => `${z} (KES ${f})`).join(" · ")}</span>
+            <span class="text-xs opacity-70">Tell me your area — CBD, Nairobi Suburbs, or Upcountry.</span>`, "DELIVERY_SELECTION", "DELIVERY SELECTION");
+          return;
+        }
+        if (/add.*cart|add.*more/.test(msg)) {
+          // loop back to discovery to add another
+          state = "PRODUCT_SELECTED"; updateStateChip();
+          respond(`Great — which other item would you like? Say the name or “show products”.`);
+          return;
+        }
+        respond(`Your cart: ${cart.map(i => `${findProduct(i.productId).name} × ${i.qty}`).join(", ")}.
+          Ready for delivery details?</span>`);
+        return;
+      case "DELIVERY_SELECTION":
+        {
+          const fee = zoneFee(msg);
+          if (fee !== null) {
+            deliveryZone = Object.keys(CFG.deliveryZones).find(z => msg.toLowerCase().includes(z.toLowerCase().split(" ")[0].toLowerCase()));
+            state = "CUSTOMER_DETAILS"; updateStateChip();
+            respond(`Delivery to <b>${deliveryZone}</b> — fee KES ${fee}.
+              Now I need your <b>name</b> and <b>phone number</b> for the delivery.`, "CUSTOMER_DETAILS", "CUSTOMER DETAILS");
+          } else {
+            respond(`I couldn't match that location. Our delivery zones are:
+              <span class="text-xs">${Object.keys(CFG.deliveryZones).join(", ")}</span>.
+              Please choose one of those.</span>`);
+          }
+          return;
+        }
+      case "CUSTOMER_DETAILS":
+        {
+          const m = raw.match(/\+?(\d{7,15})/);
+          const nameMatch = raw.match(/^(.*?)(\+\d{7,15})$/);
+          if (m) customer.phone = "+" + m[1];
+          if (nameMatch && nameMatch[1].trim()) customer.name = nameMatch[1].trim();
+          if (customer.name && customer.phone) {
+            state = "ORDER_REVIEW"; updateStateChip();
+            const t = calcTotals();
+            respond(`<div class="font-medium mb-1">Order Summary</div>
+              <div class="text-xs">${cart.map(i => `${findProduct(i.productId).name} × ${i.qty}`).join(" · ")}</div>
+              <div class="text-xs">Subtotal: KES ${t.subtotal}</div>
+              <div class="text-xs">Delivery (${deliveryZone}): KES ${t.deliveryFee}</div>
+              <div class="font-semibold">Total: KES ${t.grandTotal}</div>
+              <div class="text-xs mt-1 opacity-70">Customer: ${customer.name} · ${customer.phone}</div>
+              <div class="mt-1">Confirm this order? Say “confirm” or “yes”.</div>`, "ORDER_REVIEW", "ORDER REVIEW");
+          } else {
+            respond(`Please provide your <b>name</b> and <b>phone number</b> (e.g. “Jane Wanjiku +254712345678”).`, "CUSTOMER_DETAILS", "CUSTOMER DETAILS");
+          }
+          return;
+        }
+      case "ORDER_REVIEW":
+        if (/confirm|yes|correct|go ahead/i.test(msg)) {
+          tryCreateOrder();
+          state = "AWAITING_PAYMENT"; updateStateChip();
+          respond(`<div class="text-green-700 font-medium">Order ${order.id} created.</div>
+            Total: <b>KES ${order.grandTotal}</b> (delivery to ${order.zone}).
+            <div class="font-medium mb-1">Payment Instructions — M-Pesa Till ${CFG.mpesaTill}</div>
+            <ol class="text-xs list-decimal ml-4">
+              <li>Open M-Pesa on your phone</li>
+              <li>Select <b>Pay Bill</b></li>
+              <li>Bill No: <b>${CFG.mpesaTill}</b></li>
+              <li>Amount: <b>KES ${order.grandTotal}</b></li>
+              <li>Enter your PIN and confirm</li>
+            </ol>
+            <div class="text-xs mt-1 opacity-70">Once paid, reply "paid" and I'll verify it.</div>`, "AWAITING_PAYMENT", "AWAITING PAYMENT");
+          return;
+        }
+        // corrections before confirmation
+        if (/cancel|no|not yet|hold/.test(msg)) {
+          state = "ORDER_REVIEW"; updateStateChip();
+          respond(`No problem — what would you like to change? I can adjust quantities or delivery zone.`);
+          return;
+        }
+        respond(`Almost confirmed. Say “confirm” to place your order, or “cancel” to go back.`);
+        return;
+
+      case "AWAITING_CONFIRMATION":
+      case "ORDER_CREATED":
+        state = "AWAITING_PAYMENT"; updateStateChip();
+        respond(`<div class="font-medium mb-1">Payment Instructions — M-Pesa Till ${CFG.mpesaTill}</div>
+          <ol class="text-xs list-decimal ml-4">
+            <li>Open M-Pesa on your phone</li>
+            <li>Select <b>Pay Bill</b></li>
+            <li>Bill No: <b>${CFG.mpesaTill}</b></li>
+            <li>Amount: <b>KES ${order ? order.grandTotal : ""}</b></li>
+            <li>Enter your PIN and confirm</li>
+          </ol>
+          <div class="text-xs mt-1 opacity-70">Once paid, reply “paid” and I'll confirm.</div>`, "AWAITING_PAYMENT", "AWAITING PAYMENT");
+        return;
+
+      case "AWAITING_PAYMENT":
+      case "PAYMENT_VERIFIED":
+      case "FULFILMENT":
+      case "COMPLETED":
+        // generic post-creation: if unpaid, prompt payment confirm
+        if (order && !order.paymentVerified) {
+          respond(`Reply “paid” once your M-Pesa payment goes through and I'll verify it.`);
+        } else {
+          respond(`Order ${order ? order.id : ""} status: ${order ? order.status : "unknown"}. Anything else I can help with?`);
+        }
+        return;
+
+      case "HUMAN_HANDOFF":
+        respond(`You're with a human agent now. They'll take it from here.`);
+        return;
+      default:
+        respond("I'm not sure how to handle that. Let me get a team member to help.", "HUMAN_HANDOFF", "HUMAN HANDOFF");
+    }
+  }
+
+  // ---- wire up ----
+  function doSend() {
+    const val = msgInput.value.trim();
+    if (!val) return;
+    msgInput.value = "";
+    handleCustomerMessage(val);
+    updateCartUI();
+  }
+  sendBtn.addEventListener("click", doSend);
+  msgInput.addEventListener("keydown", e => { if (e.key === "Enter") doSend(); });
+  dashSearch.addEventListener("input", renderDashboard);
+  resetBtn.addEventListener("click", () => {
+    if (!confirm("Reset demo? All demo orders will be cleared.")) return;
+    orders = []; cart = []; customer = {name:"",phone:""}; deliveryZone = ""; order = null; state = "GREETING";
+    saveOrders(); updateCartUI(); updateStateChip();
+    chatLog.innerHTML = "";
+    greet();
+  });
+
+  // Simulated trusted payment verification button (production: M-Pesa Daraja callback)
+  if (verifyBtn) verifyBtn.addEventListener("click", () => {
+    if (order && !order.paymentVerified) {
+      order.paymentVerified = true;
+      order.paid = order.grandTotal;
+      order.status = "paid";
+      saveOrders();
+      respond(`<div class="text-green-700 font-semibold">✅ Payment confirmed via M-Pesa callback — ${order.id}</div>
+        ${order.syncedToSheets ? "" : "<span class='text-xs opacity-70'>Sync status: DEMO ORDER CREATED (Google Sheets sync pending in demo)</span>"}`,
+        "PAYMENT_VERIFIED", "PAYMENT VERIFIED");
+    }
+  });
+
+  function greet() {
+    respond(`<div class="font-medium">Hi, welcome to ${CFG.brandName} 👋</div>
+      I'm <b>Zara</b>, your shopping assistant.
+      I can answer questions, show products, take your order, and help you pay with M-Pesa.
+      <div class="text-xs opacity-70 mt-1">What are you looking for today?</div>`, "GREETING", "GREETING");
+  }
+
+  greet();
+  updateStateChip();
+  updateCartUI();
+  renderDashboard();
+  })();
+});
+</script>
+
+<!-- ============ LAYOUT ============ -->
+<header class="bg-gray-900 text-white px-4 py-3 flex items-center justify-between">
+  <div class="flex items-center gap-2">
+    <span class="w-2 h-2 rounded-full" style="background:var(--theme)"></span>
+    <span class="font-semibold text-sm" id="brand-label">${CFG ? CFG.brandName : ""}</span>
+  </div>
+  <span class="badge bg-amber-100 text-amber-800">DEMO MODE — sample catalogue &amp; illustrative stock</span>
+</header>
+
+<main class="max-w-7xl mx-auto p-4 grid grid-cols-1 lg:grid-cols-2 gap-4">
+
+  <!-- LEFT: WhatsApp-style chat -->
+  <div class="bg-white rounded-lg shadow flex flex-col">
+    <div class="flex items-center gap-3 p-3 border-b border-gray-200">
+      <div class="w-9 h-9 rounded-full flex items-center justify-center text-white font-bold"
+           style="background:var(--theme)">Z</div>
+      <div>
+        <div class="font-semibold text-sm" id="chat-store-name">Zara — AI Sales Agent</div>
+        <div class="text-xs text-gray-500 flex items-center gap-1">
+          <span id="status-chip" class="badge bg-gray-200 text-gray-700">GREETING</span>
+        </div>
+      </div>
+      <span class="ml-auto badge bg-green-100 text-green-700" id="availability">DEMO AVAILABLE</span>
+    </div>
+
+    <div id="chat-log" class="chat-scroll p-3 space-y-2 bg-[#e5ded5]"></div>
+
+    <div id="cart-box" class="hidden px-3 py-2 border-t border-gray-200 bg-gray-50 text-sm">
+      <div class="font-semibold text-xs text-gray-500 mb-1">Your Cart</div>
+      <div id="cart-list"></div>
+    </div>
+
+    <div class="p-3 flex gap-2 border-t border-gray-200 items-center">
+      <button id="reset-btn" class="text-xs bg-gray-100 hover:bg-gray-200 rounded px-2 py-1 text-gray-600" title="Reset demo">Reset</button>
+      <input id="msg-input" type="text" placeholder="Type a message…" class="flex-1 border border-gray-300 rounded-full px-4 py-2 text-sm focus:outline-none focus:ring-2" style="border-color:var(--theme)">
+      <button id="send-btn" class="bg-green-500 hover:bg-green-600 text-white rounded-full p-2" title="Send">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M2 21l21-9L2 3v7l15 2-15 2v7z"/></svg>
+      </button>
+      <button id="verify-pay-btn" class="text-xs bg-blue-100 hover:bg-blue-200 rounded px-2 py-1 text-blue-700" title="Simulate trusted M-Pesa payment verification callback">Simulate M-Pesa verify</button>
+    </div>
+
+    <div class="px-3 py-2 border-t border-gray-100 text-xs text-gray-500">
+      <a id="wa-cta" href="#" target="_blank" class="inline-block bg-[#25D366] text-white rounded-full px-4 py-1.5 text-xs">
+        Order via WhatsApp (demo)
+      </a>
+      <span class="ml-2">Simulated channel — no live WhatsApp reply in demo.</span>
+    </div>
+  </div>
+
+  <!-- RIGHT: Owner dashboard -->
+  <div class="bg-white rounded-lg shadow flex flex-col">
+    <div class="flex items-center justify-between p-3 border-b border-gray-200">
+      <div>
+        <div class="font-semibold text-sm">Owner Dashboard</div>
+        <div class="text-xs text-gray-500">Auto-updates when a demo order is created</div>
+      </div>
+      <span class="badge bg-amber-100 text-amber-800">DEMO</span>
+    </div>
+
+    <div class="grid grid-cols-3 gap-2 p-3 border-b border-gray-200">
+      <div class="bg-gray-50 rounded p-2 text-center">
+        <div class="text-2xl font-bold" id="dash-count">0</div>
+        <div class="text-xs text-gray-500">Total Orders</div>
+      </div>
+      <div class="bg-green-50 rounded p-2 text-center">
+        <div class="text-2xl font-bold text-green-700" id="dash-paid">0</div>
+        <div class="text-xs text-gray-500">Paid</div>
+      </div>
+      <div class="bg-amber-50 rounded p-2 text-center">
+        <div class="text-2xl font-bold text-amber-700" id="dash-pending">0</div>
+        <div class="text-xs text-gray-500">Pending</div>
+      </div>
+    </div>
+
+    <div class="p-3">
+      <input id="dash-search" type="text" placeholder="Search by name, phone, or zone…"
+             class="w-full border border-gray-200 rounded px-3 py-1.5 text-sm mb-3">
+      <div class="table-wrap border border-gray-200 rounded">
+        <table class="w-full text-left">
+          <thead class="bg-gray-50 text-xs text-gray-500 uppercase">
+            <tr>
+              <th class="py-2 px-2">Timestamp</th>
+              <th class="px-2">Customer Name</th>
+              <th class="px-2">Phone</th>
+              <th class="px-2">Items Ordered</th>
+              <th class="px-2">Delivery Zone</th>
+              <th class="px-2">Total Paid (KES)</th>
+              <th class="px-2">Sync Status</th>
+            </tr>
+          </thead>
+          <tbody id="dash-orders"></tbody>
+        </table>
+      </div>
+      <p class="text-xs text-gray-400 mt-2">
+        <b>Total Paid (KES)</b> stays <b>0</b> until a trusted M-Pesa verification event confirms payment.
+        Sync Status only reads <b>SYNCED TO GOOGLE SHEETS</b> after a genuine Sheets write is confirmed.
+      </p>
+    </div>
+  </div>
+
+</main>
+
+<!-- sample storefront section (single-page demo) -->
+<section class="max-w-7xl mx-auto p-4">
+  <div class="bg-white rounded-lg shadow p-4">
+    <h2 class="font-semibold text-sm mb-2">Sample Storefront — ${""}</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3" id="storefront-grid"></div>
+    <p class="text-xs text-gray-400 mt-3">Product images are illustrative placeholders, not live retailer stock.</p>
+  </div>
+</section>
+
+<script>
+// Render storefront cards
+(function () {
+  const grid = document.getElementById("storefront-grid");
+  if (!grid) return;
+  const waNum = LAUNCH_CONFIG.whatsappNumber;
+  grid.innerHTML = LAUNCH_CONFIG.inventory.map(p => {
+    const waLink = waNum
+      ? `https://wa.me/${waNum.replace(/\D/g,"")}?text=${encodeURIComponent("Hi, I'd like to enquire about " + p.name + " (KES " + p.price + ")")}`
+      : "#";
+    return `<div class="border rounded-lg p-2 flex flex-col bg-white">
+      <img src="${p.image}" alt="${p.name}" class="w-full h-20 object-cover rounded bg-gray-100" onerror="this.style.display='none'">
+      <div class="text-xs font-medium mt-1">${p.name}</div>
+      <div class="text-xs text-gray-500">KES ${p.price}</div>
+      ${(p.sizes||[]).length ? `<div class="text-[10px] text-gray-400">Sizes: ${p.sizes.join(", ")}</div>` : ""}
+      <a href="${waLink}" target="_blank" class="mt-1 text-[11px] bg-[#25D366] text-white rounded px-2 py-1 text-center">
+        ${waNum ? "Order via WhatsApp" : "Enquire"}
+      </a>
+    </div>`;
+  }).join("");
+  // fill brand label and header store name
+  const brandLabel = document.getElementById("brand-label");
+  if (brandLabel) brandLabel.textContent = LAUNCH_CONFIG.brandName;
+  const storeName = document.getElementById("chat-store-name");
+  if (storeName) storeName.textContent = LAUNCH_CONFIG.brandName + " — Zara";
+  document.title = LAUNCH_CONFIG.brandName + " — Autonomous AI Sales Agent Demo";
+})();
+</script>
+</body>
+</html>

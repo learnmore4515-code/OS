@@ -1,0 +1,35 @@
+- generic [ref=e1]:
+  - banner [ref=e3]:
+    - heading "Medical Insurance Quotation Comparison" [level=1] [ref=e4]
+    - generic [ref=e5]: Built for Kevin Osiga — Insurance Broker, Kenya (EAT / UTC+3) • Client-ready comparative proposal in minutes, not hours
+  - paragraph [ref=e6]: Fill in the client details and one block per underwriter (3–4). Benefits are normalized into common categories so quotes from different underwriters compare side by side. Print or save as PDF straight from your browser.
+  - generic [ref=e7]:
+    - heading "Client details" [level=2] [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Client name
+        - textbox "Client name" [ref=e12]:
+          - /placeholder: e.g. Jane Wanjiku
+      - generic [ref=e13]:
+        - generic [ref=e14]: Age
+        - spinbutton "Age" [ref=e15]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Sum insured (KSh)
+        - spinbutton "Sum insured (KSh)" [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]: Location
+        - textbox "Location" [ref=e21]:
+          - /placeholder: e.g. Nairobi, Kenya
+      - generic [ref=e22]:
+        - generic [ref=e23]: Pre-existing conditions (PEC)
+        - textbox "Pre-existing conditions (PEC)" [ref=e24]:
+          - /placeholder: e.g. Hypertension, diagnosed 2022
+        - generic [ref=e25]: Declared pre-existing conditions — affects waiting periods & terms.
+  - generic [ref=e26]:
+    - heading "Underwriter quotes (3–4)" [level=2] [ref=e27]
+    - paragraph [ref=e28]: Add one block per underwriter. For each, enter the premium and the benefits you were quoted. Premiums and sub-limits are not published by underwriters — enter the figures from their quote documents.
+    - generic [ref=e29]:
+      - button "+ Add underwriter" [active] [ref=e30] [cursor=pointer]
+      - generic [ref=e31]: Max 4 underwriters
+  - button "Generate comparison →" [ref=e33] [cursor=pointer]
+  - generic [ref=e34]: MVP v1 · Medical insurance only · Zero installation — open this HTML file in any browser · No database, no backend, no account needed

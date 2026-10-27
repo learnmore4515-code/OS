@@ -1,0 +1,22 @@
+- generic [active] [ref=f18e1]:
+  - banner [ref=f18e2]
+  - main [ref=f18e3]:
+    - figure [ref=f18e4]
+    - generic [ref=f18e6]:
+      - heading "It needs a human touch" [level=1] [ref=f18e7]
+      - article [ref=f18e8]:
+        - paragraph [ref=f18e9]: Complete the task and we’ll get you right back into Fiverr.
+        - generic [ref=f18e10]: Loading challenge
+        - generic [ref=f18e14]:
+          - heading "Quick fixes" [level=2] [ref=f18e15]
+          - list [ref=f18e16]:
+            - listitem [ref=f18e17]: Disable any browser extensions that could be interfering with the website. This includes Ad blockers, privacy extensions, or VPNs that may modify web traffic.
+            - listitem [ref=f18e18]: Clear your browser's cache and cookies. Outdated or corrupt cache data can cause issues with how the webpage loads and operates.
+            - listitem [ref=f18e19]: Make sure Javascript is enabled in your browser and update your browser to the latest version.
+        - code [ref=f18e20]: ERRCODE PXCR10002539
+        - generic [ref=f18e21]:
+          - paragraph [ref=f18e22]: "Request details:"
+          - list [ref=f18e23]:
+            - listitem [ref=f18e24]: "ip: 102.205.218.2"
+            - listitem [ref=f18e25]: "traceId: 3f81342bb0214d23b89acdedf5d835ce"
+          - paragraph

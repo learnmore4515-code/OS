@@ -1,0 +1,1 @@
+Stop chasing clients for KYC docs. BrokerFlow AI sends the upload link, tracks responses, and flags exceptions — zero-touch document intake for Kenyan insurance brokers.

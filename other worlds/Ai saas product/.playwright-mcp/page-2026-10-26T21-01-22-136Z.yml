@@ -1,0 +1,138 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - navigation "Main navigation" [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - link "Leo Pisha Home" [ref=f1e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f1e7]: Leo Pisha
+          - generic [ref=f1e9]: Workflow automation agency
+        - generic [ref=f1e10]:
+          - link "Focus areas" [ref=f1e11] [cursor=pointer]:
+            - /url: /#what-i-fix
+          - link "Delivery process" [ref=f1e12] [cursor=pointer]:
+            - /url: /#how-i-work
+          - link "Services" [ref=f1e13] [cursor=pointer]:
+            - /url: /services
+          - link "About" [ref=f1e14] [cursor=pointer]:
+            - /url: /about
+        - link [ref=f1e16] [cursor=pointer]:
+          - /url: https://calendly.com/leopishaagency/new-meeting
+          - button "Book a consultation" [ref=f1e17]
+  - main [ref=f1e19]:
+    - generic [ref=f1e21]:
+      - heading "Claims Processing Automation for Kenyan Insurers" [level=1] [ref=f1e22]
+      - paragraph [ref=f1e23]: End-to-end claims automation from FNOL to settlement. Leo Pisha helps Kenyan insurance teams automate document ingestion, AI extraction, triage, and auto-approval — cutting claims processing from weeks to hours.
+      - generic [ref=f1e24]:
+        - generic [ref=f1e25]:
+          - heading "The problem" [level=3] [ref=f1e26]
+          - list [ref=f1e27]:
+            - listitem [ref=f1e28]: Claims slow down at handoffs between teams — FNOL, document review, triage, settlement
+            - listitem [ref=f1e29]: Missing documents and incomplete information cause repeated follow-ups
+            - listitem [ref=f1e30]: Manual data entry creates errors and slows settlement
+            - listitem [ref=f1e31]: Customers wait weeks for claim outcomes they expect in days
+        - generic [ref=f1e32]:
+          - heading "What we automate" [level=3] [ref=f1e33]
+          - list [ref=f1e34]:
+            - listitem [ref=f1e35]: FNOL (First Notice of Loss) intake
+            - listitem [ref=f1e36]: Document ingestion and AI extraction
+            - listitem [ref=f1e37]: Claims triage and routing
+            - listitem [ref=f1e38]: Auto-approval for low-complexity claims
+            - listitem [ref=f1e39]: Adjuster dashboard and case management
+      - generic [ref=f1e40]:
+        - generic [ref=f1e41]:
+          - heading "Step-by-step workflow" [level=3] [ref=f1e42]
+          - list [ref=f1e43]:
+            - listitem [ref=f1e44]: Claim reported via FNOL — details captured automatically
+            - listitem [ref=f1e45]: Documents uploaded and extracted with AI
+            - listitem [ref=f1e46]: Claim triaged and routed to the right adjuster
+            - listitem [ref=f1e47]: Low-complexity claims auto-approved for settlement
+            - listitem [ref=f1e48]: Adjuster manages complex claims end-to-end
+        - generic [ref=f1e49]:
+          - heading "Outcomes" [level=3] [ref=f1e50]
+          - list [ref=f1e51]:
+            - listitem [ref=f1e52]: Claims processing from weeks to hours
+            - listitem [ref=f1e53]: Reduced manual data entry
+            - listitem [ref=f1e54]: Faster claim settlements
+            - listitem [ref=f1e55]: Improved customer satisfaction
+      - generic [ref=f1e56]:
+        - heading "Frequently asked questions" [level=3] [ref=f1e57]
+        - generic [ref=f1e58]:
+          - generic [ref=f1e59]:
+            - paragraph [ref=f1e60]: How long does claims automation take to implement?
+            - paragraph [ref=f1e61]: Most insurance teams see a working automation in 1-2 weeks. We start with a diagnosis to identify the highest-impact manual steps, then build and hand over.
+          - generic [ref=f1e62]:
+            - paragraph [ref=f1e63]: Which claims types work best for automation?
+            - paragraph [ref=f1e64]: Motor, property, and SME claims with straightforward documentation are the best candidates. Complex multi-party claims still need human adjuster oversight — we route those automatically.
+          - generic [ref=f1e65]:
+            - paragraph [ref=f1e66]: Do we need to replace our claims system?
+            - paragraph [ref=f1e67]: No. Automation integrates with your existing claims management system and document storage. We connect to what you already use.
+          - generic [ref=f1e68]:
+            - paragraph [ref=f1e69]: Is customer data secure?
+            - paragraph [ref=f1e70]: Yes. All document processing and data handling follows Kenyan data protection requirements. Customer data stays within your controlled environment.
+      - generic [ref=f1e71]:
+        - link [ref=f1e72] [cursor=pointer]:
+          - /url: https://calendly.com/leopishaagency/new-meeting
+          - button "Book a Discovery Call" [ref=f1e73]
+        - link [ref=f1e74] [cursor=pointer]:
+          - /url: /case-studies
+          - button "View Case Studies" [ref=f1e75]
+  - contentinfo [ref=f1e76]:
+    - generic [ref=f1e77]:
+      - generic [ref=f1e78]:
+        - generic [ref=f1e79]:
+          - link "Leo Pisha Home" [ref=f1e80] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f1e81]: Leo Pisha
+          - paragraph [ref=f1e83]: Leo Pisha is a workflow automation agency helping businesses improve operations through claims, underwriting, and client response automation.
+          - list "Social links" [ref=f1e84]:
+            - link "LinkedIn" [ref=f1e85] [cursor=pointer]:
+              - /url: "#"
+            - link "Twitter" [ref=f1e88] [cursor=pointer]:
+              - /url: "#"
+            - link "Email" [ref=f1e91] [cursor=pointer]:
+              - /url: mailto:hello@leopisha.com
+        - navigation "Company links" [ref=f1e94]:
+          - heading "Company" [level=3] [ref=f1e95]
+          - list [ref=f1e96]:
+            - listitem [ref=f1e97]:
+              - link "About" [ref=f1e98] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e99]:
+              - link "Case Studies" [ref=f1e100] [cursor=pointer]:
+                - /url: /case-studies
+            - listitem [ref=f1e101]:
+              - link "Services" [ref=f1e102] [cursor=pointer]:
+                - /url: /services
+        - navigation "Resources" [ref=f1e103]:
+          - heading "Resources" [level=3] [ref=f1e104]
+          - list [ref=f1e105]:
+            - listitem [ref=f1e106]:
+              - link "Book a Call" [ref=f1e107] [cursor=pointer]:
+                - /url: https://calendly.com/leopishaagency/new-meeting
+            - listitem [ref=f1e108]:
+              - link "About the Practice" [ref=f1e109] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e110]:
+              - link "Case Studies" [ref=f1e111] [cursor=pointer]:
+                - /url: /case-studies
+        - navigation "Connect" [ref=f1e112]:
+          - heading "Connect" [level=3] [ref=f1e113]
+          - list [ref=f1e114]:
+            - listitem [ref=f1e115]:
+              - link "Email" [ref=f1e116] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+            - listitem [ref=f1e117]:
+              - link "Book a Session" [ref=f1e118] [cursor=pointer]:
+                - /url: https://calendly.com/leopishaagency/new-meeting
+            - listitem [ref=f1e119]:
+              - link "Case Studies" [ref=f1e120] [cursor=pointer]:
+                - /url: /case-studies
+      - generic [ref=f1e121]:
+        - paragraph [ref=f1e122]: © 2026 Leo Pisha. All rights reserved.
+        - generic [ref=f1e123]:
+          - link "About" [ref=f1e124] [cursor=pointer]:
+            - /url: /about
+          - link "Book" [ref=f1e125] [cursor=pointer]:
+            - /url: https://calendly.com/leopishaagency/new-meeting
+          - link "Case Studies" [ref=f1e126] [cursor=pointer]:
+            - /url: /case-studies

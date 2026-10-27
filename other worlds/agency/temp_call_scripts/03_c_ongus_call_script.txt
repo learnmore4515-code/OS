@@ -1,0 +1,33 @@
+================================================================================
+CALL SCRIPT — C. ONGUS (LinkedIn — no number shared yet)
+Role: Assistant Underwriter | GA Insurance Limited (MSA)
+Pain: Chasing pending documents, policy renewals, Risk Notes; chasing intermediaries (#34)
+Channel: LinkedIn message first, then call if they share a number
+================================================================================
+
+OPENING (first 30 seconds):
+"Hi C. Ongus, it's Peter from LinkedIn. Thanks for the call. You said chasing pending documents, policy renewals, and Risk Notes are major time drains — especially chasing intermediaries for missing info."
+
+PURPOSE STATEMENT:
+"I'm researching where insurance professionals spend the most time on manual follow-up. Not selling anything — just discovery."
+
+QUESTIONS (ask one at a time, listen to answers):
+1. "Chasing intermediaries for missing information — how does that work today? Phone, email, WhatsApp?"
+2. "Policy renewals — how far ahead do you start, and how many reminders do you send?"
+3. "Risk Notes — what information is usually missing, and who's responsible for getting it?"
+4. "Tracking policies awaiting issuance — how do you know which ones are stuck?"
+5. "Which of these takes up most of your week?"
+
+FOLLOW-UP QUESTIONS:
+- If they mention intermediaries: "Are these agents, brokers, or other underwriters?"
+- If they mention missing documents: "What types of documents are usually missing?"
+- If they say no time for a long call: "I understand — can I send you 2-3 questions by message instead?"
+
+CLOSING:
+"Thanks C. Ongus. That's really useful. Can I follow up in a week or two?"
+
+NOTES:
+- He didn't share a number in the chat — send via LinkedIn first, ask for his number.
+- Assistant underwriter — good operational pain data.
+
+================================================================================

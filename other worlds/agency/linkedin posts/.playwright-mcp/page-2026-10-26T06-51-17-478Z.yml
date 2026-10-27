@@ -1,0 +1,580 @@
+- generic [active] [ref=f17e1]:
+  - link "Skip to main content" [ref=f17e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f17e3]:
+    - navigation "Primary" [ref=f17e4]:
+      - link "LinkedIn" [ref=f17e5] [cursor=pointer]:
+        - /url: /?trk=keyword-landing-page_nav-header-logo
+      - list [ref=f17e19]:
+        - listitem [ref=f17e20]:
+          - link "Top Content" [ref=f17e21] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=keyword-landing-page_guest_nav_menu_topContent
+        - listitem [ref=f17e26]:
+          - link "People" [ref=f17e27] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/+/+?trk=keyword-landing-page_guest_nav_menu_people
+        - listitem [ref=f17e32]:
+          - link "Learning" [ref=f17e33] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/search?trk=keyword-landing-page_guest_nav_menu_learning
+        - listitem [ref=f17e41]:
+          - link "Jobs" [ref=f17e42] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search?trk=keyword-landing-page_guest_nav_menu_jobs
+        - listitem [ref=f17e47]:
+          - link "Games" [ref=f17e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=keyword-landing-page_guest_nav_menu_games
+        - listitem [ref=f17e53]:
+          - link "Get the app" [ref=f17e54] [cursor=pointer]:
+            - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=keyword-landing-page_guest_nav_menu_windows
+      - generic [ref=f17e59]:
+        - link "Join now" [ref=f17e60] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=%2Ftop-content%2Fcareer%2Fcareer-advancement-tips%2F&trk=keyword-landing-page_nav-header-join
+        - link "Sign in" [ref=f17e61] [cursor=pointer]:
+          - /url: https://www.linkedin.com/uas/login?session_redirect=%2Ftop-content%2Fcareer%2Fcareer-advancement-tips%2F&fromSignIn=true&trk=keyword-landing-page_nav-header-signin
+  - main [ref=f17e62]:
+    - generic [ref=f17e65]:
+      - generic [ref=f17e66]:
+        - list [ref=f17e67]:
+          - listitem [ref=f17e68]:
+            - link "Top Content" [ref=f17e69] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/
+            - text: /
+          - listitem [ref=f17e70]:
+            - link "Career" [ref=f17e71] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/career/
+            - text: /
+        - heading "Career Advancement Tips" [level=1] [ref=f17e72]
+        - paragraph [ref=f17e73]: Explore top LinkedIn content from expert professionals.
+      - list [ref=f17e74]:
+        - listitem [ref=f17e75]:
+          - article [ref=f17e76]:
+            - generic [ref=f17e77]:
+              - generic [ref=f17e79]:
+                - link [ref=f17e80] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/omarhalabieh?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Omar Halabieh" [ref=f17e81]
+                - generic [ref=f17e82]:
+                  - generic [ref=f17e83]:
+                    - link "View profile for Omar Halabieh" [ref=f17e84] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/omarhalabieh?trk=keyword-landing-page_feed-actor-name
+                      - text: Omar Halabieh
+                    - generic [ref=f17e85]: Omar Halabieh is an Influencer
+                  - paragraph [ref=f17e86]: Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career
+                  - generic [ref=f17e87]:
+                    - generic [ref=f17e88]: 93,260 followers
+                    - generic [ref=f17e89]:
+                      - text: ·
+                      - time [ref=f17e90]: 1y
+              - button "Open menu" [ref=f17e93] [cursor=pointer]
+            - generic [ref=f17e94]:
+              - paragraph [ref=f17e95]:
+                - text: "Career clarity doesn’t come from thinking—it comes from doing. 6 simple actions you can take today to grow your career: 1/ Talk to your manager Have you told your manager what you’re aiming for? If not, how will they ever help you get there? A quick conversation can open doors you didn’t even know existed. 2/ Shadow a peer Know someone whose work you respect? Spend a day (or even an hour) watching how they approach challenges. You’ll walk away with insights—and maybe even inspiration. 3/ Seek guidance from a mentor Sometimes, you need someone who’s been there and done that to help you see the big picture. Reach out to a mentor for advice. If you don’t have one, start looking. 4/ Take on a side project Is there something (inside or outside of work) that’s outside your comfort zone but feels intriguing? Dive in. Side projects are a low-pressure way to build new skills and discover strengths you didn’t know you had. 5/ Step up where you are Want to show you’re ready for more? Take the lead on something in your current role. It doesn’t have to be huge—just show initiative. Leaders don’t wait for permission to lead. 6/ Learn something new Pick up a skill that excites you. Maybe it’s a certification, a new tool, or even a soft skill like public speaking. You’d be amazed at how one new ability can open unexpected doors. Clarity isn’t about having all the answers—it’s about consistently taking small, intentional actions. So, stop waiting. Take the first step. You’ll figure out the rest along the way. PS: Reflect and adjust your path as you take action. PPS: Remember, discovering what isn’t for you is just as valuable as finding what is. ---- Follow me, tap the (🔔)"
+                - link "Omar Halabieh" [ref=f17e96] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/omarhalabieh?trk=keyword-landing-page-text
+                - text: for daily Leadership and Career posts.
+              - button [aria-hidden] [ref=f17e97] [cursor=pointer]: …more
+            - list [ref=f17e98]:
+              - listitem [ref=f17e99]:
+                - button [ref=f17e100]:
+                  - img "No alternative text description for this image" [ref=f17e101]
+            - generic [ref=f17e102]:
+              - link "2,973 Reactions" [ref=f17e103] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fomarhalabieh_career-clarity-doesnt-come-from-thinkingit-activity-7277668156523892736-nTd8&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e104]: 2,973
+              - link "· 432 Comments" [ref=f17e105] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fomarhalabieh_career-clarity-doesnt-come-from-thinkingit-activity-7277668156523892736-nTd8&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e106]:
+              - link "Like" [ref=f17e107] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fomarhalabieh_career-clarity-doesnt-come-from-thinkingit-activity-7277668156523892736-nTd8&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e110] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fomarhalabieh_career-clarity-doesnt-come-from-thinkingit-activity-7277668156523892736-nTd8&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e114] [cursor=pointer]
+        - listitem [ref=f17e116]:
+          - article [ref=f17e117]:
+            - generic [ref=f17e118]:
+              - generic [ref=f17e120]:
+                - link [ref=f17e121] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/in/danmian?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Dan Mian" [ref=f17e122]
+                - generic [ref=f17e123]:
+                  - link "View profile for Dan Mian" [ref=f17e125] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/in/danmian?trk=keyword-landing-page_feed-actor-name
+                    - text: Dan Mian
+                  - paragraph [ref=f17e126]: Co-Founder, Launchpad Creators | Coach, TCA | Scaling Digital Businesses | Partnering with biggest Founders & Creators in the world | 2x LinkedIn Top Voice | Join 200K+ community & newsletter
+                  - generic [ref=f17e127]:
+                    - generic [ref=f17e128]: 192,043 followers
+                    - generic [ref=f17e129]:
+                      - text: ·
+                      - time [ref=f17e130]: 1y
+              - button "Open menu" [ref=f17e133] [cursor=pointer]
+            - generic [ref=f17e134]:
+              - paragraph [ref=f17e135]:
+                - text: "The worst mistake employers make? Waiting for a resignation to offer a pay rise. By that point it's too late. The damage is already done. As uncomfortable as salary conversations can be (they shouldn't!). You need to advocate for yourself. Your employer won't give you a raise if you don't ask. Here's How to Have a Salary Conversations Like a Pro: 1️⃣ Set Clear Goals with Your Manager ↳ Define what success & progression looks like. ↳ Set KPI's that justify a pay rise later. 2️⃣ Have Regular Conversations About Growth ↳ Don’t wait for the annual review. Check in quarterly. ↳ Ask: “What can I do to be in the best position for a promotion?” Work on a plan together to upskill, get more responsibility & add more value. 3️⃣ Document Your Success ↳ Track wins, metrics & business impact. ↳ Use those numbers in your performance reviews. Instead of “I’ve worked hard” say: “I led [Project] which increased [Metric] by X% and saved Y hours.” 4️⃣ Promote Your Work (Without Bragging) ↳ Don’t assume people know what you've done. ↳ Present updates, share results, speak up in meetings. 5️⃣ Make the Ask (So It Feels Collaborative, Not Demanding) ↳ Timing matters. Make it an agreed time or in line with company reviews. Try: “Based on my contributions in [Project], I’d love to discuss salary progression. What would it take for me to reach [target salary]?” 6️⃣ Leverage the Market (If Necessary) ↳ If nothing is happening internally, go outside. ↳ Get an offer on the table to give you leverage. If your company won’t pay you what you deserve, another one will. Retention is cheaper than recruitment. ♻️ Repost to help people advocate for themselves. 👋🏼 Follow"
+                - link "Dan Mian" [ref=f17e136] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/in/danmian?trk=keyword-landing-page-text
+                - text: for more career insights.
+              - button [aria-hidden] [ref=f17e137] [cursor=pointer]: …more
+            - list [ref=f17e138]:
+              - listitem [ref=f17e139]:
+                - button [ref=f17e140]:
+                  - img "No alternative text description for this image" [ref=f17e141]
+            - generic [ref=f17e142]:
+              - link "4,702 Reactions" [ref=f17e143] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdanmian_the-worst-mistake-employers-make-waiting-activity-7303038555944091648-PLLs&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e144]: 4,702
+              - link "· 353 Comments" [ref=f17e145] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdanmian_the-worst-mistake-employers-make-waiting-activity-7303038555944091648-PLLs&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e146]:
+              - link "Like" [ref=f17e147] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdanmian_the-worst-mistake-employers-make-waiting-activity-7303038555944091648-PLLs&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e150] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdanmian_the-worst-mistake-employers-make-waiting-activity-7303038555944091648-PLLs&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e154] [cursor=pointer]
+        - listitem [ref=f17e156]:
+          - article [ref=f17e157]:
+            - generic [ref=f17e158]:
+              - generic [ref=f17e160]:
+                - link [ref=f17e161] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/abelcak?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Austin Belcak" [ref=f17e162]
+                - generic [ref=f17e163]:
+                  - link "View profile for Austin Belcak" [ref=f17e165] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/abelcak?trk=keyword-landing-page_feed-actor-name
+                    - text: Austin Belcak
+                  - paragraph [ref=f17e166]: I Teach People How To Land Amazing Jobs Without Applying Online // Ready To Land A Great Role 2x Faster (With A $44K+ Raise)? Head To 👉 CultivatedCulture.com/Coaching
+                  - generic [ref=f17e167]:
+                    - generic [ref=f17e168]: 1,492,429 followers
+                    - generic [ref=f17e169]:
+                      - text: ·
+                      - time [ref=f17e170]: 1y
+              - button "Open menu" [ref=f17e173] [cursor=pointer]
+            - generic [ref=f17e174]:
+              - paragraph [ref=f17e175]: "7 Words To Change On Your Resume (For More Impact & Value): 1. Responsible For Anyone can be “responsible for” something. Instead, use more specific, action-oriented language like: - Developed - Spearheaded - Overhauled - Generated - Etc. Pair those with measurable outcomes for a winning resume bullet. 2. Hard Working Simply claiming to work hard doesn't convey tangible results. Replace this with: - Increased - Delivered - Optimized - Exceeded - Improved Hard-working customer service representative → Improved customer retention by 30% through enhanced service strategies. 3. Team Player Employers don’t just want someone who says they’re a team player. They want to see the results of those collaborations. Replace this with: - Collaborated - Partnered - Led - Mentored Team player in marketing → Partnered with cross-functional teams to develop and execute a campaign, boosting lead conversion by 40%. 4. Results-Driven Being results-driven doesn’t mean you actually drove any results. Prove that with better language and metrics. Replace this with: - Generated - Produced - Reduced - Increased Results-driven marketing specialist → Produced a 200% increase in website traffic through a targeted SEO strategy. 5. Detail-Oriented Claiming you're detail-oriented is meaningless without evidence. Show it through actions and accomplishments instead. Replace this with: - Audited - Identified - Improved - Enhanced Detail-oriented project manager → Enhanced project documentation accuracy, reducing errors by 30%. 6. Self-Motivated Rather than saying you’re self-motivated, show it with results. Replace this with: - Initiated - Led - Launched - Created - Developed Self-motivated team lead → Initiated a mentorship program, increasing employee engagement scores by 20%. 7. Communicator Don’t just say you’re a “great communicator” or have “communication skills.” Show them! Replace this with: - Presented - Negotiated - Advised Consultant with excellent communication skills → Presented 30+ workshops to client teams resulting in 37% improved operational efficiency."
+              - button [aria-hidden] [ref=f17e176] [cursor=pointer]: …more
+            - iframe [ref=f17e177]
+            - generic [ref=f17e178]:
+              - link "1,018 Reactions" [ref=f17e179] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fabelcak_7-words-to-change-on-your-resume-for-more-activity-7295865811531956224-qhfB&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e180]: 1,018
+              - link "· 94 Comments" [ref=f17e181] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fabelcak_7-words-to-change-on-your-resume-for-more-activity-7295865811531956224-qhfB&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e182]:
+              - link "Like" [ref=f17e183] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fabelcak_7-words-to-change-on-your-resume-for-more-activity-7295865811531956224-qhfB&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e186] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fabelcak_7-words-to-change-on-your-resume-for-more-activity-7295865811531956224-qhfB&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e190] [cursor=pointer]
+        - listitem [ref=f17e192]:
+          - article [ref=f17e193]:
+            - generic [ref=f17e194]:
+              - generic [ref=f17e196]:
+                - link [ref=f17e197] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/eric-e-schmidt?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Eric Schmidt" [ref=f17e198]
+                - generic [ref=f17e199]:
+                  - generic [ref=f17e200]:
+                    - link "View profile for Eric Schmidt" [ref=f17e201] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/eric-e-schmidt?trk=keyword-landing-page_feed-actor-name
+                      - text: Eric Schmidt
+                    - generic [ref=f17e202]: Eric Schmidt is an Influencer
+                  - paragraph [ref=f17e203]: Former CEO and Chairman, Google; Chair and CEO of Relativity Space
+                  - generic [ref=f17e204]:
+                    - generic [ref=f17e205]: 119,406 followers
+                    - generic [ref=f17e206]:
+                      - text: ·
+                      - time [ref=f17e207]:
+                        - text: 6mo
+                        - generic [aria-hidden] [ref=f17e208]: ·
+                        - text: Edited
+              - button "Open menu" [ref=f17e211] [cursor=pointer]
+            - generic [ref=f17e212]:
+              - paragraph [ref=f17e213]:
+                - text: The most consequential decisions in a career are often the ones that look irrational in the moment. A common pattern in high-growth companies is that the most impactful roles are often the least defined at the outset. The title is unclear. The scope is fluid. By traditional metrics, it can look like a step down. That is the point. Early in your career, and often well into it, people optimize for position. They evaluate title, compensation, reporting lines. They try to map a linear path forward. This is a legacy framework from a more static economy. But in periods of technological acceleration, the variables that matter shift. High-growth companies compress time and push you beyond your prior experience. They push you to develop new skills quickly and operate beyond your prior experience. One year of work can feel like five. In those conditions, the job description becomes secondary. What matters is whether you are working on important problems alongside people who raise your standard. Careers tend to follow momentum. The environments you choose shape the trajectory more than the plans you start with. The challenge is that these opportunities rarely present themselves clearly. They look incomplete. Uneven. Risky. The question is whether you can recognize directional momentum early and commit before the outcome is fully defined.
+                - link "#schmidtsights" [ref=f17e214] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fschmidtsights&trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f17e215] [cursor=pointer]: …more
+            - list [ref=f17e216]:
+              - listitem [ref=f17e217]:
+                - button [ref=f17e218]:
+                  - img "No alternative text description for this image" [ref=f17e219]
+            - generic [ref=f17e220]:
+              - link "2,876 Reactions" [ref=f17e221] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Feric-e-schmidt_the-most-consequential-decisions-in-a-career-activity-7454909900800823297-ACZN&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e222]: 2,876
+              - link "· 196 Comments" [ref=f17e223] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Feric-e-schmidt_the-most-consequential-decisions-in-a-career-activity-7454909900800823297-ACZN&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e224]:
+              - link "Like" [ref=f17e225] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Feric-e-schmidt_the-most-consequential-decisions-in-a-career-activity-7454909900800823297-ACZN&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e228] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Feric-e-schmidt_the-most-consequential-decisions-in-a-career-activity-7454909900800823297-ACZN&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e232] [cursor=pointer]
+        - listitem [ref=f17e234]:
+          - article [ref=f17e235]:
+            - generic [ref=f17e236]:
+              - generic [ref=f17e238]:
+                - link [ref=f17e239] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/in/tejaswee-tripathy?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Tejaswee Tripathy" [ref=f17e240]
+                - generic [ref=f17e241]:
+                  - link "View profile for Tejaswee Tripathy" [ref=f17e243] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/in/tejaswee-tripathy?trk=keyword-landing-page_feed-actor-name
+                    - text: Tejaswee Tripathy
+                  - generic [ref=f17e244]:
+                    - generic [ref=f17e245]: 1,231,014 followers
+                    - generic [ref=f17e246]:
+                      - text: ·
+                      - time [ref=f17e247]: 2y
+              - button "Open menu" [ref=f17e250] [cursor=pointer]
+            - generic [ref=f17e251]:
+              - paragraph [ref=f17e252]:
+                - text: "𝗜 𝗼𝗳𝘁𝗲𝗻 𝗴𝗲𝘁 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗳𝗿𝗼𝗺 𝗳𝗶𝗻𝗮𝗻𝗰𝗲 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝘁𝗼 𝗰𝗿𝗮𝗰𝗸 𝗶𝗻𝘁𝗼 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗿𝗼𝗹𝗲𝘀 - “Ma’am, What kind of questions should I expect during the interview?” 𝗦𝗼, 𝗜𝗳 𝘆𝗼𝘂'𝗿𝗲 𝗽𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗮𝗻 𝗮𝗻𝗮𝗹𝘆𝘀𝘁 𝗿𝗼𝗹𝗲 𝗮𝗻𝗱 𝗷𝘂𝘀𝘁 𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 𝗶𝗻 𝗳𝗶𝗻𝗮𝗻𝗰𝗲, 𝘁𝗵𝗲𝘀𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗸𝗲𝘆 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗽𝗿𝗲𝗽𝗮𝗿𝗲. 1. Walk me through the three financial statements. Understand the Income Statement, Balance Sheet, and Cash Flow Statement and how they connect. 2. What are the key financial ratios you would use to analyze a company? Profitability, liquidity, and leverage ratios are key indicators. 3. How would you value a company? Brush up on DCF, comparable company analysis, and precedent transactions. 4. What is EBITDA, and why is it important? It's more than just a number—understand how it reflects operating performance. 5. What is working capital, and how do you calculate it? Knowing this can highlight your grasp on liquidity and operational efficiency. 6. What’s the difference between equity value and enterprise value? This is a must-know for anyone entering corporate finance or investment banking. 7. What is the Discounted Cash Flow (DCF) method, and how do you calculate free cash flow? Understanding this is essential for company valuations. 8. What is the WACC and why is it important? Know the weighted average cost of capital, it’s critical for discounting future cash flows. ✅ 𝗣𝗿𝗼 𝗧𝗶𝗽: Interviewers are not just testing your technical skills but also how you think and communicate. Be sure to explain concepts clearly, showing that you understand both the details and the bigger picture. ✅ 𝗙𝗶𝗻𝗮𝗹 𝗧𝗶𝗽: Don't hesitate to ask clarifying questions during the interview. It's a sign that you're engaged and eager to understand the problem at hand. Best of luck!"
+                - link "#finance" [ref=f17e253] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffinance&trk=keyword-landing-page-text
+                - link "#hiring" [ref=f17e254] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fhiring&trk=keyword-landing-page-text
+                - link "#interview" [ref=f17e255] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finterview&trk=keyword-landing-page-text
+                - link "#freshers" [ref=f17e256] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffreshers&trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f17e257] [cursor=pointer]: …more
+            - list [ref=f17e258]:
+              - listitem [ref=f17e259]:
+                - button [ref=f17e260]:
+                  - img "No alternative text description for this image" [ref=f17e261]
+            - generic [ref=f17e262]:
+              - link "9,313 Reactions" [ref=f17e263] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Ftejaswee-tripathy_%25F0%259D%2597%259C-%25F0%259D%2597%25BC%25F0%259D%2597%25B3%25F0%259D%2598%2581%25F0%259D%2597%25B2%25F0%259D%2597%25BB-%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2598%2581-%25F0%259D%2597%25BF%25F0%259D%2597%25B2%25F0%259D%2597%25BE%25F0%259D%2598%2582%25F0%259D%2597%25B2%25F0%259D%2598%2580%25F0%259D%2598%2581%25F0%259D%2598%2580-%25F0%259D%2597%25B3%25F0%259D%2597%25BF%25F0%259D%2597%25BC%25F0%259D%2597%25BA-activity-7244926762910916608-2tMD&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e264]: 9,313
+              - link "· 436 Comments" [ref=f17e265] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Ftejaswee-tripathy_%25F0%259D%2597%259C-%25F0%259D%2597%25BC%25F0%259D%2597%25B3%25F0%259D%2598%2581%25F0%259D%2597%25B2%25F0%259D%2597%25BB-%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2598%2581-%25F0%259D%2597%25BF%25F0%259D%2597%25B2%25F0%259D%2597%25BE%25F0%259D%2598%2582%25F0%259D%2597%25B2%25F0%259D%2598%2580%25F0%259D%2598%2581%25F0%259D%2598%2580-%25F0%259D%2597%25B3%25F0%259D%2597%25BF%25F0%259D%2597%25BC%25F0%259D%2597%25BA-activity-7244926762910916608-2tMD&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e266]:
+              - link "Like" [ref=f17e267] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Ftejaswee-tripathy_%25F0%259D%2597%259C-%25F0%259D%2597%25BC%25F0%259D%2597%25B3%25F0%259D%2598%2581%25F0%259D%2597%25B2%25F0%259D%2597%25BB-%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2598%2581-%25F0%259D%2597%25BF%25F0%259D%2597%25B2%25F0%259D%2597%25BE%25F0%259D%2598%2582%25F0%259D%2597%25B2%25F0%259D%2598%2580%25F0%259D%2598%2581%25F0%259D%2598%2580-%25F0%259D%2597%25B3%25F0%259D%2597%25BF%25F0%259D%2597%25BC%25F0%259D%2597%25BA-activity-7244926762910916608-2tMD&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e270] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Ftejaswee-tripathy_%25F0%259D%2597%259C-%25F0%259D%2597%25BC%25F0%259D%2597%25B3%25F0%259D%2598%2581%25F0%259D%2597%25B2%25F0%259D%2597%25BB-%25F0%259D%2597%25B4%25F0%259D%2597%25B2%25F0%259D%2598%2581-%25F0%259D%2597%25BF%25F0%259D%2597%25B2%25F0%259D%2597%25BE%25F0%259D%2598%2582%25F0%259D%2597%25B2%25F0%259D%2598%2580%25F0%259D%2598%2581%25F0%259D%2598%2580-%25F0%259D%2597%25B3%25F0%259D%2597%25BF%25F0%259D%2597%25BC%25F0%259D%2597%25BA-activity-7244926762910916608-2tMD&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e274] [cursor=pointer]
+        - listitem [ref=f17e276]:
+          - article [ref=f17e277]:
+            - generic [ref=f17e278]:
+              - generic [ref=f17e280]:
+                - link [ref=f17e281] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/in/matt-brittin-cbe-5aa6391?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Matt Brittin CBE" [ref=f17e282]
+                - generic [ref=f17e283]:
+                  - link "View profile for Matt Brittin CBE" [ref=f17e285] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/in/matt-brittin-cbe-5aa6391?trk=keyword-landing-page_feed-actor-name
+                    - text: Matt Brittin CBE
+                  - paragraph [ref=f17e286]: BBC Director General
+                  - generic [ref=f17e287]:
+                    - generic [ref=f17e288]: 72,668 followers
+                    - generic [ref=f17e289]:
+                      - text: ·
+                      - time [ref=f17e290]: 1y
+              - button "Open menu" [ref=f17e293] [cursor=pointer]
+            - generic [ref=f17e294]:
+              - paragraph [ref=f17e295]: "This morning I ran a loop in Cambridge that put me in reflective mood... How do you shape your career? It's a question I've been asked a lot, even more since announcing I would step down from Google. Some asking were just starting out in the world of work, like my wonderful sons and their friends. Some were colleagues wondering about promotion, moving geography or function. Sometimes it was people established in leadership roles asking - what next? Through nearly 40 years of working life, I’ve had hundreds of similar conversations. Many helped me reach my own recent decision. Here's what I learned, and passed on. The same, simple ideas seemed universally helpful: 1 - If you do one thing only: ask for help. From people a step or two ahead of you, maybe they’re in a role you covet, or do things in a way you admire. Be bold. Almost everyone remembers being where you are, most of them are kind enough to help. Don't ask for a job, ask for advice; how they see you; is there anyone they know who could help. A chat yields perspective; many lead you to someone new and to opportunities. People are generous and even if they’re too busy to talk, they won't be offended by you asking. Ideally have coffee* in person. In my experience this is the most effective approach BY FAR. It's how I landed at Google, how I got involved as a Trustee at more than one charity and as a Non Exec Director for a public company. And it's how I decided to take a jump into my ‘gap year’ so belatedly… 2 - Make time to do this. Every week. If you are already in a role you won’t have the time. Because you aren't prioritising yourself. So make growing your career a project, like you do for other important initiatives. Project Matt. Or Karina. Or Molly. Block 2-3 hours a week out. Use the time to find and contact people, to have those chats, and follow up. I'm serious. Not everyone you mail will respond, not everyone who responds has time, not everyone who chats will change your life. But the more you put in the more you will get out. Sometimes I suggest to people who are struggling to prioritise themselves to email me a brief weekly progress report on Project Them, like they would with an important work project - accountability helps. Don't drop the ball. This is an important work project! 3 - Of course, do the other things. Apply for roles, talk to recruiters, go to events. Read helpful books (I’ll share a few that helped me soon). Today's job market often requires lengthy, bespoke online applications. They may be for roles that are fictional placeholders, or will be filled by internal candidates. You learn nothing from the process and make no human contact. So don't only do step 3, you might luck out but you won’t learn and grow anything like as much in the process. I would like to thank so many people, too numerous to mention, for the coffee* chats, walk, talks and notes that helped me develop and grow over the years. *Other beverages are available."
+              - button [aria-hidden] [ref=f17e296] [cursor=pointer]: …more
+            - list [ref=f17e297]:
+              - listitem [ref=f17e298]:
+                - button [ref=f17e299]:
+                  - img "No alternative text description for this image" [ref=f17e300]
+            - generic [ref=f17e301]:
+              - link "3,235 Reactions" [ref=f17e302] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmatt-brittin-cbe-5aa6391_this-morning-i-ran-a-loop-in-cambridge-that-activity-7351275330382229504-CjZA&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e303]: 3,235
+              - link "· 266 Comments" [ref=f17e304] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmatt-brittin-cbe-5aa6391_this-morning-i-ran-a-loop-in-cambridge-that-activity-7351275330382229504-CjZA&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e305]:
+              - link "Like" [ref=f17e306] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmatt-brittin-cbe-5aa6391_this-morning-i-ran-a-loop-in-cambridge-that-activity-7351275330382229504-CjZA&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e309] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmatt-brittin-cbe-5aa6391_this-morning-i-ran-a-loop-in-cambridge-that-activity-7351275330382229504-CjZA&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e313] [cursor=pointer]
+        - listitem [ref=f17e315]:
+          - article [ref=f17e316]:
+            - generic [ref=f17e317]:
+              - generic [ref=f17e319]:
+                - link [ref=f17e320] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/in/srinivasan-kr-b42875ba?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Srinivasan kr" [ref=f17e321]
+                - generic [ref=f17e322]:
+                  - link "View profile for Srinivasan kr" [ref=f17e324] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/in/srinivasan-kr-b42875ba?trk=keyword-landing-page_feed-actor-name
+                    - text: Srinivasan kr
+                  - generic [ref=f17e325]:
+                    - generic [ref=f17e326]: 4,587 followers
+                    - generic [ref=f17e327]:
+                      - text: ·
+                      - time [ref=f17e328]: 1y
+              - button "Open menu" [ref=f17e331] [cursor=pointer]
+            - generic [ref=f17e332]:
+              - paragraph [ref=f17e333]:
+                - text: "🚀 From Free to Elite: Cybersecurity Certification Roadmap (L1 to CISO) Whether you're starting or aiming for the top, you don’t need to spend big at the beginning—but you do need a smart path. 📍Here’s a practical roadmap from SOC Analyst (L1) to CISO/CTO, starting with free certifications and scaling to elite credentials: --- 🔰 L1 – SOC Analyst / Security Support (0–2 yrs) ✅ Free Certs: • Google Cybersecurity (Coursera – via financial aid) • Cisco Intro to Cybersecurity (NetAcad) • Microsoft SC-900 (Free via MS events) • Fortinet NSE 1–3 💡 Optional Paid: • CompTIA Security+ • Cisco CyberOps Associate 🛠️ Tools: Splunk, QRadar, Chronicle, Wireshark, VirusTotal --- 🧠 L2 – Security Analyst / Threat Hunter / IR (2–4 yrs) ✅ Free/Low-Cost: • IBM Cybersecurity Analyst (Coursera – aid) • MITRE ATT&CK Defender (MAD) • Microsoft SC-200 (Free via Reactor) • TryHackMe Blue Team Path (₹900/mo) 💡 Paid: • CompTIA CySA+ • CEH (EC-Council) • Blue Team Level 1 (BTLO) 🛠️ Skills: Defender, EDRs, Sigma, MITRE Navigator --- 🛡️ L3 – Sr Analyst / Engineer / SOC Lead (4–7 yrs) ✅ Low-Cost: • Splunk Admin/Use Case (SplunkWork+) • Elastic Certified Analyst • MITRE CTI 💡 Paid Elite: • GIAC GCIH/GCIA • SC-100 (Microsoft Architect) • BTLO Level 2 🛠️ Skills: RCA, SOAR, Threat Detection Engineering --- ⚙️ Security Manager / GRC / Architect (7–10 yrs) ✅ Free/GRC Certs: • ISO 27001 LA/LI (free/discounted) • Heimdal Security Fundamentals • Harvard Cybersecurity (Free Audit) 💡 Paid: • CISM / CISA (ISACA) • CCSP (Cloud Security – ISC²) 🛠️ Focus: NIST, ISO, Risk, Compliance 👨💼 CISO / CTO (10+ yrs) ✅ Free Learning: • Cyber Leadership (LinkedIn, Harvard Open) • Webinars (SANS, EC-Council, ISC²) 💡 Top-Tier Certs: • CISSP • C-CISO • Cloud Security Expert / Executive MBA 🛠️ Mastery: Budgeting, Board Comms, Legal Risk, ROI --- ✅ Start Free – Google, Cisco, MS, IBM ✅ Grow Practical – TryHackMe, MAD, BTLO, Splunk ✅ Go Elite – CISSP, CISM, GCIH, CCSP 📍Certs open doors. Skills keep them open. Leadership takes you further. 👇 Comment where you're in the journey, I’ll share free resources!"
+                - link "#CyberSecurity" [ref=f17e334] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcybersecurity&trk=keyword-landing-page-text
+                - link "#Certifications" [ref=f17e335] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcertifications&trk=keyword-landing-page-text
+                - link "#SOC" [ref=f17e336] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoc&trk=keyword-landing-page-text
+                - link "#CISO" [ref=f17e337] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fciso&trk=keyword-landing-page-text
+                - link "#CareerPath" [ref=f17e338] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcareerpath&trk=keyword-landing-page-text
+                - link "#FreeCerts" [ref=f17e339] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffreecerts&trk=keyword-landing-page-text
+                - link "#CISSP" [ref=f17e340] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcissp&trk=keyword-landing-page-text
+                - link "#SC200" [ref=f17e341] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsc200&trk=keyword-landing-page-text
+                - link "#BTLO" [ref=f17e342] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbtlo&trk=keyword-landing-page-text
+                - link "#MITRE" [ref=f17e343] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmitre&trk=keyword-landing-page-text
+                - link "#SIEM" [ref=f17e344] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsiem&trk=keyword-landing-page-text
+                - link "#EDR" [ref=f17e345] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fedr&trk=keyword-landing-page-text
+                - link "#Infosec" [ref=f17e346] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finfosec&trk=keyword-landing-page-text
+                - link "#GRC" [ref=f17e347] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgrc&trk=keyword-landing-page-text
+                - link "#ThreatHunting" [ref=f17e348] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fthreathunting&trk=keyword-landing-page-text
+                - link "#CyberCareer" [ref=f17e349] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcybercareer&trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f17e350] [cursor=pointer]: …more
+            - list [ref=f17e351]:
+              - listitem [ref=f17e352]:
+                - button [ref=f17e353]:
+                  - img "No alternative text description for this image" [ref=f17e354]
+                - button "View C2PA information" [ref=f17e355]
+            - generic [ref=f17e358]:
+              - link "3,790 Reactions" [ref=f17e359] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsrinivasan-kr-b42875ba_from-free-to-elite-cybersecurity-certification-activity-7357035297185910784-4rKY&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e360]: 3,790
+              - link "· 193 Comments" [ref=f17e361] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsrinivasan-kr-b42875ba_from-free-to-elite-cybersecurity-certification-activity-7357035297185910784-4rKY&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e362]:
+              - link "Like" [ref=f17e363] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsrinivasan-kr-b42875ba_from-free-to-elite-cybersecurity-certification-activity-7357035297185910784-4rKY&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e366] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsrinivasan-kr-b42875ba_from-free-to-elite-cybersecurity-certification-activity-7357035297185910784-4rKY&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e370] [cursor=pointer]
+        - listitem [ref=f17e372]:
+          - article [ref=f17e373]:
+            - generic [ref=f17e374]:
+              - generic [ref=f17e376]:
+                - link [ref=f17e377] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/in/aman-chaturvedi-189879159?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Aman Chaturvedi" [ref=f17e378]
+                - generic [ref=f17e379]:
+                  - link "View profile for Aman Chaturvedi" [ref=f17e381] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/in/aman-chaturvedi-189879159?trk=keyword-landing-page_feed-actor-name
+                    - text: Aman Chaturvedi
+                  - generic [ref=f17e382]:
+                    - generic [ref=f17e383]: 7,031 followers
+                    - generic [ref=f17e384]:
+                      - text: ·
+                      - time [ref=f17e385]: 1y
+              - button "Open menu" [ref=f17e388] [cursor=pointer]
+            - generic [ref=f17e389]:
+              - paragraph [ref=f17e390]: "Amit dedicated 7 years to his company. He started at ₹12 LPA and, after years of hard work, reached ₹20 LPA. One day, he casually asked a new hire about their salary—₹30 LPA. Shock. Betrayal. He had trained others, handled crises, and never dropped the ball. Yet, a newcomer with less experience made ₹10 lakh more. His manager’s response? \"We value you, but external hires are paid market rates.\" Reality check: New hires get market pay. Loyal employees get small increments. Appreciation ≠ Compensation. Amit tested the market and got a 40% hike in 90 days. Suddenly, his company wanted to match it—but he had already moved on. Lesson? Loyalty should be a two-way street. Know your worth. Keep an eye on market trends. Negotiate what you deserve. Because staying too long without evaluating your worth is the costliest mistake."
+              - button [aria-hidden] [ref=f17e391] [cursor=pointer]: …more
+            - generic [ref=f17e392]:
+              - link "27,175 Reactions" [ref=f17e393] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faman-chaturvedi-189879159_amit-dedicated-7-years-to-his-company-he-activity-7301471746556145664-kXNL&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e394]: 27,175
+              - link "· 1,168 Comments" [ref=f17e395] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faman-chaturvedi-189879159_amit-dedicated-7-years-to-his-company-he-activity-7301471746556145664-kXNL&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e396]:
+              - link "Like" [ref=f17e397] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faman-chaturvedi-189879159_amit-dedicated-7-years-to-his-company-he-activity-7301471746556145664-kXNL&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e400] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Faman-chaturvedi-189879159_amit-dedicated-7-years-to-his-company-he-activity-7301471746556145664-kXNL&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e404] [cursor=pointer]
+        - listitem [ref=f17e406]:
+          - article [ref=f17e407]:
+            - generic [ref=f17e408]:
+              - generic [ref=f17e410]:
+                - link [ref=f17e411] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/doriec?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Dorie Clark" [ref=f17e412]
+                - generic [ref=f17e413]:
+                  - generic [ref=f17e414]:
+                    - link "View profile for Dorie Clark" [ref=f17e415] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/doriec?trk=keyword-landing-page_feed-actor-name
+                      - text: Dorie Clark
+                    - generic [ref=f17e416]: Dorie Clark is an Influencer
+                  - paragraph [ref=f17e417]: WSJ & USA Today Bestselling Author, 4x Top Global Business Thinker | HBR & Fast Company Contributor | Fmr Duke & Columbia exec ed prof | Helping You Get Your Ideas Heard | Follow for Strategy, Personal Brand, Marketing
+                  - generic [ref=f17e418]:
+                    - generic [ref=f17e419]: 479,421 followers
+                    - generic [ref=f17e420]:
+                      - text: ·
+                      - time [ref=f17e421]: 1y
+              - button "Open menu" [ref=f17e424] [cursor=pointer]
+            - generic [ref=f17e425]:
+              - paragraph [ref=f17e426]:
+                - text: We’ve all heard that having a mentor is critical for career success. But what if you don’t have one? The reality is, senior leaders with the time and interest to mentor you are in short supply. Fortunately, there’s another way to get the career advice you need. In my newest article for
+                - link "Harvard Business Review" [ref=f17e427] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/harvard-business-review?trk=keyword-landing-page-text
+                - text: ", co-written with"
+                - link "Alexis Redding" [ref=f17e428] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/alexisredding?trk=keyword-landing-page-text
+                - text: ", we explore the power of micro-mentorship—short, actionable guidance from a range of sources that can shape your career just as effectively as a traditional mentor. Here are four ways to make it happen: 👉 Identify hidden mentors Professors, former colleagues, or even casual acquaintances can offer invaluable advice. Sometimes, one conversation can change everything. 👉 Crowdsource advice Use LinkedIn, alumni networks, or even spontaneous interactions to gain insights from a broad range of professionals. 👉 Embrace self-reflection Since micro-mentors don’t know you deeply, their advice may not always fit. Learning to filter and trust your own instincts is a powerful skill. 👉 Seize digital opportunities Thought leaders share valuable insights online, and AI tools can help you brainstorm solutions using their frameworks. A single mentor can be great, but it can also lock you into a fixed perspective. By broadening your sources of guidance, you expand your possibilities:"
+                - link "https://lnkd.in/eeCEveXW" [ref=f17e429] [cursor=pointer]:
+                  - /url: https://lnkd.in/eeCEveXW?trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f17e430] [cursor=pointer]: …more
+            - list [ref=f17e431]:
+              - listitem [ref=f17e432]:
+                - button [ref=f17e433]:
+                  - img "No alternative text description for this image" [ref=f17e434]
+            - generic [ref=f17e435]:
+              - link "320 Reactions" [ref=f17e436] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdoriec_weve-all-heard-that-having-a-mentor-is-critical-activity-7307792739960520704-zRgN&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e437]: "320"
+              - link "· 55 Comments" [ref=f17e438] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdoriec_weve-all-heard-that-having-a-mentor-is-critical-activity-7307792739960520704-zRgN&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e439]:
+              - link "Like" [ref=f17e440] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdoriec_weve-all-heard-that-having-a-mentor-is-critical-activity-7307792739960520704-zRgN&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e443] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdoriec_weve-all-heard-that-having-a-mentor-is-critical-activity-7307792739960520704-zRgN&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e447] [cursor=pointer]
+        - listitem [ref=f17e449]:
+          - article [ref=f17e450]:
+            - generic [ref=f17e451]:
+              - generic [ref=f17e453]:
+                - link [ref=f17e454] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/saibysani18?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Venkata Naga Sai Kumar Bysani" [ref=f17e455]
+                - generic [ref=f17e456]:
+                  - link "View profile for Venkata Naga Sai Kumar Bysani" [ref=f17e458] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/saibysani18?trk=keyword-landing-page_feed-actor-name
+                    - text: Venkata Naga Sai Kumar Bysani
+                  - generic [ref=f17e459]:
+                    - generic [ref=f17e460]: 276,384 followers
+                    - generic [ref=f17e461]:
+                      - text: ·
+                      - time [ref=f17e462]: 10mo
+              - button "Open menu" [ref=f17e465] [cursor=pointer]
+            - generic [ref=f17e466]:
+              - paragraph [ref=f17e467]: "Stop collecting certifications like Pokémon. Most of them won't get you hired. The right certification depends on your role, not the trend. Here's a roadmap by role and skill level: 𝟏. 𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 → Beginner: Google Data Analytics, IBM Data Analyst, Excel Associate → Intermediate: Power BI PL-300, Tableau Data Analyst, Google BI → Advanced: Microsoft Fabric, AWS Data Analytics Specialty 𝟐. 𝐁𝐈 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 → Beginner: Google BI, Power BI PL-300, Tableau Desktop Specialist → Intermediate: Tableau Data Analyst, Looker Analyst → Advanced: Microsoft Fabric, Tableau Consultant, CBIP 𝟑. 𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 → Beginner: Tableau Desktop Specialist, Power BI PL-300 → Intermediate: Tableau Data Analyst, Looker Visualization → Advanced: Tableau Consultant, CDVP 𝟒. 𝐒𝐐𝐋 / 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 → Beginner: SQL Basics (DataCamp/Coursera), IBM SQL for Data Science → Intermediate: Azure DP-900, PostgreSQL Associate → Advanced: Azure DP-300, Snowflake SnowPro Core 𝟓. 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐓𝐫𝐚𝐧𝐬𝐢𝐭𝐢𝐨𝐧 → Beginner: AWS Cloud Practitioner, Azure AZ-900 → Intermediate: Databricks Data Engineer Associate → Advanced: Azure DP-203, Google Professional Data Engineer 𝐁𝐮𝐭 𝐡𝐞𝐫𝐞'𝐬 𝐰𝐡𝐚𝐭 𝐧𝐨 𝐨𝐧𝐞 𝐭𝐞𝐥𝐥𝐬 𝐲𝐨𝐮: You have 6 certificates on your LinkedIn. Zero projects in your portfolio. Guess which one hiring managers actually look at? Certifications open conversations. Projects and portfolios open doors. A certificate says you learned something. A project proves you can do something. Don't chase all of them. Pick based on your domain. Your interest. Your career goals. Then stick with it long enough to build real depth. Depth beats breadth. Every time. What certification are you currently working on? ♻️ Repost if someone in your network needs this roadmap"
+              - button [aria-hidden] [ref=f17e468] [cursor=pointer]: …more
+            - list [ref=f17e469]:
+              - listitem [ref=f17e470]:
+                - button [ref=f17e471]:
+                  - img "No alternative text description for this image" [ref=f17e472]
+            - generic [ref=f17e473]:
+              - link "3,157 Reactions" [ref=f17e474] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsaibysani18_stop-collecting-certifications-like-pok%25C3%25A9mon-activity-7410318720402903040-zzai&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f17e475]: 3,157
+              - link "· 98 Comments" [ref=f17e476] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsaibysani18_stop-collecting-certifications-like-pok%25C3%25A9mon-activity-7410318720402903040-zzai&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f17e477]:
+              - link "Like" [ref=f17e478] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsaibysani18_stop-collecting-certifications-like-pok%25C3%25A9mon-activity-7410318720402903040-zzai&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f17e481] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsaibysani18_stop-collecting-certifications-like-pok%25C3%25A9mon-activity-7410318720402903040-zzai&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f17e485] [cursor=pointer]
+    - generic [ref=f17e487]:
+      - generic [ref=f17e488]:
+        - heading "More in Career Advancement Tips" [level=2] [ref=f17e489]
+        - generic [ref=f17e491]:
+          - list [ref=f17e492]:
+            - listitem [ref=f17e493]:
+              - link "Discipline Tips for Young Professionals" [ref=f17e494] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/discipline-tips-for-young-professionals/
+            - listitem [ref=f17e496]:
+              - link "Career Tips for Staying Consistent and Improving" [ref=f17e497] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/career-tips-for-staying-consistent-and-improving/
+            - listitem [ref=f17e499]:
+              - link "Tips for Employee Development Opportunities" [ref=f17e500] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/tips-for-employee-development-opportunities/
+            - listitem [ref=f17e502]:
+              - link "Career advancement vs loyalty in finance" [ref=f17e503] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/career-advancement-vs-loyalty-in-finance/
+            - listitem [ref=f17e505]:
+              - link "Practical Tips for New Developers" [ref=f17e506] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/practical-tips-for-new-developers/
+            - listitem [ref=f17e508]:
+              - link "Smart career moves for long-term success" [ref=f17e509] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/smart-career-moves-for-long-term-success/
+          - button "Show more" [ref=f17e511] [cursor=pointer]
+      - generic [ref=f17e513]:
+        - heading "More Career topics" [level=2] [ref=f17e514]
+        - generic [ref=f17e516]:
+          - list [ref=f17e517]:
+            - listitem [ref=f17e518]:
+              - link "Preparing for Job Interviews" [ref=f17e519] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/preparing-for-job-interviews/
+            - listitem [ref=f17e521]:
+              - link "Career Development & Professional Growth" [ref=f17e522] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/career-development-professional-growth/
+            - listitem [ref=f17e524]:
+              - link "Starting a Cybersecurity Career" [ref=f17e525] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/starting-a-cybersecurity-career/
+            - listitem [ref=f17e527]:
+              - link "Resume Tips" [ref=f17e528] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/resume-tips/
+            - listitem [ref=f17e530]:
+              - link "Building Professional Credibility" [ref=f17e531] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/building-professional-credibility/
+            - listitem [ref=f17e533]:
+              - link "Avoiding Professional Pitfalls" [ref=f17e534] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/career/avoiding-professional-pitfalls/
+          - button "Show more" [ref=f17e536] [cursor=pointer]
+      - generic [ref=f17e538]:
+        - heading "Explore categories" [level=2] [ref=f17e539]
+        - generic [ref=f17e541]:
+          - list [ref=f17e542]:
+            - listitem [ref=f17e543]:
+              - link "Hospitality & Tourism" [ref=f17e544] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/hospitality-tourism/
+            - listitem [ref=f17e545]:
+              - link "Productivity" [ref=f17e546] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/productivity/
+            - listitem [ref=f17e547]:
+              - link "Finance" [ref=f17e548] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/finance/
+            - listitem [ref=f17e549]:
+              - link "Soft Skills & Emotional Intelligence" [ref=f17e550] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/
+            - listitem [ref=f17e551]:
+              - link "Project Management" [ref=f17e552] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/project-management/
+            - listitem [ref=f17e553]:
+              - link "Education" [ref=f17e554] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/education/
+          - button "Show more" [ref=f17e555] [cursor=pointer]
+  - contentinfo [ref=f17e557]:
+    - list [ref=f17e558]:
+      - generic [ref=f17e559]: LinkedIn
+      - generic [ref=f17e561]: © 2026
+      - listitem [ref=f17e562]:
+        - link "About" [ref=f17e563] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_klp_shoulder_topic_footer-about
+      - listitem [ref=f17e564]:
+        - link "Accessibility" [ref=f17e565] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_klp_shoulder_topic_footer-accessibility
+      - listitem [ref=f17e566]:
+        - link "User Agreement" [ref=f17e567] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_klp_shoulder_topic_footer-user-agreement
+      - listitem [ref=f17e568]:
+        - link "Privacy Policy" [ref=f17e569] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_klp_shoulder_topic_footer-privacy-policy
+      - listitem [ref=f17e570]:
+        - link "Cookie Policy" [ref=f17e571] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_klp_shoulder_topic_footer-cookie-policy
+      - listitem [ref=f17e572]:
+        - link "Copyright Policy" [ref=f17e573] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_klp_shoulder_topic_footer-copyright-policy
+      - listitem [ref=f17e574]:
+        - link "Brand Policy" [ref=f17e575] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_klp_shoulder_topic_footer-brand-policy
+      - listitem [ref=f17e576]:
+        - link "Guest Controls" [ref=f17e577] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_klp_shoulder_topic_footer-guest-controls
+      - listitem [ref=f17e578]:
+        - link "Community Guidelines" [ref=f17e579] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_klp_shoulder_topic_footer-community-guide
+      - listitem [ref=f17e580]:
+        - button "Language" [ref=f17e582]

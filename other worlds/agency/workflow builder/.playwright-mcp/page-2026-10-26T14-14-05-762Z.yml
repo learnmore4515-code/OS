@@ -1,0 +1,469 @@
+- generic [active] [ref=f24e1]:
+  - navigation [ref=f24e2]:
+    - generic [ref=f24e4]:
+      - link "🛍️ Dukazote" [ref=f24e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f24e6]: 🛍️
+        - generic [ref=f24e7]: Dukazote
+      - generic [ref=f24e8]:
+        - link "Browse Shops" [ref=f24e9] [cursor=pointer]:
+          - /url: /shops
+        - link "Categories" [ref=f24e10] [cursor=pointer]:
+          - /url: /categories
+        - link "Blog" [ref=f24e11] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=f24e12] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f24e13]:
+        - link "Add Shop" [ref=f24e14] [cursor=pointer]:
+          - /url: /submit
+        - link "Sign In" [ref=f24e15] [cursor=pointer]:
+          - /url: /auth/signin
+        - link "Sign Up" [ref=f24e16] [cursor=pointer]:
+          - /url: /auth/signup
+  - generic [ref=f24e18]:
+    - heading "Browse Instagram Shops in Kenya" [level=1] [ref=f24e19]
+    - paragraph [ref=f24e20]: Discover and explore curated Kenyan Instagram shops
+  - generic [ref=f24e23]:
+    - textbox "Search shops..." [ref=f24e25]
+    - combobox [ref=f24e26]:
+      - option "All Categories" [selected]
+      - option "Restaurants & Cafes"
+      - option "Cars & Auto"
+      - option "Travel & Holidays"
+      - option "Sports & Fitness"
+      - option "Phones & Accessories"
+      - option "Furniture & Interiors"
+      - option "Events & Catering"
+      - option "Cleaning Services"
+      - option "Photography & Video"
+      - option "Fashion & Clothing"
+      - option "Beauty & Cosmetics"
+      - option "Food & Grocery"
+      - option "Home & Living"
+      - option "Electronics & Gadgets"
+      - option "Art, Crafts & Gifts"
+      - option "Jewelry & Accessories"
+      - option "Health & Wellness"
+      - option "Baby, Kids & Toys"
+      - option "Books, Stationery & Office"
+      - option "Shoes & Bags"
+      - option "Plants & Garden"
+    - combobox [ref=f24e27]:
+      - option "All Counties" [selected]
+      - option "Nairobi"
+      - option "Mombasa"
+      - option "Kisumu"
+      - option "Nakuru"
+      - option "Eldoret"
+      - option "Thika"
+      - option "Malindi"
+      - option "Kitale"
+      - option "Garissa"
+      - option "Kakamega"
+      - option "Nyeri"
+      - option "Meru"
+      - option "Machakos"
+      - option "Lamu"
+      - option "Kisii"
+      - option "Kericho"
+      - option "Embu"
+      - option "Migori"
+      - option "Homabay"
+      - option "Siaya"
+      - option "Kilifi"
+      - option "Kwale"
+      - option "Taita Taveta"
+      - option "Tana River"
+      - option "Marsabit"
+      - option "Isiolo"
+      - option "Laikipia"
+      - option "Samburu"
+      - option "Trans Nzoia"
+      - option "Uasin Gishu"
+      - option "Elgeyo Marakwet"
+      - option "Nandi"
+      - option "Baringo"
+      - option "Turkana"
+      - option "West Pokot"
+      - option "Nyandarua"
+      - option "Kirinyaga"
+      - option "Murang'a"
+      - option "Kiambu"
+      - option "Kajiado"
+      - option "Makueni"
+      - option "Kitui"
+      - option "Tharaka Nithi"
+      - option "Mandera"
+      - option "Wajir"
+      - option "Busia"
+      - option "Vihiga"
+      - option "Bungoma"
+      - option "Bomet"
+      - option "Narok"
+    - combobox [ref=f24e28]:
+      - option "Newest First" [selected]
+      - option "Highest Rated"
+      - option "Most Reviewed"
+  - main [ref=f24e29]:
+    - paragraph [ref=f24e30]: Showing 15 of 396 shops
+    - generic [ref=f24e31]:
+      - link "Eventisha Eventisha @eventishahq Nairobi Plan the perfect event with Eventisha.com Find photographers, caterers, florists, bands, car hire, and so much more, all in one place! ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e32] [cursor=pointer]:
+        - /url: /shops/eventishahq
+        - generic [ref=f24e33]:
+          - generic [ref=f24e34]:
+            - generic [ref=f24e35]:
+              - img "Eventisha" [ref=f24e36]
+              - generic "Verified shop" [ref=f24e37]
+            - generic [ref=f24e40]:
+              - heading "Eventisha" [level=3] [ref=f24e41]
+              - paragraph [ref=f24e42]: "@eventishahq"
+              - generic [ref=f24e43]: Nairobi
+          - paragraph [ref=f24e48]: Plan the perfect event with Eventisha.com Find photographers, caterers, florists, bands, car hire, and so much more, all in one place!
+          - generic [ref=f24e50]:
+            - generic [ref=f24e51]:
+              - generic [ref=f24e52]: ★
+              - generic [ref=f24e53]: ★
+              - generic [ref=f24e54]: ★
+              - generic [ref=f24e55]: ★
+              - generic [ref=f24e56]: ★
+            - generic [ref=f24e57]: No reviews yet
+        - generic [ref=f24e58]: View Shop
+      - link "Bikiniworldkenya Bikiniworldkenya @bikini_worldkenya Nairobi Swimwear Store NEW ACCOUNT(lost old one) physical/online shop Carefully thrifted with ❤️ Size inclusive shop No Refunds_ Exchange within 48hr 📞0700401515/0700039110 We are located at kai plaza,3rd floor room 2 (kai is next to world business centre), Nairobi, Kenya ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e60] [cursor=pointer]:
+        - /url: /shops/bikini_worldkenya
+        - generic [ref=f24e61]:
+          - generic [ref=f24e62]:
+            - generic [ref=f24e63]:
+              - img "Bikiniworldkenya" [ref=f24e64]
+              - generic "Verified shop" [ref=f24e65]
+            - generic [ref=f24e68]:
+              - heading "Bikiniworldkenya" [level=3] [ref=f24e69]
+              - paragraph [ref=f24e70]: "@bikini_worldkenya"
+              - generic [ref=f24e71]: Nairobi
+          - paragraph [ref=f24e76]: Swimwear Store NEW ACCOUNT(lost old one) physical/online shop Carefully thrifted with ❤️ Size inclusive shop No Refunds_ Exchange within 48hr 📞0700401515/0700039110 We are located at kai plaza,3rd floor room 2 (kai is next to world business centre), Nairobi, Kenya
+          - generic [ref=f24e78]:
+            - generic [ref=f24e79]:
+              - generic [ref=f24e80]: ★
+              - generic [ref=f24e81]: ★
+              - generic [ref=f24e82]: ★
+              - generic [ref=f24e83]: ★
+              - generic [ref=f24e84]: ★
+            - generic [ref=f24e85]: No reviews yet
+        - generic [ref=f24e86]: View Shop
+      - link "Aquantuo Kenya Aquantuo Kenya @aquantuokenya Nairobi Cargo & Freight Company Fast Shipping| RealTime Tracking| 🚫Sales tax for🇺🇸| Ship from USA🇺🇸 |China🇨🇳|Dubai 🇦🇪|Canada🇨🇦|UK🇬🇧 TO KENYA 📧support_ke@aquantuo.com 📞+254800 000 323 Enterprise road at 16 Gilgil road, City Estate, Nairobi Area, Kenya ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e88] [cursor=pointer]:
+        - /url: /shops/aquantuokenya
+        - generic [ref=f24e89]:
+          - generic [ref=f24e90]:
+            - generic [ref=f24e91]:
+              - img "Aquantuo Kenya" [ref=f24e92]
+              - generic "Verified shop" [ref=f24e93]
+            - generic [ref=f24e96]:
+              - heading "Aquantuo Kenya" [level=3] [ref=f24e97]
+              - paragraph [ref=f24e98]: "@aquantuokenya"
+              - generic [ref=f24e99]: Nairobi
+          - paragraph [ref=f24e104]: Cargo & Freight Company Fast Shipping| RealTime Tracking| 🚫Sales tax for🇺🇸| Ship from USA🇺🇸 |China🇨🇳|Dubai 🇦🇪|Canada🇨🇦|UK🇬🇧 TO KENYA 📧support_ke@aquantuo.com 📞+254800 000 323 Enterprise road at 16 Gilgil road, City Estate, Nairobi Area, Kenya
+          - generic [ref=f24e106]:
+            - generic [ref=f24e107]:
+              - generic [ref=f24e108]: ★
+              - generic [ref=f24e109]: ★
+              - generic [ref=f24e110]: ★
+              - generic [ref=f24e111]: ★
+              - generic [ref=f24e112]: ★
+            - generic [ref=f24e113]: No reviews yet
+        - generic [ref=f24e114]: View Shop
+      - link "Mamasafi Mamasafi @mamasafi Nairobi Cleaning Service Laundry & Home cleaning services. Delivering clean spaces and happy homes 💙 📨 hello@mamasafi.com ☎ 0700 140140 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e116] [cursor=pointer]:
+        - /url: /shops/mamasafi
+        - generic [ref=f24e117]:
+          - generic [ref=f24e118]:
+            - generic [ref=f24e119]:
+              - img "Mamasafi" [ref=f24e120]
+              - generic "Verified shop" [ref=f24e121]
+            - generic [ref=f24e124]:
+              - heading "Mamasafi" [level=3] [ref=f24e125]
+              - paragraph [ref=f24e126]: "@mamasafi"
+              - generic [ref=f24e127]: Nairobi
+          - paragraph [ref=f24e132]: Cleaning Service Laundry & Home cleaning services. Delivering clean spaces and happy homes 💙 📨 hello@mamasafi.com ☎ 0700 140140
+          - generic [ref=f24e134]:
+            - generic [ref=f24e135]:
+              - generic [ref=f24e136]: ★
+              - generic [ref=f24e137]: ★
+              - generic [ref=f24e138]: ★
+              - generic [ref=f24e139]: ★
+              - generic [ref=f24e140]: ★
+            - generic [ref=f24e141]: No reviews yet
+        - generic [ref=f24e142]: View Shop
+      - link "Miss Help Kenya Miss Help Kenya @misshelpkenya Nairobi Cleaning Service Making spaces spotless | One space at a time | Nairobi Industrial | Commercial | Domestic Cleaning 0720308485 | 0722170641 misshelpkenya@gmail.com ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e144] [cursor=pointer]:
+        - /url: /shops/misshelpkenya
+        - generic [ref=f24e145]:
+          - generic [ref=f24e146]:
+            - generic [ref=f24e147]:
+              - img "Miss Help Kenya" [ref=f24e148]
+              - generic "Verified shop" [ref=f24e149]
+            - generic [ref=f24e152]:
+              - heading "Miss Help Kenya" [level=3] [ref=f24e153]
+              - paragraph [ref=f24e154]: "@misshelpkenya"
+              - generic [ref=f24e155]: Nairobi
+          - paragraph [ref=f24e160]: Cleaning Service Making spaces spotless | One space at a time | Nairobi Industrial | Commercial | Domestic Cleaning 0720308485 | 0722170641 misshelpkenya@gmail.com
+          - generic [ref=f24e162]:
+            - generic [ref=f24e163]:
+              - generic [ref=f24e164]: ★
+              - generic [ref=f24e165]: ★
+              - generic [ref=f24e166]: ★
+              - generic [ref=f24e167]: ★
+              - generic [ref=f24e168]: ★
+            - generic [ref=f24e169]: No reviews yet
+        - generic [ref=f24e170]: View Shop
+      - link "Perfect Cleaning Services Perfect Cleaning Services @perfect.cleaningservices Nairobi Business service We clean SOFASETS,matresses,carpets,general cleaning. Perfect cleaning services offers you the best cleaning service in town at affordable prices kenyatta market, Nairobi, Kenya 0726958553 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e172] [cursor=pointer]:
+        - /url: /shops/perfect.cleaningservices
+        - generic [ref=f24e173]:
+          - generic [ref=f24e174]:
+            - generic [ref=f24e175]:
+              - img "Perfect Cleaning Services" [ref=f24e176]
+              - generic "Verified shop" [ref=f24e177]
+            - generic [ref=f24e180]:
+              - heading "Perfect Cleaning Services" [level=3] [ref=f24e181]
+              - paragraph [ref=f24e182]: "@perfect.cleaningservices"
+              - generic [ref=f24e183]: Nairobi
+          - paragraph [ref=f24e188]: Business service We clean SOFASETS,matresses,carpets,general cleaning. Perfect cleaning services offers you the best cleaning service in town at affordable prices kenyatta market, Nairobi, Kenya 0726958553
+          - generic [ref=f24e190]:
+            - generic [ref=f24e191]:
+              - generic [ref=f24e192]: ★
+              - generic [ref=f24e193]: ★
+              - generic [ref=f24e194]: ★
+              - generic [ref=f24e195]: ★
+              - generic [ref=f24e196]: ★
+            - generic [ref=f24e197]: No reviews yet
+        - generic [ref=f24e198]: View Shop
+      - link "Jaymin Cleaning Jaymin Cleaning @jaymin_cleaning Nairobi Cleaning Service Our Services; Commercial cleaning Home Spring cleaning Hospitality Services... more Westlands Road No. 45, Nairobi, Kenya, Moi, Nairobi Area, Kenya ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e200] [cursor=pointer]:
+        - /url: /shops/jaymin_cleaning
+        - generic [ref=f24e201]:
+          - generic [ref=f24e202]:
+            - generic [ref=f24e203]:
+              - img "Jaymin Cleaning" [ref=f24e204]
+              - generic "Verified shop" [ref=f24e205]
+            - generic [ref=f24e208]:
+              - heading "Jaymin Cleaning" [level=3] [ref=f24e209]
+              - paragraph [ref=f24e210]: "@jaymin_cleaning"
+              - generic [ref=f24e211]: Nairobi
+          - paragraph [ref=f24e216]: Cleaning Service Our Services; Commercial cleaning Home Spring cleaning Hospitality Services... more Westlands Road No. 45, Nairobi, Kenya, Moi, Nairobi Area, Kenya
+          - generic [ref=f24e218]:
+            - generic [ref=f24e219]:
+              - generic [ref=f24e220]: ★
+              - generic [ref=f24e221]: ★
+              - generic [ref=f24e222]: ★
+              - generic [ref=f24e223]: ★
+              - generic [ref=f24e224]: ★
+            - generic [ref=f24e225]: No reviews yet
+        - generic [ref=f24e226]: View Shop
+      - 'link "Dulytec Cleaning Services Dulytec Cleaning Services @dulycleaners Nairobi Cleaning Service Deals with office cleaning, house cleaning, carpet, sofa set, mattress toilet bowl, floor care, car interior. Fumigation Contact : +254725088107 Villa franca estate at Imara Daima, off mombasa road, Nairobi, Kenya 00100 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e228] [cursor=pointer]':
+        - /url: /shops/dulycleaners
+        - generic [ref=f24e229]:
+          - generic [ref=f24e230]:
+            - generic [ref=f24e231]:
+              - img "Dulytec Cleaning Services" [ref=f24e232]
+              - generic "Verified shop" [ref=f24e233]
+            - generic [ref=f24e236]:
+              - heading "Dulytec Cleaning Services" [level=3] [ref=f24e237]
+              - paragraph [ref=f24e238]: "@dulycleaners"
+              - generic [ref=f24e239]: Nairobi
+          - paragraph [ref=f24e244]: "Cleaning Service Deals with office cleaning, house cleaning, carpet, sofa set, mattress toilet bowl, floor care, car interior. Fumigation Contact : +254725088107 Villa franca estate at Imara Daima, off mombasa road, Nairobi, Kenya 00100"
+          - generic [ref=f24e246]:
+            - generic [ref=f24e247]:
+              - generic [ref=f24e248]: ★
+              - generic [ref=f24e249]: ★
+              - generic [ref=f24e250]: ★
+              - generic [ref=f24e251]: ★
+              - generic [ref=f24e252]: ★
+            - generic [ref=f24e253]: No reviews yet
+        - generic [ref=f24e254]: View Shop
+      - 'link "Solcity Cleaning Services Solcity Cleaning Services @solcitycleaningservices Nairobi Solicty| Cleaning|Pest Control # Commercial Cleaning #Home Deep Cleaning # Upholstery Cleaning # Facility mgt 0705459105 www.solcitycleaning.co.ke ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e256] [cursor=pointer]':
+        - /url: /shops/solcitycleaningservices
+        - generic [ref=f24e257]:
+          - generic [ref=f24e258]:
+            - generic [ref=f24e259]:
+              - img "Solcity Cleaning Services" [ref=f24e260]
+              - generic "Verified shop" [ref=f24e261]
+            - generic [ref=f24e264]:
+              - heading "Solcity Cleaning Services" [level=3] [ref=f24e265]
+              - paragraph [ref=f24e266]: "@solcitycleaningservices"
+              - generic [ref=f24e267]: Nairobi
+          - paragraph [ref=f24e272]: "Solicty| Cleaning|Pest Control # Commercial Cleaning #Home Deep Cleaning # Upholstery Cleaning # Facility mgt 0705459105 www.solcitycleaning.co.ke"
+          - generic [ref=f24e274]:
+            - generic [ref=f24e275]:
+              - generic [ref=f24e276]: ★
+              - generic [ref=f24e277]: ★
+              - generic [ref=f24e278]: ★
+              - generic [ref=f24e279]: ★
+              - generic [ref=f24e280]: ★
+            - generic [ref=f24e281]: No reviews yet
+        - generic [ref=f24e282]: View Shop
+      - link "Ray Cleaners Ltd Ray Cleaners Ltd @ray_cleaners_ltd Nairobi Cleaning Service COMMERCIAL & RESIDENTIAL Services DEEP & GENERAL CLEANING PEST CONTROL OFFICE MAINTENANCE LANDSCAPING MANAGEMENT 📞 0113167737 or 0719368489 Moi Avenue, Moi, Nairobi Area, Kenya ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e284] [cursor=pointer]:
+        - /url: /shops/ray_cleaners_ltd
+        - generic [ref=f24e285]:
+          - generic [ref=f24e286]:
+            - generic [ref=f24e287]:
+              - img "Ray Cleaners Ltd" [ref=f24e288]
+              - generic "Verified shop" [ref=f24e289]
+            - generic [ref=f24e292]:
+              - heading "Ray Cleaners Ltd" [level=3] [ref=f24e293]
+              - paragraph [ref=f24e294]: "@ray_cleaners_ltd"
+              - generic [ref=f24e295]: Nairobi
+          - paragraph [ref=f24e300]: Cleaning Service COMMERCIAL & RESIDENTIAL Services DEEP & GENERAL CLEANING PEST CONTROL OFFICE MAINTENANCE LANDSCAPING MANAGEMENT 📞 0113167737 or 0719368489 Moi Avenue, Moi, Nairobi Area, Kenya
+          - generic [ref=f24e302]:
+            - generic [ref=f24e303]:
+              - generic [ref=f24e304]: ★
+              - generic [ref=f24e305]: ★
+              - generic [ref=f24e306]: ★
+              - generic [ref=f24e307]: ★
+              - generic [ref=f24e308]: ★
+            - generic [ref=f24e309]: No reviews yet
+        - generic [ref=f24e310]: View Shop
+      - link "MileynEventsServices MileynEventsServices @mileyneventsservices Nairobi Product/service 𝗕𝗲𝘀𝗽𝗼𝗸𝗲 𝗗𝗲𝗰𝗼𝗿 𝗳𝗼𝗿 𝗔𝗹𝗹 𝗘𝘃𝗲𝗻𝘁𝘀 𝘈𝘸𝘢𝘳𝘥-𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘦𝘥 | 𝘞𝘦𝘥𝘥𝘪𝘯𝘨𝘴 • 𝘊𝘰𝘳𝘱𝘰𝘳𝘢𝘵𝘦 • 𝘚𝘰𝘤𝘪𝘢𝘭 𝙏𝙪𝙧𝙣𝙞𝙣𝙜 𝙫𝙞𝙨𝙞𝙤𝙣𝙨 𝙞𝙣𝙩𝙤 𝙧𝙚𝙖𝙡𝙞𝙩𝙮 ✨ ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e312] [cursor=pointer]:
+        - /url: /shops/mileyneventsservices
+        - generic [ref=f24e313]:
+          - generic [ref=f24e314]:
+            - generic [ref=f24e315]:
+              - img "MileynEventsServices" [ref=f24e316]
+              - generic "Verified shop" [ref=f24e317]
+            - generic [ref=f24e320]:
+              - heading "MileynEventsServices" [level=3] [ref=f24e321]
+              - paragraph [ref=f24e322]: "@mileyneventsservices"
+              - generic [ref=f24e323]: Nairobi
+          - paragraph [ref=f24e328]: Product/service 𝗕𝗲𝘀𝗽𝗼𝗸𝗲 𝗗𝗲𝗰𝗼𝗿 𝗳𝗼𝗿 𝗔𝗹𝗹 𝗘𝘃𝗲𝗻𝘁𝘀 𝘈𝘸𝘢𝘳𝘥-𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘦𝘥 | 𝘞𝘦𝘥𝘥𝘪𝘯𝘨𝘴 • 𝘊𝘰𝘳𝘱𝘰𝘳𝘢𝘵𝘦 • 𝘚𝘰𝘤𝘪𝘢𝘭 𝙏𝙪𝙧𝙣𝙞𝙣𝙜 𝙫𝙞𝙨𝙞𝙤𝙣𝙨 𝙞𝙣𝙩𝙤 𝙧𝙚𝙖𝙡𝙞𝙩𝙮 ✨
+          - generic [ref=f24e330]:
+            - generic [ref=f24e331]:
+              - generic [ref=f24e332]: ★
+              - generic [ref=f24e333]: ★
+              - generic [ref=f24e334]: ★
+              - generic [ref=f24e335]: ★
+              - generic [ref=f24e336]: ★
+            - generic [ref=f24e337]: No reviews yet
+        - generic [ref=f24e338]: View Shop
+      - link "Adrienne Events Adrienne Events @adrienneeventske Nairobi Event Planner Event Designers |Event Rentals | Event Planner | Event Florist Click to chat ⬇️ Waiyaki way, Nairobi, Kenya 254 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e340] [cursor=pointer]:
+        - /url: /shops/adrienneeventske
+        - generic [ref=f24e341]:
+          - generic [ref=f24e342]:
+            - generic [ref=f24e343]:
+              - img "Adrienne Events" [ref=f24e344]
+              - generic "Verified shop" [ref=f24e345]
+            - generic [ref=f24e348]:
+              - heading "Adrienne Events" [level=3] [ref=f24e349]
+              - paragraph [ref=f24e350]: "@adrienneeventske"
+              - generic [ref=f24e351]: Nairobi
+          - paragraph [ref=f24e356]: Event Planner Event Designers |Event Rentals | Event Planner | Event Florist Click to chat ⬇️ Waiyaki way, Nairobi, Kenya 254
+          - generic [ref=f24e358]:
+            - generic [ref=f24e359]:
+              - generic [ref=f24e360]: ★
+              - generic [ref=f24e361]: ★
+              - generic [ref=f24e362]: ★
+              - generic [ref=f24e363]: ★
+              - generic [ref=f24e364]: ★
+            - generic [ref=f24e365]: No reviews yet
+        - generic [ref=f24e366]: View Shop
+      - link "Magnolia Event Planners Magnolia Event Planners @magnoliaeventplannerskenya Nairobi Event Planner Passion for all things beautiful. 🇰🇪🇨🇦 We would be delighted to create your dream wedding. ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e368] [cursor=pointer]:
+        - /url: /shops/magnoliaeventplannerskenya
+        - generic [ref=f24e369]:
+          - generic [ref=f24e370]:
+            - generic [ref=f24e371]:
+              - img "Magnolia Event Planners" [ref=f24e372]
+              - generic "Verified shop" [ref=f24e373]
+            - generic [ref=f24e376]:
+              - heading "Magnolia Event Planners" [level=3] [ref=f24e377]
+              - paragraph [ref=f24e378]: "@magnoliaeventplannerskenya"
+              - generic [ref=f24e379]: Nairobi
+          - paragraph [ref=f24e384]: Event Planner Passion for all things beautiful. 🇰🇪🇨🇦 We would be delighted to create your dream wedding.
+          - generic [ref=f24e386]:
+            - generic [ref=f24e387]:
+              - generic [ref=f24e388]: ★
+              - generic [ref=f24e389]: ★
+              - generic [ref=f24e390]: ★
+              - generic [ref=f24e391]: ★
+              - generic [ref=f24e392]: ★
+            - generic [ref=f24e393]: No reviews yet
+        - generic [ref=f24e394]: View Shop
+      - link "Blush Events & Design Blush Events & Design @blusheventsanddesign Nairobi Event Planner Luxury & Bespoke Event Decorator | Event Planning 📍🇰🇪 Available worldwide 🌎 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e396] [cursor=pointer]:
+        - /url: /shops/blusheventsanddesign
+        - generic [ref=f24e397]:
+          - generic [ref=f24e398]:
+            - generic [ref=f24e399]:
+              - img "Blush Events & Design" [ref=f24e400]
+              - generic "Verified shop" [ref=f24e401]
+            - generic [ref=f24e404]:
+              - heading "Blush Events & Design" [level=3] [ref=f24e405]
+              - paragraph [ref=f24e406]: "@blusheventsanddesign"
+              - generic [ref=f24e407]: Nairobi
+          - paragraph [ref=f24e412]: Event Planner Luxury & Bespoke Event Decorator | Event Planning 📍🇰🇪 Available worldwide 🌎
+          - generic [ref=f24e414]:
+            - generic [ref=f24e415]:
+              - generic [ref=f24e416]: ★
+              - generic [ref=f24e417]: ★
+              - generic [ref=f24e418]: ★
+              - generic [ref=f24e419]: ★
+              - generic [ref=f24e420]: ★
+            - generic [ref=f24e421]: No reviews yet
+        - generic [ref=f24e422]: View Shop
+      - link "Chic Luxury Chic Luxury @chicluxurycelebrations Nairobi Event Planner Luxury Event Party Planners & Designers. @chicluxuryevents Based in Nairobi, Kenya 0731499713 / 0725502151 𝐡𝐞𝐥𝐥𝐨@𝐜𝐡𝐢𝐜𝐥𝐮𝐱𝐮𝐫𝐲𝐞𝐯𝐞𝐧𝐭𝐬.𝐜𝐨𝐦 ★ ★ ★ ★ ★ No reviews yet View Shop" [ref=f24e424] [cursor=pointer]:
+        - /url: /shops/chicluxurycelebrations
+        - generic [ref=f24e425]:
+          - generic [ref=f24e426]:
+            - generic [ref=f24e427]:
+              - img "Chic Luxury" [ref=f24e428]
+              - generic "Verified shop" [ref=f24e429]
+            - generic [ref=f24e432]:
+              - heading "Chic Luxury" [level=3] [ref=f24e433]
+              - paragraph [ref=f24e434]: "@chicluxurycelebrations"
+              - generic [ref=f24e435]: Nairobi
+          - paragraph [ref=f24e440]: Event Planner Luxury Event Party Planners & Designers. @chicluxuryevents Based in Nairobi, Kenya 0731499713 / 0725502151 𝐡𝐞𝐥𝐥𝐨@𝐜𝐡𝐢𝐜𝐥𝐮𝐱𝐮𝐫𝐲𝐞𝐯𝐞𝐧𝐭𝐬.𝐜𝐨𝐦
+          - generic [ref=f24e442]:
+            - generic [ref=f24e443]:
+              - generic [ref=f24e444]: ★
+              - generic [ref=f24e445]: ★
+              - generic [ref=f24e446]: ★
+              - generic [ref=f24e447]: ★
+              - generic [ref=f24e448]: ★
+            - generic [ref=f24e449]: No reviews yet
+        - generic [ref=f24e450]: View Shop
+    - button "Load More Shops" [ref=f24e453] [cursor=pointer]
+  - contentinfo [ref=f24e454]:
+    - generic [ref=f24e455]:
+      - generic [ref=f24e456]:
+        - generic [ref=f24e457]:
+          - generic [ref=f24e458]:
+            - generic [ref=f24e459]: 🛍️
+            - generic [ref=f24e460]: Dukazote
+          - paragraph [ref=f24e461]: Discover the best Instagram shops in Kenya, all in one place.
+          - generic [ref=f24e462]:
+            - link "Instagram" [ref=f24e463] [cursor=pointer]:
+              - /url: https://instagram.com/dukazote
+            - link "TikTok" [ref=f24e466] [cursor=pointer]:
+              - /url: https://tiktok.com/@dukazote
+        - generic [ref=f24e469]:
+          - link "Browse Shops" [ref=f24e470] [cursor=pointer]:
+            - /url: /shops
+          - link "Categories" [ref=f24e471] [cursor=pointer]:
+            - /url: /categories
+          - link "Blog" [ref=f24e472] [cursor=pointer]:
+            - /url: /blog
+          - link "About" [ref=f24e473] [cursor=pointer]:
+            - /url: /about
+        - paragraph [ref=f24e475]: © 2026 Dukazote. All rights reserved.
+      - generic [ref=f24e476]:
+        - link "Privacy Policy" [ref=f24e477] [cursor=pointer]:
+          - /url: /privacy
+        - generic [ref=f24e478]: ·
+        - link "Terms of Service" [ref=f24e479] [cursor=pointer]:
+          - /url: /terms
+        - generic [ref=f24e480]: ·
+        - link "Cookie Policy" [ref=f24e481] [cursor=pointer]:
+          - /url: /cookies
+  - button "Send feedback" [ref=f24e483] [cursor=pointer]:
+    - generic [ref=f24e487]: Feedback
+  - generic [ref=f24e489]:
+    - generic [ref=f24e490]:
+      - generic [aria-hidden] [ref=f24e491]: 🍪
+      - paragraph [ref=f24e492]:
+        - text: We use cookies to improve your experience and analyse site usage.
+        - link "Learn more" [ref=f24e493] [cursor=pointer]:
+          - /url: /cookies
+    - button "Accept" [ref=f24e494] [cursor=pointer]
+  - alert [ref=f24e495]

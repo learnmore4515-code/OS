@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document Upload — BrokerFlow AI</title>
+<style>
+  /* ===== Design tokens — Kenyan insurance ledger vernacular ===== */
+  :root {
+    --ink: #0F172A;
+    --paper: #FFFFFF;
+    --paper-soft: #F8FAFC;
+    --mpesa-green: #059669;
+    --mpesa-green-dark: #047857;
+    --stamp-red: #DC2626;
+    --stamp-red-bg: #FEF2F2;
+    --matched-bg: #F0FDF4;
+    --border: #E2E8F0;
+    --text-muted: #64748B;
+    --whatsapp: #25D366;
+    --sms: #2563EB;
+    --email: #7C3AED;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-data: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--paper-soft);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+  }
+
+  /* ===== Header ===== */
+  header {
+    border-bottom: 4px solid var(--ink);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .header-eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--mpesa-green);
+    font-weight: 700;
+    margin: 0 0 0.5rem 0;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    letter-spacing: -0.01em;
+  }
+
+  header p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin: 0;
+  }
+
+  /* ===== Cards ===== */
+  .card {
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+
+  .card h2 {
+    margin: 0 0 12px;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #475569;
+    border-bottom: 2px solid #f59e0b;
+    padding-bottom: 6px;
+  }
+
+  /* Case info */
+  .case-info {
+    background: var(--paper-soft);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 12px;
+    font-size: 0.85rem;
+  }
+
+  .case-info p { margin: 4px 0; }
+  .case-info b { color: #475569; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-top: 8px; }
+
+  .docs-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .chip {
+    background: #f1f5f9;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 0.75rem;
+    color: var(--ink);
+  }
+
+  .chip.done {
+    background: var(--matched-bg);
+    border-color: var(--mpesa-green);
+    color: var(--mpesa-green-dark);
+  }
+
+  /* ===== Forms ===== */
+  .field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 10px;
+  }
+
+  .field label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #475569;
+  }
+
+  .field input[type="file"] {
+    padding: 8px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 0.85rem;
+  }
+
+  .field-checkbox {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 14px;
+  }
+
+  .field-checkbox input {
+    width: auto;
+    margin-top: 3px;
+  }
+
+  .hint {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .file-list {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .file-item {
+    background: #f1f5f9;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 6px 8px;
+    margin-bottom: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* ===== Buttons ===== */
+  .btn {
+    border: none;
+    border-radius: 6px;
+    padding: 10px 18px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+  }
+
+  .btn:focus { outline: 2px solid #2563eb; outline-offset: 2px; }
+
+  .btn-success { background: var(--mpesa-green); color: #fff; }
+  .btn-success:hover { background: var(--mpesa-green-dark); }
+  .btn-success:disabled { background: #94a3b8; cursor: not-allowed; }
+  .btn-outline { background: var(--paper); color: var(--ink); border: 1px solid var(--border); }
+  .btn-outline:hover { background: var(--paper-soft); }
+  .btn-whatsapp { background: var(--whatsapp); color: #fff; }
+  .btn-whatsapp:hover { background: #1ebe57; }
+  .btn-email { background: var(--email); color: #fff; }
+  .btn-email:hover { background: #5b21b6; }
+  .btn-group { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  .btn-group .btn { width: auto; }
+
+  /* ===== Confirmation ===== */
+  .confirm {
+    background: var(--matched-bg);
+    border: 1px solid #86efac;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 14px;
+    display: none;
+    text-align: center;
+  }
+
+  .confirm h3 { margin: 0 0 8px; font-size: 1rem; color: var(--mpesa-green-dark); }
+  .confirm p { margin: 0; color: #166534; font-size: 0.85rem; }
+
+  .notice {
+    background: var(--stamp-red-bg);
+    color: var(--stamp-red);
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    margin-bottom: 12px;
+    display: none;
+  }
+
+  /* ===== Channel buttons ===== */
+  .channel-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .ch-whatsapp { background: #dcfce7; color: #166534; }
+  .ch-sms { background: #dbeafe; color: #1e40af; }
+  .ch-email { background: #f3e8ff; color: #6b21a8; }
+
+  /* ===== ODPC ===== */
+  .odpc {
+    background: #fef3c7;
+    border: 1px solid #f59e0b;
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 0.75rem;
+    color: #92400e;
+    margin-bottom: 12px;
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 640px) {
+    .container { padding: 0.75rem 0.75rem; }
+    header h1 { font-size: 1.25rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <p class="header-eyebrow">BrokerFlow AI &bull; Secure upload &bull; No app install</p>
+    <h1>Upload your documents</h1>
+    <p>Send your KYC / claim documents to your broker securely. Works on any mobile browser.</p>
+  </header>
+
+  <!-- Error / not found -->
+  <div class="notice" id="error-notice"></div>
+
+  <!-- Upload form (shown once case found) -->
+  <div id="upload-section" style="display:none;">
+    <div class="card">
+      <h2><span>&#128202;</span> Your case</h2>
+      <div class="case-info" id="case-info"></div>
+      <p><strong>Documents still needed:</strong></p>
+      <div class="docs-chips" id="docs-needed"></div>
+      <p id="docs-received-note" style="font-size:0.8rem;color:var(--text-muted);margin-top:6px;"></p>
+    </div>
+
+    <div class="odpc">
+      By uploading, you consent to your broker collecting and storing these documents under the ODPC Data Protection Act (Kenya). Your documents are stored securely and only shared with your broker and insurer as needed.
+    </div>
+
+    <div class="card">
+      <h2><span>&#128471;</span> Choose files</h2>
+      <div class="field">
+        <label for="file-input">Select document(s) (photo, PDF, or scan)</label>
+        <input type="file" id="file-input" multiple accept="image/*,.pdf,.png,.jpg,.jpeg" />
+        <div class="hint">Take a photo or upload a scan of each required document.</div>
+      </div>
+      <div class="file-list" id="file-list"></div>
+      <button class="btn btn-success" id="upload-btn" disabled>Upload documents</button>
+    </div>
+
+    <div class="confirm" id="confirm-section">
+      <h3>&#10004; Documents submitted</h3>
+      <p>Your documents have been received by your broker. You will be contacted once they are verified.</p>
+    </div>
+
+    <div class="card">
+      <h2><span>&#128221;</span> Other ways to send</h2>
+      <p class="hint">Prefer not to use the upload link? Send your documents directly:</p>
+      <div class="btn-group" id="alt-actions"></div>
+    </div>
+  </div>
+
+  <!-- Not found -->
+  <div id="not-found" style="display:none;">
+    <div class="card">
+      <h2>Link not found</h2>
+      <p>This upload link is invalid or has expired. Please ask your broker for a new document-request link.</p>
+      <div class="btn-group" style="margin-top:12px;">
+        <button class="btn btn-outline" onclick="history.back()">Back</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  /* ===== Shared storage (same origin as broker-dashboard.html) ===== */
+  const STORAGE_KEY = 'brokerflow_cases_v1';
+
+  const CHANNEL_LABEL = {
+    whatsapp: 'WhatsApp',
+    sms: 'SMS',
+    email: 'Email',
+  };
+  const N8N_BASE_URL = 'https://simongreenmmm.app.n8n.cloud'; // n8n instance
+
+  async function postToN8n(path, body) {
+    try {
+      const res = await fetch(N8N_BASE_URL + '/webhook/' + path, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      return await res.json();
+    } catch (err) {
+      console.warn('n8n webhook unavailable, continuing in local-only mode:', err);
+      return null;
+    }
+  }
+
+  /* ===== Parse token from URL ===== */
+  function getToken() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('token');
+  }
+
+  function loadCases() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+    } catch { return []; }
+  }
+
+  function saveCases(cases) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cases));
+  }
+
+  /* ===== Init ===== */
+  const token = getToken();
+  const cases = loadCases();
+  const c = cases.find(x => x.linkToken === token);
+
+  const uploadSection = document.getElementById('upload-section');
+  const notFound = document.getElementById('not-found');
+  const errorNotice = document.getElementById('error-notice');
+
+  if (!c) {
+    uploadSection.style.display = 'none';
+    notFound.style.display = 'block';
+    errorNotice.style.display = 'none';
+    // Do not show a generic notice; the not-found card is sufficient.
+  } else {
+    uploadSection.style.display = 'block';
+    notFound.style.display = 'none';
+
+    // Populate case info
+    document.getElementById('case-info').innerHTML = `
+      <p><b>Client:</b> ${escapeHtml(c.clientName)}</p>
+      <p><b>Policy:</b> ${c.policyType.charAt(0).toUpperCase() + c.policyType.slice(1)}</p>
+      <p><b>Deadline:</b> ${escapeHtml(c.deadline)}</p>
+      <p><b>Channel:</b> <span class="channel-badge ${c.channel === 'whatsapp' ? 'ch-whatsapp' : c.channel === 'sms' ? 'ch-sms' : 'ch-email'}">${CHANNEL_LABEL[c.channel]}</span></p>
+      <p><b>Days since request:</b> ${c.daysSinceRequest || 0}d</p>
+    `;
+
+    const docsNeeded = document.getElementById('docs-needed');
+    const docsReceivedNote = document.getElementById('docs-received-note');
+
+    function renderDocs() {
+      const stillMissing = c.docsMissing || [];
+      const alreadyReceived = c.docsReceived || [];
+      docsNeeded.innerHTML = stillMissing.map(d => `<span class="chip">${escapeHtml(d)}</span>`).join('') || '<span style="color:var(--text-muted);font-size:0.7rem;">&mdash; all documents received</span>';
+      docsReceivedNote.textContent = alreadyReceived.length
+        ? 'Already received: ' + alreadyReceived.map(d => escapeHtml(d)).join(', ') + '.'
+        : '';
+    }
+    renderDocs();
+
+    // File selection
+    const fileInput = document.getElementById('file-input');
+    const fileList = document.getElementById('file-list');
+    const uploadBtn = document.getElementById('upload-btn');
+    let selectedFiles = [];
+
+    fileInput.addEventListener('change', function () {
+      selectedFiles = Array.from(this.files || []);
+      fileList.innerHTML = selectedFiles.map(f => `
+        <div class="file-item">
+          <span>${escapeHtml(f.name)}</span>
+          <span style="font-family:var(--font-data);font-size:0.7rem;">${(f.size / 1024).toFixed(1)} KB</span>
+        </div>
+      `).join('');
+      uploadBtn.disabled = selectedFiles.length === 0;
+    });
+
+    // Upload
+    document.getElementById('upload-btn').addEventListener('click', async function () {
+      if (selectedFiles.length === 0) return;
+
+      const uploadedNames = selectedFiles.map(f => escapeHtml(f.name));
+
+      // POST upload confirmation to n8n (logs to Upload Logs sheet)
+      await postToN8n('brokerflow-upload-confirm', {
+        caseId: c.id || c.caseId,
+        uploadToken: c.linkToken || c.uploadToken,
+        uploadedFiles: uploadedNames,
+        clientEmail: c.clientEmail,
+      });
+
+      // Move docs from missing to received (mark all outstanding as received on upload)
+      const stillMissing = c.docsMissing || [];
+      c.docsReceived = [...(c.docsReceived || []), ...stillMissing];
+      c.docsMissing = [];
+      c.status = 'docs_received';
+      c.lastContact = new Date().toISOString().slice(0, 10);
+
+      // Add communication entry
+      c.communication = c.communication || [];
+      c.communication.push({
+        channel: c.channel,
+        direction: 'inbound',
+        body: 'Client uploaded document(s): ' + uploadedNames.join(', ') + '.',
+        timestamp: new Date().toISOString(),
+      });
+
+      saveCases(cases);
+
+      // Show confirmation, hide form
+      uploadSection.style.display = 'none';
+      document.getElementById('confirm-section').style.display = 'block';
+    });
+
+    // Alternative submission actions
+    const altActions = document.getElementById('alt-actions');
+    const whatsappLink = `https://wa.me/${encodeURIComponent(c.clientPhone)}`;
+    const emailLink = c.clientEmail ? `mailto:${encodeURIComponent(c.clientEmail)}?subject=Document submission - ${escapeHtml(c.clientName)}` : null;
+
+    let altHtml = `<a href="${escapeHtml(whatsappLink)}" class="btn btn-whatsapp" target="_blank">Send via WhatsApp</a>`;
+    if (emailLink) {
+      altHtml += `<a href="${escapeHtml(emailLink)}" class="btn btn-email">Send via Email</a>`;
+    }
+    altActions.innerHTML = altHtml;
+
+    renderDocs();
+  }
+
+  function escapeHtml(t) {
+    const div = document.createElement('div');
+    div.textContent = t;
+    return div.innerHTML;
+  }
+
+</script>
+
+</body>
+</html>

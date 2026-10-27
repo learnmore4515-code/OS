@@ -1,0 +1,654 @@
+# Transcript: t_FUcOE4stk
+Language: en
+
+[0.2s - 2.3s] If you're an AI builder or freelancer
+[2.3s - 2.3s] If you're an AI builder or freelancer
+[2.3s - 4.3s] If you're an AI builder or freelancer struggling to land clients, or if you're
+[4.3s - 4.3s] struggling to land clients, or if you're
+[4.3s - 6.2s] struggling to land clients, or if you're out here chasing one project after
+[6.2s - 6.2s] out here chasing one project after
+[6.2s - 7.7s] out here chasing one project after another just trying to keep the lights
+[7.7s - 7.8s] another just trying to keep the lights
+[7.8s - 10.0s] another just trying to keep the lights on, then pay close attention because in
+[10.0s - 10.0s] on, then pay close attention because in
+[10.0s - 11.2s] on, then pay close attention because in this video, I'm going to take you
+[11.2s - 11.2s] this video, I'm going to take you
+[11.2s - 13.3s] this video, I'm going to take you through the exact AI consulting playbook
+[13.3s - 13.3s] through the exact AI consulting playbook
+[13.3s - 15.5s] through the exact AI consulting playbook that took me from zero to hitting
+[15.5s - 15.5s] that took me from zero to hitting
+[15.5s - 18.3s] that took me from zero to hitting consistent 10K months in under 3 months.
+[18.3s - 18.3s] consistent 10K months in under 3 months.
+[18.3s - 20.6s] consistent 10K months in under 3 months. And I'm not talking about grinding 80our
+[20.6s - 20.6s] And I'm not talking about grinding 80our
+[20.6s - 23.3s] And I'm not talking about grinding 80our weeks or hustling on Upwork for $15 an
+[23.3s - 23.4s] weeks or hustling on Upwork for $15 an
+[23.4s - 24.9s] weeks or hustling on Upwork for $15 an hour. I'm talking about positioning
+[24.9s - 25.0s] hour. I'm talking about positioning
+[25.0s - 26.9s] hour. I'm talking about positioning yourself as an AI consultant who
+[26.9s - 26.9s] yourself as an AI consultant who
+[26.9s - 29.3s] yourself as an AI consultant who commands premium prices for high-v value
+[29.3s - 29.3s] commands premium prices for high-v value
+[29.3s - 30.9s] commands premium prices for high-v value systems. For those who don't know me,
+[30.9s - 30.9s] systems. For those who don't know me,
+[30.9s - 32.9s] systems. For those who don't know me, I'm Lindsay Gonzalez. I'm an AI
+[32.9s - 32.9s] I'm Lindsay Gonzalez. I'm an AI
+[32.9s - 34.9s] I'm Lindsay Gonzalez. I'm an AI consultant and over the last 9 months,
+[34.9s - 34.9s] consultant and over the last 9 months,
+[34.9s - 37.4s] consultant and over the last 9 months, I've deployed more than 50 AI automation
+[37.4s - 37.4s] I've deployed more than 50 AI automation
+[37.4s - 39.6s] I've deployed more than 50 AI automation systems across multiple industries and
+[39.6s - 39.6s] systems across multiple industries and
+[39.6s - 42.1s] systems across multiple industries and brought home over $100,000 in revenue.
+[42.1s - 42.2s] brought home over $100,000 in revenue.
+[42.2s - 44.1s] brought home over $100,000 in revenue. But here's the thing, it wasn't always
+[44.1s - 44.1s] But here's the thing, it wasn't always
+[44.1s - 46.4s] But here's the thing, it wasn't always like this. A year ago, I was working at
+[46.4s - 46.4s] like this. A year ago, I was working at
+[46.4s - 48.6s] like this. A year ago, I was working at a 9 to5 doing marketing for a small
+[48.6s - 48.6s] a 9 to5 doing marketing for a small
+[48.6s - 51.6s] a 9 to5 doing marketing for a small insulation company and barely pulling in
+[51.6s - 51.6s] insulation company and barely pulling in
+[51.6s - 53.8s] insulation company and barely pulling in $50,000 a year. And look, that might
+[53.8s - 53.8s] $50,000 a year. And look, that might
+[53.8s - 56.5s] $50,000 a year. And look, that might sound okay on paper, but after rent,
+[56.5s - 56.6s] sound okay on paper, but after rent,
+[56.6s - 58.7s] sound okay on paper, but after rent, groceries, and credit card bills, I was
+[58.7s - 58.7s] groceries, and credit card bills, I was
+[58.7s - 61.0s] groceries, and credit card bills, I was basically broke. I had a ton of debt.
+[61.0s - 61.0s] basically broke. I had a ton of debt.
+[61.0s - 62.8s] basically broke. I had a ton of debt. Every time I had to buy something, I
+[62.8s - 62.8s] Every time I had to buy something, I
+[62.8s - 64.3s] Every time I had to buy something, I would check my bank account first just
+[64.3s - 64.3s] would check my bank account first just
+[64.3s - 65.9s] would check my bank account first just to make sure I had enough money to pay
+[65.9s - 65.9s] to make sure I had enough money to pay
+[65.9s - 68.3s] to make sure I had enough money to pay for it. I was feeling depressed, and my
+[68.3s - 68.3s] for it. I was feeling depressed, and my
+[68.3s - 71.0s] for it. I was feeling depressed, and my life felt like Groundhog Day. Wake up,
+[71.0s - 71.0s] life felt like Groundhog Day. Wake up,
+[71.0s - 73.8s] life felt like Groundhog Day. Wake up, go to work, come home, take a shower,
+[73.8s - 73.8s] go to work, come home, take a shower,
+[73.8s - 75.5s] go to work, come home, take a shower, repeat. And during that time, I was
+[75.5s - 75.5s] repeat. And during that time, I was
+[75.5s - 77.3s] repeat. And during that time, I was learning how to build AI agents on the
+[77.3s - 77.4s] learning how to build AI agents on the
+[77.4s - 79.3s] learning how to build AI agents on the side so that I could eventually quit my
+[79.3s - 79.3s] side so that I could eventually quit my
+[79.3s - 82.1s] side so that I could eventually quit my job. But things were hard, like really
+[82.1s - 82.1s] job. But things were hard, like really
+[82.1s - 84.2s] job. But things were hard, like really hard. I was drowning in YouTube
+[84.2s - 84.2s] hard. I was drowning in YouTube
+[84.2s - 86.2s] hard. I was drowning in YouTube tutorials [music] and feeling completely
+[86.2s - 86.2s] tutorials [music] and feeling completely
+[86.2s - 88.4s] tutorials [music] and feeling completely lost. So, I found mentorship with a
+[88.4s - 88.4s] lost. So, I found mentorship with a
+[88.4s - 90.1s] lost. So, I found mentorship with a couple of guys, [music] people I still
+[90.1s - 90.1s] couple of guys, [music] people I still
+[90.1s - 92.5s] couple of guys, [music] people I still partner with to this day. And within a
+[92.5s - 92.6s] partner with to this day. And within a
+[92.6s - 94.3s] partner with to this day. And within a few weeks of partnering with them, I
+[94.3s - 94.3s] few weeks of partnering with them, I
+[94.3s - 96.4s] few weeks of partnering with them, I could build just about any AI automation
+[96.4s - 96.4s] could build just about any AI automation
+[96.4s - 98.1s] could build just about any AI automation that you could think of. And that's how
+[98.1s - 98.1s] that you could think of. And that's how
+[98.1s - 99.5s] that you could think of. And that's how fast you can learn something when you
+[99.5s - 99.5s] fast you can learn something when you
+[99.5s - 101.3s] fast you can learn something when you have the right mentors guiding you. Then
+[101.3s - 101.3s] have the right mentors guiding you. Then
+[101.3s - 103.2s] have the right mentors guiding you. Then I applied on Upwork and I landed my
+[103.2s - 103.2s] I applied on Upwork and I landed my
+[103.2s - 105.1s] I applied on Upwork and I landed my first client who needed an AI agent
+[105.1s - 105.1s] first client who needed an AI agent
+[105.1s - 106.8s] first client who needed an AI agent built for real estate marketing. I got
+[106.8s - 106.8s] built for real estate marketing. I got
+[106.8s - 108.4s] built for real estate marketing. I got [clears throat] paid $4,000 for that
+[108.4s - 108.4s] [clears throat] paid $4,000 for that
+[108.4s - 110.3s] [clears throat] paid $4,000 for that project and I was like, "Okay, this is
+[110.3s - 110.3s] project and I was like, "Okay, this is
+[110.3s - 111.9s] project and I was like, "Okay, this is real. I could actually make a living
+[111.9s - 111.9s] real. I could actually make a living
+[111.9s - 113.7s] real. I could actually make a living doing this. But here's the problem with
+[113.7s - 113.8s] doing this. But here's the problem with
+[113.8s - 116.2s] doing this. But here's the problem with Upwork. I was trading my time for money
+[116.2s - 116.2s] Upwork. I was trading my time for money
+[116.2s - 118.0s] Upwork. I was trading my time for money instead of getting paid based on the
+[118.0s - 118.0s] instead of getting paid based on the
+[118.0s - 119.9s] instead of getting paid based on the value that I provide. [music] It felt
+[119.9s - 119.9s] value that I provide. [music] It felt
+[119.9s - 122.5s] value that I provide. [music] It felt like another 9 to5. So I decided to try
+[122.5s - 122.5s] like another 9 to5. So I decided to try
+[122.5s - 125.2s] like another 9 to5. So I decided to try cold emailing. I pulled 250 leads, sent
+[125.2s - 125.2s] cold emailing. I pulled 250 leads, sent
+[125.2s - 127.3s] cold emailing. I pulled 250 leads, sent out a bunch of emails, and got [music]
+[127.3s - 127.3s] out a bunch of emails, and got [music]
+[127.3s - 130.1s] out a bunch of emails, and got [music] nothing. Zero responses. I was
+[130.1s - 130.1s] nothing. Zero responses. I was
+[130.1s - 132.2s] nothing. Zero responses. I was frustrated as hell. So I found another
+[132.2s - 132.2s] frustrated as hell. So I found another
+[132.2s - 134.1s] frustrated as hell. So I found another mentor to help me with lead generation.
+[134.1s - 134.1s] mentor to help me with lead generation.
+[134.1s - 136.3s] mentor to help me with lead generation. He gave me his email scripts, sales
+[136.3s - 136.3s] He gave me his email scripts, sales
+[136.3s - 138.8s] He gave me his email scripts, sales frameworks, SOPs on how to price my
+[138.8s - 138.8s] frameworks, SOPs on how to price my
+[138.8s - 141.3s] frameworks, SOPs on how to price my services. And two weeks later, I signed
+[141.3s - 141.3s] services. And two weeks later, I signed
+[141.3s - 143.0s] services. And two weeks later, I signed my first major project, [music] an
+[143.0s - 143.0s] my first major project, [music] an
+[143.0s - 144.6s] my first major project, [music] an accountant that needed an air table
+[144.6s - 144.6s] accountant that needed an air table
+[144.6s - 147.2s] accountant that needed an air table database setup to automate email and SMS
+[147.2s - 147.2s] database setup to automate email and SMS
+[147.2s - 149.8s] database setup to automate email and SMS communication. And I got paid $5,000 for
+[149.8s - 149.8s] communication. And I got paid $5,000 for
+[149.8s - 151.3s] communication. And I got paid $5,000 for something that only took me a few hours
+[151.3s - 151.3s] something that only took me a few hours
+[151.3s - 153.8s] something that only took me a few hours [music] to build. It was kind of unreal.
+[153.8s - 153.8s] [music] to build. It was kind of unreal.
+[153.8s - 155.8s] [music] to build. It was kind of unreal. And the best part is that I could then
+[155.8s - 155.8s] And the best part is that I could then
+[155.8s - 157.5s] And the best part is that I could then sell that same automation to [music]
+[157.5s - 157.5s] sell that same automation to [music]
+[157.5s - 159.2s] sell that same automation to [music] every business who needed it. That was
+[159.2s - 159.2s] every business who needed it. That was
+[159.2s - 161.1s] every business who needed it. That was the first time that I started charging
+[161.1s - 161.1s] the first time that I started charging
+[161.1s - 163.2s] the first time that I started charging based on the value that I provided. And
+[163.2s - 163.2s] based on the value that I provided. And
+[163.2s - 165.4s] based on the value that I provided. And within about 2 weeks, I hit my first
+[165.4s - 165.4s] within about 2 weeks, I hit my first
+[165.4s - 167.3s] within about 2 weeks, I hit my first $10,000 month. And that's when my life
+[167.3s - 167.4s] $10,000 month. And that's when my life
+[167.4s - 169.5s] $10,000 month. And that's when my life changed completely. I could finally quit
+[169.5s - 169.5s] changed completely. I could finally quit
+[169.5s - 172.2s] changed completely. I could finally quit my 9 to5 and work at home wearing a
+[172.2s - 172.2s] my 9 to5 and work at home wearing a
+[172.2s - 174.6s] my 9 to5 and work at home wearing a Snuggie with my cat on my lap. I paid
+[174.6s - 174.6s] Snuggie with my cat on my lap. I paid
+[174.6s - 176.6s] Snuggie with my cat on my lap. I paid off a bunch of debt. I stopped worrying
+[176.6s - 176.6s] off a bunch of debt. I stopped worrying
+[176.6s - 178.8s] off a bunch of debt. I stopped worrying about bills. I could help out my little
+[178.8s - 178.8s] about bills. I could help out my little
+[178.8s - 180.8s] about bills. I could help out my little niece when she needed money for gas or
+[180.8s - 180.8s] niece when she needed money for gas or
+[180.8s - 183.6s] niece when she needed money for gas or expenses. I could afford some luxuries.
+[183.6s - 183.6s] expenses. I could afford some luxuries.
+[183.6s - 185.5s] expenses. I could afford some luxuries. And most importantly, I could work only
+[185.5s - 185.5s] And most importantly, I could work only
+[185.5s - 187.7s] And most importantly, I could work only on projects that actually excited me,
+[187.7s - 187.7s] on projects that actually excited me,
+[187.7s - 189.8s] on projects that actually excited me, which made my work way more enjoyable.
+[189.8s - 189.8s] which made my work way more enjoyable.
+[189.8s - 191.3s] which made my work way more enjoyable. Now, I know a lot of you are probably
+[191.3s - 191.4s] Now, I know a lot of you are probably
+[191.4s - 193.2s] Now, I know a lot of you are probably wondering, "How did you do that? How is
+[193.2s - 193.2s] wondering, "How did you do that? How is
+[193.2s - 194.9s] wondering, "How did you do that? How is that even possible?" Well, that's
+[194.9s - 194.9s] that even possible?" Well, that's
+[194.9s - 196.8s] that even possible?" Well, that's exactly why I made this video to break
+[196.8s - 196.8s] exactly why I made this video to break
+[196.8s - 198.9s] exactly why I made this video to break down the exact method that I use to land
+[198.9s - 198.9s] down the exact method that I use to land
+[198.9s - 201.7s] down the exact method that I use to land $5,000 a month AI automation clients so
+[201.7s - 201.7s] $5,000 a month AI automation clients so
+[201.7s - 203.7s] $5,000 a month AI automation clients so that you can do the same. If you want to
+[203.7s - 203.7s] that you can do the same. If you want to
+[203.7s - 205.8s] that you can do the same. If you want to land a client, you need four things. The
+[205.8s - 205.8s] land a client, you need four things. The
+[205.8s - 208.6s] land a client, you need four things. The right niche, a killer offer, consistent
+[208.6s - 208.6s] right niche, a killer offer, consistent
+[208.6s - 210.8s] right niche, a killer offer, consistent outreach, and a sales process that
+[210.8s - 210.8s] outreach, and a sales process that
+[210.8s - 212.9s] outreach, and a sales process that actually closes. Let me break down
+[212.9s - 213.0s] actually closes. Let me break down
+[213.0s - 214.8s] actually closes. Let me break down exactly how I've used this to build
+[214.8s - 214.8s] exactly how I've used this to build
+[214.8s - 217.4s] exactly how I've used this to build consistent 5 figure months. Let's go.
+[217.4s - 217.4s] consistent 5 figure months. Let's go.
+[217.4s - 219.3s] consistent 5 figure months. Let's go. So, start with what you know. Pick a
+[219.3s - 219.4s] So, start with what you know. Pick a
+[219.4s - 221.2s] So, start with what you know. Pick a niche you understand, either because you
+[221.2s - 221.2s] niche you understand, either because you
+[221.2s - 223.0s] niche you understand, either because you worked in it, you have connections in
+[223.0s - 223.0s] worked in it, you have connections in
+[223.0s - 225.5s] worked in it, you have connections in it, or someone close to you does. I
+[225.5s - 225.5s] it, or someone close to you does. I
+[225.5s - 227.0s] it, or someone close to you does. I started with insulation companies
+[227.0s - 227.0s] started with insulation companies
+[227.0s - 229.0s] started with insulation companies because I literally worked for one. Then
+[229.0s - 229.0s] because I literally worked for one. Then
+[229.0s - 230.8s] because I literally worked for one. Then I expanded to similar home service
+[230.8s - 230.8s] I expanded to similar home service
+[230.8s - 233.3s] I expanded to similar home service businesses like HVAC, roofing, pest
+[233.3s - 233.4s] businesses like HVAC, roofing, pest
+[233.4s - 235.3s] businesses like HVAC, roofing, pest control. And here's the key. You're not
+[235.3s - 235.3s] control. And here's the key. You're not
+[235.3s - 237.2s] control. And here's the key. You're not getting married to this niche. You're
+[237.2s - 237.2s] getting married to this niche. You're
+[237.2s - 239.4s] getting married to this niche. You're just taking action. The niche must have
+[239.4s - 239.4s] just taking action. The niche must have
+[239.4s - 241.9s] just taking action. The niche must have painful, expensive problems. Problems
+[241.9s - 241.9s] painful, expensive problems. Problems
+[241.9s - 243.9s] painful, expensive problems. Problems that keep business owners up at night.
+[243.9s - 243.9s] that keep business owners up at night.
+[243.9s - 245.9s] that keep business owners up at night. Problems that cost them real money. And
+[245.9s - 245.9s] Problems that cost them real money. And
+[245.9s - 247.8s] Problems that cost them real money. And service-based businesses are the sweet
+[247.8s - 247.8s] service-based businesses are the sweet
+[247.8s - 249.8s] service-based businesses are the sweet spot. Why? Because they're not paying
+[249.8s - 249.8s] spot. Why? Because they're not paying
+[249.8s - 251.9s] spot. Why? Because they're not paying for materials. That means higher profit
+[251.9s - 251.9s] for materials. That means higher profit
+[251.9s - 253.8s] for materials. That means higher profit margins and that means they can afford
+[253.8s - 253.8s] margins and that means they can afford
+[253.8s - 255.8s] margins and that means they can afford to pay you more. So, your first move is
+[255.8s - 255.8s] to pay you more. So, your first move is
+[255.8s - 257.8s] to pay you more. So, your first move is talk to real business owners. Start with
+[257.8s - 257.8s] talk to real business owners. Start with
+[257.8s - 260.0s] talk to real business owners. Start with your warm network, people you know or
+[260.0s - 260.0s] your warm network, people you know or
+[260.0s - 262.3s] your warm network, people you know or people who know the people you know. Ask
+[262.3s - 262.3s] people who know the people you know. Ask
+[262.3s - 264.4s] people who know the people you know. Ask them, "What are your top three daily
+[264.4s - 264.4s] them, "What are your top three daily
+[264.4s - 266.6s] them, "What are your top three daily frustrations? What keeps you up at night
+[266.6s - 266.6s] frustrations? What keeps you up at night
+[266.6s - 268.4s] frustrations? What keeps you up at night staring at the ceiling? Where is your
+[268.4s - 268.4s] staring at the ceiling? Where is your
+[268.4s - 270.4s] staring at the ceiling? Where is your business bleeding time or money?" Write
+[270.4s - 270.4s] business bleeding time or money?" Write
+[270.4s - 272.6s] business bleeding time or money?" Write down everything. These conversations are
+[272.6s - 272.6s] down everything. These conversations are
+[272.6s - 274.5s] down everything. These conversations are gold. They're telling you exactly what
+[274.5s - 274.5s] gold. They're telling you exactly what
+[274.5s - 276.4s] gold. They're telling you exactly what to build and how much they'll pay for
+[276.4s - 276.4s] to build and how much they'll pay for
+[276.4s - 278.1s] to build and how much they'll pay for [music] it. Once you know the painful
+[278.1s - 278.1s] [music] it. Once you know the painful
+[278.1s - 280.1s] [music] it. Once you know the painful problems, figure out how to solve them.
+[280.1s - 280.2s] problems, figure out how to solve them.
+[280.2s - 282.9s] problems, figure out how to solve them. Partner with AI. Use chat GPT, Claude,
+[282.9s - 282.9s] Partner with AI. Use chat GPT, Claude,
+[282.9s - 285.2s] Partner with AI. Use chat GPT, Claude, or whatever LLM that you vibe with and
+[285.2s - 285.2s] or whatever LLM that you vibe with and
+[285.2s - 287.4s] or whatever LLM that you vibe with and then learn the tools. I use NAND to
+[287.4s - 287.4s] then learn the tools. I use NAND to
+[287.4s - 289.4s] then learn the tools. I use NAND to build workflows, but there are plenty of
+[289.4s - 289.4s] build workflows, but there are plenty of
+[289.4s - 291.5s] build workflows, but there are plenty of options. And here's the priority. Pick
+[291.5s - 291.5s] options. And here's the priority. Pick
+[291.5s - 293.4s] options. And here's the priority. Pick the problem that will make them more
+[293.4s - 293.4s] the problem that will make them more
+[293.4s - 294.9s] the problem that will make them more money. If you can increase their
+[294.9s - 294.9s] money. If you can increase their
+[294.9s - 296.9s] money. If you can increase their revenue, they'll pay you high ticket and
+[296.9s - 296.9s] revenue, they'll pay you high ticket and
+[296.9s - 298.6s] revenue, they'll pay you high ticket and they'll want to keep you around. Saving
+[298.6s - 298.6s] they'll want to keep you around. Saving
+[298.6s - 301.3s] they'll want to keep you around. Saving time is good. Saving money is good. But
+[301.3s - 301.3s] time is good. Saving money is good. But
+[301.3s - 303.3s] time is good. Saving money is good. But making them more money, that is the
+[303.3s - 303.3s] making them more money, that is the
+[303.3s - 305.4s] making them more money, that is the golden ticket. Build a solution. It
+[305.4s - 305.4s] golden ticket. Build a solution. It
+[305.4s - 307.1s] golden ticket. Build a solution. It doesn't have to be perfect. Build a
+[307.1s - 307.1s] doesn't have to be perfect. Build a
+[307.1s - 309.3s] doesn't have to be perfect. Build a working prototype. Then go back to those
+[309.3s - 309.3s] working prototype. Then go back to those
+[309.3s - 311.0s] working prototype. Then go back to those business owners you talked to and say,
+[311.0s - 311.0s] business owners you talked to and say,
+[311.0s - 313.0s] business owners you talked to and say, "Hey, remember that painful problem you
+[313.0s - 313.0s] "Hey, remember that painful problem you
+[313.0s - 315.3s] "Hey, remember that painful problem you told me about? I built a solution. Want
+[315.3s - 315.3s] told me about? I built a solution. Want
+[315.3s - 317.1s] told me about? I built a solution. Want to try it free for a month?" I just ask
+[317.1s - 317.1s] to try it free for a month?" I just ask
+[317.1s - 318.9s] to try it free for a month?" I just ask that I can use your results as a case
+[318.9s - 319.0s] that I can use your results as a case
+[319.0s - 320.7s] that I can use your results as a case study. And then if you love it, we can
+[320.7s - 320.7s] study. And then if you love it, we can
+[320.7s - 323.1s] study. And then if you love it, we can talk about payment. If not, no problem.
+[323.1s - 323.1s] talk about payment. If not, no problem.
+[323.1s - 325.2s] talk about payment. If not, no problem. This is your beta offer. You get real
+[325.2s - 325.2s] This is your beta offer. You get real
+[325.2s - 327.2s] This is your beta offer. You get real results, real testimonials, and real
+[327.2s - 327.2s] results, real testimonials, and real
+[327.2s - 329.5s] results, real testimonials, and real case studies. That is your rocket fuel.
+[329.5s - 329.5s] case studies. That is your rocket fuel.
+[329.5s - 330.9s] case studies. That is your rocket fuel. [music] And once you've got your first
+[330.9s - 330.9s] [music] And once you've got your first
+[330.9s - 333.4s] [music] And once you've got your first win, reach out to similar businesses. If
+[333.4s - 333.4s] win, reach out to similar businesses. If
+[333.4s - 335.1s] win, reach out to similar businesses. If you built something for a restaurant,
+[335.1s - 335.1s] you built something for a restaurant,
+[335.1s - 336.9s] you built something for a restaurant, reach out to more restaurants. If you
+[336.9s - 337.0s] reach out to more restaurants. If you
+[337.0s - 339.1s] reach out to more restaurants. If you solved a problem for an HVAC company,
+[339.1s - 339.1s] solved a problem for an HVAC company,
+[339.1s - 341.3s] solved a problem for an HVAC company, start with other HVAC companies. Then
+[341.3s - 341.3s] start with other HVAC companies. Then
+[341.3s - 343.0s] start with other HVAC companies. Then expand to related home service
+[343.0s - 343.0s] expand to related home service
+[343.0s - 345.7s] expand to related home service businesses and use this exact format.
+[345.7s - 345.7s] businesses and use this exact format.
+[345.7s - 348.9s] businesses and use this exact format. Hey name, I built specific solution to
+[348.9s - 348.9s] Hey name, I built specific solution to
+[348.9s - 351.2s] Hey name, I built specific solution to solve specific problem for business
+[351.2s - 351.2s] solve specific problem for business
+[351.2s - 353.7s] solve specific problem for business type. I was able to generate specific
+[353.7s - 353.8s] type. I was able to generate specific
+[353.8s - 356.5s] type. I was able to generate specific result without specific blocker. I'm
+[356.5s - 356.5s] result without specific blocker. I'm
+[356.5s - 358.0s] result without specific blocker. I'm confident that I can get you the same
+[358.0s - 358.0s] confident that I can get you the same
+[358.0s - 360.1s] confident that I can get you the same result or better. And I'm so confident
+[360.1s - 360.2s] result or better. And I'm so confident
+[360.2s - 362.6s] result or better. And I'm so confident that if I don't deliver, you don't pay.
+[362.6s - 362.6s] that if I don't deliver, you don't pay.
+[362.6s - 364.6s] that if I don't deliver, you don't pay. Are you interested? Volume is the name
+[364.6s - 364.6s] Are you interested? Volume is the name
+[364.6s - 366.7s] Are you interested? Volume is the name of the game. Get your offer in front of
+[366.7s - 366.7s] of the game. Get your offer in front of
+[366.7s - 368.6s] of the game. Get your offer in front of hundreds or thousands of people.
+[368.6s - 368.6s] hundreds or thousands of people.
+[368.6s - 371.4s] hundreds or thousands of people. LinkedIn, Facebook, [music] Instagram,
+[371.4s - 371.4s] LinkedIn, Facebook, [music] Instagram,
+[371.4s - 373.7s] LinkedIn, Facebook, [music] Instagram, school, cold email, wherever your target
+[373.7s - 373.7s] school, cold email, wherever your target
+[373.7s - 376.5s] school, cold email, wherever your target audience hangs out. Do this consistently
+[376.5s - 376.5s] audience hangs out. Do this consistently
+[376.5s - 378.7s] audience hangs out. Do this consistently every single [music] day. This isn't a
+[378.7s - 378.7s] every single [music] day. This isn't a
+[378.7s - 381.4s] every single [music] day. This isn't a post once and hope strategy. This is
+[381.4s - 381.4s] post once and hope strategy. This is
+[381.4s - 383.4s] post once and hope strategy. This is systematic outreach until you have more
+[383.4s - 383.4s] systematic outreach until you have more
+[383.4s - 385.4s] systematic outreach until you have more calls than you can handle. When someone
+[385.4s - 385.4s] calls than you can handle. When someone
+[385.4s - 388.1s] calls than you can handle. When someone says yes to a call, your job is to
+[388.1s - 388.1s] says yes to a call, your job is to
+[388.1s - 389.7s] says yes to a call, your job is to understand their problem better than
+[389.7s - 389.8s] understand their problem better than
+[389.8s - 391.9s] understand their problem better than they do. Record the call with Fathom or
+[391.9s - 391.9s] they do. Record the call with Fathom or
+[391.9s - 393.4s] they do. Record the call with Fathom or something similar so that then you have
+[393.4s - 393.4s] something similar so that then you have
+[393.4s - 396.1s] something similar so that then you have a transcript and ask questions like what
+[396.1s - 396.2s] a transcript and ask questions like what
+[396.2s - 397.8s] a transcript and ask questions like what made you book this call? What's not
+[397.8s - 397.8s] made you book this call? What's not
+[397.8s - 399.7s] made you book this call? What's not working the way you want it to? Where
+[399.7s - 399.7s] working the way you want it to? Where
+[399.7s - 402.1s] working the way you want it to? Where are you or your team spending time that
+[402.1s - 402.1s] are you or your team spending time that
+[402.1s - 404.1s] are you or your team spending time that could be automated? Where are leads
+[404.1s - 404.2s] could be automated? Where are leads
+[404.2s - 405.8s] could be automated? Where are leads falling through the cracks? What's this
+[405.8s - 405.8s] falling through the cracks? What's this
+[405.8s - 408.1s] falling through the cracks? What's this costing you in time in energy and
+[408.1s - 408.2s] costing you in time in energy and
+[408.2s - 410.5s] costing you in time in energy and growth? What have you tried already and
+[410.5s - 410.5s] growth? What have you tried already and
+[410.5s - 413.2s] growth? What have you tried already and why didn't it work? And ask why over and
+[413.2s - 413.2s] why didn't it work? And ask why over and
+[413.2s - 415.4s] why didn't it work? And ask why over and over and over again until you get to the
+[415.4s - 415.4s] over and over again until you get to the
+[415.4s - 417.7s] over and over again until you get to the root issue and then reflect it back. So,
+[417.7s - 417.8s] root issue and then reflect it back. So,
+[417.8s - 420.0s] root issue and then reflect it back. So, just to reflect what I'm hearing, then
+[420.0s - 420.0s] just to reflect what I'm hearing, then
+[420.0s - 422.0s] just to reflect what I'm hearing, then summarize their pain points. It sounds
+[422.0s - 422.0s] summarize their pain points. It sounds
+[422.0s - 424.7s] summarize their pain points. It sounds like you're looking for desired outcome.
+[424.7s - 424.7s] like you're looking for desired outcome.
+[424.7s - 426.6s] like you're looking for desired outcome. But right now, you're stuck at
+[426.6s - 426.6s] But right now, you're stuck at
+[426.6s - 428.9s] But right now, you're stuck at bottleneck. And if that was fixed, it
+[428.9s - 428.9s] bottleneck. And if that was fixed, it
+[428.9s - 431.7s] bottleneck. And if that was fixed, it would unlock freedom, growth, revenue.
+[431.7s - 431.8s] would unlock freedom, growth, revenue.
+[431.8s - 433.8s] would unlock freedom, growth, revenue. Is that right? Then say, "This gives me
+[433.8s - 433.8s] Is that right? Then say, "This gives me
+[433.8s - 435.7s] Is that right? Then say, "This gives me a really clear picture. I'll map out
+[435.7s - 435.8s] a really clear picture. I'll map out
+[435.8s - 437.5s] a really clear picture. I'll map out some solutions and I'll email you in the
+[437.5s - 437.5s] some solutions and I'll email you in the
+[437.5s - 439.6s] some solutions and I'll email you in the next hour. Sound good?" And then send
+[439.6s - 439.6s] next hour. Sound good?" And then send
+[439.6s - 441.7s] next hour. Sound good?" And then send two things. A proposal, which is
+[441.7s - 441.7s] two things. A proposal, which is
+[441.7s - 445.0s] two things. A proposal, which is formatted like this. So the first 70% is
+[445.0s - 445.0s] formatted like this. So the first 70% is
+[445.0s - 446.9s] formatted like this. So the first 70% is restate their pain points and the
+[446.9s - 446.9s] restate their pain points and the
+[446.9s - 449.4s] restate their pain points and the impact. That's financial, emotional,
+[449.4s - 449.4s] impact. That's financial, emotional,
+[449.4s - 452.1s] impact. That's financial, emotional, operational. The next 20% is your
+[452.1s - 452.1s] operational. The next 20% is your
+[452.1s - 454.0s] operational. The next 20% is your solution and that's scope and
+[454.0s - 454.0s] solution and that's scope and
+[454.0s - 456.1s] solution and that's scope and deliverables. No jargon. The [music]
+[456.1s - 456.1s] deliverables. No jargon. The [music]
+[456.1s - 459.4s] deliverables. No jargon. The [music] next 5% is the timeline. And the last 5%
+[459.4s - 459.4s] next 5% is the timeline. And the last 5%
+[459.4s - 461.9s] next 5% is the timeline. And the last 5% is the investment and terms. And number
+[461.9s - 461.9s] is the investment and terms. And number
+[461.9s - 464.4s] is the investment and terms. And number two, send them a 5-minute loom video.
+[464.4s - 464.4s] two, send them a 5-minute loom video.
+[464.4s - 466.2s] two, send them a 5-minute loom video. And this shows the skeleton of the
+[466.2s - 466.2s] And this shows the skeleton of the
+[466.2s - 469.1s] And this shows the skeleton of the solution built in NAND. Let them see it.
+[469.1s - 469.1s] solution built in NAND. Let them see it.
+[469.1s - 471.0s] solution built in NAND. Let them see it. Let them feel the excitement of their
+[471.0s - 471.0s] Let them feel the excitement of their
+[471.0s - 473.4s] Let them feel the excitement of their problem being solved and price based on
+[473.4s - 473.4s] problem being solved and price based on
+[473.4s - 475.4s] problem being solved and price based on financial impact. If your system
+[475.4s - 475.4s] financial impact. If your system
+[475.4s - 477.7s] financial impact. If your system generates an extra $5,000 a month for
+[477.7s - 477.7s] generates an extra $5,000 a month for
+[477.7s - 480.5s] generates an extra $5,000 a month for them, charge $10,000 for the build and
+[480.5s - 480.5s] them, charge $10,000 for the build and
+[480.5s - 483.0s] them, charge $10,000 for the build and $500 a month for maintenance. They'll
+[483.0s - 483.0s] $500 a month for maintenance. They'll
+[483.0s - 485.5s] $500 a month for maintenance. They'll get return on investment in 2 months. If
+[485.5s - 485.5s] get return on investment in 2 months. If
+[485.5s - 487.4s] get return on investment in 2 months. If it saves them 10 hours a week, which is
+[487.4s - 487.4s] it saves them 10 hours a week, which is
+[487.4s - 489.7s] it saves them 10 hours a week, which is about $300 in labor, that's about
+[489.7s - 489.7s] about $300 in labor, that's about
+[489.7s - 492.9s] about $300 in labor, that's about $16,000 a year saved. Charge $1,600
+[492.9s - 493.0s] $16,000 a year saved. Charge $1,600
+[493.0s - 495.9s] $16,000 a year saved. Charge $1,600 upfront and $250 a month to maintain it.
+[495.9s - 495.9s] upfront and $250 a month to maintain it.
+[495.9s - 498.2s] upfront and $250 a month to maintain it. You don't need a fancy website or logo
+[498.2s - 498.2s] You don't need a fancy website or logo
+[498.2s - 500.5s] You don't need a fancy website or logo or proposal template. You just need a
+[500.5s - 500.5s] or proposal template. You just need a
+[500.5s - 502.3s] or proposal template. You just need a Google doc and a Stripe payment link.
+[502.3s - 502.3s] Google doc and a Stripe payment link.
+[502.3s - 504.6s] Google doc and a Stripe payment link. Businesses don't care about fancy. They
+[504.6s - 504.6s] Businesses don't care about fancy. They
+[504.6s - 506.5s] Businesses don't care about fancy. They care about making money. And if you can
+[506.5s - 506.5s] care about making money. And if you can
+[506.5s - 508.6s] care about making money. And if you can do that, that is all you need. That's
+[508.6s - 508.6s] do that, that is all you need. That's
+[508.6s - 510.4s] do that, that is all you need. That's it. Four [music] parts. Choose a niche
+[510.4s - 510.4s] it. Four [music] parts. Choose a niche
+[510.4s - 512.1s] it. Four [music] parts. Choose a niche you know. Build something that makes
+[512.1s - 512.2s] you know. Build something that makes
+[512.2s - 514.2s] you know. Build something that makes them money. Reach out to hundreds or
+[514.2s - 514.2s] them money. Reach out to hundreds or
+[514.2s - 516.6s] them money. Reach out to hundreds or thousands of people. Then get on calls,
+[516.6s - 516.6s] thousands of people. Then get on calls,
+[516.6s - 518.7s] thousands of people. Then get on calls, understand their pain, and present a
+[518.7s - 518.7s] understand their pain, and present a
+[518.7s - 520.5s] understand their pain, and present a solution that solves it. This is how I
+[520.5s - 520.5s] solution that solves it. This is how I
+[520.5s - 522.6s] solution that solves it. This is how I went from zero to consistent five figure
+[522.6s - 522.6s] went from zero to consistent five figure
+[522.6s - 524.6s] went from zero to consistent five figure months as an AI automation consultant.
+[524.6s - 524.6s] months as an AI automation consultant.
+[524.6s - 527.3s] months as an AI automation consultant. And if I can do it, so can you. Okay,
+[527.3s - 527.3s] And if I can do it, so can you. Okay,
+[527.3s - 528.9s] And if I can do it, so can you. Okay, before we get into the mistakes that are
+[528.9s - 529.0s] before we get into the mistakes that are
+[529.0s - 530.5s] before we get into the mistakes that are preventing you from signing clients,
+[530.5s - 530.6s] preventing you from signing clients,
+[530.6s - 532.1s] preventing you from signing clients, [music] let me show you why this is such
+[532.1s - 532.1s] [music] let me show you why this is such
+[532.1s - 534.5s] [music] let me show you why this is such a massive opportunity right now. The AI
+[534.5s - 534.6s] a massive opportunity right now. The AI
+[534.6s - 536.8s] a massive opportunity right now. The AI automation market is projected to hit
+[536.8s - 536.8s] automation market is projected to hit
+[536.8s - 540.9s] automation market is projected to hit 244 billion in 2025. That's billion with
+[540.9s - 540.9s] 244 billion in 2025. That's billion with
+[540.9s - 543.1s] 244 billion in 2025. That's billion with a B. And it's not slowing down. The
+[543.1s - 543.1s] a B. And it's not slowing down. The
+[543.1s - 545.9s] a B. And it's not slowing down. The market is estimated to grow 26.6%
+[545.9s - 545.9s] market is estimated to grow 26.6%
+[545.9s - 548.6s] market is estimated to grow 26.6% annually till the end of 2031. In other
+[548.6s - 548.6s] annually till the end of 2031. In other
+[548.6s - 550.5s] annually till the end of 2031. In other words, businesses are rushing to
+[550.5s - 550.6s] words, businesses are rushing to
+[550.6s - 552.5s] words, businesses are rushing to automate their processes and the demand
+[552.5s - 552.5s] automate their processes and the demand
+[552.5s - 554.9s] automate their processes and the demand for AI automation is through the roof.
+[554.9s - 554.9s] for AI automation is through the roof.
+[554.9s - 556.9s] for AI automation is through the roof. So, the opportunity is massive. But
+[556.9s - 557.0s] So, the opportunity is massive. But
+[557.0s - 558.9s] So, the opportunity is massive. But here's where most people get stuck. The
+[558.9s - 559.0s] here's where most people get stuck. The
+[559.0s - 560.3s] here's where most people get stuck. The reason that you're struggling to sign
+[560.3s - 560.3s] reason that you're struggling to sign
+[560.3s - 562.0s] reason that you're struggling to sign clients isn't because the market is
+[562.0s - 562.0s] clients isn't because the market is
+[562.0s - 563.9s] clients isn't because the market is saturated. It's because most of you are
+[563.9s - 563.9s] saturated. It's because most of you are
+[563.9s - 565.8s] saturated. It's because most of you are reaching out to businesses the same way.
+[565.8s - 565.8s] reaching out to businesses the same way.
+[565.8s - 567.5s] reaching out to businesses the same way. That outreach method that you found on
+[567.5s - 567.5s] That outreach method that you found on
+[567.5s - 569.5s] That outreach method that you found on YouTube 3 months ago, it probably
+[569.5s - 569.5s] YouTube 3 months ago, it probably
+[569.5s - 570.9s] YouTube 3 months ago, it probably doesn't work anymore because it's
+[570.9s - 570.9s] doesn't work anymore because it's
+[570.9s - 572.5s] doesn't work anymore because it's already been sent to every business
+[572.5s - 572.6s] already been sent to every business
+[572.6s - 574.3s] already been sent to every business owner. So, if you want to sign clients
+[574.3s - 574.3s] owner. So, if you want to sign clients
+[574.3s - 576.5s] owner. So, if you want to sign clients consistently, you need a unique outreach
+[576.5s - 576.5s] consistently, you need a unique outreach
+[576.5s - 578.7s] consistently, you need a unique outreach method that works right now along with
+[578.7s - 578.7s] method that works right now along with
+[578.7s - 580.4s] method that works right now along with the right framework for your sales
+[580.4s - 580.4s] the right framework for your sales
+[580.4s - 582.0s] the right framework for your sales calls. You need to know how to price
+[582.0s - 582.0s] calls. You need to know how to price
+[582.0s - 584.1s] calls. You need to know how to price your services, how to find high-paying
+[584.1s - 584.2s] your services, how to find high-paying
+[584.2s - 586.3s] your services, how to find high-paying clients, how to position your offer. The
+[586.3s - 586.3s] clients, how to position your offer. The
+[586.3s - 588.1s] clients, how to position your offer. The list goes on and on. Otherwise, you'll
+[588.1s - 588.1s] list goes on and on. Otherwise, you'll
+[588.1s - 590.0s] list goes on and on. Otherwise, you'll end up wasting months or even years
+[590.0s - 590.0s] end up wasting months or even years
+[590.0s - 592.1s] end up wasting months or even years sending cold DMs and emails and not
+[592.1s - 592.1s] sending cold DMs and emails and not
+[592.1s - 593.8s] sending cold DMs and emails and not getting a single reply. And even if you
+[593.8s - 593.8s] getting a single reply. And even if you
+[593.8s - 595.8s] getting a single reply. And even if you do get responses, you won't know how to
+[595.8s - 595.8s] do get responses, you won't know how to
+[595.8s - 597.6s] do get responses, you won't know how to close them or you'll end up getting
+[597.6s - 597.6s] close them or you'll end up getting
+[597.6s - 599.4s] close them or you'll end up getting underpaid. And that's exactly why I
+[599.4s - 599.4s] underpaid. And that's exactly why I
+[599.4s - 601.6s] underpaid. And that's exactly why I created my one-on-one mentorship program
+[601.6s - 601.6s] created my one-on-one mentorship program
+[601.6s - 603.5s] created my one-on-one mentorship program to take you by the hand and help you hit
+[603.5s - 603.5s] to take you by the hand and help you hit
+[603.5s - 606.2s] to take you by the hand and help you hit $10,000 a month sustainably within 90
+[606.2s - 606.2s] $10,000 a month sustainably within 90
+[606.2s - 608.1s] $10,000 a month sustainably within 90 days. And if you don't hit that goal,
+[608.1s - 608.2s] days. And if you don't hit that goal,
+[608.2s - 610.1s] days. And if you don't hit that goal, I'll keep working with you for free
+[610.1s - 610.1s] I'll keep working with you for free
+[610.1s - 612.3s] I'll keep working with you for free until you do. That's my guarantee to
+[612.3s - 612.3s] until you do. That's my guarantee to
+[612.3s - 613.8s] until you do. That's my guarantee to you. And here's what you get when you
+[613.8s - 613.8s] you. And here's what you get when you
+[613.8s - 616.1s] you. And here's what you get when you join hands-on mentorship. one group call
+[616.1s - 616.1s] join hands-on mentorship. one group call
+[616.1s - 617.6s] join hands-on mentorship. one group call every week where we work through
+[617.6s - 617.6s] every week where we work through
+[617.6s - 619.8s] every week where we work through challenges together. Private one-on-one
+[619.8s - 619.8s] challenges together. Private one-on-one
+[619.8s - 621.3s] challenges together. Private one-on-one calls with me where I can give you
+[621.3s - 621.3s] calls with me where I can give you
+[621.3s - 623.4s] calls with me where I can give you personalized guidance by proven outreach
+[623.4s - 623.4s] personalized guidance by proven outreach
+[623.4s - 625.5s] personalized guidance by proven outreach scripts, sales call framework, and done
+[625.5s - 625.5s] scripts, sales call framework, and done
+[625.5s - 627.2s] scripts, sales call framework, and done for you SOPs that have helped me
+[627.2s - 627.2s] for you SOPs that have helped me
+[627.2s - 629.8s] for you SOPs that have helped me generate over $100,000 in revenue and
+[629.8s - 629.8s] generate over $100,000 in revenue and
+[629.8s - 632.5s] generate over $100,000 in revenue and land $5,000 retainers in the last 9
+[632.5s - 632.5s] land $5,000 retainers in the last 9
+[632.5s - 634.5s] land $5,000 retainers in the last 9 months. A collection of 30 plus
+[634.5s - 634.5s] months. A collection of 30 plus
+[634.5s - 636.6s] months. A collection of 30 plus pre-built AI agents that you can sell
+[636.6s - 636.6s] pre-built AI agents that you can sell
+[636.6s - 638.9s] pre-built AI agents that you can sell repeatedly to any business. Each one
+[638.9s - 638.9s] repeatedly to any business. Each one
+[638.9s - 640.9s] repeatedly to any business. Each one representing about 20 hours of work,
+[640.9s - 640.9s] representing about 20 hours of work,
+[640.9s - 643.7s] representing about 20 hours of work, 24/7 direct access to me on WhatsApp so
+[643.7s - 643.7s] 24/7 direct access to me on WhatsApp so
+[643.7s - 645.5s] 24/7 direct access to me on WhatsApp so that you never feel stuck. And as a
+[645.5s - 645.5s] that you never feel stuck. And as a
+[645.5s - 647.7s] that you never feel stuck. And as a bonus, I'm throwing in free access to my
+[647.7s - 647.7s] bonus, I'm throwing in free access to my
+[647.7s - 650.9s] bonus, I'm throwing in free access to my paid course, which normally costs $497.
+[650.9s - 651.0s] paid course, which normally costs $497.
+[651.0s - 652.9s] paid course, which normally costs $497. So now you have two choices. You can
+[652.9s - 652.9s] So now you have two choices. You can
+[652.9s - 654.6s] So now you have two choices. You can either go down the road of figuring this
+[654.6s - 654.6s] either go down the road of figuring this
+[654.6s - 656.9s] either go down the road of figuring this out yourself and waste another 6 months
+[656.9s - 656.9s] out yourself and waste another 6 months
+[656.9s - 659.3s] out yourself and waste another 6 months or even years doing cold outreach and
+[659.3s - 659.3s] or even years doing cold outreach and
+[659.3s - 661.5s] or even years doing cold outreach and never signing a single client or getting
+[661.5s - 661.5s] never signing a single client or getting
+[661.5s - 663.4s] never signing a single client or getting underpaid. or you can book a free call
+[663.4s - 663.4s] underpaid. or you can book a free call
+[663.4s - 665.0s] underpaid. or you can book a free call with the link in the description below
+[665.0s - 665.0s] with the link in the description below
+[665.0s - 666.9s] with the link in the description below and work with me and skip all of the
+[666.9s - 666.9s] and work with me and skip all of the
+[666.9s - 668.5s] and work with me and skip all of the trial and error so that you can hit
+[668.5s - 668.6s] trial and error so that you can hit
+[668.6s - 671.4s] trial and error so that you can hit $10,000 a month sustainably within 90
+[671.4s - 671.4s] $10,000 a month sustainably within 90
+[671.4s - 673.6s] $10,000 a month sustainably within 90 days. But here's the thing, I work very
+[673.6s - 673.6s] days. But here's the thing, I work very
+[673.6s - 675.8s] days. But here's the thing, I work very closely with everyone I take on and give
+[675.8s - 675.8s] closely with everyone I take on and give
+[675.8s - 677.7s] closely with everyone I take on and give them my full attention to make sure that
+[677.7s - 677.7s] them my full attention to make sure that
+[677.7s - 679.7s] them my full attention to make sure that they actually succeed. Because of that,
+[679.7s - 679.7s] they actually succeed. Because of that,
+[679.7s - 681.5s] they actually succeed. Because of that, I can only work with five people at a
+[681.5s - 681.5s] I can only work with five people at a
+[681.5s - 683.3s] I can only work with five people at a time. So if the link below isn't working
+[683.3s - 683.3s] time. So if the link below isn't working
+[683.3s - 685.3s] time. So if the link below isn't working anymore, it probably means all the spots
+[685.3s - 685.3s] anymore, it probably means all the spots
+[685.3s - 687.0s] anymore, it probably means all the spots have been taken. So book a call now
+[687.0s - 687.0s] have been taken. So book a call now
+[687.0s - 688.5s] have been taken. So book a call now before it's too late. Thanks for
+[688.5s - 688.5s] before it's too late. Thanks for
+[688.5s - 692.3s] before it's too late. Thanks for watching and I will see you in the next

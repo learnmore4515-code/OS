@@ -1,0 +1,34 @@
+================================================================================
+CALL SCRIPT — SIMON KARUGU (0718127137)
+Role: Founder & CEO | KARISEL INSURANCE AGENCY
+Pain: Quotation follow-ups, chasing client documents, managing renewals (#29)
+Channel: WhatsApp voice call
+================================================================================
+
+OPENING (first 30 seconds):
+"Hi Simon, it's Peter from LinkedIn. Thanks for the call. From our messages, quotation follow-ups, chasing client documents, and managing renewals are your big time sinks."
+
+PURPOSE STATEMENT:
+"I'm researching where brokers lose the most time on manual work. You also mentioned working with a developer on something similar — I'd love to hear about that."
+
+QUESTIONS (ask one at a time, listen to answers):
+1. "Quotation follow-ups — how do you track those today? Spreadsheets, email, something else?"
+2. "Document chasing — which documents are hardest to get from clients, and how do you follow up?"
+3. "Renewals — how far in advance do you start, and how many reminders do you typically send?"
+4. "You're building something with a developer — what does it look like, and where are you stuck?"
+5. "If I could show you a tool that handles one of these automatically, which would you want first?"
+
+FOLLOW-UP QUESTIONS:
+- If they mention their developer project: "What does it do, and what's the timeline? Where do you need outside input?"
+- If a specific pain costs more time: "Roughly how many hours a week does that take?"
+- If they ask what you're building: "Still in research phase — I want to understand the problem fully before building anything."
+
+CLOSING:
+"Thanks Simon. Can I stay in touch and share what I find? If your developer project needs another perspective, I'm open to chatting again."
+
+NOTES:
+- He's a brokerage founder — strong lead.
+- He said "next week kindly" when you offered 6pm today, but wants to call today per your decision.
+- He's working with a developer — understand what they're building so you don't duplicate.
+
+================================================================================

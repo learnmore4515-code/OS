@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1280, height=769">
+<title>02 Workflow Proof — Document Chasing Escalation (WB-08)</title>
+<style>
+  :root {
+    --ink: #0F172A;
+    --ivory: #F8F5F0;
+    --paper: #FFFFFF;
+    --accent: #059669;
+    --accent-dark: #047857;
+    --amber: #D97706;
+    --muted: #64748B;
+    --border: #E5E1D6;
+    --bg2: #F0EBDC;
+    --font-display: Georgia, 'Times New Roman', serif;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'SF Mono', 'Cascadia Code', 'Courier New', monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1280px; height: 769px; margin: 0; background: var(--ivory); color: var(--ink); font-family: var(--font-body); -webkit-font-smoothing: antialiased; overflow: hidden; }
+  .frame { width: 100%; height: 100%; position: relative; overflow: hidden; }
+  .pad { position: absolute; inset: 0 96px; }
+  .eyebrow { position: absolute; top: 32px; left: 0; font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: 0.32em; text-transform: uppercase; color: var(--accent); }
+  .headline { position: absolute; top: 62px; left: 0; width: 700px; font-family: var(--font-display); font-size: 36px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.14; color: var(--ink); }
+  .sub { position: absolute; top: 140px; left: 0; width: 700px; font-size: 15px; font-weight: 400; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); line-height: 1.5; }
+  .rule { position: absolute; top: 178px; left: 0; width: 48px; height: 3px; background: var(--accent); border-radius: 2px; }
+
+  /* Workflow area */
+  .workflow { position: absolute; top: 220px; left: 0; width: 1088px; height: 420px; }
+
+  .swim { position: absolute; left: 0; top: 0; width: 120px; height: 100%; font-family: var(--font-mono); font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; writing-mode: vertical-rl; text-align: center; pointer-events: none; border-right: 1px solid var(--border); padding-top: 16px; }
+
+  .lane { position: absolute; left: 120px; top: 0; width: 968px; height: 100%; }
+
+  .day-label { position: absolute; top: 0; left: 150px; font-family: var(--font-display); font-size: 13px; font-weight: 700; color: var(--ink); }
+
+  .node { position: absolute; background: var(--paper); border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-family: var(--font-body); font-size: 11.5px; color: var(--ink); box-shadow: 0 2px 6px rgba(15,23,42,0.06); pointer-events: none; }
+  .node b { font-weight: 800; }
+  .node-type { font-family: var(--font-mono); font-size: 9px; color: var(--muted); margin-top: 2px; display: block; }
+  .connector { position: absolute; border-left: 1.4px solid var(--accent); border-bottom: 1.4px solid var(--accent); border-radius: 6px 0 0 6px; pointer-events: none; }
+  .connector-v { position: absolute; border-left: 1.4px solid var(--accent); pointer-events: none; }
+  .dot { position: absolute; width: 7px; height: 7px; background: var(--accent); border-radius: 50%; pointer-events: none; }
+
+  .foot { position: absolute; bottom: 40px; right: 0; width: 1088px; font-family: var(--font-mono); font-size: 10px; color: var(--muted); letter-spacing: 0.18em; text-transform: uppercase; text-align: right; }
+  .foot .line { opacity: 0.7; }
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="pad"></div>
+  <div class="eyebrow">PROOF OF WORK &middot; WB-08</div>
+  <div class="headline">Document Chasing<br>Escalation Workflow</div>
+  <div class="sub">n8n &middot; zero-touch document intake &middot; multi-party alignment</div>
+  <div class="rule"></div>
+
+  <div class="workflow">
+    <!-- Entry row -->
+    <div class="day-label" style="left:150px; top:20px;">ENTRY</div>
+    <div class="node trigger-node" style="left:150px; top:40px; width:240px;">
+      <b>Document Chasing Trigger</b>
+      <span class="node-type">executeWorkflowTrigger &middot; passthrough</span>
+    </div>
+    <div class="connector" style="left:404px; top:74px; width:28px; height:12px;"></div>
+    <div class="node trigger-node" style="left:444px; top:40px; width:240px;">
+      <b>Schedule Trigger</b>
+      <span class="node-type">scheduleTrigger &middot; daily 09:00 scan</span>
+    </div>
+
+    <!-- Day 0 row -->
+    <div class="day-label" style="left:150px; top:150px;">DAY 0 &middot; IMMEDIATE</div>
+    <div class="node norm-node" style="left:150px; top:170px; width:210px;">
+      <b>Normalize New Chase</b>
+      <span class="node-type">Set &middot; consent &amp; stage logged</span>
+    </div>
+    <div class="connector" style="left:370px; top:209px; width:30px; height:14px;"></div>
+    <div class="node day0-node" style="left:412px; top:170px; width:230px;">
+      <b>Gmail &mdash; Secure Upload Link</b>
+      <span class="node-type">send email w/ tokenised upload link</span>
+    </div>
+    <div class="connector-v" style="left:654px; top:209px; height:14px;"></div>
+    <div class="node side-node" style="left:666px; top:170px; width:200px;">
+      <b>Notify Insurer</b>
+      <span class="node-type">HTTP POST &middot; party-notify</span>
+    </div>
+    <div class="node side-node" style="left:666px; top:212px; width:200px;">
+      <b>Notify Loss Adjuster</b>
+      <span class="node-type">HTTP POST &middot; party-notify</span>
+    </div>
+    <div class="connector-v" style="left:524px; top:253px; height:14px;"></div>
+    <div class="node day0-node" style="left:412px; top:237px; width:230px;">
+      <b>Log ODPC Consent</b>
+      <span class="node-type">Set &middot; consent channel + date</span>
+    </div>
+    <div class="node day0-node" style="left:412px; top:305px; width:230px;">
+      <b>Update Tracker Sheet</b>
+      <span class="node-type">Google Sheets &middot; append record</span>
+    </div>
+
+    <!-- Day +2/+4/+7 row -->
+    <div class="day-label" style="left:150px; top:385px;">DAY +2 / +4 / +7</div>
+    <div class="connector-v" style="left:70px; top:425px; height:14px;"></div>
+    <div class="node side-node" style="left:20px; top:439px; width:200px;">
+      <b>Nudge Day +2</b>
+      <span class="node-type">Gmail &middot; friendly reminder</span>
+    </div>
+    <div class="node side-node" style="left:250px; top:439px; width:200px;">
+      <b>Nudge Day +4</b>
+      <span class="node-type">Gmail &middot; formal reminder</span>
+    </div>
+    <div class="connector-v" style="left:464px; top:425px; height:14px;"></div>
+    <div class="node side-node" style="left:476px; top:439px; width:200px;">
+      <b>Phone Task Day +7</b>
+      <span class="node-type">Set &middot; broker manual call</span>
+    </div>
+    <div class="node side-node" style="left:706px; top:439px; width:200px;">
+      <b>Exception Queue</b>
+      <span class="node-type">Set &middot; &gt;7 days, senior review</span>
+    </div>
+  </div>
+
+  <div class="swim">ENTRY</div>
+  <div class="swim" style="top:170px;">DAY 0</div>
+  <div class="swim" style="top:439px;">DAYS +2/+4/+7</div>
+
+  <div class="foot">
+    <div class="line">Real n8n workflow: WB-08 Document Chasing Escalation &middot; Day 0/+2/+4/+7 cadence &middot; demo data, no live credentials</div>
+  </div>
+</div>
+</body>
+</html>

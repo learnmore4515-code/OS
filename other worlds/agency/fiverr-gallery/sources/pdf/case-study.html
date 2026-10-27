@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Automation Case Study — Document Chasing Escalation (WB-08)</title>
+<style>
+  :root {
+    --ink: #0F172A;
+    --paper: #FFFFFF;
+    --ivory: #F8F5F0;
+    --accent: #059669;
+    --accent-dark: #047857;
+    --amber: #D97706;
+    --matched-bg: #F0FDF4;
+    --border: #E2E8F0;
+    --muted: #64748B;
+    --font-display: Georgia, 'Times New Roman', serif;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'SF Mono', 'Cascadia Code', 'Courier New', monospace;
+  }
+  @page { size: Letter; margin: 0.7in 0.7in 0.7in 0.7in; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 9.2pt; }
+  body { font-family: var(--font-body); color: #263238; line-height: 1.42; background: var(--paper); }
+  .page:nth-child(n+2) { page-break-before: always; }
+  .eyebrow { font-family: var(--font-mono); font-size: 7.8pt; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; display: block; }
+  h1 { font-family: var(--font-display); font-size: 18pt; font-weight: 700; letter-spacing: -0.01em; line-height: 1.18; color: var(--ink); margin-bottom: 5px; }
+  h2 { font-family: var(--font-display); font-size: 11pt; font-weight: 700; letter-spacing: -0.01em; color: var(--ink); margin: 10px 0 4px; page-break-after: avoid; }
+  p { margin-bottom: 6px; font-size: 8.8pt; }
+  .rule { height: 3px; background: var(--accent); border-radius: 2px; width: 44px; margin: 6px 0 12px; }
+  .kicker { font-size: 7.8pt; color: var(--muted); font-family: var(--font-mono); letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 10px; }
+
+  ul.causes { list-style: none; margin-bottom: 8px; }
+  ul.causes li { margin-bottom: 4px; padding-left: 18px; position: relative; font-size: 9.2pt; }
+  ul.causes li::before { content: '\25B8'; position: absolute; left: 0; top: 1px; color: var(--accent); font-weight: 800; font-size: 8.5pt; }
+  ul.causes li .tag { font-family: var(--font-mono); font-size: 7.6pt; color: var(--muted); }
+
+  .steps { border-collapse: collapse; width: 100%; margin-bottom: 10px; font-size: 8.2pt; }
+  .steps th { background: var(--ink); color: var(--paper); text-align: left; padding: 5px 7px; font-size: 7pt; text-transform: uppercase; letter-spacing: 0.09em; }
+  .steps td { border: 1px solid var(--border); padding: 5px 7px; vertical-align: top; }
+  .steps tr:nth-child(even) td { background: var(--ivory); }
+  .steps .num { font-family: var(--font-mono); font-weight: 800; color: var(--accent-dark); width: 24px; }
+  .steps .node { font-weight: 700; color: var(--ink); }
+
+  .honesty { background: var(--ivory); border: 1px solid var(--border); border-radius: 8px; padding: 9px 11px; margin-top: 12px; font-size: 8pt; color: #334155; }
+  .honesty b { color: var(--ink); }
+
+  .foot { margin-top: 18px; font-family: var(--font-mono); font-size: 7pt; color: var(--muted); letter-spacing: 0.12em; text-transform: uppercase; border-top: 1px solid var(--border); padding-top: 6px; }
+
+  table.meta { border-collapse: collapse; width: 100%; margin-bottom: 9px; font-size: 7.8pt; }
+  table.meta td { border: 1px solid var(--border); padding: 4px 7px; vertical-align: top; }
+  table.meta td.k { width: 34%; background: var(--ivory); font-family: var(--font-mono); font-weight: 700; font-size: 7.2pt; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
+
+  .steps { border-collapse: collapse; width: 100%; margin-bottom: 9px; font-size: 7.8pt; }
+  .steps th { background: var(--ink); color: var(--paper); text-align: left; padding: 4px 7px; font-size: 7pt; text-transform: uppercase; letter-spacing: 0.09em; }
+  .steps td { border: 1px solid var(--border); padding: 4px 7px; vertical-align: top; }
+  .steps tr:nth-child(even) td { background: var(--ivory); }
+  .steps .num { font-family: var(--font-mono); font-weight: 800; color: var(--accent-dark); width: 22px; }
+  .steps .node { font-weight: 700; color: var(--ink); }
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1 : The Operational Challenge ================= -->
+<div class="page">
+  <span class="eyebrow">Case Study &middot; Page 1 of 3</span>
+  <h1>The Operational Challenge</h1>
+  <span class="rule"></span>
+  <p>Insurance brokers in Kenya run on paperwork &mdash; KYC documents, claim forms and onboarding paperwork must be collected before a policy is bound or a claim paid. Today that chasing is manual: WhatsApp, SMS, email and spreadsheets in separate places, with no single source of truth.</p>
+  <p><strong>The workflow&rsquo;s purpose.</strong> Document chasing automation: a broker opens a case, the system sends the client a secure, tokenised upload link on their preferred channel, tracks responses, and flags anything still open after seven days to an exception queue for senior review. The broker decides; the system nudges and tracks.</p>
+  <h2>Why manual chasing fails</h2>
+  <p>Failure modes from discovery conversations with brokers, not assumptions:</p>
+  <ul class="causes">
+    <li><span class="tag">Understanding</span> Clients don&rsquo;t understand what is needed &mdash; requests are incomplete or confusing.</li>
+    <li><span class="tag">Submission</span> Documents are hard to submit &mdash; no mobile-friendly upload path, no app installation.</li>
+    <li><span class="tag">Trust</span> Clients distrust upload links; prefer WhatsApp or email instead.</li>
+    <li><span class="tag">Tracking</span> Brokers lose track of who owes what; follow-ups forgotten across disconnected channels.</li>
+    <li><span class="tag">Parties</span> Client, broker, insurer and adjuster share responsibility, no shared status view.</li>
+    <li><span class="tag">Escalation</span> Cases overdue &gt;7 days have no path to a senior broker.</li>
+  </ul>
+  <p>No revenue figures, conversion rates or client counts are claimed &mdash; a capability demonstration, not a delivered deployment.</p>
+  <div class="honesty">
+    <b>Scope note.</b> Document chasing only &mdash; payment reconciliation, automated underwriting and policy issuance are explicitly out of scope (Deliverable F).
+  </div>
+  <div class="foot">Automation case study &middot; Document Chasing Escalation &middot; synthetic demo data &middot; no live credentials shown</div>
+</div>
+
+<!-- ================= PAGE 2 : The System Architecture ================= -->
+<div class="page">
+  <span class="eyebrow">Case Study &middot; Page 2 of 3</span>
+  <h1>The System Architecture</h1>
+  <span class="rule"></span>
+  <p>The system is n8n workflow <strong>WB-08 &mdash; Document Chasing Escalation</strong>, a multi-step workflow with sub-workflow triggers, conditional routing by escalation day, and integrations across Gmail, Google Sheets and HTTP webhooks. Every step below is taken from the real workflow definition (synthetic demo data; no live credentials).</p>
+  <table class="steps">
+    <thead>
+      <tr><th style="width:24px;"></th><th style="width:190px;">Step</th><th>What happens</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="num">1</td><td class="node">Document Chasing Trigger</td><td>Entry from Chain 4 ops hub when verification is partial/invalid (Day 0). Also a daily 09:00 schedule trigger scans for overdue chases.</td></tr>
+      <tr><td class="num">2</td><td class="node">Normalize New Chase</td><td>Set node normalises client details, missing fields, chase start date, escalation stage, consent and insurer / adjuster contacts.</td></tr>
+      <tr><td class="num">3</td><td class="node">Gmail &mdash; Day 0 Secure Upload Link</td><td>Sends the client a personalised, tokenised upload link listing exactly which documents are missing, why each is needed and the deadline. ODPC consent logged at first touch.</td></tr>
+      <tr><td class="num">4</td><td class="node">Notify Insurer / Loss Adjuster</td><td>HTTP POST webhook notifies insurer and loss adjuster (multi-party alignment &mdash; all parties see shared milestone status).</td></tr>
+      <tr><td class="num">5</td><td class="node">Log ODPC Consent + Update Tracker</td><td>Logs consent channel and date; appends a chase record to the Google Sheets document tracker.</td></tr>
+      <tr><td class="num">6</td><td class="node">Daily Scan &middot; Filter Pending</td><td>Reads the tracker; filters chases that are pending and not yet verified.</td></tr>
+      <tr><td class="num">7</td><td class="node">Switch &mdash; Escalation Day</td><td>Conditional router by days since chase: +2 friendly nudge, +4 formal reminder, +7 phone-call task, renewals at 60/30/7/3 days, nothing due otherwise.</td></tr>
+      <tr><td class="num">8</td><td class="node">Phone Task + Exception Queue</td><td>Day +7 creates a broker phone-call task; &gt;7 days with no response creates an exception queue entry (severity high, 24h SLA, recommended action).</td></tr>
+      <tr><td class="num">9</td><td class="node">Update Tracker Stage</td><td>Writes escalation stage, last contact channel and status back to the tracker sheet; errors are logged rather than dropped.</td></tr>
+    </tbody>
+  </table>
+  <p class="kicker">Decision logic &mdash; conditional routing by escalation day</p>
+  <ul class="causes">
+    <li><span class="tag">Day +2</span> Gmail friendly reminder &middot; stage advanced &middot; tracker updated.</li>
+    <li><span class="tag">Day +4</span> Gmail formal reminder &middot; stage advanced &middot; tracker updated.</li>
+    <li><span class="tag">Day +7</span> Broker phone-call task &middot; exception queue entry, 24-hour SLA.</li>
+    <li><span class="tag">Renewals</span> Separate cadence: 60 / 30 / 7 / 3 days before policy expiry.</li>
+    <li><span class="tag">Stop condition</span> Escalation stops as soon as documents are verified.</li>
+  </ul>
+  <div class="honesty">
+    <b>Architecture note.</b> Integrations (Gmail, Google Sheets, insurer/adjuster webhooks) require the buyer&rsquo;s own n8n instance and credentials &mdash; configured at handover, not pre-connected to any live account.
+  </div>
+  <div class="foot">Real n8n workflow: WB-08 Document Chasing Escalation &middot; demo data only &middot; no live credentials</div>
+</div>
+
+<!-- ================= PAGE 3 : Execution and Handover ================= -->
+<div class="page">
+  <span class="eyebrow">Case Study &middot; Page 3 of 3</span>
+  <h1>Execution and Handover</h1>
+  <span class="rule"></span>
+  <h2>Outputs produced</h2>
+  <ul class="causes">
+    <li><span class="tag">Upload link</span> Tokenised, mobile-friendly client upload link per case &mdash; no app installation required.</li>
+    <li><span class="tag">Tracker record</span> Chase record in Google Sheets: client, policy, missing fields, stage, last contact, consent.</li>
+    <li><span class="tag">Party notification</span> Insurer and loss adjuster notified via webhook; shared milestone status per role.</li>
+    <li><span class="tag">Exception queue</span> Cases &gt;7 days routed to senior review with 24-hour SLA and recommended action.</li>
+  </ul>
+  <h2>Testing approach</h2>
+  <p>The workflow runs against bundled synthetic demo data (8 customer requests, 6 leads, 7 policies, 7 M-Pesa transactions, 5 insurer statements, including deliberate edge cases such as an unmatched payment and an expired policy). No real client data is used, no live webhook is executed during the demo, and no credentials are hard-coded &mdash; secrets go through n8n&rsquo;s credential system.</p>
+  <h2>Error handling</h2>
+  <ul class="causes">
+    <li><span class="tag">Gmail sends</span> Use <span style="font-family:var(--font-mono);font-size:8.2pt;">continueErrorOutput</span> &mdash; a failed send is logged to the tracker rather than halting the chase.</li>
+    <li><span class="tag">Dashboard fallback</span> The broker dashboard falls back to localStorage-only mode when the n8n webhook is unavailable &mdash; the UI keeps working offline.</li>
+    <li><span class="tag">Send errors</span> Logged to the tracker sheet with the failed client and channel for manual follow-up.</li>
+  </ul>
+  <h2>Deliverables included</h2>
+  <ul class="causes">
+    <li><span class="tag">Workflow</span> WB-08 Document Chasing Escalation (n8n workflow definition, importable).</li>
+    <li><span class="tag">Dashboard</span> BrokerFlow document-chase dashboard (case create, case list, multi-party milestone tracker, communication history).</li>
+    <li><span class="tag">Client upload</span> Tokenised, mobile-friendly upload page.</li>
+  </ul>
+  <table class="meta">
+    <tr><td class="k">Verified functionality</td><td>Workflow node configuration and connections; Day 0 / +2 / +4 / +7 cadence; conditional escalation routing; tracker read/write; ODPC consent logging; dashboard UI with stats, case table and milestone tracker.</td></tr>
+    <tr><td class="k">Planned improvements</td><td>Live n8n deployment wired to the buyer&rsquo;s own Gmail and Google Sheets credentials; AI document verification of uploads; production exception-queue review UI; SLA reporting.</td></tr>
+  </table>
+  <div class="honesty">
+    <b>Honesty statement.</b> This case study demonstrates a workflow built and specified in the project. It has not been delivered to a paying client, no client results or metrics are claimed, and no revenue outcome is implied. Buyers should treat this as a capability reference, not a guarantee.
+  </div>
+  <div class="foot">Automation case study &middot; Document Chasing Escalation &middot; synthetic demo data &middot; no live credentials &middot; not a paid-client deployment</div>
+</div>
+
+</body>
+</html>

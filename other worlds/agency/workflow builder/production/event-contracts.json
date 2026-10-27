@@ -1,0 +1,274 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Sales Agent & CRM — Event Contracts",
+  "description": "JSON event schemas for WhatsApp-centred AI sales agent + CRM. Tenant-isolated. All monetary values in minor currency units where applicable (KES).",
+  "version": "1.0.0",
+
+  "common": {
+    "description": "Fields present on every event.",
+    "schemaVersion": { "type": "string", "example": "1.0.0" },
+    "eventId": { "type": "string", "description": "Unique id per event (UUID). Used for idempotency." },
+    "idempotencyKey": { "type": "string", "description": "Client-generated key to deduplicate retries." },
+    "eventType": { "type": "string" },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "tenantId": { "type": "string" },
+    "sourceChannel": { "type": "string", "enum": ["whatsapp", "web_demo", "api"] },
+    "externalMessageId": { "type": "string", "description": "WhatsApp message id or channel message id" },
+    "customer": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "phone": { "type": "string" },
+        "name": { "type": "string" }
+      },
+      "required": ["id", "phone"]
+    },
+    "conversationId": { "type": "string" }
+  },
+
+  "orderItem": {
+    "type": "object",
+    "required": ["productId", "quantity", "unitPrice", "lineTotal"],
+    "properties": {
+      "productId": { "type": "string" },
+      "variantId": { "type": "string" },
+      "variantName": { "type": "string" },
+      "quantity": { "type": "integer", "minimum": 1 },
+      "unitPrice": { "type": "number", "minimum": 0 },
+      "lineTotal": { "type": "number", "minimum": 0 }
+    }
+  },
+
+  "events": {
+    "order.created": {
+      "description": "Emitted when a customer explicitly confirms and an order is created once (idempotent).",
+      "required": ["order", "conversationId"],
+      "properties": {
+        "order": {
+          "type": "object",
+          "required": ["id", "customer", "items", "grandTotal", "status", "demoOrder"],
+          "properties": {
+            "id": { "type": "string" },
+            "customer": { "$ref": "#/common/customer" },
+            "items": { "type": "array", "items": { "$ref": "#/orderItem" } },
+            "subtotal": { "type": "number" },
+            "discount": { "type": "number" },
+            "deliveryFee": { "type": "number" },
+            "grandTotal": { "type": "number" },
+            "amountPaid": { "type": "number" },
+            "outstandingBalance": { "type": "number" },
+            "deliveryZone": { "type": "string" },
+            "customerName": { "type": "string" },
+            "customerPhone": { "type": "string" },
+            "status": { "type": "string", "enum": ["created", "awaiting_payment", "paid", "fulfilled", "completed", "cancelled", "refunded"] },
+            "paymentStatus": { "type": "string", "enum": ["unpaid", "pending", "verified", "failed", "refunded"] },
+            "demoOrder": { "type": "boolean" },
+            "createdAt": { "type": "string", "format": "date-time" }
+          }
+        },
+        "conversationId": { "type": "string" },
+        "integrationResult": { "type": "string", "enum": ["success", "failure", "retrying"] },
+        "errorDetails": { "type": "string" }
+      }
+    },
+
+    "payment.verified": {
+      "description": "Trusted payment callback (M-Pesa Daraja). Verifies order, merchant, amount, transaction reference. Idempotent on repeated callbacks.",
+      "required": ["orderId", "payment", "conversationId"],
+      "properties": {
+        "orderId": { "type": "string" },
+        "payment": {
+          "type": "object",
+          "required": ["method", "amount", "transactionReference", "status"],
+          "properties": {
+            "method": { "type": "string", "enum": ["mpesa", "cash_on_delivery", "other"] },
+            "amount": { "type": "number", "minimum": 0 },
+            "transactionReference": { "type": "string" },
+            "phoneNumber": { "type": "string" },
+            "status": { "type": "string", "enum": ["pending", "verified", "failed", "refunded"] },
+            "verifiedAt": { "type": "string", "format": "date-time" },
+            "rawCallback": { "type": "object" }
+          }
+        },
+        "conversationId": { "type": "string" },
+        "integrationResult": { "type": "string", "enum": ["success", "failure", "retrying"] },
+        "errorDetails": { "type": "string" }
+      }
+    },
+
+    "fulfilment.updated": {
+      "description": "Order fulfilment status change (preparing / dispatched / delivered / failed).",
+      "required": ["orderId", "fulfilment"],
+      "properties": {
+        "orderId": { "type": "string" },
+        "fulfilment": {
+          "type": "object",
+          "required": ["status"],
+          "properties": {
+            "status": { "type": "string", "enum": ["pending", "preparing", "dispatched", "delivered", "failed"] },
+            "zone": { "type": "string" },
+            "fee": { "type": "number" },
+            "trackingNumber": { "type": "string" },
+            "estimatedDelivery": { "type": "string", "format": "date-time" },
+            "deliveredAt": { "type": "string", "format": "date-time" },
+            "notes": { "type": "string" }
+          }
+        },
+        "integrationResult": { "type": "string", "enum": ["success", "failure", "retrying"] },
+        "errorDetails": { "type": "string" }
+      }
+    },
+
+    "human.handoff": {
+      "description": "Conversation escalated to a human agent. Unsupported or uncertain situations.",
+      "required": ["conversationId", "customer", "reason"],
+      "properties": {
+        "conversationId": { "type": "string" },
+        "customer": { "$ref": "#/common/customer" },
+        "reason": { "type": "string" },
+        "assignedTo": { "type": "string" },
+        "status": { "type": "string", "enum": ["open", "resolved", "closed"] },
+        "integrationResult": { "type": "string", "enum": ["success", "failure", "retrying"] },
+        "errorDetails": { "type": "string" }
+      }
+    },
+
+    "sync.sheets.failed": {
+      "description": "Google Sheets write failed. Order preserved; error recorded for recovery/retry.",
+      "required": ["orderId", "errorDetails"],
+      "properties": {
+        "orderId": { "type": "string" },
+        "spreadsheetId": { "type": "string" },
+        "tab": { "type": "string" },
+        "errorDetails": { "type": "string" },
+        "retryCount": { "type": "integer", "minimum": 0 },
+        "integrationResult": { "type": "string", "const": "failure" }
+      }
+    }
+  },
+
+  "samples": {
+    "order.created": {
+      "schemaVersion": "1.0.0",
+      "eventId": "evt_01HXYZ999",
+      "idempotencyKey": "idem_order_ORD_0001_20261027",
+      "eventType": "order.created",
+      "timestamp": "2026-10-27T10:15:00Z",
+      "tenantId": "tn_nairobi_trendz",
+      "sourceChannel": "whatsapp",
+      "externalMessageId": "wamid.HBgL...",
+      "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+      "conversationId": "conv_001",
+      "order": {
+        "id": "ORD-0001",
+        "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+        "items": [
+          { "productId": "p_1", "variantId": "p_1_v_42", "variantName": "EU 42", "quantity": 1, "unitPrice": 4500, "lineTotal": 4500 },
+          { "productId": "p_3", "variantId": "p_3_v_L", "variantName": "L", "quantity": 1, "unitPrice": 1500, "lineTotal": 1500 }
+        ],
+        "subtotal": 6000,
+        "discount": 0,
+        "deliveryFee": 300,
+        "grandTotal": 6300,
+        "amountPaid": 0,
+        "outstandingBalance": 6300,
+        "deliveryZone": "Nairobi Suburbs",
+        "customerName": "Jane Wanjiku",
+        "customerPhone": "+254712345678",
+        "status": "created",
+        "paymentStatus": "unpaid",
+        "demoOrder": true,
+        "createdAt": "2026-10-27T10:15:00Z"
+      },
+      "integrationResult": "success",
+      "errorDetails": null
+    },
+
+    "payment.verified": {
+      "schemaVersion": "1.0.0",
+      "eventId": "evt_01HXYZ998",
+      "idempotencyKey": "idem_payment_ORD_0001_TXN123",
+      "eventType": "payment.verified",
+      "timestamp": "2026-10-27T10:45:00Z",
+      "tenantId": "tn_nairobi_trendz",
+      "sourceChannel": "whatsapp",
+      "externalMessageId": null,
+      "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+      "conversationId": "conv_001",
+      "orderId": "ORD-0001",
+      "payment": {
+        "method": "mpesa",
+        "amount": 6300,
+        "transactionReference": "TXN123456789",
+        "phoneNumber": "+254712345678",
+        "status": "verified",
+        "verifiedAt": "2026-10-27T10:45:00Z",
+        "rawCallback": { "Body": { "stkCallback": { "ResultCode": 0, "CheckoutRequestID": "ck_123" } } }
+      },
+      "integrationResult": "success",
+      "errorDetails": null
+    },
+
+    "fulfilment.updated": {
+      "schemaVersion": "1.0.0",
+      "eventId": "evt_01HXYZ997",
+      "idempotencyKey": "idem_fulfil_ORD_0001_dispatched",
+      "eventType": "fulfilment.updated",
+      "timestamp": "2026-10-28T09:00:00Z",
+      "tenantId": "tn_nairobi_trendz",
+      "sourceChannel": "api",
+      "externalMessageId": null,
+      "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+      "conversationId": "conv_001",
+      "orderId": "ORD-0001",
+      "fulfilment": {
+        "status": "dispatched",
+        "zone": "Nairobi Suburbs",
+        "fee": 300,
+        "trackingNumber": null,
+        "estimatedDelivery": "2026-10-30T00:00:00Z",
+        "deliveredAt": null,
+        "notes": "Courier pickup confirmed"
+      },
+      "integrationResult": "success",
+      "errorDetails": null
+    },
+
+    "human.handoff": {
+      "schemaVersion": "1.0.0",
+      "eventId": "evt_01HXYZ996",
+      "idempotencyKey": "idem_handoff_conv_001",
+      "eventType": "human.handoff",
+      "timestamp": "2026-10-27T11:00:00Z",
+      "tenantId": "tn_nairobi_trendz",
+      "sourceChannel": "whatsapp",
+      "externalMessageId": "wamid.HBgL...",
+      "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+      "conversationId": "conv_001",
+      "reason": "Customer requested custom wholesale pricing not in catalogue",
+      "assignedTo": "staff_01",
+      "status": "open",
+      "integrationResult": "success",
+      "errorDetails": null
+    },
+
+    "sync.sheets.failed": {
+      "schemaVersion": "1.0.0",
+      "eventId": "evt_01HXYZ995",
+      "idempotencyKey": "idem_sync_ORD_0001_1",
+      "eventType": "sync.sheets.failed",
+      "timestamp": "2026-10-27T10:16:00Z",
+      "tenantId": "tn_nairobi_trendz",
+      "sourceChannel": "api",
+      "externalMessageId": null,
+      "customer": { "id": "c_254712345678", "phone": "+254712345678", "name": "Jane Wanjiku" },
+      "conversationId": "conv_001",
+      "orderId": "ORD-0001",
+      "spreadsheetId": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+      "tab": "Orders",
+      "errorDetails": "Google Sheets API 403: insufficient permission or spreadsheet not shared with service account",
+      "retryCount": 1,
+      "integrationResult": "failure"
+    }
+  }
+}

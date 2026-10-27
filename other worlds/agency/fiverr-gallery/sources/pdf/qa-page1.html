@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=816, height=1056"><title>QA Page 1</title>
+<style>
+  :root{--ink:#0F172A;--paper:#FFFFFF;--ivory:#F8F5F0;--accent:#059669;--border:#E2E8F0;--muted:#64748B;--font-display:Georgia,'Times New Roman',serif;--font-body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;--font-mono:'SF Mono','Cascadia Code','Courier New',monospace;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:816px;margin:0;background:var(--paper);color:#263238;font-family:var(--font-body);font-size:9.8pt;}
+  .pad{padding:50.4px 50.4px 0 50.4px;}
+  .eyebrow{font-family:var(--font-mono);font-size:8pt;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
+  h1{font-family:var(--font-display);font-size:19pt;font-weight:700;letter-spacing:-0.01em;line-height:1.18;color:var(--ink);margin-bottom:6px;}
+  .rule{height:3px;background:var(--accent);border-radius:2px;width:44px;margin:7px 0 14px;}
+  p{margin-bottom:7px;font-size:9.4pt;line-height:1.5;}
+  h2{font-family:var(--font-display);font-size:11.5pt;font-weight:700;letter-spacing:-0.01em;color:var(--ink);margin:12px 0 5px;}
+  ul.causes{list-style:none;margin-bottom:8px;}
+  ul.causes li{margin-bottom:4px;padding-left:18px;position:relative;font-size:9.2pt;}
+  ul.causes li::before{content:'\25B8';position:absolute;left:0;top:1px;color:var(--accent);font-weight:800;font-size:8.5pt;}
+  .tag{font-family:var(--font-mono);font-size:7.6pt;color:var(--muted);}
+  .honesty{background:var(--ivory);border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:14px;font-size:8.4pt;color:#334155;}
+  .honesty b{color:var(--ink);}
+  .foot{margin-top:22px;font-family:var(--font-mono);font-size:7.2pt;color:var(--muted);letter-spacing:0.12em;text-transform:uppercase;border-top:1px solid var(--border);padding-top:7px;}
+</style></head>
+<body><div class="pad">
+<div class="eyebrow">Case Study &middot; Page 1 of 3</div>
+<h1>The Operational Challenge</h1>
+<div class="rule"></div>
+<p>Insurance brokers in Kenya run on paperwork &mdash; KYC documents, claim forms and onboarding paperwork must be collected from clients before a policy can be bound or a claim paid. Today that chasing is manual: WhatsApp threads, SMS, email and spreadsheets held in separate places, with no single source of truth.</p>
+<p><strong>The workflow&rsquo;s purpose.</strong> Document chasing automation: a broker opens a case, the system sends the client a secure, tokenised upload link on their preferred channel, tracks every response, and flags anything still open after seven days to an exception queue for senior review. The broker decides; the system nudges, tracks and escalates.</p>
+<h2>Why manual chasing fails</h2>
+<p>These failure modes come from discovery conversations with brokers (Deliverable C of the project), not assumptions:</p>
+<ul class="causes">
+<li><span class="tag">Understanding</span> Clients don&rsquo;t understand what is needed &mdash; requests are incomplete or confusing.</li>
+<li><span class="tag">Submission</span> Documents are difficult to submit &mdash; no mobile-friendly upload path, no app installation acceptable.</li>
+<li><span class="tag">Trust</span> Clients distrust upload links and prefer WhatsApp or email as an alternative.</li>
+<li><span class="tag">Tracking</span> Brokers lose track of who owes what; follow-ups get forgotten across disconnected channels.</li>
+<li><span class="tag">Parties</span> Client, broker, insurer and loss adjuster all share responsibility, with no shared status view.</li>
+<li><span class="tag">Escalation</span> Cases overdue more than 7 days have no structured path to a senior broker.</li>
+</ul>
+<p>No revenue figures, conversion rates or client counts are claimed here &mdash; this is a capability demonstration built on the project&rsquo;s own research, not a delivered production deployment.</p>
+<div class="honesty"><b>Scope note.</b> Document chasing only &mdash; payment reconciliation, automated underwriting and policy issuance are explicitly out of scope (Deliverable F).</div>
+<div class="foot">Automation case study &middot; Document Chasing Escalation &middot; synthetic demo data &middot; no live credentials shown</div>
+</div></body></html>

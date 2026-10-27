@@ -1,0 +1,168 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: KE
+        - button "Skip navigation" [ref=e20] [cursor=pointer]
+      - generic [ref=e24]:
+        - search [ref=e25]:
+          - generic [ref=e27]:
+            - combobox "Search" [expanded] [ref=e30]
+            - button "Search" [ref=e31] [cursor=pointer]
+        - generic [ref=e34]:
+          - button "Search with your voice" [ref=e36] [cursor=pointer]
+          - tooltip "tooltip"
+  - main [ref=e46]:
+    - generic [ref=e47]:
+      - generic [ref=e49]:
+        - generic [ref=e52]:
+          - generic [aria-hidden] [ref=e55] [cursor=pointer]
+          - complementary [ref=e56]:
+            - generic "YouTube Video Player" [active] [ref=e59]:
+              - button "Play" [ref=e63] [cursor=pointer]
+              - generic [ref=e64]:
+                - generic [ref=e65] [cursor=pointer]:
+                  - slider "Seek slider" [ref=e66]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - slider "Click or scroll the panel for the precise seeking."
+                - generic [ref=e83]:
+                  - generic [ref=e84]:
+                    - button "Play (k)" [ref=e85] [cursor=pointer]
+                    - generic [ref=e86]:
+                      - button "Mute (m)" [ref=e88] [cursor=pointer]
+                      - slider "Volume":
+                        - generic [ref=e89] [cursor=pointer]
+                    - button "0 Minutes 0 Seconds of 15 Minutes 37 Seconds" [ref=e92] [cursor=pointer]: 0:00 / 15:37
+                    - button "Intro" [ref=e94] [cursor=pointer]
+                  - generic [ref=e97]:
+                    - generic [ref=e98]:
+                      - button "Autoplay is on" [ref=e99] [cursor=pointer]
+                      - button "Subtitles/closed captions unavailable" [ref=e102] [cursor=pointer]
+                      - button "Settings" [ref=e104] [cursor=pointer]
+                    - generic [ref=e105]:
+                      - button "Theater mode (t)" [ref=e106] [cursor=pointer]
+                      - button "Full screen (f)" [ref=e107] [cursor=pointer]
+        - generic [ref=e109]:
+          - generic [ref=e111]:
+            - heading "How to Service Your First AI Automation Agency Client ($3000 EACH)" [level=1] [ref=e114]
+            - generic [ref=e115]:
+              - generic [ref=e116]:
+                - generic [ref=e117]:
+                  - link [ref=e118] [cursor=pointer]:
+                    - /url: /@LiamOttley
+                    - img "Liam Ottley" [ref=e120]
+                  - generic [ref=e121]:
+                    - generic [ref=e122]:
+                      - generic "Liam Ottley" [ref=e125]:
+                        - link "Liam Ottley" [ref=e126] [cursor=pointer]:
+                          - /url: /@LiamOttley
+                      - img "Verified" [ref=e131]
+                    - generic "861 thousand subscribers" [ref=e133]: 861K subscribers
+                - button "Subscribe to Liam Ottley." [ref=e140] [cursor=pointer]:
+                  - generic: Subscribe
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - generic [ref=e152]:
+                    - button "like this video along with 6,407 other people" [ref=e156] [cursor=pointer]:
+                      - generic: 6.4K
+                    - button "Dislike this video" [ref=e163] [cursor=pointer]
+                  - button "Share" [ref=e169] [cursor=pointer]
+                - button "More actions" [ref=e174] [cursor=pointer]
+            - generic [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]:
+                - generic [ref=e182]: 271K views 3 years ago
+                - tooltip "tooltip"
+              - generic [ref=e184]:
+                - generic [ref=e185]:
+                  - generic [ref=e188]:
+                    - text: "🗞️ Join 100K+ founders on my AI-for-business newsletter:"
+                    - link "https://liamottley.com/join" [ref=e190]:
+                      - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR2FrZVVaTkZiZC1abzUxdjhWWHRGNnxBSTVJdTV2ZDhIWFZTcUpUUEM4S3ZtRDZIT2wyOC1HWi1KczFLcmcyUGNzSFhudzYyaHlQWTRrWDBoaUZVUk94WklIZTRjaXBmQjQ1VEJPZ1ZOc3ozVmFkSnlzVDBvYnl1RW9l&q=https%3A%2F%2Fliamottley.com%2Fjoin&v=XJYbZLPDUhE
+                    - text: 🛠 Want me to rebuild YOUR business with AI?
+                    - link "https://aimakeover.com" [ref=e192]:
+                      - /url: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR0NON1UxdVVpaS1ZUzBzcFhnY2R3Q3xBSTVJdTV1czFpYWNWMGpkU1hIdFY4cy1kR09IenVOVHlla01pTGtDZV81eHliRzB5SXVaWFNSb215bmlRVkYxNmhfWE5NSmRDcHR5dFpkOFVFbzAyMmpRQ1owTEtXU1pTd2NQ&q=https%3A%2F%2Faimakeover.com%2F&v=XJYbZLPDUhE
+                  - generic: …
+                - button "...more" [ref=e193]
+          - text: •
+      - generic [ref=e200]:
+        - generic [ref=e202] [cursor=pointer]:
+          - link [aria-hidden] [ref=e203]:
+            - /url: /watch?v=5TxSqvPbnWw&pp=ugUEEgJlbg%3D%3D
+            - img [ref=e209]:
+              - generic [aria-hidden] [ref=e210]: 1:50:23
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - 'heading "How to Build & Sell AI Automations: Ultimate Beginner’s Guide" [level=3] [ref=e214]':
+                - 'link "How to Build & Sell AI Automations: Ultimate Beginner’s Guide 1 hour, 50 minutes" [ref=e215]':
+                  - /url: /watch?v=5TxSqvPbnWw&pp=ugUEEgJlbg%3D%3D
+                  - text: "How to Build & Sell AI Automations: Ultimate Beginner’s Guide"
+              - generic [ref=e217]:
+                - group [ref=e218]:
+                  - generic [ref=e219]: Liam Ottley
+                  - generic "Verified" [ref=e220]
+                - group [ref=e221]:
+                  - generic "1.2 million views" [ref=e223]: 1.2M
+                  - generic "1 year ago" [ref=e224]: 1y ago
+            - button "More actions" [ref=e227]
+        - generic [ref=e232] [cursor=pointer]:
+          - link [aria-hidden] [ref=e233]:
+            - /url: /watch?v=F9TV5hmsmKI&pp=ugUEEgJlbg%3D%3D
+            - img [ref=e239]:
+              - generic [aria-hidden] [ref=e240]: 55:49
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - heading "How I'd Get My First AI Agency Client in 30 Days (Just Copy Me)" [level=3] [ref=e244]:
+                - link "How I'd Get My First AI Agency Client in 30 Days (Just Copy Me) 55 minutes" [ref=e245]:
+                  - /url: /watch?v=F9TV5hmsmKI&pp=ugUEEgJlbg%3D%3D
+                  - text: How I'd Get My First AI Agency Client in 30 Days (Just Copy Me)
+              - generic [ref=e247]:
+                - group [ref=e248]:
+                  - generic [ref=e249]: Michele Torti
+                - group [ref=e250]:
+                  - generic "11 thousand views" [ref=e252]: 11K
+                  - generic "4 months ago" [ref=e253]: 4mo ago
+            - button "More actions" [ref=e256]
+        - generic [ref=e261] [cursor=pointer]:
+          - link [aria-hidden] [ref=e262]:
+            - /url: /watch?v=iBDCEdbqbdk&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=e268]:
+              - generic [aria-hidden] [ref=e269]: 21:00
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - heading "The BEST Niches for AI Automation Agencies" [level=3] [ref=e273]:
+                - link "The BEST Niches for AI Automation Agencies 21 minutes" [ref=e274]:
+                  - /url: /watch?v=iBDCEdbqbdk&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: The BEST Niches for AI Automation Agencies
+              - generic [ref=e276]:
+                - group [ref=e277]:
+                  - generic [ref=e278]: Liam Ottley
+                  - generic "Verified" [ref=e279]
+                - group [ref=e280]:
+                  - generic "122 thousand views" [ref=e282]: 122K
+                  - generic "3 years ago" [ref=e283]: 3y ago
+            - button "More actions" [ref=e286]
+        - generic [ref=e291] [cursor=pointer]:
+          - link [aria-hidden] [ref=e292]:
+            - /url: /watch?v=FV5Dxc6F55M&pp=ugUHEgVlbi1VUw%3D%3D
+            - img [ref=e298]:
+              - generic [aria-hidden] [ref=e299]: 14:57
+          - generic [ref=e301]:
+            - generic [ref=e302]:
+              - heading "Why You Can't Sign Your First Al Automation Agency Client" [level=3] [ref=e303]:
+                - link "Why You Can't Sign Your First Al Automation Agency Client 14 minutes, 57 seconds" [ref=e304]:
+                  - /url: /watch?v=FV5Dxc6F55M&pp=ugUHEgVlbi1VUw%3D%3D
+                  - text: Why You Can't Sign Your First Al Automation Agency Client
+              - generic [ref=e306]:
+                - group [ref=e307]:
+                  - generic [ref=e308]: Liam Ottley
+                  - generic "Verified" [ref=e309]
+                - group [ref=e310]:
+                  - generic "25 thousand views" [ref=e312]: 25K
+                  - generic "3 years ago" [ref=e313]: 3y ago
+            - button "More actions" [ref=e316]

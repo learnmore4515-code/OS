@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=816, height=1056"><title>QA Page 2</title>
+<style>
+  :root{--ink:#0F172A;--paper:#FFFFFF;--ivory:#F8F5F0;--accent:#059669;--border:#E2E8F0;--muted:#64748B;--font-display:Georgia,'Times New Roman',serif;--font-body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;--font-mono:'SF Mono','Cascadia Code','Courier New',monospace;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:816px;margin:0;background:var(--paper);color:#263238;font-family:var(--font-body);font-size:9.8pt;}
+  .pad{padding:50.4px 50.4px 0 50.4px;}
+  .eyebrow{font-family:var(--font-mono);font-size:8pt;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
+  h1{font-family:var(--font-display);font-size:19pt;font-weight:700;letter-spacing:-0.01em;line-height:1.18;color:var(--ink);margin-bottom:6px;}
+  .rule{height:3px;background:var(--accent);border-radius:2px;width:44px;margin:7px 0 14px;}
+  p{margin-bottom:7px;font-size:9.4pt;line-height:1.5;}
+  h2{font-family:var(--font-display);font-size:11.5pt;font-weight:700;letter-spacing:-0.01em;color:var(--ink);margin:12px 0 5px;}
+  .steps{border-collapse:collapse;width:100%;margin-bottom:10px;font-size:8.2pt;}
+  .steps th{background:var(--ink);color:var(--paper);text-align:left;padding:5px 7px;font-size:7pt;text-transform:uppercase;letter-spacing:0.09em;}
+  .steps td{border:1px solid var(--border);padding:5px 7px;vertical-align:top;}
+  .steps tr:nth-child(even)td{background:var(--ivory);}
+  .steps .num{font-family:var(--font-mono);font-weight:800;color:var(--accent-dark);width:24px;}
+  .steps .node{font-weight:700;color:var(--ink);}
+  .kicker{font-size:8pt;color:var(--muted);font-family:var(--font-mono);letter-spacing:0.14em;text-transform:uppercase;margin-bottom:12px;margin-top:6px;}
+  ul.causes{list-style:none;margin-bottom:8px;}
+  ul.causes li{margin-bottom:4px;padding-left:18px;position:relative;font-size:9.2pt;}
+  ul.causes li::before{content:'\25B8';position:absolute;left:0;top:1px;color:var(--accent);font-weight:800;font-size:8.5pt;}
+  .tag{font-family:var(--font-mono);font-size:7.6pt;color:var(--muted);}
+  .honesty{background:var(--ivory);border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:14px;font-size:8.4pt;color:#334155;}
+  .honesty b{color:var(--ink);}
+  .foot{margin-top:22px;font-family:var(--font-mono);font-size:7.2pt;color:var(--muted);letter-spacing:0.12em;text-transform:uppercase;border-top:1px solid var(--border);padding-top:7px;}
+</style></head>
+<body><div class="pad">
+<div class="eyebrow">Case Study &middot; Page 2 of 3</div>
+<h1>The System Architecture</h1>
+<div class="rule"></div>
+<p>The system is n8n workflow <strong>WB-08 &mdash; Document Chasing Escalation</strong>, a multi-step workflow with sub-workflow triggers, conditional routing by escalation day, and integrations across Gmail, Google Sheets and HTTP webhooks. Every step below is taken from the real workflow definition (synthetic demo data; no live credentials).</p>
+<table class="steps">
+<thead><tr><th style="width:24px;"></th><th style="width:190px;">Step</th><th>What happens</th></tr></thead>
+<tbody>
+<tr><td class="num">1</td><td class="node">Document Chasing Trigger</td><td>Entry from Chain 4 ops hub when verification is partial/invalid (Day 0). Also a daily 09:00 schedule trigger scans for overdue chases.</td></tr>
+<tr><td class="num">2</td><td class="node">Normalize New Chase</td><td>Set node normalises client details, missing fields, chase start date, escalation stage, consent and insurer / adjuster contacts.</td></tr>
+<tr><td class="num">3</td><td class="node">Gmail &mdash; Day 0 Secure Upload Link</td><td>Sends the client a personalised, tokenised upload link listing exactly which documents are missing, why each is needed and the deadline. ODPC consent logged at first touch.</td></tr>
+<tr><td class="num">4</td><td class="node">Notify Insurer / Loss Adjuster</td><td>HTTP POST webhook notifies insurer and loss adjuster (multi-party alignment &mdash; all parties see shared milestone status).</td></tr>
+<tr><td class="num">5</td><td class="node">Log ODPC Consent + Update Tracker</td><td>Logs consent channel and date; appends a chase record to the Google Sheets document tracker.</td></tr>
+<tr><td class="num">6</td><td class="node">Daily Scan &middot; Filter Pending</td><td>Reads the tracker; filters chases that are pending and not yet verified.</td></tr>
+<tr><td class="num">7</td><td class="node">Switch &mdash; Escalation Day</td><td>Conditional router by days since chase: +2 friendly nudge, +4 formal reminder, +7 phone-call task, renewals at 60/30/7/3 days, nothing due otherwise.</td></tr>
+<tr><td class="num">8</td><td class="node">Phone Task + Exception Queue</td><td>Day +7 creates a broker phone-call task; &gt;7 days with no response creates an exception queue entry (severity high, 24h SLA, recommended action).</td></tr>
+<tr><td class="num">9</td><td class="node">Update Tracker Stage</td><td>Writes escalation stage, last contact channel and status back to the tracker sheet; errors are logged rather than dropped.</td></tr>
+</tbody>
+</table>
+<p class="kicker">Decision logic &mdash; conditional routing by escalation day</p>
+<ul class="causes">
+<li><span class="tag">Day +2</span> Gmail friendly reminder &middot; stage advanced &middot; tracker updated.</li>
+<li><span class="tag">Day +4</span> Gmail formal reminder &middot; stage advanced &middot; tracker updated.</li>
+<li><span class="tag">Day +7</span> Broker phone-call task &middot; exception queue entry, 24-hour SLA.</li>
+<li><span class="tag">Renewals</span> Separate cadence: 60 / 30 / 7 / 3 days before policy expiry.</li>
+<li><span class="tag">Stop condition</span> Escalation stops as soon as documents are verified.</li>
+</ul>
+<div class="honesty"><b>Architecture note.</b> Integrations (Gmail, Google Sheets, insurer/adjuster webhooks) require the buyer&rsquo;s own n8n instance and credentials &mdash; configured at handover, not pre-connected to any live account.</div>
+<div class="foot">Real n8n workflow: WB-08 Document Chasing Escalation &middot; demo data only &middot; no live credentials</div>
+</div></body></html>

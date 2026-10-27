@@ -1,0 +1,344 @@
+- generic [ref=f4e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f4e3]:
+    - banner [ref=f4e4]:
+      - separator [ref=f4e5]
+      - generic [ref=f4e7]:
+        - generic [ref=f4e8]:
+          - button "Nairobi, KSH" [ref=f4e10] [cursor=pointer]
+          - button "English" [ref=f4e14] [cursor=pointer]
+        - generic [ref=f4e18]:
+          - link "Sign in / Register" [ref=f4e19] [cursor=pointer]:
+            - /url: /login
+          - link "Wishlist" [ref=f4e23] [cursor=pointer]:
+            - /url: /wishlist
+      - separator [ref=f4e26]
+      - generic [ref=f4e28]:
+        - generic [ref=f4e29]:
+          - link [ref=f4e31] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f4e32]:
+              - img "Herstyle logo" [ref=f4e33]
+              - heading "Herstyle" [level=1] [ref=f4e34]
+            - paragraph [ref=f4e35]: Luxury Modest Style for Extraordinary Women
+          - generic [ref=f4e36]:
+            - button "Open search" [ref=f4e37] [cursor=pointer]
+            - button "Shopping cart with 0 items" [ref=f4e42] [cursor=pointer]
+        - separator [ref=f4e46]
+        - navigation [ref=f4e47]:
+          - generic [ref=f4e48]:
+            - link "NEW IN" [ref=f4e49] [cursor=pointer]:
+              - /url: /new-in
+            - button "CLOTHING" [ref=f4e52] [cursor=pointer]
+            - button "SHOES" [ref=f4e57] [cursor=pointer]
+            - button "ACCESSORIES" [ref=f4e62] [cursor=pointer]
+            - button "BEAUTY & WELLNESS" [ref=f4e67] [cursor=pointer]
+            - link "DESIGNERS" [ref=f4e71] [cursor=pointer]:
+              - /url: /designers
+            - link "MAGAZINE" [ref=f4e72] [cursor=pointer]:
+              - /url: /blog
+            - link "SALE" [ref=f4e73] [cursor=pointer]:
+              - /url: /sale
+        - separator [ref=f4e76]
+    - main [ref=f4e77]:
+      - generic [ref=f4e78]:
+        - generic [ref=f4e80]:
+          - generic [ref=f4e81]:
+            - img "Sale Banner" [ref=f4e84]
+            - generic [ref=f4e89]:
+              - generic [ref=f4e90]: Nairobi Studio • Signature Collection
+              - heading "The Nairobi Edit." [level=1] [ref=f4e91]
+              - generic [ref=f4e93]:
+                - paragraph [ref=f4e94]: "\"Curated for the modern woman, blending high-end curation with local soul.\""
+                - generic [ref=f4e95]:
+                  - link "Explore Curation" [ref=f4e96] [cursor=pointer]:
+                    - /url: /new-in
+                  - link "Seasonal Archive" [ref=f4e99] [cursor=pointer]:
+                    - /url: /sale
+          - generic [ref=f4e104]:
+            - generic [ref=f4e105]:
+              - generic [ref=f4e106]: Express Logistics
+              - generic [ref=f4e107]: 2-3 Day Nationwide Delivery
+            - generic [ref=f4e109]:
+              - generic [ref=f4e110]: Studio Standards
+              - generic [ref=f4e111]: Complimentary Delivery Over KES 15k
+            - generic [ref=f4e113]:
+              - generic [ref=f4e114]: Curated Access
+              - generic [ref=f4e115]: 30-Day Refined Returns Portfolio
+        - generic [ref=f4e117]:
+          - generic [ref=f4e118]:
+            - generic [ref=f4e119]: The Selection
+            - heading "Shop by Category" [level=2] [ref=f4e120]
+            - paragraph [ref=f4e121]: "\"Four curated paths to help you navigate our current season's studio favorites.\""
+          - generic [ref=f4e122]:
+            - link "Explore New Arrivals collection" [ref=f4e124] [cursor=pointer]:
+              - /url: /new-in
+              - article [ref=f4e125]:
+                - img "New Arrivals - Discover our latest collection of fresh and trendy styles." [ref=f4e127]
+                - generic [ref=f4e128]:
+                  - paragraph [ref=f4e129]: Browse Collection
+                  - heading "New Arrivals" [level=3] [ref=f4e130]
+            - link "Explore Seasonal Sale collection" [ref=f4e134] [cursor=pointer]:
+              - /url: /sale
+              - article [ref=f4e135]:
+                - img "Seasonal Sale - Don't miss out on our limited-time offers and discounts." [ref=f4e137]
+                - generic [ref=f4e138]:
+                  - paragraph [ref=f4e139]: Browse Collection
+                  - heading "Seasonal Sale" [level=3] [ref=f4e140]
+            - link "Explore Best Sellers collection" [ref=f4e144] [cursor=pointer]:
+              - /url: /bestsellers
+              - article [ref=f4e145]:
+                - img "Best Sellers - Shop our most popular items loved by customers worldwide." [ref=f4e147]
+                - generic [ref=f4e148]:
+                  - paragraph [ref=f4e149]: Browse Collection
+                  - heading "Best Sellers" [level=3] [ref=f4e150]
+            - link "Explore Gift Cards collection" [ref=f4e154] [cursor=pointer]:
+              - /url: /gift-cards
+              - article [ref=f4e155]:
+                - img "Gift Cards - Give the gift of style with our versatile e-gift cards." [ref=f4e157]
+                - generic [ref=f4e158]:
+                  - paragraph [ref=f4e159]: Browse Collection
+                  - heading "Gift Cards" [level=3] [ref=f4e160]
+          - link "Explore Complete Studio" [ref=f4e164] [cursor=pointer]:
+            - /url: /categories
+        - generic [ref=f4e167]:
+          - generic [ref=f4e168]:
+            - generic [ref=f4e169]: Studio Edits
+            - heading "Selected for You" [level=2] [ref=f4e170]
+            - paragraph [ref=f4e171]: "\"Signature edits chosen for modern feminine dressing, from everyday polish to elevated moments.\""
+          - generic [ref=f4e172]:
+            - link [ref=f4e173] [cursor=pointer]:
+              - /url: /product/143
+              - article [ref=f4e174]:
+                - img "Chic Mini Dress" [ref=f4e178]
+                - generic [ref=f4e179]:
+                  - paragraph [ref=f4e181]: clothing
+                  - heading "Chic Mini Dress" [level=3] [ref=f4e182]
+                  - paragraph [ref=f4e184]: KES 2099
+            - link [ref=f4e185] [cursor=pointer]:
+              - /url: /product/138
+              - article [ref=f4e186]:
+                - generic [ref=f4e187]:
+                  - img "Designer Boho Skirt" [ref=f4e190]
+                  - generic [ref=f4e191]: Studio Signature
+                - generic [ref=f4e192]:
+                  - paragraph [ref=f4e194]: Skirts & Shorts
+                  - heading "Designer Boho Skirt" [level=3] [ref=f4e195]
+                  - paragraph [ref=f4e197]: KES 1500
+            - link [ref=f4e198] [cursor=pointer]:
+              - /url: /product/137
+              - article [ref=f4e199]:
+                - generic [ref=f4e200]:
+                  - img "Corset Dress Leather/Mesh Quality" [ref=f4e203]
+                  - generic [ref=f4e204]: Studio Signature
+                - generic [ref=f4e205]:
+                  - paragraph [ref=f4e207]: Dresses
+                  - heading "Corset Dress Leather/Mesh Quality" [level=3] [ref=f4e208]
+                  - paragraph [ref=f4e210]: KES 2000
+            - link [ref=f4e211] [cursor=pointer]:
+              - /url: /product/133
+              - article [ref=f4e212]:
+                - generic [ref=f4e213]:
+                  - img "Bag" [ref=f4e216]
+                  - generic [ref=f4e217]: Studio Signature
+                - generic [ref=f4e218]:
+                  - paragraph [ref=f4e220]: Handbags
+                  - heading "Bag" [level=3] [ref=f4e221]
+                  - paragraph [ref=f4e223]: KES 2000
+          - link "Explore New In" [ref=f4e225] [cursor=pointer]:
+            - /url: /new-in
+        - generic [ref=f4e228]:
+          - generic [ref=f4e229]:
+            - generic [ref=f4e230]: Featured Collections
+            - heading "The Edit" [level=2] [ref=f4e231]
+            - paragraph [ref=f4e232]: "\"Curated narratives for the modern woman, blending timeless silhouettes with contemporary edge.\""
+          - generic [ref=f4e233]:
+            - link [ref=f4e234] [cursor=pointer]:
+              - /url: /knittedsweaters
+              - article [ref=f4e235]:
+                - img "Oldschool Collection" [ref=f4e238]
+                - generic [ref=f4e241]:
+                  - paragraph [ref=f4e242]: Collection
+                  - heading "Oldschool Collection" [level=3] [ref=f4e243]
+                  - paragraph [ref=f4e244]: Fresh summer styles
+                  - generic [ref=f4e245]: Discover More
+            - link [ref=f4e248] [cursor=pointer]:
+              - /url: /category/clothing
+              - article [ref=f4e249]:
+                - img "Clothing" [ref=f4e251]
+                - generic [ref=f4e254]:
+                  - paragraph [ref=f4e255]: Collection
+                  - heading "Clothing" [level=3] [ref=f4e256]
+                  - paragraph [ref=f4e257]: Beautiful clothing
+                  - generic [ref=f4e258]: Discover More
+            - link [ref=f4e261] [cursor=pointer]:
+              - /url: /category/shoes
+              - article [ref=f4e262]:
+                - generic [ref=f4e267]:
+                  - paragraph [ref=f4e268]: Collection
+                  - heading "Shoes" [level=3] [ref=f4e269]
+                  - paragraph [ref=f4e270]: Stylish footwear
+                  - generic [ref=f4e271]: Discover More
+            - link [ref=f4e274] [cursor=pointer]:
+              - /url: /eyeglasses
+              - article [ref=f4e275]:
+                - generic [ref=f4e280]:
+                  - paragraph [ref=f4e281]: Collection
+                  - heading "Eyeglasses" [level=3] [ref=f4e282]
+                  - paragraph [ref=f4e283]: Elegant eyewear
+                  - generic [ref=f4e284]: Discover More
+        - generic [ref=f4e288]:
+          - generic [ref=f4e289]:
+            - generic [ref=f4e290]: Refined Selection
+            - heading "Beyond the Collection" [level=2] [ref=f4e291]
+          - generic [ref=f4e292]:
+            - link [ref=f4e294] [cursor=pointer]:
+              - /url: /summer-collection
+              - article [ref=f4e295]:
+                - generic [ref=f4e299]:
+                  - heading "SUMMER VIBES" [level=3] [ref=f4e300]
+                  - generic [ref=f4e301]: SHOP NOW
+            - link [ref=f4e305] [cursor=pointer]:
+              - /url: /evening-wear
+              - article [ref=f4e306]:
+                - generic [ref=f4e310]:
+                  - heading "ELEGANT EVENING" [level=3] [ref=f4e311]
+                  - generic [ref=f4e312]: EXPLORE
+            - link [ref=f4e316] [cursor=pointer]:
+              - /url: /casual-wear
+              - article [ref=f4e317]:
+                - generic [ref=f4e321]:
+                  - heading "CASUAL CHIC" [level=3] [ref=f4e322]
+                  - generic [ref=f4e323]: SHOP NOW
+    - contentinfo [ref=f4e327]:
+      - generic [ref=f4e330]:
+        - generic [ref=f4e335]:
+          - paragraph [ref=f4e336]: Secure Shopping
+          - paragraph [ref=f4e337]: 100% Protected
+        - generic [ref=f4e345]:
+          - paragraph [ref=f4e346]: Fast Delivery
+          - paragraph [ref=f4e347]: Free Shipping
+        - generic [ref=f4e352]:
+          - paragraph [ref=f4e353]: Easy Returns
+          - paragraph [ref=f4e354]: 7 Day Policy
+        - generic [ref=f4e359]:
+          - paragraph [ref=f4e360]: Premium Quality
+          - paragraph [ref=f4e361]: Curated Selection
+      - generic [ref=f4e363]:
+        - generic [ref=f4e364]:
+          - generic [ref=f4e365]:
+            - heading "HERSTYLE KENYA" [level=3] [ref=f4e366]
+            - paragraph [ref=f4e367]: Luxury modest style for extraordinary women. Discover curated collections that celebrate elegance and sophistication.
+          - list [ref=f4e368]:
+            - listitem [ref=f4e369]:
+              - link "About Herstyle" [ref=f4e370] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f4e372]:
+              - link "Designers A-Z" [ref=f4e373] [cursor=pointer]:
+                - /url: /designers-a-z
+            - listitem [ref=f4e375]:
+              - link "Magazine" [ref=f4e376] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f4e378]:
+              - link "Herstyle To Go" [ref=f4e379] [cursor=pointer]:
+                - /url: /herstyle-to-go
+              - link "Herstyle Editorial Book" [ref=f4e381] [cursor=pointer]:
+                - /url: /editorial
+            - listitem [ref=f4e383]:
+              - link "Why Shop With Us?" [ref=f4e384] [cursor=pointer]:
+                - /url: /why-shop-with-us
+            - listitem [ref=f4e386]:
+              - link "Work With Us" [ref=f4e387] [cursor=pointer]:
+                - /url: /work-with-us
+        - generic [ref=f4e389]:
+          - generic [ref=f4e390]:
+            - heading "HELP" [level=3] [ref=f4e391]
+            - paragraph [ref=f4e392]: We're here to help you find the perfect fit and make your shopping experience seamless.
+          - list [ref=f4e393]:
+            - listitem [ref=f4e394]:
+              - link "Frequently Asked Questions" [ref=f4e395] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=f4e397]:
+              - link "Payment Options" [ref=f4e398] [cursor=pointer]:
+                - /url: /payment-options
+            - listitem [ref=f4e400]:
+              - link "Shipping & Returns" [ref=f4e401] [cursor=pointer]:
+                - /url: /shipping-returns
+            - listitem [ref=f4e403]:
+              - link "Size Guide" [ref=f4e404] [cursor=pointer]:
+                - /url: /size-guide
+        - generic [ref=f4e406]:
+          - generic [ref=f4e407]:
+            - heading "SERVICES" [level=3] [ref=f4e408]
+            - paragraph [ref=f4e409]: Premium services designed to enhance your shopping experience and style journey.
+          - list [ref=f4e410]:
+            - listitem [ref=f4e411]:
+              - link "Contact Us" [ref=f4e412] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f4e414]:
+              - link "Gift Cards" [ref=f4e415] [cursor=pointer]:
+                - /url: /gift-cards
+            - listitem [ref=f4e417]:
+              - link "Order Status" [ref=f4e418] [cursor=pointer]:
+                - /url: /order-status
+            - listitem [ref=f4e420]:
+              - link "Personal Shopping By Appointment" [ref=f4e421] [cursor=pointer]:
+                - /url: /personal-shopping
+        - generic [ref=f4e423]:
+          - generic [ref=f4e424]:
+            - heading "NEWSLETTER" [level=3] [ref=f4e425]
+            - paragraph [ref=f4e426]: Stay updated with our latest collections, exclusive offers, and style inspiration.
+          - generic [ref=f4e428]:
+            - link [ref=f4e429] [cursor=pointer]:
+              - /url: https://www.facebook.com/share/19tyWniejm/
+            - link [ref=f4e432] [cursor=pointer]:
+              - /url: https://www.instagram.com/her_style_ke/?igsh=MXgxdHRwb3BzcXdmaA%3D%3D&utm_source=qr#
+            - link [ref=f4e436] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@her_style_ke?_t=ZM-8zX9mKztuoa&_r=1
+          - heading "Herstyle" [level=4] [ref=f4e440]
+          - generic [ref=f4e441]:
+            - generic [ref=f4e442]:
+              - textbox "Enter your email address" [ref=f4e447]
+              - button "Subscribe" [ref=f4e448] [cursor=pointer]
+            - generic [ref=f4e451]:
+              - generic [ref=f4e452]: Join 10,000+ fashion enthusiasts
+              - generic [ref=f4e453]: ✓ Email verification required
+              - generic [ref=f4e454]: ✓ Weekly fashion updates
+              - generic [ref=f4e455]: ✓ Unsubscribe anytime
+      - generic [ref=f4e458]:
+        - generic [ref=f4e459]:
+          - generic [ref=f4e460]: © 2026 Herstyle. All rights reserved.
+          - generic [ref=f4e461]:
+            - link "Privacy Policy" [ref=f4e462] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms of Service" [ref=f4e463] [cursor=pointer]:
+              - /url: /terms
+            - link "Cookie Policy" [ref=f4e464] [cursor=pointer]:
+              - /url: /cookies
+        - generic [ref=f4e466]:
+          - generic [ref=f4e467]: Developed by
+          - link "Mugweru Wachira" [ref=f4e468] [cursor=pointer]:
+            - /url: https://edwin-mugweru.vercel.app/
+  - generic [ref=f4e470]:
+    - generic [ref=f4e472]:
+      - generic [ref=f4e477]:
+        - heading "Cookie Preferences" [level=3] [ref=f4e478]
+        - paragraph [ref=f4e479]: We use cookies to enhance your experience
+      - button [ref=f4e480] [cursor=pointer]
+    - generic [ref=f4e481]:
+      - paragraph [ref=f4e482]: We use cookies to improve your browsing experience, analyze site traffic, and personalize content. You can customize your preferences below.
+      - generic [ref=f4e483]:
+        - button "Accept All" [ref=f4e484] [cursor=pointer]
+        - button "Deny All" [ref=f4e485] [cursor=pointer]
+      - button "Customize Settings" [ref=f4e486] [cursor=pointer]
+      - paragraph [ref=f4e488]:
+        - text: By using our site, you agree to our
+        - link "Privacy Policy" [ref=f4e489] [cursor=pointer]:
+          - /url: /privacy
+        - text: and
+        - link "Terms of Service" [ref=f4e490] [cursor=pointer]:
+          - /url: /terms
+        - text: . Learn more about our
+        - link "Cookie Policy" [ref=f4e491] [cursor=pointer]:
+          - /url: /cookies
+        - text: .

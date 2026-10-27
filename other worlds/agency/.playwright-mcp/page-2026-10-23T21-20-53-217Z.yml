@@ -1,0 +1,95 @@
+- generic [ref=f9e2]:
+  - banner [ref=f9e3]:
+    - paragraph [ref=f9e4]: BrokerFlow AI • Kenya • ODPC-aligned
+    - heading "Document Chase Dashboard" [level=1] [ref=f9e5]
+    - paragraph [ref=f9e6]: Zero-touch document intake for KYC, claims, and onboarding paperwork. Chasing clients for missing documents — autonomously.
+  - generic [ref=f9e7]:
+    - generic [ref=f9e8]:
+      - generic [ref=f9e9]: Total cases
+      - generic [ref=f9e10]: "0"
+    - generic [ref=f9e11]:
+      - generic [ref=f9e12]: Awaiting docs
+      - generic [ref=f9e13]: "0"
+    - generic [ref=f9e14]:
+      - generic [ref=f9e15]: Exception queue (>7d)
+      - generic [ref=f9e16]: "0"
+    - generic [ref=f9e17]:
+      - generic [ref=f9e18]: Completed
+      - generic [ref=f9e19]: "0"
+  - generic [ref=f9e20]:
+    - heading "✎ Create document-chase case" [level=2] [ref=f9e21]:
+      - generic [ref=f9e22]: ✎
+      - text: Create document-chase case
+    - generic [ref=f9e24]:
+      - generic [ref=f9e25]:
+        - generic [ref=f9e26]: Client full name
+        - textbox "e.g. Wanjiku Mwangi" [ref=f9e27]
+      - generic [ref=f9e28]:
+        - generic [ref=f9e29]: Phone (WhatsApp/SMS)
+        - textbox "e.g. 0712345678" [ref=f9e30]
+      - generic [ref=f9e31]:
+        - generic [ref=f9e32]: Email
+        - textbox "e.g. wanjiku@example.com" [ref=f9e33]
+      - generic [ref=f9e34]:
+        - generic [ref=f9e35]: Preferred channel
+        - combobox [ref=f9e36]:
+          - option "WhatsApp" [selected]
+          - option "SMS"
+          - option "Email"
+      - generic [ref=f9e37]:
+        - generic [ref=f9e38]: Policy type
+        - combobox [ref=f9e39]:
+          - option "Motor" [selected]
+          - option "Commercial / PSV"
+          - option "Fire / Burglary"
+          - option "Claims"
+      - generic [ref=f9e40]:
+        - generic [ref=f9e41]: Document submission deadline
+        - textbox [ref=f9e42]: 2026-10-23
+      - generic [ref=f9e43]:
+        - generic [ref=f9e44]: Policy renewal date
+        - textbox [ref=f9e45]:
+          - /placeholder: e.g. 2026-12-01
+      - generic [ref=f9e47]:
+        - checkbox "I have obtained client consent to collect and store these documents under the ODPC Data Protection Act (Kenya)." [ref=f9e48]
+        - generic [ref=f9e49]: I have obtained client consent to collect and store these documents under the ODPC Data Protection Act (Kenya).
+      - generic [ref=f9e50]: Required documents update automatically by policy type.
+      - generic [ref=f9e51]:
+        - generic [ref=f9e52]: National ID
+        - generic [ref=f9e53]: KRA PIN
+        - generic [ref=f9e54]: Logbook
+      - generic [ref=f9e55]:
+        - heading "Multi-party alignment (Deliverable F)" [level=2] [ref=f9e56]
+        - generic [ref=f9e57]:
+          - generic [ref=f9e58]:
+            - generic [ref=f9e59]: Insurer contact name
+            - textbox "e.g. Jubilee Insurance" [ref=f9e60]
+          - generic [ref=f9e61]:
+            - generic [ref=f9e62]: Insurer phone (WhatsApp)
+            - textbox "e.g. 0712345678" [ref=f9e63]
+          - generic [ref=f9e64]:
+            - generic [ref=f9e65]: Insurer email
+            - textbox "e.g. claims@jubilee.co.ke" [ref=f9e66]
+          - generic [ref=f9e67]:
+            - generic [ref=f9e68]: Loss adjuster name
+            - textbox "e.g. Peter Adjusters Ltd" [ref=f9e69]
+          - generic [ref=f9e70]:
+            - generic [ref=f9e71]: Loss adjuster phone
+            - textbox "e.g. 0723456789" [ref=f9e72]
+          - generic [ref=f9e73]:
+            - generic [ref=f9e74]: Loss adjuster email
+            - textbox "e.g. peter@adjusters.co.ke" [ref=f9e75]
+        - generic [ref=f9e76]: Add insurer and loss adjuster contacts so all parties see shared milestone status. Fixes fragmented touch points (Darlington, Oct 15).
+      - generic [ref=f9e77]:
+        - button "Create case & send request" [ref=f9e78] [cursor=pointer]
+        - button "Reset" [ref=f9e79] [cursor=pointer]
+    - generic [ref=f9e80]:
+      - generic [ref=f9e81] [cursor=pointer]: All cases
+      - generic [ref=f9e82] [cursor=pointer]: Outstanding
+      - generic [ref=f9e83] [cursor=pointer]: Exception queue (>7d)
+      - generic [ref=f9e84] [cursor=pointer]: Completed
+    - generic [ref=f9e85]:
+      - heading "📊 Case list" [level=2] [ref=f9e86]:
+        - generic [ref=f9e87]: 📊
+        - text: Case list
+      - generic [ref=f9e88]: No cases yet. Create your first document-chase case above.

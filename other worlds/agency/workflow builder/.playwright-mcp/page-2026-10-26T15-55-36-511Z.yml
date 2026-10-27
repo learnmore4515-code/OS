@@ -1,0 +1,109 @@
+- generic [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]: Nairobi Trendz
+    - generic [ref=f1e6]: DEMO MODE — sample catalogue & illustrative stock
+  - main [ref=f1e7]:
+    - generic [ref=f1e8]:
+      - generic [ref=f1e9]:
+        - generic [ref=f1e10]: Z
+        - generic [ref=f1e11]:
+          - generic [ref=f1e12]: Nairobi Trendz — Zara
+          - generic [ref=f1e13]: DEMO · PRODUCT_SELECTED
+        - generic [ref=f1e15]: DEMO AVAILABLE
+      - generic [ref=f1e16]:
+        - generic [ref=f1e18]:
+          - generic [ref=f1e19]: Hi, welcome to Nairobi Trendz 👋
+          - text: I'm Zara, your shopping assistant. I can answer questions, show products, take your order, and help you pay with M-Pesa.
+          - generic [ref=f1e20]: What are you looking for today?
+          - generic [ref=f1e21]: GREETING
+        - generic [ref=f1e98]: sneakers
+        - generic [ref=f1e101]:
+          - generic [ref=f1e102]: "Here's what we have in stock:"
+          - generic [ref=f1e103]:
+            - img "Premium Tech Sneakers" [ref=f1e104]
+            - generic [ref=f1e105]:
+              - generic [ref=f1e106]: Premium Tech Sneakers
+              - generic [ref=f1e107]: KES 4500
+              - generic [ref=f1e108]: "Sizes: EU 38, EU 40, EU 42, EU 44"
+              - generic [ref=f1e109]: "In stock: 12"
+          - generic [ref=f1e110]: Want me to add one to your cart? Just say “add [item]” or tell me which size.
+          - generic [ref=f1e111]: PRODUCT SELECTED
+      - generic [ref=f1e22]:
+        - button "Reset" [ref=f1e23] [cursor=pointer]
+        - textbox "Type a message…" [ref=f1e24]
+        - button "Send" [active] [ref=f1e25] [cursor=pointer]
+        - button "Simulate M-Pesa verify" [ref=f1e28] [cursor=pointer]
+      - generic [ref=f1e29]:
+        - link "Order via WhatsApp (demo)" [ref=f1e30] [cursor=pointer]:
+          - /url: "#"
+        - text: Simulated channel — no live WhatsApp reply in demo.
+    - generic [ref=f1e31]:
+      - generic [ref=f1e32]:
+        - generic [ref=f1e33]:
+          - generic [ref=f1e34]: Owner Dashboard
+          - generic [ref=f1e35]: Auto-updates when a demo order is created
+        - generic [ref=f1e36]: DEMO
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]:
+          - generic [ref=f1e39]: "0"
+          - generic [ref=f1e40]: Total Orders
+        - generic [ref=f1e41]:
+          - generic [ref=f1e42]: "0"
+          - generic [ref=f1e43]: Paid
+        - generic [ref=f1e44]:
+          - generic [ref=f1e45]: "0"
+          - generic [ref=f1e46]: Pending
+      - generic [ref=f1e47]:
+        - textbox "Search by name, phone, or zone…" [ref=f1e48]
+        - table [ref=f1e50]:
+          - rowgroup [ref=f1e51]:
+            - row [ref=f1e52]:
+              - columnheader "Timestamp" [ref=f1e53]
+              - columnheader "Customer Name" [ref=f1e54]
+              - columnheader "Phone" [ref=f1e55]
+              - columnheader "Items Ordered" [ref=f1e56]
+              - columnheader "Delivery Zone" [ref=f1e57]
+              - columnheader "Total Paid (KES)" [ref=f1e58]
+              - columnheader "Sync Status" [ref=f1e59]
+          - rowgroup [ref=f1e60]:
+            - row [ref=f1e61]:
+              - cell "No orders yet" [ref=f1e62]
+        - paragraph [ref=f1e63]: Total Paid (KES) stays 0 until a trusted M-Pesa verification event confirms payment. Sync Status only reads SYNCED TO GOOGLE SHEETS after a genuine Sheets write is confirmed.
+  - generic [ref=f1e65]:
+    - 'heading "Sample Storefront — ${\"\"}" [level=2] [ref=f1e66]'
+    - generic [ref=f1e67]:
+      - generic [ref=f1e68]:
+        - img "Premium Tech Sneakers" [ref=f1e69]
+        - generic [ref=f1e70]: Premium Tech Sneakers
+        - generic [ref=f1e71]: KES 4500
+        - generic [ref=f1e72]: "Sizes: EU 38, EU 40, EU 42, EU 44"
+        - link "Enquire" [ref=f1e73] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e74]:
+        - img "Slim-Fit Stretch Jeans" [ref=f1e75]
+        - generic [ref=f1e76]: Slim-Fit Stretch Jeans
+        - generic [ref=f1e77]: KES 2200
+        - generic [ref=f1e78]: "Sizes: 30, 32, 34, 36"
+        - link "Enquire" [ref=f1e79] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e80]:
+        - img "Heavyweight T-Shirt" [ref=f1e81]
+        - generic [ref=f1e82]: Heavyweight T-Shirt
+        - generic [ref=f1e83]: KES 1500
+        - generic [ref=f1e84]: "Sizes: S, M, L, XL"
+        - link "Enquire" [ref=f1e85] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e86]:
+        - img "Linen Summer Dress" [ref=f1e87]
+        - generic [ref=f1e88]: Linen Summer Dress
+        - generic [ref=f1e89]: KES 3800
+        - generic [ref=f1e90]: "Sizes: S, M, L, XL"
+        - link "Enquire" [ref=f1e91] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e92]:
+        - img "Leather Crossbody Bag" [ref=f1e93]
+        - generic [ref=f1e94]: Leather Crossbody Bag
+        - generic [ref=f1e95]: KES 5200
+        - link "Enquire" [ref=f1e96] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f1e97]: Product images are illustrative placeholders, not live retailer stock.

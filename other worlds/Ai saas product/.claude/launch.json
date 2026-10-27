@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "leopisha-dev",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-lc", "cd leopisha && npm run dev"],
+      "port": 3000
+    }
+  ]
+}

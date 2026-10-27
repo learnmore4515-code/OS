@@ -1,0 +1,84 @@
+- generic [active] [ref=f62e1]:
+  - generic [ref=f62e2]:
+    - banner [ref=f62e3]:
+      - navigation "Main navigation" [ref=f62e4]:
+        - generic [ref=f62e5]:
+          - link "Leo Pisha Home" [ref=f62e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f62e7]: Leo Pisha
+            - generic [ref=f62e9]: Insurance operations
+          - generic [ref=f62e10]:
+            - link "What I Fix" [ref=f62e11] [cursor=pointer]:
+              - /url: /#what-i-fix
+            - link "How I Work" [ref=f62e12] [cursor=pointer]:
+              - /url: /#how-i-work
+            - link "About" [ref=f62e13] [cursor=pointer]:
+              - /url: /about
+          - link [ref=f62e15] [cursor=pointer]:
+            - /url: /book
+            - button "Book a consultation" [ref=f62e16]
+    - main [ref=f62e18]:
+      - generic [ref=f62e20]:
+        - heading "404" [level=1] [ref=f62e21]
+        - heading "This page could not be found." [level=2] [ref=f62e23]
+    - contentinfo [ref=f62e24]:
+      - generic [ref=f62e25]:
+        - generic [ref=f62e26]:
+          - generic [ref=f62e27]:
+            - link "Leo Pisha Home" [ref=f62e28] [cursor=pointer]:
+              - /url: /
+              - generic [ref=f62e29]: Leo Pisha
+            - paragraph [ref=f62e31]: Insurance operations specialist for firms that want sharper claims flow, underwriting response, and service follow-through.
+            - list "Social links" [ref=f62e32]:
+              - link "LinkedIn" [ref=f62e33] [cursor=pointer]:
+                - /url: "#"
+              - link "Twitter" [ref=f62e36] [cursor=pointer]:
+                - /url: "#"
+              - link "Email" [ref=f62e39] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+          - navigation "Company links" [ref=f62e42]:
+            - heading "Company" [level=3] [ref=f62e43]
+            - list [ref=f62e44]:
+              - listitem [ref=f62e45]:
+                - link "About" [ref=f62e46] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f62e47]:
+                - link "Case Studies" [ref=f62e48] [cursor=pointer]:
+                  - /url: /case-studies
+              - listitem [ref=f62e49]:
+                - link "Services" [ref=f62e50] [cursor=pointer]:
+                  - /url: /services
+          - navigation "Resources" [ref=f62e51]:
+            - heading "Resources" [level=3] [ref=f62e52]
+            - list [ref=f62e53]:
+              - listitem [ref=f62e54]:
+                - link "Book a Call" [ref=f62e55] [cursor=pointer]:
+                  - /url: /book
+              - listitem [ref=f62e56]:
+                - link "About the Practice" [ref=f62e57] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f62e58]:
+                - link "Case Studies" [ref=f62e59] [cursor=pointer]:
+                  - /url: /case-studies
+          - navigation "Connect" [ref=f62e60]:
+            - heading "Connect" [level=3] [ref=f62e61]
+            - list [ref=f62e62]:
+              - listitem [ref=f62e63]:
+                - link "Email" [ref=f62e64] [cursor=pointer]:
+                  - /url: mailto:hello@leopisha.com
+              - listitem [ref=f62e65]:
+                - link "Book a Session" [ref=f62e66] [cursor=pointer]:
+                  - /url: /book
+              - listitem [ref=f62e67]:
+                - link "Case Studies" [ref=f62e68] [cursor=pointer]:
+                  - /url: /case-studies
+        - generic [ref=f62e69]:
+          - paragraph [ref=f62e70]: © 2026 Leo Pisha. All rights reserved.
+          - generic [ref=f62e71]:
+            - link "About" [ref=f62e72] [cursor=pointer]:
+              - /url: /about
+            - link "Book" [ref=f62e73] [cursor=pointer]:
+              - /url: /book
+            - link "Case Studies" [ref=f62e74] [cursor=pointer]:
+              - /url: /case-studies
+  - alert [ref=f62e75]

@@ -1,0 +1,429 @@
+- generic [ref=f14e2]:
+  - link "Skip to main content" [ref=f14e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f14e4]:
+    - navigation "Primary" [ref=f14e5]:
+      - link "LinkedIn" [ref=f14e6] [cursor=pointer]:
+        - /url: /?trk=keyword-landing-homepage_nav-header-logo
+      - list [ref=f14e20]:
+        - listitem [ref=f14e21]:
+          - link "Top Content" [ref=f14e22] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=keyword-landing-homepage_guest_nav_menu_topContent
+        - listitem [ref=f14e27]:
+          - link "People" [ref=f14e28] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/+/+?trk=keyword-landing-homepage_guest_nav_menu_people
+        - listitem [ref=f14e33]:
+          - link "Learning" [ref=f14e34] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/search?trk=keyword-landing-homepage_guest_nav_menu_learning
+        - listitem [ref=f14e42]:
+          - link "Jobs" [ref=f14e43] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search?trk=keyword-landing-homepage_guest_nav_menu_jobs
+        - listitem [ref=f14e48]:
+          - link "Games" [ref=f14e49] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=keyword-landing-homepage_guest_nav_menu_games
+        - listitem [ref=f14e54]:
+          - link "Get the app" [ref=f14e55] [cursor=pointer]:
+            - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=keyword-landing-homepage_guest_nav_menu_windows
+      - generic [ref=f14e60]:
+        - link "Join now" [ref=f14e61] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=%2Ftop-content%2F&trk=keyword-landing-homepage_nav-header-join
+        - link "Sign in" [ref=f14e62] [cursor=pointer]:
+          - /url: https://www.linkedin.com/uas/login?session_redirect=%2Ftop-content%2F&fromSignIn=true&trk=keyword-landing-homepage_nav-header-signin
+  - main [ref=f14e63]:
+    - generic [ref=f14e64]:
+      - generic [ref=f14e65]:
+        - heading "What topics do you want to explore?" [level=1] [ref=f14e66]
+        - generic [ref=f14e67]:
+          - generic [ref=f14e68]:
+            - link "📚 Tips for Managing Stressors with Mental Toughness" [ref=f14e69] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/training-development/mindset-development-tips/tips-for-managing-stressors-with-mental-toughness/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e70]: 📚
+              - text: Tips for Managing Stressors with Mental Toughness
+            - link "💬 How to Navigate Difficult Conversations for Personal Growth" [ref=f14e71] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/communication/managing-challenging-conversations/how-to-navigate-difficult-conversations-for-personal-growth/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e72]: 💬
+              - text: How to Navigate Difficult Conversations for Personal Growth
+            - link "💡 Top Emerging AI Use Cases and Their Capabilities" [ref=f14e73] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/top-emerging-ai-use-cases-and-their-capabilities/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e74]: 💡
+              - text: Top Emerging AI Use Cases and Their Capabilities
+          - generic [ref=f14e75]:
+            - link "😊 How Leaders Foster Psychological Safety" [ref=f14e76] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/employee-experience/mental-health-in-workplaces/how-leaders-foster-psychological-safety/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e77]: 😊
+              - text: How Leaders Foster Psychological Safety
+            - link "🚀️ Tips for Curating a Professional Network" [ref=f14e78] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/career/building-professional-credibility/tips-for-curating-a-professional-network/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e79]: 🚀️
+              - text: Tips for Curating a Professional Network
+            - link "🚀️ Tips for Strategic Career Planning" [ref=f14e80] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/career/career-path-development/tips-for-strategic-career-planning/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e81]: 🚀️
+              - text: Tips for Strategic Career Planning
+          - generic [ref=f14e82]:
+            - link "🚀️ How to Find the Right Mentor for Your Career" [ref=f14e83] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/career/mentorship-coaching/how-to-find-the-right-mentor-for-your-career/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e84]: 🚀️
+              - text: How to Find the Right Mentor for Your Career
+            - link "🚀️ Tips for Optimizing Your LinkedIn Profile" [ref=f14e85] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/career/resume-tips/tips-for-optimizing-your-linkedin-profile/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e86]: 🚀️
+              - text: Tips for Optimizing Your LinkedIn Profile
+            - link "🧭 How to Set Priorities as a Leader" [ref=f14e87] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/leadership/strategic-decision-making/how-to-set-priorities-as-a-leader/?trk=keyword-landing-homepage_l3_topic
+              - generic [ref=f14e88]: 🧭
+              - text: How to Set Priorities as a Leader
+      - generic [ref=f14e89]:
+        - generic [ref=f14e90]:
+          - generic [ref=f14e91]:
+            - heading "Editor’s Picks" [level=2] [ref=f14e92]
+            - generic [ref=f14e93]: Handpicked ideas and insights from professionals
+          - generic [ref=f14e94]:
+            - generic [ref=f14e95]:
+              - generic [ref=f14e96]:
+                - link "Innovation" [ref=f14e97] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/innovation/
+                - generic [ref=f14e98]: 💡
+              - generic [ref=f14e99]:
+                - link "AI Trends and Innovations" [ref=f14e100] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/
+                - generic [ref=f14e101]: 5M likes
+            - generic [ref=f14e102]:
+              - generic [ref=f14e103]:
+                - link "Career" [ref=f14e104] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/career/
+                - generic [ref=f14e105]: 🚀️
+              - generic [ref=f14e106]:
+                - link "Career Advancement Tips" [ref=f14e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/career/career-advancement-tips/
+                - generic [ref=f14e108]: 3M likes
+            - generic [ref=f14e109]:
+              - generic [ref=f14e110]:
+                - link "Training & Development" [ref=f14e111] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/training-development/
+                - generic [ref=f14e112]: 📚
+              - generic [ref=f14e113]:
+                - link "Mindset Development Tips" [ref=f14e114] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/training-development/mindset-development-tips/
+                - generic [ref=f14e115]: 2M likes
+            - generic [ref=f14e116]:
+              - generic [ref=f14e117]:
+                - link "Leadership" [ref=f14e118] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/leadership/
+                - generic [ref=f14e119]: 🧭
+              - generic [ref=f14e120]:
+                - link "Team Performance and Morale" [ref=f14e121] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/leadership/team-performance-and-morale/
+                - generic [ref=f14e122]: 1M likes
+            - generic [ref=f14e123]:
+              - generic [ref=f14e124]:
+                - link "Leadership" [ref=f14e125] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/leadership/
+                - generic [ref=f14e126]: 🧭
+              - generic [ref=f14e127]:
+                - link "Balancing Leadership Responsibilities" [ref=f14e128] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/leadership/balancing-leadership-responsibilities/
+                - generic [ref=f14e129]: 1M likes
+            - generic [ref=f14e130]:
+              - generic [ref=f14e131]:
+                - link "Communication" [ref=f14e132] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/communication/
+                - generic [ref=f14e133]: 💬
+              - generic [ref=f14e134]:
+                - link "Promoting Open Communication" [ref=f14e135] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/communication/promoting-open-communication/
+                - generic [ref=f14e136]: 511K likes
+            - generic [ref=f14e137]:
+              - generic [ref=f14e138]:
+                - link "Career" [ref=f14e139] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/career/
+                - generic [ref=f14e140]: 🚀️
+              - generic [ref=f14e141]:
+                - link "Networking for Professionals" [ref=f14e142] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/career/networking-for-professionals/
+                - generic [ref=f14e143]: 375K likes
+            - generic [ref=f14e144]:
+              - generic [ref=f14e145]:
+                - link "Productivity" [ref=f14e146] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/productivity/
+                - generic [ref=f14e147]: ⏱️
+              - generic [ref=f14e148]:
+                - link "Workday Management Tips" [ref=f14e149] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/productivity/workday-management-tips/
+                - generic [ref=f14e150]: 318K likes
+        - generic [ref=f14e151]:
+          - heading "Topic Categories" [level=2] [ref=f14e153]
+          - generic [ref=f14e154]:
+            - generic [ref=f14e155]:
+              - generic [ref=f14e156]: 🤖️
+              - generic [ref=f14e158]:
+                - link "Artificial Intelligence" [ref=f14e159] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/artificial-intelligence/
+                - generic [ref=f14e160]: 1M posts
+            - generic [ref=f14e161]:
+              - generic [ref=f14e162]: 💻
+              - generic [ref=f14e164]:
+                - link "Technology" [ref=f14e165] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/technology/
+                - generic [ref=f14e166]: 1M posts
+            - generic [ref=f14e167]:
+              - generic [ref=f14e168]: ♟️
+              - generic [ref=f14e170]:
+                - link "Business Strategy" [ref=f14e171] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/business-strategy/
+                - generic [ref=f14e172]: 969K posts
+            - generic [ref=f14e173]:
+              - generic [ref=f14e174]: 💰
+              - generic [ref=f14e176]:
+                - link "Finance" [ref=f14e177] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/finance/
+                - generic [ref=f14e178]: 476K posts
+            - generic [ref=f14e179]:
+              - generic [ref=f14e180]: 💡
+              - generic [ref=f14e182]:
+                - link "Innovation" [ref=f14e183] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/innovation/
+                - generic [ref=f14e184]: 461K posts
+            - generic [ref=f14e185]:
+              - generic [ref=f14e186]: 📢
+              - generic [ref=f14e188]:
+                - link "Marketing" [ref=f14e189] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/marketing/
+                - generic [ref=f14e190]: 435K posts
+            - generic [ref=f14e191]:
+              - generic [ref=f14e192]: 🚀️
+              - generic [ref=f14e194]:
+                - link "Career" [ref=f14e195] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/career/
+                - generic [ref=f14e196]: 371K posts
+            - generic [ref=f14e197]:
+              - generic [ref=f14e198]: 🔬
+              - generic [ref=f14e200]:
+                - link "Science" [ref=f14e201] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/science/
+                - generic [ref=f14e202]: 358K posts
+            - generic [ref=f14e203]:
+              - generic [ref=f14e204]: 🛠
+              - generic [ref=f14e206]:
+                - link "Engineering" [ref=f14e207] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/engineering/
+                - generic [ref=f14e208]: 350K posts
+            - generic [ref=f14e209]:
+              - generic [ref=f14e210]: 🧭
+              - generic [ref=f14e212]:
+                - link "Leadership" [ref=f14e213] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/leadership/
+                - generic [ref=f14e214]: 348K posts
+            - generic [ref=f14e215]:
+              - generic [ref=f14e216]: 🌱
+              - generic [ref=f14e218]:
+                - link "Corporate Social Responsibility" [ref=f14e219] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/corporate-social-responsibility/
+                - generic [ref=f14e220]: 330K posts
+            - generic [ref=f14e221]:
+              - generic [ref=f14e222]: ⏱️
+              - generic [ref=f14e224]:
+                - link "Productivity" [ref=f14e225] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/productivity/
+                - generic [ref=f14e226]: 307K posts
+            - generic [ref=f14e227]:
+              - generic [ref=f14e228]: 🚚
+              - generic [ref=f14e230]:
+                - link "Supply Chain Management" [ref=f14e231] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/supply-chain-management/
+                - generic [ref=f14e232]: 307K posts
+            - generic [ref=f14e233]:
+              - generic [ref=f14e234]: 👥
+              - generic [ref=f14e236]:
+                - link "Recruitment & HR" [ref=f14e237] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/recruitment-hr/
+                - generic [ref=f14e238]: 232K posts
+            - generic [ref=f14e239]:
+              - generic [ref=f14e240]: 📆
+              - generic [ref=f14e242]:
+                - link "Workplace Trends" [ref=f14e243] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/workplace-trends/
+                - generic [ref=f14e244]: 213K posts
+            - generic [ref=f14e245]:
+              - generic [ref=f14e246]: 💼
+              - generic [ref=f14e248]:
+                - link "Sales" [ref=f14e249] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/sales/
+                - generic [ref=f14e250]: 206K posts
+            - generic [ref=f14e251]:
+              - generic [ref=f14e252]: 📚
+              - generic [ref=f14e254]:
+                - link "Training & Development" [ref=f14e255] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/training-development/
+                - generic [ref=f14e256]: 206K posts
+            - generic [ref=f14e257]:
+              - generic [ref=f14e258]: 📊
+              - generic [ref=f14e260]:
+                - link "Project Management" [ref=f14e261] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/project-management/
+                - generic [ref=f14e262]: 200K posts
+            - generic [ref=f14e263]:
+              - generic [ref=f14e264]: 💬
+              - generic [ref=f14e266]:
+                - link "Communication" [ref=f14e267] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/communication/
+                - generic [ref=f14e268]: 190K posts
+            - generic [ref=f14e269]:
+              - generic [ref=f14e270]: 🪢
+              - generic [ref=f14e272]:
+                - link "Organizational Culture" [ref=f14e273] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/organizational-culture/
+                - generic [ref=f14e274]: 183K posts
+            - generic [ref=f14e275]:
+              - generic [ref=f14e276]: 📈
+              - generic [ref=f14e278]:
+                - link "Economics" [ref=f14e279] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/economics/
+                - generic [ref=f14e280]: 182K posts
+            - generic [ref=f14e281]:
+              - generic [ref=f14e282]: 🎓
+              - generic [ref=f14e284]:
+                - link "Education" [ref=f14e285] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/education/
+                - generic [ref=f14e286]: 169K posts
+            - generic [ref=f14e287]:
+              - generic [ref=f14e288]: 🖌️
+              - generic [ref=f14e290]:
+                - link "Design" [ref=f14e291] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/design/
+                - generic [ref=f14e292]: 169K posts
+            - generic [ref=f14e293]:
+              - generic [ref=f14e294]: 🎨
+              - generic [ref=f14e296]:
+                - link "User Experience" [ref=f14e297] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/user-experience/
+                - generic [ref=f14e298]: 165K posts
+            - generic [ref=f14e299]:
+              - generic [ref=f14e300]: 💞
+              - generic [ref=f14e302]:
+                - link "Soft Skills & Emotional Intelligence" [ref=f14e303] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/
+                - generic [ref=f14e304]: 164K posts
+            - generic [ref=f14e305]:
+              - generic [ref=f14e306]: 🤝
+              - generic [ref=f14e308]:
+                - link "Customer Experience" [ref=f14e309] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/customer-experience/
+                - generic [ref=f14e310]: 162K posts
+            - generic [ref=f14e311]:
+              - generic [ref=f14e312]: 🔄
+              - generic [ref=f14e314]:
+                - link "Change Management" [ref=f14e315] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/change-management/
+                - generic [ref=f14e316]: 157K posts
+            - generic [ref=f14e317]:
+              - generic [ref=f14e318]: 🧭
+              - generic [ref=f14e320]:
+                - link "Healthcare" [ref=f14e321] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/healthcare/
+                - generic [ref=f14e322]: 156K posts
+            - generic [ref=f14e323]:
+              - generic [ref=f14e324]: 😊
+              - generic [ref=f14e326]:
+                - link "Employee Experience" [ref=f14e327] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/employee-experience/
+                - generic [ref=f14e328]: 120K posts
+            - generic [ref=f14e329]:
+              - generic [ref=f14e330]: 📑
+              - generic [ref=f14e332]:
+                - link "Consulting" [ref=f14e333] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/consulting/
+                - generic [ref=f14e334]: 119K posts
+            - generic [ref=f14e335]:
+              - generic [ref=f14e336]: 🔗
+              - generic [ref=f14e338]:
+                - link "Networking" [ref=f14e339] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/networking/
+                - generic [ref=f14e340]: 119K posts
+            - generic [ref=f14e341]:
+              - generic [ref=f14e342]: 🏠
+              - generic [ref=f14e344]:
+                - link "Real Estate" [ref=f14e345] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/real-estate/
+                - generic [ref=f14e346]: 113K posts
+            - generic [ref=f14e347]:
+              - generic [ref=f14e348]: 🌐
+              - generic [ref=f14e350]:
+                - link "Future Of Work" [ref=f14e351] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/future-of-work/
+                - generic [ref=f14e352]: 94K posts
+            - generic [ref=f14e353]:
+              - generic [ref=f14e354]: 🏨
+              - generic [ref=f14e356]:
+                - link "Hospitality & Tourism" [ref=f14e357] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/hospitality-tourism/
+                - generic [ref=f14e358]: 84K posts
+            - generic [ref=f14e359]:
+              - generic [ref=f14e360]: ✍️
+              - generic [ref=f14e362]:
+                - link "Writing" [ref=f14e363] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/writing/
+                - generic [ref=f14e364]: 83K posts
+            - generic [ref=f14e365]:
+              - generic [ref=f14e366]: 🛒
+              - generic [ref=f14e368]:
+                - link "Ecommerce" [ref=f14e369] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/ecommerce/
+                - generic [ref=f14e370]: 77K posts
+            - generic [ref=f14e371]:
+              - generic [ref=f14e372]: 🛍️
+              - generic [ref=f14e374]:
+                - link "Retail & Merchandising" [ref=f14e375] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/retail-merchandising/
+                - generic [ref=f14e376]: 68K posts
+            - generic [ref=f14e377]:
+              - generic [ref=f14e378]: 🤝
+              - generic [ref=f14e380]:
+                - link "Negotiation" [ref=f14e381] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/negotiation/
+                - generic [ref=f14e382]: 49K posts
+            - generic [ref=f14e383]:
+              - generic [ref=f14e384]: 🎉
+              - generic [ref=f14e386]:
+                - link "Event Planning" [ref=f14e387] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/event-planning/
+                - generic [ref=f14e388]: 46K posts
+            - generic [ref=f14e389]:
+              - generic [ref=f14e390]: 🎯
+              - generic [ref=f14e392]:
+                - link "Fundraising" [ref=f14e393] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/top-content/fundraising/
+                - generic [ref=f14e394]: 42K posts
+  - contentinfo [ref=f14e395]:
+    - list [ref=f14e396]:
+      - generic [ref=f14e397]: LinkedIn
+      - generic [ref=f14e399]: © 2026
+      - listitem [ref=f14e400]:
+        - link "About" [ref=f14e401] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=keyword-landing-homepage_footer-about
+      - listitem [ref=f14e402]:
+        - link "Accessibility" [ref=f14e403] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=keyword-landing-homepage_footer-accessibility
+      - listitem [ref=f14e404]:
+        - link "User Agreement" [ref=f14e405] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=keyword-landing-homepage_footer-user-agreement
+      - listitem [ref=f14e406]:
+        - link "Privacy Policy" [ref=f14e407] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=keyword-landing-homepage_footer-privacy-policy
+      - listitem [ref=f14e408]:
+        - link "Cookie Policy" [ref=f14e409] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=keyword-landing-homepage_footer-cookie-policy
+      - listitem [ref=f14e410]:
+        - link "Copyright Policy" [ref=f14e411] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=keyword-landing-homepage_footer-copyright-policy
+      - listitem [ref=f14e412]:
+        - link "Brand Policy" [ref=f14e413] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=keyword-landing-homepage_footer-brand-policy
+      - listitem [ref=f14e414]:
+        - link "Guest Controls" [ref=f14e415] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=keyword-landing-homepage_footer-guest-controls
+      - listitem [ref=f14e416]:
+        - link "Community Guidelines" [ref=f14e417] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=keyword-landing-homepage_footer-community-guide
+      - listitem [ref=f14e418]:
+        - button "Language" [ref=f14e420]

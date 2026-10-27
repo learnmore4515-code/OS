@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      :root {
+        --ink: #0F172A;
+        --paper: #FFFFFF;
+        --paper-soft: #F8FAFC;
+        --mpesa-green: #059669;
+        --mpesa-green-dark: #047857;
+        --stamp-red: #DC2626;
+        --stamp-red-bg: #FEF2F2;
+        --exception-amber: #D97706;
+        --border: #E2E8F0;
+        --text-muted: #64748B;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        --font-data: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+      }
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: var(--paper-soft); color: var(--ink); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
+      #root { width: 100%; height: 100%; position: relative; overflow: hidden; }
+      .scene { position: absolute; inset: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+      .scene-label { position: absolute; top: 34px; left: 34px; font-family: var(--font-data); font-size: 13px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted); opacity: 0.5; }
+      .card { background: var(--paper); border: 1px solid var(--border); border-radius: 12px; box-shadow: 0 6px 20px -6px rgba(15,23,42,0.08); }
+      .stat { text-align: center; padding: 22px 26px; min-width: 260px; }
+      .stat b { display: block; font-size: 13px; text-transform: uppercase; letter-spacing: 0.16em; color: var(--text-muted); margin-bottom: 7px; font-weight: 700; }
+      .stat .value { font-size: 60px; font-weight: 800; letter-spacing: -0.02em; line-height: 1; }
+      .stat .value.amber { color: var(--exception-amber); }
+      .stat .value.green { color: var(--mpesa-green); }
+      .pill { display: inline-flex; align-items: center; gap: 9px; padding: 9px 18px; border-radius: 999px; background: var(--stamp-red-bg); color: var(--stamp-red); font-size: 17px; font-weight: 800; border: 1px solid var(--stamp-red); }
+      .h1 { font-size: 66px; font-weight: 800; letter-spacing: -0.025em; line-height: 1.04; text-align: center; }
+      .sub { font-size: 28px; color: var(--text-muted); max-width: 960px; text-align: center; line-height: 1.45; margin-top: 14px; }
+      .form-card { width: 760px; padding: 34px 44px; }
+      .form-card h2 { font-size: 23px; font-weight: 800; margin-bottom: 22px; display: flex; align-items: center; gap: 10px; letter-spacing: -0.01em; }
+      .field { margin-bottom: 17px; }
+      .field label { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--text-muted); margin-bottom: 7px; font-weight: 700; }
+      .field .val { display: block; background: var(--paper-soft); border: 1px solid var(--border); border-radius: 9px; padding: 11px 15px; font-family: var(--font-data); font-size: 18px; font-weight: 600; }
+      .btn { display: inline-flex; align-items: center; gap: 8px; padding: 11px 22px; border-radius: 9px; border: 1px solid var(--ink); background: var(--ink); color: var(--paper); font-size: 15px; font-weight: 700; cursor: pointer; }
+      .btn.green { background: var(--mpesa-green-dark); border-color: var(--mpesa-green-dark); color: var(--paper); }
+      .confirm { font-size: 21px; font-weight: 800; color: var(--mpesa-green); text-align: center; margin-top: 10px; }
+      .punchline { font-size: 44px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.12; text-align: center; max-width: 1200px; }
+      .punchline .emph { color: var(--mpesa-green); font-style: italic; }
+      .footer { position: absolute; bottom: 34px; left: 50%; transform: translateX(-50%); font-family: var(--font-data); font-size: 13px; color: var(--text-muted); letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.6; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="20" data-width="1920" data-height="1080">
+      <audio id="music" src="assets/music/happy-beats-business-moves-vol-1-by-ende-dot-app.mp3" data-start="0" data-duration="20" data-track-index="10" data-volume="0.28" data-fade-out="1.5"></audio>
+
+      <!-- SCENE 1 · Hook (0-3s) -->
+      <div id="s1" class="scene clip" data-start="0" data-duration="3">
+        <div class="scene-label">scene 1 · hook</div>
+        <div id="s1-zero" class="hidden">0</div>
+        <div id="s1-label" class="hidden">Docs received</div>
+        <div id="s1-exc" class="hidden pill" style="background:var(--stamp-red);color:var(--paper);border-color:var(--stamp-red);">Exception queue: 3 &nbsp;·&nbsp; &gt;7d</div>
+        <div class="footer">brokerflow ai · document chase dashboard</div>
+      </div>
+
+      <!-- SCENE 2 · Reveal (3-7s) -->
+      <div id="s2" class="scene clip" data-start="3" data-duration="4">
+        <div class="scene-label">scene 2 · reveal</div>
+        <div id="s2-title" class="hidden h1">Document Chase Dashboard</div>
+        <div id="s2-sub" class="hidden sub">Zero-touch document intake for KYC, claims, and onboarding paperwork.</div>
+        <div id="s2-stats" class="hidden" style="display:flex;gap:16px;justify-content:center;margin-top:34px;">
+          <div class="stat"><b>Total cases</b><span class="value" id="s2-stat1">0</span></div>
+          <div class="stat"><b>Awaiting docs</b><span class="value" id="s2-stat2">0</span></div>
+          <div class="stat"><b>Exception queue (&gt;7d)</b><span class="value amber" id="s2-stat3">0</span></div>
+          <div class="stat"><b>Completed</b><span class="value green" id="s2-stat4">0</span></div>
+        </div>
+        <div class="footer">brokerflow ai · document chase dashboard</div>
+      </div>
+
+      <!-- SCENE 3 · Create case (7-12s) -->
+      <div id="s3" class="scene clip" data-start="7" data-duration="5">
+        <div class="scene-label">scene 3 · create case</div>
+        <div id="s3-card" class="hidden card form-card">
+          <div id="s3-title" class="hidden">Create document-chase case</div>
+          <div id="s3-fields" style="display:flex;flex-direction:column;gap:17px;">
+            <div class="field" id="s3-f1"><label data-layout-ignore>Client name</label><span class="val" id="s3-v1">—</span></div>
+            <div class="field" id="s3-f2"><label data-layout-ignore>Phone</label><span class="val" id="s3-v2">—</span></div>
+            <div class="field" id="s3-f3"><label data-layout-ignore>Channel</label><span class="val" id="s3-v3">WhatsApp</span></div>
+            <div class="field" id="s3-f4"><label data-layout-ignore>Policy class</label><span class="val" id="s3-v4">Motor</span></div>
+            <div class="field" id="s3-f5"><label data-layout-ignore>Renewal date</label><span class="val" id="s3-v5">2026-12-01</span></div>
+          </div>
+          <div id="s3-submit" style="margin-top:26px;display:flex;justify-content:flex-end;">
+            <button class="btn green" id="s3-btn">Create case &amp; send request</button>
+          </div>
+        </div>
+        <div class="footer">brokerflow ai · document chase dashboard</div>
+      </div>
+
+      <!-- SCENE 4 · Client upload (12-16s) -->
+      <div id="s4" class="scene clip" data-start="12" data-duration="4">
+        <div class="scene-label">scene 4 · client upload</div>
+        <div id="s4-card" class="hidden card form-card">
+          <div id="s4-title" class="hidden">Upload your documents</div>
+          <div id="s4-case" class="hidden" style="margin-bottom:22px;"><label style="font-size:12px;text-transform:uppercase;letter-spacing:0.14em;color:var(--text-muted);font-weight:700;">Your case</label><span class="val" id="s4-val">Case opened · link sent to client</span></div>
+          <div id="s4-choose" class="hidden" style="margin-bottom:18px;"><label style="font-size:12px;text-transform:uppercase;letter-spacing:0.14em;color:var(--text-muted);font-weight:700;">Choose files</label><span class="val" id="s4-choose-val">kyc-id.pdf · proof-of-address.jpg</span></div>
+          <div id="s4-btnwrap" style="display:flex;justify-content:flex-end;"><button class="btn green" id="s4-btn">Upload documents</button></div>
+          <div id="s4-ok" class="hidden confirm">&#10003; Documents submitted</div>
+        </div>
+        <div class="footer">brokerflow ai · document chase dashboard</div>
+      </div>
+
+      <!-- SCENE 5 · Outro (16-20s) -->
+      <div id="s5" class="scene clip" data-start="16" data-duration="4">
+        <div class="scene-label">scene 5 · outro</div>
+        <div id="s5-card" class="hidden card form-card">
+          <div id="s5-title" class="hidden">Case details</div>
+          <div id="s5-action" class="hidden" style="margin-bottom:26px;"><label style="font-size:12px;text-transform:uppercase;letter-spacing:0.14em;color:var(--text-muted);font-weight:700;">Action</label><span class="val" id="s5-val">Mark docs received</span></div>
+          <div id="s5-btnwrap" style="display:flex;justify-content:flex-end;"><button class="btn green" id="s5-btn">Mark docs received</button></div>
+        </div>
+        <div id="s5-flip" class="hidden" style="display:flex;gap:16px;justify-content:center;margin-top:24px;">
+          <div class="stat"><b>Awaiting docs</b><span class="value" id="s5-a">1</span></div>
+          <div class="stat"><b>Completed</b><span class="value green" id="s5-c">1</span></div>
+        </div>
+        <div id="s5-punch" class="hidden punchline">BrokerFlow AI.<br><span class="emph">Zero-touch document intake. Stop chasing.</span></div>
+        <div class="footer">brokerflow ai · document chase dashboard</div>
+      </div>
+
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+
+      const hide = (id) => gsap.set(id, { opacity: 0, y: 22 });
+
+      // Scene 1 (0-3s)
+      hide("#s1-zero"); hide("#s1-label"); hide("#s1-exc");
+      tl.fromTo("#s1-zero", { opacity: 0, y: 30, scale: 0.45 }, { opacity: 1, y: 0, scale: 1, duration: 0.5, ease: "power4.out" }, 0.05);
+      tl.fromTo("#s1-label", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4 }, 0.35);
+      tl.fromTo("#s1-exc", { opacity: 0, y: 10, scale: 0.85 }, { opacity: 1, y: 0, scale: 1, duration: 0.4, ease: "back.out(1.2)" }, 0.7);
+
+      // Scene 2 (3-7s)
+      hide("#s2-title"); hide("#s2-sub"); hide("#s2-stats");
+      gsap.set("#s2-stats > .stat", { opacity: 0, y: 22 });
+      tl.fromTo("#s2-title", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 3.05);
+      tl.fromTo("#s2-sub", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.45 }, 3.45);
+      tl.to("#s2-stats", { opacity: 1, duration: 0.3 }, 3.9);
+      tl.to("#s2-stat1", { opacity: 1, y: 0, duration: 0.3 }, 3.95);
+      tl.to("#s2-stat2", { opacity: 1, y: 0, duration: 0.3 }, 4.25);
+      tl.to("#s2-stat3", { opacity: 1, y: 0, duration: 0.3 }, 4.55);
+      tl.to("#s2-stat4", { opacity: 1, y: 0, duration: 0.3 }, 4.85);
+
+      // Scene 3 (7-12s)
+      hide("#s3-card"); hide("#s3-title");
+      gsap.set(["#s3-f1", "#s3-f2", "#s3-f3", "#s3-f4", "#s3-f5"], { opacity: 0, y: 22 });
+      hide("#s3-submit");
+      tl.fromTo("#s3-card", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 7.05);
+      tl.fromTo("#s3-title", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4 }, 7.4);
+      tl.to("#s3-f1", { opacity: 1, y: 0, duration: 0.3 }, 7.7);
+      tl.to("#s3-f2", { opacity: 1, y: 0, duration: 0.3 }, 8.0);
+      tl.to("#s3-f3", { opacity: 1, y: 0, duration: 0.3 }, 8.3);
+      tl.to("#s3-f4", { opacity: 1, y: 0, duration: 0.3 }, 8.6);
+      tl.to("#s3-f5", { opacity: 1, y: 0, duration: 0.3 }, 8.9);
+      tl.to("#s3-submit", { opacity: 1, y: 0, duration: 0.3 }, 9.4);
+      tl.fromTo("#s3-btn", { scale: 0.9 }, { scale: 1, duration: 0.15, yoyo: true, repeat: 1 }, 11.1);
+
+      // Scene 4 (12-16s)
+      hide("#s4-card"); hide("#s4-title"); hide("#s4-case"); hide("#s4-choose"); hide("#s4-btnwrap"); hide("#s4-ok");
+      tl.fromTo("#s4-card", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 12.05);
+      tl.fromTo("#s4-title", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4 }, 12.4);
+      tl.fromTo("#s4-case", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.35 }, 12.75);
+      tl.fromTo("#s4-choose", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.35 }, 13.1);
+      tl.fromTo("#s4-btnwrap", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.35 }, 13.45);
+      tl.fromTo("#s4-btn", { scale: 0.9 }, { scale: 1, duration: 0.15, yoyo: true, repeat: 1 }, 14.6);
+      tl.fromTo("#s4-ok", { opacity: 0, y: 12, scale: 0.9 }, { opacity: 1, y: 0, scale: 1, duration: 0.4, ease: "back.out(1.2)" }, 15.0);
+
+      // Scene 5 (16-20s)
+      hide("#s5-card"); hide("#s5-title"); hide("#s5-action"); hide("#s5-btnwrap");
+      gsap.set("#s5-flip > .stat", { opacity: 0, y: 22 });
+      hide("#s5-punch");
+      tl.fromTo("#s5-card", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 16.05);
+      tl.fromTo("#s5-title", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4 }, 16.4);
+      tl.fromTo("#s5-action", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.35 }, 16.75);
+      tl.fromTo("#s5-btnwrap", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.35 }, 17.1);
+      tl.fromTo("#s5-btn", { scale: 0.9 }, { scale: 1, duration: 0.15, yoyo: true, repeat: 1 }, 18.3);
+      tl.to("#s5-flip", { opacity: 1, duration: 0.3 }, 17.6);
+      tl.to("#s5-flip > .stat", { opacity: 1, y: 0, duration: 0.3, stagger: 0.12 }, 17.65);
+      tl.fromTo("#s5-punch", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 17.7);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>

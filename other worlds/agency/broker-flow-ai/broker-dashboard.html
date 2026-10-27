@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BrokerFlow AI — Document Chase Dashboard</title>
+<style>
+  /* ===== Design tokens — Kenyan insurance ledger vernacular ===== */
+  :root {
+    --ink: #0F172A;
+    --paper: #FFFFFF;
+    --paper-soft: #F8FAFC;
+    --mpesa-green: #059669;
+    --mpesa-green-dark: #047857;
+    --stamp-red: #DC2626;
+    --stamp-red-bg: #FEF2F2;
+    --exception-amber: #D97706;
+    --exception-amber-bg: #FDF4E7;
+    --matched-bg: #F0FDF4;
+    --pending-bg: #FEFBF3;
+    --border: #E2E8F0;
+    --text-muted: #64748B;
+    --whatsapp: #25D366;
+    --sms: #2563EB;
+    --email: #7C3AED;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-data: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--paper-soft);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem 0.75rem;
+  }
+
+  /* ===== Header ===== */
+  header {
+    border-bottom: 4px solid var(--ink);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .header-eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--mpesa-green);
+    font-weight: 700;
+    margin: 0;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    letter-spacing: -0.01em;
+  }
+
+  header p {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin: 0;
+    max-width: 60ch;
+  }
+
+  /* ===== Stats ===== */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 10px;
+    margin-bottom: 1.5rem;
+  }
+
+  .stat {
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .stat b { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 2px; }
+  .stat .value { font-size: 1.5rem; font-weight: 700; color: var(--ink); }
+  .stat .value.amber { color: var(--exception-amber); }
+  .stat .value.green { color: var(--mpesa-green); }
+
+  /* ===== Cards ===== */
+  .card {
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+
+  .card h2 {
+    margin: 0 0 12px;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #475569;
+    border-bottom: 2px solid #f59e0b;
+    padding-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* ===== Forms ===== */
+  .form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 10px;
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .field label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #475569;
+  }
+
+  .field input,
+  .field select,
+  .field textarea {
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.9rem;
+    background: var(--paper);
+    color: var(--ink);
+  }
+
+  .field input:focus,
+  .field select:focus {
+    outline: 2px solid #2563eb;
+    border-color: #2563eb;
+  }
+
+  .field-checkbox {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .field-checkbox input {
+    width: auto;
+    margin-top: 3px;
+  }
+
+  .hint {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .docs-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 6px;
+  }
+
+  .chip {
+    background: #f1f5f9;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 0.75rem;
+    color: var(--ink);
+  }
+
+  /* ===== Buttons ===== */
+  .btn {
+    border: none;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .btn:focus { outline: 2px solid #2563eb; outline-offset: 2px; }
+
+  .btn-primary { background: var(--ink); color: #fff; }
+  .btn-primary:hover { background: #334155; }
+  .btn-success { background: var(--mpesa-green); color: #fff; }
+  .btn-success:hover { background: var(--mpesa-green-dark); }
+  .btn-outline { background: var(--paper); color: var(--ink); border: 1px solid var(--border); }
+  .btn-outline:hover { background: var(--paper-soft); }
+  .btn-amber { background: var(--exception-amber); color: #fff; }
+  .btn-amber:hover { background: #b45309; }
+  .btn-sm { padding: 5px 10px; font-size: 0.75rem; }
+  .btn-group { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+
+  /* ===== Channel badges ===== */
+  .channel-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .ch-whatsapp { background: #dcfce7; color: #166534; }
+  .ch-sms { background: #dbeafe; color: #1e40af; }
+  .ch-email { background: #f3e8ff; color: #6b21a8; }
+
+  /* ===== Party badges (multi-party) ===== */
+  .party-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .party-client { background: #dcfce7; color: #166534; }
+  .party-broker { background: #dbeafe; color: #1e40af; }
+  .party-insurer { background: #fef3c7; color: #92400e; }
+  .party-adjuster { background: #e0e7ff; color: #3730a3; }
+  .party-unknown { background: #f1f5f9; color: #64748b; }
+
+  /* ===== Multi-party milestone (per-party) ===== */
+  .party-milestones {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+  .party-mile {
+    flex: 1;
+    height: 5px;
+    background: var(--border);
+    border-radius: 2.5px;
+    position: relative;
+  }
+  .party-mile.done { background: var(--mpesa-green); }
+  .party-mile.pending { background: #cbd5e1; }
+  .party-mile-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  /* ===== Status badges ===== */
+  .status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .st-pending { background: var(--pending-bg); color: #92400e; }
+  .st-docs_requested { background: #dbeafe; color: #1e40af; }
+  .st-docs_received { background: #dcfce7; color: #166534; }
+  .st-verifying { background: #e0e7ff; color: #3730a3; }
+  .st-complete { background: #dcfce7; color: #166534; }
+  .st-exception { background: var(--stamp-red-bg); color: var(--stamp-red); border: 1px solid #fecaca; }
+
+  /* ===== Tabs ===== */
+  .tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 14px;
+    overflow-x: auto;
+  }
+
+  .tab {
+    padding: 10px 14px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  .tab:hover { color: var(--ink); background: var(--paper-soft); }
+  .tab.active { color: var(--ink); border-bottom-color: var(--ink); }
+
+  /* ===== Tables ===== */
+  table.cases {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  table.cases th,
+  table.cases td {
+    border: 1px solid var(--border);
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  table.cases th {
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  table.cases tr:nth-child(even) td { background: var(--paper-soft); }
+
+  .case-client { font-weight: 600; color: var(--ink); }
+  .case-phone { font-family: var(--font-data); font-size: 0.8rem; }
+  .days-since { font-weight: 700; }
+  .days-since.amber { color: var(--exception-amber); }
+  .days-since.red { color: var(--stamp-red); }
+
+  .actions-cell { display: flex; gap: 6px; flex-wrap: wrap; }
+
+  .empty-state {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 40px;
+  }
+
+  /* ===== Modal ===== */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.4);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .modal-overlay.open { display: flex; }
+
+  .modal {
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    width: 100%;
+    max-width: 560px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  }
+
+  .modal h3 { margin: 0 0 12px; font-size: 1rem; }
+  .modal-close {
+    float: right;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-muted);
+    padding: 0 4px;
+    line-height: 1;
+  }
+
+  .link-box {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 12px;
+    margin: 10px 0;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+
+  .link-box input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-family: var(--font-data);
+    font-size: 0.8rem;
+    background: #fff;
+  }
+
+  .notice {
+    background: #dcfce7;
+    color: #166534;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    margin-bottom: 12px;
+    display: none;
+  }
+
+  .notice.error { background: var(--stamp-red-bg); color: var(--stamp-red); }
+
+  /* ===== Communication history ===== */
+  .comm-item {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    background: var(--paper);
+    font-size: 0.85rem;
+  }
+
+  .comm-item .comm-head {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 4px;
+  }
+
+  .comm-item .channel { font-weight: 700; font-size: 0.7rem; text-transform: uppercase; }
+  .comm-item .time { font-family: var(--font-data); font-size: 0.7rem; color: var(--text-muted); margin-left: auto; }
+  .comm-item .body { color: var(--ink); }
+
+  /* ===== Milestone tracker ===== */
+  .milestones {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 12px;
+  }
+
+  .mile {
+    flex: 1;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    position: relative;
+  }
+
+  .mile.done { background: var(--mpesa-green); }
+
+  .mile-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 640px) {
+    .container { padding: 0.5rem 0.5rem; }
+    header h1 { font-size: 1.25rem; }
+    .form-grid { grid-template-columns: 1fr; }
+    .actions-cell { flex-direction: column; }
+    .actions-cell .btn { width: 100%; justify-content: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <p class="header-eyebrow">BrokerFlow AI &bull; Kenya &bull; ODPC-aligned</p>
+    <h1>Document Chase Dashboard</h1>
+    <p>Zero-touch document intake for KYC, claims, and onboarding paperwork. Chasing clients for missing documents &mdash; autonomously.</p>
+  </header>
+
+  <!-- Stats -->
+  <div class="stats">
+    <div class="stat">
+      <b>Total cases</b>
+      <span class="value" id="stat-total">0</span>
+    </div>
+    <div class="stat">
+      <b>Awaiting docs</b>
+      <span class="value" id="stat-pending">0</span>
+    </div>
+    <div class="stat">
+      <b>Exception queue (&gt;7d)</b>
+      <span class="value amber" id="stat-exception">0</span>
+    </div>
+    <div class="stat">
+      <b>Completed</b>
+      <span class="value green" id="stat-complete">0</span>
+    </div>
+  </div>
+
+  <!-- Create case -->
+  <div class="card">
+    <h2><span>&#9998;</span> Create document-chase case</h2>
+    <form id="create-case-form">
+      <div class="form-grid">
+        <div class="field">
+          <label>Client full name</label>
+          <input type="text" id="c-client-name" required placeholder="e.g. Wanjiku Mwangi">
+        </div>
+        <div class="field">
+          <label>Phone (WhatsApp/SMS)</label>
+          <input type="tel" id="c-client-phone" required placeholder="e.g. 0712345678">
+        </div>
+        <div class="field">
+          <label>Email</label>
+          <input type="email" id="c-client-email" placeholder="e.g. wanjiku@example.com">
+        </div>
+        <div class="field">
+          <label>Preferred channel</label>
+          <select id="c-channel">
+            <option value="whatsapp">WhatsApp</option>
+            <option value="sms">SMS</option>
+            <option value="email">Email</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Policy type</label>
+          <select id="c-policy-type" onchange="updateRequiredDocs()">
+            <option value="motor">Motor</option>
+            <option value="commercial">Commercial / PSV</option>
+            <option value="fire">Fire / Burglary</option>
+            <option value="claims">Claims</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Document submission deadline</label>
+          <input type="date" id="c-deadline" required>
+        </div>
+        <div class="field">
+          <label>Policy renewal date</label>
+          <input type="date" id="c-renewal-date" placeholder="e.g. 2026-12-01">
+        </div>
+        <div class="field">
+          <div class="field field-checkbox" style="grid-column: 1 / -1;">
+            <input type="checkbox" id="c-odpc-consent" required>
+            <label for="c-odpc-consent" style="margin:0;">I have obtained client consent to collect and store these documents under the ODPC Data Protection Act (Kenya).</label>
+          </div>
+        </div>
+        <div class="hint" style="grid-column: 1 / -1;">Required documents update automatically by policy type.</div>
+        <div class="docs-chips" id="c-docs-chips" style="grid-column: 1 / -1;"></div>
+        <div class="card" style="grid-column: 1 / -1; margin-top: 10px;">
+          <h2 style="font-size: 0.8rem; margin-bottom: 8px; padding-bottom: 4px;">Multi-party alignment (Deliverable F)</h2>
+          <div class="form-grid">
+            <div class="field">
+              <label>Insurer contact name</label>
+              <input type="text" id="c-insurer-name" placeholder="e.g. Jubilee Insurance">
+            </div>
+            <div class="field">
+              <label>Insurer phone (WhatsApp)</label>
+              <input type="tel" id="c-insurer-phone" placeholder="e.g. 0712345678">
+            </div>
+            <div class="field">
+              <label>Insurer email</label>
+              <input type="email" id="c-insurer-email" placeholder="e.g. claims@jubilee.co.ke">
+            </div>
+            <div class="field">
+              <label>Loss adjuster name</label>
+              <input type="text" id="c-adjuster-name" placeholder="e.g. Peter Adjusters Ltd">
+            </div>
+            <div class="field">
+              <label>Loss adjuster phone</label>
+              <input type="tel" id="c-adjuster-phone" placeholder="e.g. 0723456789">
+            </div>
+            <div class="field">
+              <label>Loss adjuster email</label>
+              <input type="email" id="c-adjuster-email" placeholder="e.g. peter@adjusters.co.ke">
+            </div>
+          </div>
+          <div class="hint" style="grid-column: 1 / -1; margin-top: 4px;">Add insurer and loss adjuster contacts so all parties see shared milestone status. Fixes fragmented touch points (Darlington, Oct 15).</div>
+        </div>
+        <div class="btn-group" style="grid-column: 1 / -1;">
+        <button type="submit" class="btn btn-primary">Create case &amp; send request</button>
+        <button type="button" class="btn btn-outline" onclick="document.getElementById('create-case-form').reset(); updateRequiredDocs();">Reset</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Tabs -->
+  <div class="tabs">
+    <div class="tab active" data-tab="all" onclick="switchTab('all', this)">All cases</div>
+    <div class="tab" data-tab="outstanding" onclick="switchTab('outstanding', this)">Outstanding</div>
+    <div class="tab" data-tab="exception" onclick="switchTab('exception', this)">Exception queue (&gt;7d)</div>
+    <div class="tab" data-tab="complete" onclick="switchTab('complete', this)">Completed</div>
+  </div>
+
+  <!-- Cases table -->
+  <div class="card">
+    <h2><span>&#128202;</span> Case list</h2>
+    <div id="no-cases" class="empty-state" style="display:none;">No cases yet. Create your first document-chase case above.</div>
+    <table class="cases" id="cases-table">
+      <thead>
+        <tr>
+          <th style="width:160px;">Client</th>
+          <th style="width:110px;">Phone</th>
+          <th style="width:110px;">Insurer</th>
+          <th style="width:110px;">Adjuster</th>
+          <th style="width:90px;">Policy</th>
+          <th style="width:90px;">Renewal</th>
+          <th style="width:150px;">Docs missing</th>
+          <th style="width:100px;">Status</th>
+          <th style="width:70px;">Channel</th>
+          <th style="width:80px;">Days since request</th>
+          <th style="width:110px;">Last contact</th>
+          <th style="width:140px;">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="cases-body"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<!-- Modal: Case details / upload link -->
+<div class="modal-overlay" id="case-modal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">&times;</button>
+    <h3 id="modal-title">Case details</h3>
+    <div id="modal-body"></div>
+    <div class="btn-group" style="margin-top:14px;">
+      <button class="btn btn-outline" onclick="closeModal()">Close</button>
+      <button class="btn btn-outline" id="modal-notify-insurer" style="display:none;">Notify insurer</button>
+      <button class="btn btn-outline" id="modal-notify-adjuster" style="display:none;">Notify adjuster</button>
+      <button class="btn btn-primary" id="modal-copy-link" style="display:none;">Copy upload link</button>
+      <button class="btn btn-success" id="modal-mark-received" style="display:none;">Mark docs received</button>
+      <button class="btn btn-amber" id="modal-escalate" style="display:none;">Escalate to exception</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  /* ===== State ===== */
+  const STORAGE_KEY = 'brokerflow_cases_v1';
+  const N8N_BASE_URL = 'https://simongreenmmm.app.n8n.cloud'; // n8n instance
+
+  async function postToN8n(path, body) {
+    try {
+      const res = await fetch(N8N_BASE_URL + '/webhook/' + path, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      return await res.json();
+    } catch (err) {
+      console.warn('n8n webhook unavailable, falling back to localStorage only:', err);
+      return null;
+    }
+  }
+
+  const POLICY_DOCS = {
+    motor: ['National ID', 'KRA PIN', 'Logbook'],
+    commercial: ['National ID', 'KRA PIN', 'Risk notes'],
+    fire: ['National ID', 'KRA PIN', 'Material facts disclosure'],
+    claims: ['Claim form', 'Supporting documents', 'Loss adjuster report'],
+  };
+
+  const CHANNEL_LABEL = {
+    whatsapp: 'WhatsApp',
+    sms: 'SMS',
+    email: 'Email',
+  };
+
+  const CHANNEL_CLASS = {
+    whatsapp: 'ch-whatsapp',
+    sms: 'ch-sms',
+    email: 'ch-email',
+  };
+
+  const STATUS_LABEL = {
+    pending: 'Pending',
+    docs_requested: 'Docs requested',
+    docs_received: 'Docs received',
+    verifying: 'Verifying',
+    complete: 'Complete',
+    exception: 'Exception queue',
+  };
+
+  const STATUS_CLASS = {
+    pending: 'st-pending',
+    docs_requested: 'st-docs_requested',
+    docs_received: 'st-docs_received',
+    verifying: 'st-verifying',
+    complete: 'st-complete',
+    exception: 'st-exception',
+  };
+
+  let cases = JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+  let activeTab = 'all';
+  let modalCaseId = null;
+
+  /* ===== Helpers ===== */
+  function save() {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cases));
+    renderStats();
+    renderCases();
+  }
+
+  function token() {
+    return 'bf_' + Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-6);
+  }
+
+  function todayISO() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  function daysBetween(a, b) {
+    const ms = b - a;
+    return Math.floor(ms / (1000 * 60 * 60 * 24));
+  }
+
+  function channelBadge(channel) {
+    return `<span class="channel-badge ${CHANNEL_CLASS[channel]}">${CHANNEL_LABEL[channel]}</span>`;
+  }
+
+  function statusBadge(status) {
+    return `<span class="status-badge ${STATUS_CLASS[status]}">${STATUS_LABEL[status]}</span>`;
+  }
+
+  function partyBadge(name, party) {
+    if (!name) return `<span class="party-badge party-unknown">-</span>`;
+    const cls = party === 'insurer' ? 'party-insurer' : 'party-adjuster';
+    const label = party === 'insurer' ? 'Insurer' : 'Adjuster';
+    return `<span class="party-badge ${cls}">${escapeHtml(label)}</span> ${escapeHtml(name)}`;
+  }
+
+  function exceptionClass(days) {
+    if (days >= 7) return 'red';
+    if (days >= 5) return 'amber';
+    return '';
+  }
+
+  /* Per-party milestone progress (multi-party alignment) */
+  function clientMilestoneDone(c) {
+    let done = 1; // Lodged
+    if (c.status !== 'docs_requested') done += 1; // Docs requested
+    if (c.status === 'docs_received' || c.status === 'verifying' || c.status === 'complete') done += 1; // Docs received
+    if (c.status === 'verifying' || c.status === 'complete') done += 1; // Verified
+    if (c.status === 'complete') done += 1; // Complete
+    return Math.min(done, 5);
+  }
+
+  function brokerMilestoneDone(c) {
+    let done = 1; // Case created
+    if (c.status === 'docs_requested' || c.status === 'docs_received' || c.status === 'verifying' || c.status === 'complete' || c.status === 'exception') done += 1; // Docs requested
+    if ((c.communication || []).length >= 2) done += 1; // Follow-up sent
+    if (c.status === 'exception') done += 1; // Escalated
+    if (c.status === 'complete') done += 1; // Resolved
+    return Math.min(done, 5);
+  }
+
+  function insurerMilestoneDone(c) {
+    if (!c.insurerName) return 0;
+    let done = 1; // Notified (contact exists)
+    if (c.status === 'docs_received' || c.status === 'verifying' || c.status === 'complete') done += 1; // Docs shared
+    if (c.status === 'verifying' || c.status === 'complete') done += 1; // Assessment
+    if (c.status === 'complete') done += 2; // Sign-off + Complete
+    return Math.min(done, 5);
+  }
+
+  function adjusterMilestoneDone(c) {
+    if (!c.adjusterName) return 0;
+    let done = 1; // Assigned (contact exists)
+    if (c.status === 'docs_received' || c.status === 'verifying' || c.status === 'complete') done += 1; // Site visit
+    if (c.status === 'verifying' || c.status === 'complete') done += 1; // Report
+    if (c.status === 'complete') done += 2; // Sign-off + Complete
+    return Math.min(done, 5);
+  }
+
+  /* ===== Init ===== */
+  document.getElementById('c-deadline').value = todayISO();
+  updateRequiredDocs();
+  renderStats();
+  renderCases();
+
+  /* ===== Create case ===== */
+  function updateRequiredDocs() {
+    const type = document.getElementById('c-policy-type').value;
+    const docs = POLICY_DOCS[type];
+    const chips = document.getElementById('c-docs-chips');
+    chips.innerHTML = docs.map(d => `<span class="chip">${d}</span>`).join('');
+  }
+
+  document.getElementById('create-case-form').addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const name = document.getElementById('c-client-name').value.trim();
+    const phone = document.getElementById('c-client-phone').value.trim();
+    const email = document.getElementById('c-client-email').value.trim();
+    const channel = document.getElementById('c-channel').value;
+    const policyType = document.getElementById('c-policy-type').value;
+    const deadline = document.getElementById('c-deadline').value;
+    const renewalDate = document.getElementById('c-renewal-date').value.trim();
+    const consent = document.getElementById('c-odpc-consent').checked;
+    const insurerName = document.getElementById('c-insurer-name').value.trim();
+    const insurerPhone = document.getElementById('c-insurer-phone').value.trim();
+    const insurerEmail = document.getElementById('c-insurer-email').value.trim();
+    const adjusterName = document.getElementById('c-adjuster-name').value.trim();
+    const adjusterPhone = document.getElementById('c-adjuster-phone').value.trim();
+    const adjusterEmail = document.getElementById('c-adjuster-email').value.trim();
+
+    if (!consent) {
+      alert('ODPC client consent is required before creating a case.');
+      return;
+    }
+
+    const requiredDocs = POLICY_DOCS[policyType];
+    const now = new Date();
+    const linkToken = token();
+
+    // Party milestone statuses (multi-party alignment — fixes fragmented touch points)
+    const partyStatus = {
+      client: 'pending',
+      broker: 'pending',
+      insurer: insurerName ? 'pending' : 'unknown',
+      adjuster: adjusterName ? 'pending' : 'unknown',
+    };
+
+    // Try n8n webhook first; fall back to local-only if n8n is unavailable
+    const n8nResponse = await postToN8n('brokerflow-case-create', {
+      clientName: name,
+      clientPhone: phone,
+      clientEmail: email,
+      channel,
+      policyType,
+      deadline,
+      renewalDate,
+      odpcConsent: consent,
+      insurerName, insurerPhone, insurerEmail,
+      adjusterName, adjusterPhone, adjusterEmail,
+      partyStatus,
+    });
+
+    let caseItem;
+    if (n8nResponse && n8nResponse.status === 'created') {
+      // Use n8n-provided case data
+      caseItem = {
+        id: n8nResponse.caseId || 'case_' + Date.now(),
+        clientName: name,
+        clientPhone: phone,
+        clientEmail: email,
+        channel,
+        policyType,
+        deadline,
+        renewalDate,
+        odpcConsent: consent,
+        insurerName, insurerPhone, insurerEmail,
+        adjusterName, adjusterPhone, adjusterEmail,
+        partyStatus,
+        requiredDocs,
+        status: 'docs_requested',
+        docsMissing: [...requiredDocs],
+        docsReceived: [],
+        uploadLink: n8nResponse.uploadLink || `${window.location.origin.replace(/\/$/, '')}/client-upload.html?token=${linkToken}`,
+        linkToken: n8nResponse.uploadToken || linkToken,
+        n8nCaseId: n8nResponse.caseId,
+        n8nEscalationTriggered: n8nResponse.escalationTriggered,
+        requestDate: todayISO(),
+        lastContact: todayISO(),
+        daysSinceRequest: 0,
+        communication: [{
+          channel,
+          direction: 'outbound',
+          body: `Initial document request sent via ${CHANNEL_LABEL[channel]}. Required: ${requiredDocs.join(', ')}. Deadline: ${deadline}. n8n escalation: ${n8nResponse.escalationTriggered ? 'triggered' : 'not triggered'}. Multi-party contacts: insurer=${insurerName || 'none'}, adjuster=${adjusterName || 'none'}.`,
+          timestamp: now.toISOString(),
+        }],
+        milestones: ['Lodged'],
+      };
+    } else {
+      // Local-only fallback
+      caseItem = {
+        id: 'case_' + Date.now(),
+        clientName: name,
+        clientPhone: phone,
+        clientEmail: email,
+        channel,
+        policyType,
+        deadline,
+        renewalDate,
+        odpcConsent: consent,
+        insurerName, insurerPhone, insurerEmail,
+        adjusterName, adjusterPhone, adjusterEmail,
+        partyStatus,
+        requiredDocs,
+        status: 'docs_requested',
+        docsMissing: [...requiredDocs],
+        docsReceived: [],
+        uploadLink: `${window.location.origin.replace(/\/$/, '')}/client-upload.html?token=${linkToken}`,
+        linkToken,
+        requestDate: todayISO(),
+        lastContact: todayISO(),
+        daysSinceRequest: 0,
+        communication: [{
+          channel,
+          direction: 'outbound',
+          body: `Initial document request sent via ${CHANNEL_LABEL[channel]}. Required: ${requiredDocs.join(', ')}. Deadline: ${deadline}.${renewalDate ? ' Renewal due: ' + renewalDate : ''} (local-only mode)`,
+          timestamp: now.toISOString(),
+        }],
+        milestones: ['Lodged'],
+      };
+    }
+
+    cases.unshift(caseItem);
+    save();
+    this.reset();
+    document.getElementById('c-deadline').value = todayISO();
+    updateRequiredDocs();
+    switchTab(activeTab, document.querySelector('.tab.active'));
+  });
+
+  /* ===== Tabs ===== */
+  function switchTab(tab, el) {
+    activeTab = tab;
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    if (el) el.classList.add('active');
+    renderCases();
+  }
+
+  /* ===== Render ===== */
+  function renderStats() {
+    const total = cases.length;
+    const pending = cases.filter(c => c.status !== 'complete' && c.status !== 'exception').length;
+    const exception = cases.filter(c => c.status === 'exception').length;
+    const complete = cases.filter(c => c.status === 'complete').length;
+
+    document.getElementById('stat-total').textContent = total;
+    document.getElementById('stat-pending').textContent = pending;
+    document.getElementById('stat-exception').textContent = exception;
+    document.getElementById('stat-complete').textContent = complete;
+  }
+
+  function filterCases() {
+    const now = new Date();
+    return cases.map(c => {
+      const days = daysBetween(new Date(c.requestDate), now);
+      c.daysSinceRequest = days;
+      if (days >= 7 && c.status !== 'complete') c.status = 'exception';
+      return c;
+    }).filter(c => {
+      if (activeTab === 'all') return true;
+      if (activeTab === 'outstanding') return c.status !== 'complete' && c.status !== 'exception';
+      if (activeTab === 'exception') return c.status === 'exception';
+      if (activeTab === 'complete') return c.status === 'complete';
+      return true;
+    }).sort((a, b) => b.daysSinceRequest - a.daysSinceRequest);
+  }
+
+  function renderCases() {
+    const body = document.getElementById('cases-body');
+    const noCases = document.getElementById('no-cases');
+    const filtered = filterCases();
+
+    if (filtered.length === 0) {
+      body.innerHTML = '';
+      noCases.style.display = activeTab === 'all' ? 'block' : 'block';
+      document.getElementById('cases-table').style.display = 'none';
+      return;
+    }
+
+    noCases.style.display = 'none';
+    document.getElementById('cases-table').style.display = 'table';
+
+    body.innerHTML = filtered.map(c => {
+      const docsMissingHtml = c.docsMissing.map(d => `<span class="chip">${d}</span>`).join('') || '<span style="color:var(--text-muted);font-size:0.7rem;">&mdash;</span>';
+      const daysClass = exceptionClass(c.daysSinceRequest);
+      return `
+        <tr>
+          <td class="case-client">${escapeHtml(c.clientName)}</td>
+          <td class="case-phone">${escapeHtml(c.clientPhone)}</td>
+          <td>${partyBadge(c.insurerName, 'insurer')}${c.insurerName ? '<br><span class="case-phone" style="font-size:0.7rem;">' + escapeHtml(c.insurerPhone || '-') + '</span>' : ''}</td>
+          <td>${partyBadge(c.adjusterName, 'adjuster')}${c.adjusterName ? '<br><span class="case-phone" style="font-size:0.7rem;">' + escapeHtml(c.adjusterPhone || '-') + '</span>' : ''}</td>
+          <td>${c.policyType.charAt(0).toUpperCase() + c.policyType.slice(1)}</td>
+          <td>${c.renewalDate ? escapeHtml(c.renewalDate) : '<span style="color:var(--text-muted);font-size:0.7rem;">&mdash;</span>'}</td>
+          <td>${docsMissingHtml}</td>
+          <td>${statusBadge(c.status)}</td>
+          <td>${channelBadge(c.channel)}</td>
+          <td><span class="days-since ${daysClass}">${c.daysSinceRequest}d</span></td>
+          <td>${escapeHtml(c.lastContact)}</td>
+          <td class="actions-cell">
+            <button class="btn btn-sm btn-outline" onclick="openModal('${c.id}')">View</button>
+            <button class="btn btn-sm btn-success" onclick="copyLink('${c.id}')">Copy link</button>
+            ${c.status !== 'complete' ? `<button class="btn btn-sm btn-success" onclick="markReceived('${c.id}')">Docs received</button>` : ''}
+            ${c.daysSinceRequest >= 7 ? `<button class="btn btn-sm btn-amber" onclick="escalate('${c.id}')">Escalate</button>` : ''}
+          </td>
+        </tr>
+      `;
+    }).join('');
+  }
+
+  function escapeHtml(t) {
+    const div = document.createElement('div');
+    div.textContent = t;
+    return div.innerHTML;
+  }
+
+  /* ===== Actions ===== */
+  function copyLink(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c) return;
+    navigator.clipboard.writeText(c.uploadLink).then(() => {
+      addCommunication(id, c.channel, 'outbound', 'Upload link copied to clipboard and re-sent to client.');
+      const btn = event && event.target;
+      if (btn) { const orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(() => btn.textContent = orig, 1200); }
+      save();
+    });
+  }
+
+  function markReceived(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c) return;
+    c.status = 'docs_received';
+    c.lastContact = todayISO();
+    addCommunication(id, c.channel, 'inbound', 'Client confirmed documents submitted via upload link.');
+    openModal(id);
+    save();
+  }
+
+  function escalate(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c) return;
+    c.status = 'exception';
+    c.lastContact = todayISO();
+    addCommunication(id, c.channel, 'outbound', 'Case escalated to exception queue (&gt;7 days with no response).');
+    openModal(id);
+    save();
+  }
+
+  function notifyInsurer(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c || !c.insurerName) return;
+    postToN8n('brokerflow-party-notify', {
+      caseId: c.id,
+      party: 'insurer',
+      partyName: c.insurerName,
+      partyPhone: c.insurerPhone,
+      partyEmail: c.insurerEmail,
+      clientName: c.clientName,
+      clientPhone: c.clientPhone,
+      policyType: c.policyType,
+      deadline: c.deadline,
+      uploadLink: c.uploadLink,
+      channel: c.channel,
+    }).then(res => {
+      if (res && res.status === 'notified') {
+        c.partyStatus = c.partyStatus || {};
+        c.partyStatus.insurer = 'notified';
+        c.lastContact = todayISO();
+        addCommunication(id, c.channel, 'outbound', `Insurer ${escapeHtml(c.insurerName)} notified of document request.`);
+        openModal(id);
+        save();
+      }
+    });
+  }
+
+  function notifyLossAdjuster(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c || !c.adjusterName) return;
+    postToN8n('brokerflow-party-notify', {
+      caseId: c.id,
+      party: 'adjuster',
+      partyName: c.adjusterName,
+      partyPhone: c.adjusterPhone,
+      partyEmail: c.adjusterEmail,
+      clientName: c.clientName,
+      clientPhone: c.clientPhone,
+      policyType: c.policyType,
+      deadline: c.deadline,
+      uploadLink: c.uploadLink,
+      channel: c.channel,
+    }).then(res => {
+      if (res && res.status === 'notified') {
+        c.partyStatus = c.partyStatus || {};
+        c.partyStatus.adjuster = 'notified';
+        c.lastContact = todayISO();
+        addCommunication(id, c.channel, 'outbound', `Loss adjuster ${escapeHtml(c.adjusterName)} notified of document request.`);
+        openModal(id);
+        save();
+      }
+    });
+  }
+
+  function addCommunication(id, channel, direction, body) {
+    const c = cases.find(x => x.id === id);
+    if (!c) return;
+    c.communication.push({
+      channel,
+      direction,
+      body,
+      timestamp: new Date().toISOString(),
+    });
+    c.lastContact = todayISO();
+  }
+
+  /* ===== Modal ===== */
+  function openModal(id) {
+    const c = cases.find(x => x.id === id);
+    if (!c) return;
+    modalCaseId = id;
+
+    const docsReceivedHtml = c.docsReceived.map(d => `<span class="chip" style="background:var(--matched-bg);border-color:var(--mpesa-green);color:var(--mpesa-green-dark);">${d}</span>`).join('') || '<span style="color:var(--text-muted);font-size:0.7rem;">None yet</span>';
+    const commHtml = c.communication.map(item => `
+      <div class="comm-item">
+        <div class="comm-head">
+          <span class="channel">${CHANNEL_LABEL[item.channel]} &middot; ${item.direction}</span>
+          <span class="time">${new Date(item.timestamp).toLocaleString()}</span>
+        </div>
+        <div class="body">${escapeHtml(item.body)}</div>
+      </div>
+    `).join('');
+
+    const partyMilestones = {
+      client: { labels: ['Lodged', 'Docs requested', 'Docs received', 'Verified', 'Complete'], done: clientMilestoneDone(c) },
+      broker: { labels: ['Case created', 'Docs requested', 'Follow-up sent', 'Escalated', 'Resolved'], done: brokerMilestoneDone(c) },
+      insurer: { labels: ['Notified', 'Docs shared', 'Assessment', 'Sign-off', 'Complete'], done: insurerMilestoneDone(c) },
+      adjuster: { labels: ['Assigned', 'Site visit', 'Report', 'Sign-off', 'Complete'], done: adjusterMilestoneDone(c) },
+    };
+
+    const partyTrackerHtml = Object.entries(partyMilestones).map(([key, p]) => {
+      const label = key === 'client' ? 'Client' : key === 'broker' ? 'Broker' : key === 'insurer' ? 'Insurer' : 'Adjuster';
+      const cls = key === 'client' ? 'party-client' : key === 'broker' ? 'party-broker' : key === 'insurer' ? 'party-insurer' : 'party-adjuster';
+      const miles = p.labels.map((l, i) => `<div class="party-mile ${i < p.done ? 'done' : 'pending'}"></div>`).join('');
+      return `
+        <div style="margin-bottom:10px;">
+          <div style="display:flex;gap:6px;align-items:center;margin-bottom:4px;">
+            <span class="party-badge ${cls}">${escapeHtml(label)}</span>
+            <span style="font-size:0.65rem;color:var(--text-muted);">${p.done}/5</span>
+          </div>
+          <div class="party-milestones">${miles}</div>
+          <div class="party-mile-labels">${p.labels.map(l => `<span style="white-space:nowrap">${l}</span>`).join('')}</div>
+        </div>
+      `;
+    }).join('');
+
+    const insurerNotified = c.partyStatus?.insurer === 'pending' || c.partyStatus?.insurer === 'notified';
+    const adjusterNotified = c.partyStatus?.adjuster === 'pending' || c.partyStatus?.adjuster === 'notified';
+
+    document.getElementById('modal-title').textContent = c.clientName;
+    document.getElementById('modal-body').html = `
+      <p><strong>Phone:</strong> ${escapeHtml(c.clientPhone)} &nbsp;|&nbsp; <strong>Email:</strong> ${escapeHtml(c.clientEmail || '&mdash;')}</p>
+      ${c.insurerName ? `<p><strong>Insurer:</strong> ${escapeHtml(c.insurerName)} &nbsp;|&nbsp; ${escapeHtml(c.insurerPhone || '-')} &nbsp;|&nbsp; ${escapeHtml(c.insurerEmail || '-')}</p>` : ''}
+      ${c.adjusterName ? `<p><strong>Loss adjuster:</strong> ${escapeHtml(c.adjusterName)} &nbsp;|&nbsp; ${escapeHtml(c.adjusterPhone || '-')} &nbsp;|&nbsp; ${escapeHtml(c.adjusterEmail || '-')}</p>` : ''}
+      <p><strong>Policy:</strong> ${c.policyType.charAt(0).toUpperCase() + c.policyType.slice(1)} &nbsp;|&nbsp; <strong>Deadline:</strong> ${escapeHtml(c.deadline)}</p>
+      <p><strong>Upload link:</strong></p>
+      <div class="link-box">
+        <input type="text" value="${escapeHtml(c.uploadLink)}" readonly>
+        <button class="btn btn-sm btn-primary" onclick="copyLink('${c.id}')">Copy</button>
+      </div>
+      <p><strong>Required documents:</strong></p>
+      <div class="docs-chips">${c.requiredDocs.map(d => `<span class="chip">${escapeHtml(d)}</span>`).join('')}</div>
+      <p><strong>Received:</strong> ${docsReceivedHtml}</p>
+      <p><strong>Days since request:</strong> <span class="days-since ${exceptionClass(c.daysSinceRequest)}">${c.daysSinceRequest}d</span></p>
+      <div style="margin-top:12px;">
+        <div style="font-size:0.7rem;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-muted);margin-bottom:6px;">Multi-party milestone tracker</div>
+        ${partyTrackerHtml}
+      </div>
+      <div style="margin-top:12px;">
+        <div style="font-size:0.7rem;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-muted);margin-bottom:6px;">Communication history</div>
+        ${commHtml || '<div style="color:var(--text-muted);font-size:0.8rem;">No communication yet.</div>'}
+      </div>
+    `;
+    // set innerHTML properly
+    document.getElementById('modal-body').innerHTML = document.getElementById('modal-body').html;
+
+    // Button visibility
+    document.getElementById('modal-copy-link').style.display = 'inline-flex';
+    document.getElementById('modal-mark-received').style.display = c.status === 'complete' || c.status === 'docs_received' ? 'none' : 'inline-flex';
+    document.getElementById('modal-escalate').style.display = c.status === 'exception' || c.status === 'complete' ? 'none' : 'inline-flex';
+    const notifyInsurerBtn = document.getElementById('modal-notify-insurer');
+    const notifyAdjusterBtn = document.getElementById('modal-notify-adjuster');
+    if (notifyInsurerBtn) notifyInsurerBtn.style.display = c.insurerName && !insurerNotified ? 'inline-flex' : 'none';
+    if (notifyAdjusterBtn) notifyAdjusterBtn.style.display = c.adjusterName && !adjusterNotified ? 'inline-flex' : 'none';
+
+    document.getElementById('case-modal').classList.add('open');
+  }
+
+  function closeModal() {
+    document.getElementById('case-modal').classList.remove('open');
+    modalCaseId = null;
+  }
+
+  document.getElementById('modal-copy-link').onclick = () => { if (modalCaseId) copyLink(modalCaseId); closeModal(); };
+  document.getElementById('modal-mark-received').onclick = () => { if (modalCaseId) markReceived(modalCaseId); closeModal(); };
+  document.getElementById('modal-escalate').onclick = () => { if (modalCaseId) escalate(modalCaseId); closeModal(); };
+  document.getElementById('modal-notify-insurer').onclick = () => { if (modalCaseId) notifyInsurer(modalCaseId); closeModal(); };
+  document.getElementById('modal-notify-adjuster').onclick = () => { if (modalCaseId) notifyLossAdjuster(modalCaseId); closeModal(); };
+
+  // Close modal on overlay click
+  document.getElementById('case-modal').onclick = (e) => {
+    if (e.target.id === 'case-modal') closeModal();
+  };
+
+  // Initial render
+  renderCases();
+
+  // Auto-refresh days every minute
+  setInterval(() => {
+    const now = new Date();
+    cases.forEach(c => {
+      c.daysSinceRequest = daysBetween(new Date(c.requestDate), now);
+      if (c.daysSinceRequest >= 7 && c.status !== 'complete') c.status = 'exception';
+    });
+    save();
+  }, 60000);
+
+</script>
+
+</body>
+</html>

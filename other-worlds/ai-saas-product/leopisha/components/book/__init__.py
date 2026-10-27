@@ -1,0 +1,1 @@
+# Empty init file to make components/book a proper package

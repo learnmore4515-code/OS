@@ -1,0 +1,874 @@
+# Transcript: zvhlgkPnPmk
+Language: en
+
+[0.0s - 1.7s] I need to tell you something and you're
+[1.7s - 1.7s] I need to tell you something and you're
+[1.7s - 4.0s] I need to tell you something and you're not going to like it. If you're an SAP
+[4.0s - 4.0s] not going to like it. If you're an SAP
+[4.0s - 5.3s] not going to like it. If you're an SAP functional consultant and you're
+[5.3s - 5.4s] functional consultant and you're
+[5.4s - 7.2s] functional consultant and you're watching this thinking it doesn't apply
+[7.2s - 7.2s] watching this thinking it doesn't apply
+[7.2s - 9.6s] watching this thinking it doesn't apply to me, you survived every hype cycle,
+[9.6s - 9.6s] to me, you survived every hype cycle,
+[9.6s - 11.3s] to me, you survived every hype cycle, you survived cloud, you survived the
+[11.3s - 11.3s] you survived cloud, you survived the
+[11.3s - 14.3s] you survived cloud, you survived the S/4HANA panic, you'll survive this, too.
+[14.3s - 14.4s] S/4HANA panic, you'll survive this, too.
+[14.4s - 16.1s] S/4HANA panic, you'll survive this, too. And I know you won't because I've spent
+[16.1s - 16.1s] And I know you won't because I've spent
+[16.1s - 18.7s] And I know you won't because I've spent 25 years leading SAP implementations
+[18.7s - 18.7s] 25 years leading SAP implementations
+[18.7s - 21.5s] 25 years leading SAP implementations worth around $700 million across 100
+[21.5s - 21.5s] worth around $700 million across 100
+[21.5s - 24.2s] worth around $700 million across 100 organizations in government and defense,
+[24.2s - 24.2s] organizations in government and defense,
+[24.2s - 27.3s] organizations in government and defense, Fortune 500s. I've hired thousands of
+[27.3s - 27.3s] Fortune 500s. I've hired thousands of
+[27.3s - 29.8s] Fortune 500s. I've hired thousands of functional consultants and right now I'm
+[29.8s - 29.8s] functional consultants and right now I'm
+[29.8s - 32.1s] functional consultants and right now I'm watching my clients stop hiring them.
+[32.1s - 32.2s] watching my clients stop hiring them.
+[32.2s - 34.5s] watching my clients stop hiring them. Not gradually, suddenly.
+[34.5s - 34.5s] Not gradually, suddenly.
+[34.5s - 36.4s] Not gradually, suddenly. Last year, one of my clients ran a
+[36.4s - 36.4s] Last year, one of my clients ran a
+[36.4s - 38.7s] Last year, one of my clients ran a renewal for a major SAP support
+[38.7s - 38.7s] renewal for a major SAP support
+[38.7s - 42.3s] renewal for a major SAP support contract. In 2022, that contract had
+[42.3s - 42.3s] contract. In 2022, that contract had
+[42.3s - 45.1s] contract. In 2022, that contract had around 14 functional consultants. The
+[45.1s - 45.1s] around 14 functional consultants. The
+[45.1s - 48.9s] around 14 functional consultants. The renewal, four. Same scope, same modules,
+[48.9s - 48.9s] renewal, four. Same scope, same modules,
+[48.9s - 51.8s] renewal, four. Same scope, same modules, same complexity. 10 people gone and
+[51.8s - 51.8s] same complexity. 10 people gone and
+[51.8s - 54.3s] same complexity. 10 people gone and nobody even noticed the difference. Now,
+[54.3s - 54.3s] nobody even noticed the difference. Now,
+[54.3s - 56.0s] nobody even noticed the difference. Now, that's not a cost-cutting exercise,
+[56.0s - 56.0s] that's not a cost-cutting exercise,
+[56.0s - 58.3s] that's not a cost-cutting exercise, that's a signal. And here's the thing,
+[58.3s - 58.3s] that's a signal. And here's the thing,
+[58.3s - 61.0s] that's a signal. And here's the thing, this isn't anyone's fault. SAP isn't
+[61.0s - 61.0s] this isn't anyone's fault. SAP isn't
+[61.0s - 63.3s] this isn't anyone's fault. SAP isn't trying to hurt you. Your consulting firm
+[63.3s - 63.3s] trying to hurt you. Your consulting firm
+[63.3s - 65.5s] trying to hurt you. Your consulting firm isn't plotting against you. What's
+[65.5s - 65.5s] isn't plotting against you. What's
+[65.5s - 67.8s] isn't plotting against you. What's happening is three technology shifts are
+[67.8s - 67.8s] happening is three technology shifts are
+[67.8s - 70.0s] happening is three technology shifts are converging at the same time. And
+[70.0s - 70.0s] converging at the same time. And
+[70.0s - 71.9s] converging at the same time. And together, they're eliminating the need
+[71.9s - 71.9s] together, they're eliminating the need
+[71.9s - 74.7s] together, they're eliminating the need for a role that existed for 30 years.
+[74.7s - 74.7s] for a role that existed for 30 years.
+[74.7s - 76.3s] for a role that existed for 30 years. And let me show you what actually is
+[76.3s - 76.3s] And let me show you what actually is
+[76.3s - 77.6s] And let me show you what actually is happening.
+[77.6s - 77.6s] happening.
+[77.6s - 79.7s] happening. To understand why functional consultants
+[79.7s - 79.7s] To understand why functional consultants
+[79.7s - 81.7s] To understand why functional consultants are disappearing, you need to understand
+[81.7s - 81.7s] are disappearing, you need to understand
+[81.7s - 83.2s] are disappearing, you need to understand three technology shifts that are
+[83.2s - 83.2s] three technology shifts that are
+[83.2s - 85.5s] three technology shifts that are happening simultaneously. Any one of
+[85.5s - 85.6s] happening simultaneously. Any one of
+[85.6s - 87.8s] happening simultaneously. Any one of them alone would be manageable, together
+[87.8s - 87.8s] them alone would be manageable, together
+[87.8s - 90.2s] them alone would be manageable, together they change everything. So, shift number
+[90.2s - 90.2s] they change everything. So, shift number
+[90.2s - 92.7s] they change everything. So, shift number one is AI is automating the routine
+[92.7s - 92.7s] one is AI is automating the routine
+[92.7s - 95.2s] one is AI is automating the routine work. So, let me be more specific about
+[95.2s - 95.2s] work. So, let me be more specific about
+[95.2s - 98.1s] work. So, let me be more specific about what AI is actually doing right now. Not
+[98.1s - 98.1s] what AI is actually doing right now. Not
+[98.1s - 100.2s] what AI is actually doing right now. Not what it will do someday, what it's doing
+[100.2s - 100.2s] what it will do someday, what it's doing
+[100.2s - 103.3s] what it will do someday, what it's doing today. SAP's AI assistant Joule now has
+[103.3s - 103.3s] today. SAP's AI assistant Joule now has
+[103.3s - 106.6s] today. SAP's AI assistant Joule now has 2,100 embedded AI skills across SAP
+[106.6s - 106.6s] 2,100 embedded AI skills across SAP
+[106.6s - 110.0s] 2,100 embedded AI skills across SAP applications. At SAP Connect 2025, they
+[110.0s - 110.0s] applications. At SAP Connect 2025, they
+[110.0s - 113.2s] applications. At SAP Connect 2025, they launched 15 specialized AI agents. A
+[113.2s - 113.2s] launched 15 specialized AI agents. A
+[113.2s - 115.2s] launched 15 specialized AI agents. A cash management agent that automates
+[115.2s - 115.2s] cash management agent that automates
+[115.2s - 118.0s] cash management agent that automates reconciliation. A bid analysis agent
+[118.0s - 118.0s] reconciliation. A bid analysis agent
+[118.0s - 119.6s] reconciliation. A bid analysis agent that, you know, compares complex
+[119.6s - 119.6s] that, you know, compares complex
+[119.6s - 121.8s] that, you know, compares complex supplier bids and highlights the best
+[121.8s - 121.8s] supplier bids and highlights the best
+[121.8s - 122.8s] supplier bids and highlights the best option.
+[122.8s - 122.8s] option.
+[122.8s - 124.3s] option. A production planning agent that
+[124.3s - 124.3s] A production planning agent that
+[124.3s - 126.0s] A production planning agent that validates and, you know, releases
+[126.0s - 126.0s] validates and, you know, releases
+[126.0s - 128.6s] validates and, you know, releases production orders autonomously. That one
+[128.6s - 128.6s] production orders autonomously. That one
+[128.6s - 131.3s] production orders autonomously. That one goes live in early 2026. I mean, it's
+[131.3s - 131.3s] goes live in early 2026. I mean, it's
+[131.3s - 133.2s] goes live in early 2026. I mean, it's going to go live very soon.
+[133.2s - 133.2s] going to go live very soon.
+[133.2s - 135.5s] going to go live very soon. And SAP's Joule Studio, which went
+[135.5s - 135.5s] And SAP's Joule Studio, which went
+[135.5s - 138.3s] And SAP's Joule Studio, which went generally available in the late 2025,
+[138.3s - 138.4s] generally available in the late 2025,
+[138.4s - 140.6s] generally available in the late 2025, lets organization build their own custom
+[140.6s - 140.6s] lets organization build their own custom
+[140.6s - 143.3s] lets organization build their own custom AI agents. Think about what that means,
+[143.3s - 143.3s] AI agents. Think about what that means,
+[143.3s - 145.6s] AI agents. Think about what that means, right? So, companies now can create AI
+[145.6s - 145.6s] right? So, companies now can create AI
+[145.6s - 147.5s] right? So, companies now can create AI that's trained on their very specific
+[147.5s - 147.5s] that's trained on their very specific
+[147.5s - 150.0s] that's trained on their very specific processes, their data, and their rules.
+[150.0s - 150.0s] processes, their data, and their rules.
+[150.0s - 152.0s] processes, their data, and their rules. Is Joule replacing a 15-year SD
+[152.0s - 152.0s] Is Joule replacing a 15-year SD
+[152.0s - 154.5s] Is Joule replacing a 15-year SD consultant today? No, it doesn't need
+[154.5s - 154.5s] consultant today? No, it doesn't need
+[154.5s - 156.6s] consultant today? No, it doesn't need to. It just needs to handle enough of
+[156.6s - 156.6s] to. It just needs to handle enough of
+[156.6s - 158.4s] to. It just needs to handle enough of the routine work that the economics
+[158.4s - 158.4s] the routine work that the economics
+[158.4s - 161.1s] the routine work that the economics changes. If AI covers 60% of the
+[161.1s - 161.1s] changes. If AI covers 60% of the
+[161.1s - 163.3s] changes. If AI covers 60% of the standard configuration task and a junior
+[163.3s - 163.4s] standard configuration task and a junior
+[163.4s - 166.2s] standard configuration task and a junior consultant handles the other 40%, your
+[166.2s - 166.2s] consultant handles the other 40%, your
+[166.2s - 167.9s] consultant handles the other 40%, your client doesn't need the five senior
+[167.9s - 167.9s] client doesn't need the five senior
+[167.9s - 169.8s] client doesn't need the five senior functional consultants anymore. They
+[169.8s - 169.8s] functional consultants anymore. They
+[169.8s - 172.8s] functional consultants anymore. They just need one senior person plus AI plus
+[172.8s - 172.8s] just need one senior person plus AI plus
+[172.8s - 175.2s] just need one senior person plus AI plus a junior. Now, that's not a technology
+[175.2s - 175.2s] a junior. Now, that's not a technology
+[175.2s - 177.3s] a junior. Now, that's not a technology problem, that's a math problem. And the
+[177.3s - 177.4s] problem, that's a math problem. And the
+[177.4s - 179.8s] problem, that's a math problem. And the math doesn't really work in your favor.
+[179.8s - 179.8s] math doesn't really work in your favor.
+[179.8s - 181.8s] math doesn't really work in your favor. Shift number two is that clean core is
+[181.8s - 181.8s] Shift number two is that clean core is
+[181.8s - 184.3s] Shift number two is that clean core is killing customizations. For 30 years,
+[184.3s - 184.4s] killing customizations. For 30 years,
+[184.4s - 187.6s] killing customizations. For 30 years, the SAP ecosystem thrived on complexity.
+[187.6s - 187.6s] the SAP ecosystem thrived on complexity.
+[187.6s - 189.6s] the SAP ecosystem thrived on complexity. Every business wanted SAP configured to
+[189.6s - 189.6s] Every business wanted SAP configured to
+[189.6s - 191.9s] Every business wanted SAP configured to match their unique processes. The more
+[191.9s - 191.9s] match their unique processes. The more
+[191.9s - 194.3s] match their unique processes. The more custom, the more consultants you needed,
+[194.3s - 194.4s] custom, the more consultants you needed,
+[194.4s - 196.9s] custom, the more consultants you needed, and that created a massive industry.
+[196.9s - 196.9s] and that created a massive industry.
+[196.9s - 198.8s] and that created a massive industry. Now, clean core reverses that entire
+[198.8s - 198.8s] Now, clean core reverses that entire
+[198.8s - 200.7s] Now, clean core reverses that entire model, and here's what's happening.
+[200.7s - 200.7s] model, and here's what's happening.
+[200.7s - 204.2s] model, and here's what's happening. SAP's 2025 S/4HANA release introduced a
+[204.2s - 204.2s] SAP's 2025 S/4HANA release introduced a
+[204.2s - 206.9s] SAP's 2025 S/4HANA release introduced a formal clean core rating system. So,
+[206.9s - 206.9s] formal clean core rating system. So,
+[206.9s - 209.7s] formal clean core rating system. So, levels A through level D. Level A means
+[209.7s - 209.7s] levels A through level D. Level A means
+[209.7s - 211.9s] levels A through level D. Level A means no custom code in the core, everything
+[211.9s - 211.9s] no custom code in the core, everything
+[211.9s - 213.8s] no custom code in the core, everything through released APIs and BTP
+[213.8s - 213.8s] through released APIs and BTP
+[213.8s - 216.9s] through released APIs and BTP extensions. Now, ABAP Cloud now forces
+[216.9s - 217.0s] extensions. Now, ABAP Cloud now forces
+[217.0s - 219.3s] extensions. Now, ABAP Cloud now forces clean principles through syntax codes.
+[219.3s - 219.3s] clean principles through syntax codes.
+[219.3s - 221.4s] clean principles through syntax codes. So, the system literally rejects
+[221.4s - 221.4s] So, the system literally rejects
+[221.4s - 224.0s] So, the system literally rejects non-compliant code. And SAP's RISE
+[224.0s - 224.0s] non-compliant code. And SAP's RISE
+[224.0s - 226.3s] non-compliant code. And SAP's RISE methodology dashboard, you know, tracks
+[226.3s - 226.3s] methodology dashboard, you know, tracks
+[226.3s - 228.7s] methodology dashboard, you know, tracks clean code adoption in real time.
+[228.7s - 228.7s] clean code adoption in real time.
+[228.7s - 230.8s] clean code adoption in real time. Now, this isn't a philosophy anymore,
+[230.8s - 230.8s] Now, this isn't a philosophy anymore,
+[230.8s - 232.9s] Now, this isn't a philosophy anymore, it's an enforcement mechanism built into
+[232.9s - 233.0s] it's an enforcement mechanism built into
+[233.0s - 235.4s] it's an enforcement mechanism built into the platform. And it makes sense for SAP
+[235.4s - 235.4s] the platform. And it makes sense for SAP
+[235.4s - 237.3s] the platform. And it makes sense for SAP to scale their cloud platform. They need
+[237.3s - 237.3s] to scale their cloud platform. They need
+[237.3s - 239.6s] to scale their cloud platform. They need standardized systems. Custom code
+[239.6s - 239.6s] standardized systems. Custom code
+[239.6s - 241.7s] standardized systems. Custom code creates upgrade complexity. Unique
+[241.7s - 241.7s] creates upgrade complexity. Unique
+[241.7s - 244.4s] creates upgrade complexity. Unique configurations create support headaches.
+[244.4s - 244.4s] configurations create support headaches.
+[244.4s - 246.5s] configurations create support headaches. And the technology evolution naturally
+[246.5s - 246.5s] And the technology evolution naturally
+[246.5s - 248.8s] And the technology evolution naturally pushes towards standardization. Now,
+[248.8s - 248.8s] pushes towards standardization. Now,
+[248.8s - 250.6s] pushes towards standardization. Now, that's not malicious. That's just how
+[250.6s - 250.6s] that's not malicious. That's just how
+[250.6s - 252.6s] that's not malicious. That's just how platforms mature. But here's what it
+[252.6s - 252.6s] platforms mature. But here's what it
+[252.6s - 254.3s] platforms mature. But here's what it means for you. The functional
+[254.3s - 254.3s] means for you. The functional
+[254.3s - 256.6s] means for you. The functional consultant's core skill for 30 years has
+[256.6s - 256.6s] consultant's core skill for 30 years has
+[256.6s - 258.9s] consultant's core skill for 30 years has been knowing how to bend SAP to fit the
+[258.9s - 258.9s] been knowing how to bend SAP to fit the
+[258.9s - 261.8s] been knowing how to bend SAP to fit the business. 47 variations of a pricing
+[261.8s - 261.8s] business. 47 variations of a pricing
+[261.8s - 263.7s] business. 47 variations of a pricing procedure, you know, custom goods
+[263.7s - 263.7s] procedure, you know, custom goods
+[263.7s - 266.0s] procedure, you know, custom goods receipt processes, clever workarounds
+[266.0s - 266.0s] receipt processes, clever workarounds
+[266.0s - 268.3s] receipt processes, clever workarounds nobody else understood. And the clean
+[268.3s - 268.3s] nobody else understood. And the clean
+[268.3s - 270.3s] nobody else understood. And the clean core says all of that now is technical
+[270.3s - 270.3s] core says all of that now is technical
+[270.3s - 273.5s] core says all of that now is technical debt. So, the business fits SAP, not the
+[273.5s - 273.5s] debt. So, the business fits SAP, not the
+[273.5s - 275.6s] debt. So, the business fits SAP, not the other way around. So, the knowledge that
+[275.6s - 275.6s] other way around. So, the knowledge that
+[275.6s - 277.7s] other way around. So, the knowledge that made you valuable is becoming the thing
+[277.7s - 277.7s] made you valuable is becoming the thing
+[277.7s - 280.3s] made you valuable is becoming the thing that organizations are paying to remove.
+[280.3s - 280.3s] that organizations are paying to remove.
+[280.3s - 281.6s] that organizations are paying to remove. So, shift number three is that the
+[281.6s - 281.6s] So, shift number three is that the
+[281.6s - 283.1s] So, shift number three is that the system is learning to talk to the
+[283.1s - 283.1s] system is learning to talk to the
+[283.1s - 284.7s] system is learning to talk to the business directly.
+[284.7s - 284.7s] business directly.
+[284.7s - 287.2s] business directly. Now, this one's more gradual, but it
+[287.2s - 287.2s] Now, this one's more gradual, but it
+[287.2s - 289.5s] Now, this one's more gradual, but it might be the most important. Think about
+[289.5s - 289.5s] might be the most important. Think about
+[289.5s - 291.0s] might be the most important. Think about what a functional consultant actually
+[291.0s - 291.0s] what a functional consultant actually
+[291.0s - 293.2s] what a functional consultant actually does. Strip away the jargon. You know,
+[293.2s - 293.2s] does. Strip away the jargon. You know,
+[293.2s - 294.7s] does. Strip away the jargon. You know, you sit between the business and the
+[294.7s - 294.7s] you sit between the business and the
+[294.7s - 297.1s] you sit between the business and the system. You translate. The business
+[297.1s - 297.1s] system. You translate. The business
+[297.1s - 298.5s] system. You translate. The business says, "I need this report." You
+[298.5s - 298.5s] says, "I need this report." You
+[298.5s - 301.0s] says, "I need this report." You configure it in SAP. The business says,
+[301.0s - 301.0s] configure it in SAP. The business says,
+[301.0s - 302.8s] configure it in SAP. The business says, "The process doesn't work." You adjust
+[302.8s - 302.8s] "The process doesn't work." You adjust
+[302.8s - 304.4s] "The process doesn't work." You adjust the config. You're a translator, and
+[304.4s - 304.4s] the config. You're a translator, and
+[304.4s - 306.0s] the config. You're a translator, and that's the job. Now, look at where the
+[306.0s - 306.0s] that's the job. Now, look at where the
+[306.0s - 308.2s] that's the job. Now, look at where the technology is going. Fiori makes the
+[308.2s - 308.2s] technology is going. Fiori makes the
+[308.2s - 309.8s] technology is going. Fiori makes the interface intuitive enough that the
+[309.8s - 309.8s] interface intuitive enough that the
+[309.8s - 311.5s] interface intuitive enough that the business users can navigate without
+[311.5s - 311.5s] business users can navigate without
+[311.5s - 314.2s] business users can navigate without help. Embedded analytics means that they
+[314.2s - 314.2s] help. Embedded analytics means that they
+[314.2s - 316.2s] help. Embedded analytics means that they pull out their own reports. Joule
+[316.2s - 316.2s] pull out their own reports. Joule
+[316.2s - 317.9s] pull out their own reports. Joule answers questions in the natural
+[317.9s - 317.9s] answers questions in the natural
+[317.9s - 319.9s] answers questions in the natural language. And the self-service workflows
+[319.9s - 320.0s] language. And the self-service workflows
+[320.0s - 321.8s] language. And the self-service workflows lets, you know, non-technical users
+[321.8s - 321.8s] lets, you know, non-technical users
+[321.8s - 323.6s] lets, you know, non-technical users configure basic processes through guided
+[323.6s - 323.6s] configure basic processes through guided
+[323.6s - 324.7s] configure basic processes through guided steps.
+[324.7s - 324.7s] steps.
+[324.7s - 326.8s] steps. I'll be honest. Today, right now, most
+[326.8s - 326.8s] I'll be honest. Today, right now, most
+[326.8s - 329.3s] I'll be honest. Today, right now, most business users still need help. Fiori
+[329.3s - 329.3s] business users still need help. Fiori
+[329.3s - 331.4s] business users still need help. Fiori isn't perfect. The self-service vision
+[331.4s - 331.4s] isn't perfect. The self-service vision
+[331.4s - 333.9s] isn't perfect. The self-service vision isn't fully realized, but the trajectory
+[333.9s - 334.0s] isn't fully realized, but the trajectory
+[334.0s - 336.6s] isn't fully realized, but the trajectory is clear. Every SAP product release
+[336.6s - 336.6s] is clear. Every SAP product release
+[336.6s - 338.6s] is clear. Every SAP product release makes the system more accessible to
+[338.6s - 338.6s] makes the system more accessible to
+[338.6s - 341.1s] makes the system more accessible to people without SAP training. And every
+[341.1s - 341.1s] people without SAP training. And every
+[341.1s - 343.0s] people without SAP training. And every release chips away at the translator
+[343.0s - 343.0s] release chips away at the translator
+[343.0s - 344.0s] release chips away at the translator role.
+[344.0s - 344.0s] role.
+[344.0s - 345.7s] role. So, you're not being replaced overnight.
+[345.7s - 345.7s] So, you're not being replaced overnight.
+[345.7s - 347.9s] So, you're not being replaced overnight. You're being replaced gradually enough
+[347.9s - 347.9s] You're being replaced gradually enough
+[347.9s - 349.9s] You're being replaced gradually enough that you don't notice it until it's too
+[349.9s - 349.9s] that you don't notice it until it's too
+[349.9s - 352.4s] that you don't notice it until it's too late. So, three shifts: AI automating
+[352.4s - 352.4s] late. So, three shifts: AI automating
+[352.4s - 354.4s] late. So, three shifts: AI automating the routine work, clean core killing the
+[354.4s - 354.4s] the routine work, clean core killing the
+[354.4s - 356.9s] the routine work, clean core killing the customization, and the system learning
+[356.9s - 357.0s] customization, and the system learning
+[357.0s - 358.5s] customization, and the system learning to speak business.
+[358.5s - 358.5s] to speak business.
+[358.5s - 361.1s] to speak business. Anyone alone, you survive. All three at
+[361.1s - 361.1s] Anyone alone, you survive. All three at
+[361.1s - 362.7s] Anyone alone, you survive. All three at the same time, that's a different
+[362.7s - 362.7s] the same time, that's a different
+[362.7s - 364.1s] the same time, that's a different conversation.
+[364.1s - 364.1s] conversation.
+[364.1s - 365.8s] conversation. But, here's the part that worries me the
+[365.8s - 365.8s] But, here's the part that worries me the
+[365.8s - 368.4s] But, here's the part that worries me the most. Most functional consultants I talk
+[368.4s - 368.4s] most. Most functional consultants I talk
+[368.4s - 370.6s] most. Most functional consultants I talk to have already, you know, heard about
+[370.6s - 370.6s] to have already, you know, heard about
+[370.6s - 372.4s] to have already, you know, heard about all of these three shifts, and they've
+[372.4s - 372.4s] all of these three shifts, and they've
+[372.4s - 373.8s] all of these three shifts, and they've already convinced themselves that it
+[373.8s - 373.8s] already convinced themselves that it
+[373.8s - 375.9s] already convinced themselves that it doesn't matter. Let me show you why
+[375.9s - 375.9s] doesn't matter. Let me show you why
+[375.9s - 378.0s] doesn't matter. Let me show you why every one of those excuses is wrong.
+[378.0s - 378.0s] every one of those excuses is wrong.
+[378.0s - 380.1s] every one of those excuses is wrong. Excuse number one, AI cannot understand
+[380.1s - 380.2s] Excuse number one, AI cannot understand
+[380.2s - 382.4s] Excuse number one, AI cannot understand business processes the way I do. True
+[382.4s - 382.4s] business processes the way I do. True
+[382.4s - 384.2s] business processes the way I do. True today, but you're making the mistake
+[384.2s - 384.2s] today, but you're making the mistake
+[384.2s - 386.4s] today, but you're making the mistake every disruptive professional makes.
+[386.4s - 386.4s] every disruptive professional makes.
+[386.4s - 388.5s] every disruptive professional makes. You're You're comparing today's AI to
+[388.5s - 388.5s] You're You're comparing today's AI to
+[388.5s - 390.5s] You're You're comparing today's AI to your best self. That's not the way the
+[390.5s - 390.5s] your best self. That's not the way the
+[390.5s - 392.7s] your best self. That's not the way the comparison should work. The comparison
+[392.7s - 392.7s] comparison should work. The comparison
+[392.7s - 395.1s] comparison should work. The comparison that matters is today's AI versus the
+[395.1s - 395.2s] that matters is today's AI versus the
+[395.2s - 397.1s] that matters is today's AI versus the junior consultant your firm bills at
+[397.1s - 397.1s] junior consultant your firm bills at
+[397.1s - 400.2s] junior consultant your firm bills at $180 an hour. The one who graduated from
+[400.2s - 400.2s] $180 an hour. The one who graduated from
+[400.2s - 403.1s] $180 an hour. The one who graduated from an SAP Academy 6 months ago and follows
+[403.1s - 403.1s] an SAP Academy 6 months ago and follows
+[403.1s - 405.6s] an SAP Academy 6 months ago and follows a configuration checklist. AI is already
+[405.6s - 405.6s] a configuration checklist. AI is already
+[405.6s - 407.8s] a configuration checklist. AI is already better than that person, and that person
+[407.8s - 407.8s] better than that person, and that person
+[407.8s - 409.7s] better than that person, and that person represents a huge portion of the
+[409.7s - 409.7s] represents a huge portion of the
+[409.7s - 411.8s] represents a huge portion of the functional consulting workforce.
+[411.8s - 411.8s] functional consulting workforce.
+[411.8s - 413.8s] functional consulting workforce. Now, AI doesn't need to replace the best
+[413.8s - 413.8s] Now, AI doesn't need to replace the best
+[413.8s - 415.9s] Now, AI doesn't need to replace the best consultant. It just needs to replace
+[415.9s - 415.9s] consultant. It just needs to replace
+[415.9s - 417.7s] consultant. It just needs to replace enough of them that the economics
+[417.7s - 417.7s] enough of them that the economics
+[417.7s - 420.3s] enough of them that the economics collapses. Excuse number two is clean
+[420.3s - 420.3s] collapses. Excuse number two is clean
+[420.3s - 422.4s] collapses. Excuse number two is clean code will never actually happen, and
+[422.4s - 422.4s] code will never actually happen, and
+[422.4s - 425.4s] code will never actually happen, and customers have too much of custom code.
+[425.4s - 425.4s] customers have too much of custom code.
+[425.4s - 427.0s] customers have too much of custom code. Now, I understand why people believe
+[427.0s - 427.0s] Now, I understand why people believe
+[427.0s - 429.1s] Now, I understand why people believe this. I've seen SAP landscapes with 10
+[429.1s - 429.1s] this. I've seen SAP landscapes with 10
+[429.1s - 430.9s] this. I've seen SAP landscapes with 10 million lines of, you know, customer
+[430.9s - 430.9s] million lines of, you know, customer
+[430.9s - 433.1s] million lines of, you know, customer ABAP. Going standard means, you know,
+[433.1s - 433.2s] ABAP. Going standard means, you know,
+[433.2s - 434.5s] ABAP. Going standard means, you know, feels absurd.
+[434.5s - 434.5s] feels absurd.
+[434.5s - 436.1s] feels absurd. But, you're confusing what's hard with
+[436.1s - 436.2s] But, you're confusing what's hard with
+[436.2s - 439.3s] But, you're confusing what's hard with what's inevitable. So, SAP's clean code
+[439.3s - 439.3s] what's inevitable. So, SAP's clean code
+[439.3s - 440.9s] what's inevitable. So, SAP's clean code rating system is now grading
+[440.9s - 440.9s] rating system is now grading
+[440.9s - 443.9s] rating system is now grading organizations from A to D. ABAP Cloud
+[443.9s - 443.9s] organizations from A to D. ABAP Cloud
+[443.9s - 446.3s] organizations from A to D. ABAP Cloud enforces compliance at the syntax level.
+[446.3s - 446.3s] enforces compliance at the syntax level.
+[446.3s - 448.1s] enforces compliance at the syntax level. You know, RISE methodology dashboards
+[448.1s - 448.2s] You know, RISE methodology dashboards
+[448.2s - 450.5s] You know, RISE methodology dashboards track your progress. Now, this isn't
+[450.5s - 450.5s] track your progress. Now, this isn't
+[450.5s - 452.3s] track your progress. Now, this isn't optional anymore. It's the direction the
+[452.3s - 452.3s] optional anymore. It's the direction the
+[452.3s - 454.8s] optional anymore. It's the direction the technology is moving. Fighting it is
+[454.8s - 454.8s] technology is moving. Fighting it is
+[454.8s - 456.2s] technology is moving. Fighting it is like, you know, fighting the cloud
+[456.2s - 456.2s] like, you know, fighting the cloud
+[456.2s - 458.9s] like, you know, fighting the cloud transition 10 years ago. Some companies
+[458.9s - 458.9s] transition 10 years ago. Some companies
+[458.9s - 460.4s] transition 10 years ago. Some companies resisted. They all came around
+[460.4s - 460.4s] resisted. They all came around
+[460.4s - 462.4s] resisted. They all came around eventually. And the companies with the
+[462.4s - 462.4s] eventually. And the companies with the
+[462.4s - 464.0s] eventually. And the companies with the most custom codes, they're moving the
+[464.0s - 464.0s] most custom codes, they're moving the
+[464.0s - 465.4s] most custom codes, they're moving the fastest because, you know, they're
+[465.4s - 465.4s] fastest because, you know, they're
+[465.4s - 468.1s] fastest because, you know, they're paying the most for maintenance and they
+[468.1s - 468.1s] paying the most for maintenance and they
+[468.1s - 469.4s] paying the most for maintenance and they had the biggest incentives to
+[469.4s - 469.4s] had the biggest incentives to
+[469.4s - 470.6s] had the biggest incentives to standardize.
+[470.6s - 470.6s] standardize.
+[470.6s - 472.7s] standardize. Now, excuse number three is my industry
+[472.7s - 472.7s] Now, excuse number three is my industry
+[472.7s - 474.8s] Now, excuse number three is my industry is too specialized. AI cannot handle
+[474.8s - 474.8s] is too specialized. AI cannot handle
+[474.8s - 476.3s] is too specialized. AI cannot handle pharma compliance or defense
+[476.3s - 476.3s] pharma compliance or defense
+[476.3s - 477.4s] pharma compliance or defense requirements.
+[477.4s - 477.4s] requirements.
+[477.4s - 479.6s] requirements. Now, that's partially true for now, but
+[479.6s - 479.6s] Now, that's partially true for now, but
+[479.6s - 481.8s] Now, that's partially true for now, but if you're deep into ISO oil, you know,
+[481.8s - 481.8s] if you're deep into ISO oil, you know,
+[481.8s - 485.0s] if you're deep into ISO oil, you know, GXP validation or ITAR compliance, you
+[485.0s - 485.0s] GXP validation or ITAR compliance, you
+[485.0s - 487.0s] GXP validation or ITAR compliance, you have a longer runway. I would give it,
+[487.0s - 487.0s] have a longer runway. I would give it,
+[487.0s - 489.9s] have a longer runway. I would give it, say, 3 to 4 years instead of 18 months.
+[489.9s - 489.9s] say, 3 to 4 years instead of 18 months.
+[489.9s - 491.8s] say, 3 to 4 years instead of 18 months. But SAP is building an industry cloud
+[491.8s - 491.8s] But SAP is building an industry cloud
+[491.8s - 494.8s] But SAP is building an industry cloud solution across 25 verticals. In oil and
+[494.8s - 494.8s] solution across 25 verticals. In oil and
+[494.8s - 496.8s] solution across 25 verticals. In oil and gas, they've already deployed AI-driven
+[496.8s - 496.8s] gas, they've already deployed AI-driven
+[496.8s - 499.1s] gas, they've already deployed AI-driven pricing logic with autonomous learning
+[499.1s - 499.1s] pricing logic with autonomous learning
+[499.1s - 501.2s] pricing logic with autonomous learning for downstream retail. In pharma,
+[501.2s - 501.2s] for downstream retail. In pharma,
+[501.2s - 502.8s] for downstream retail. In pharma, they're launching a production planning
+[502.8s - 502.8s] they're launching a production planning
+[502.8s - 505.1s] they're launching a production planning agent that releases production orders
+[505.1s - 505.1s] agent that releases production orders
+[505.1s - 507.6s] agent that releases production orders autonomously and that goes live early in
+[507.6s - 507.6s] autonomously and that goes live early in
+[507.6s - 510.6s] autonomously and that goes live early in 2026. Every industry-specific process
+[510.6s - 510.6s] 2026. Every industry-specific process
+[510.6s - 513.2s] 2026. Every industry-specific process that gets productized is one less reason
+[513.2s - 513.2s] that gets productized is one less reason
+[513.2s - 515.6s] that gets productized is one less reason to hire a specialist. And the runway is
+[515.6s - 515.6s] to hire a specialist. And the runway is
+[515.6s - 517.8s] to hire a specialist. And the runway is not an immunity, it's just a little more
+[517.8s - 517.8s] not an immunity, it's just a little more
+[517.8s - 519.7s] not an immunity, it's just a little more time and the question is
+[519.7s - 519.7s] time and the question is
+[519.7s - 521.9s] time and the question is whether you use it. So, excuse number
+[521.9s - 521.9s] whether you use it. So, excuse number
+[521.9s - 524.1s] whether you use it. So, excuse number four is that companies will always need
+[524.1s - 524.1s] four is that companies will always need
+[524.1s - 526.3s] four is that companies will always need someone who understands the business.
+[526.3s - 526.3s] someone who understands the business.
+[526.3s - 528.0s] someone who understands the business. This is the most dangerous excuse
+[528.0s - 528.0s] This is the most dangerous excuse
+[528.0s - 529.9s] This is the most dangerous excuse because it's almost true.
+[529.9s - 529.9s] because it's almost true.
+[529.9s - 531.6s] because it's almost true. Now, companies will always need a
+[531.6s - 531.6s] Now, companies will always need a
+[531.6s - 534.1s] Now, companies will always need a business process expert. Right?
+[534.1s - 534.1s] business process expert. Right?
+[534.1s - 536.3s] business process expert. Right? Absolutely. But they won't always need
+[536.3s - 536.3s] Absolutely. But they won't always need
+[536.3s - 538.4s] Absolutely. But they won't always need it packaged as an SAP functional
+[538.4s - 538.4s] it packaged as an SAP functional
+[538.4s - 539.8s] it packaged as an SAP functional consultant.
+[539.8s - 539.8s] consultant.
+[539.8s - 541.7s] consultant. When SAP was hard to use, the functional
+[541.7s - 541.7s] When SAP was hard to use, the functional
+[541.7s - 544.1s] When SAP was hard to use, the functional consultant was essential. The translator
+[544.1s - 544.1s] consultant was essential. The translator
+[544.1s - 547.0s] consultant was essential. The translator between the business language and SPRO.
+[547.0s - 547.0s] between the business language and SPRO.
+[547.0s - 548.9s] between the business language and SPRO. But as the technology evolves to become
+[548.9s - 548.9s] But as the technology evolves to become
+[548.9s - 551.2s] But as the technology evolves to become more accessible, the translation layer
+[551.2s - 551.2s] more accessible, the translation layer
+[551.2s - 552.4s] more accessible, the translation layer gets thinner.
+[552.4s - 552.4s] gets thinner.
+[552.4s - 554.0s] gets thinner. And the business will still need process
+[554.0s - 554.0s] And the business will still need process
+[554.0s - 555.8s] And the business will still need process expertise, but they'll hire business
+[555.8s - 555.8s] expertise, but they'll hire business
+[555.8s - 558.6s] expertise, but they'll hire business analysts and process engineers. People,
+[558.6s - 558.6s] analysts and process engineers. People,
+[558.6s - 560.0s] analysts and process engineers. People, you know, who think about how the
+[560.0s - 560.0s] you know, who think about how the
+[560.0s - 562.4s] you know, who think about how the business should work, not how SAP should
+[562.4s - 562.4s] business should work, not how SAP should
+[562.4s - 564.4s] business should work, not how SAP should be configured. So, the expertise
+[564.4s - 564.4s] be configured. So, the expertise
+[564.4s - 566.4s] be configured. So, the expertise survives, the job title doesn't, and
+[566.4s - 566.4s] survives, the job title doesn't, and
+[566.4s - 568.6s] survives, the job title doesn't, and that distinction matters.
+[568.6s - 568.6s] that distinction matters.
+[568.6s - 570.3s] that distinction matters. Excuse number five, I'll just learn
+[570.3s - 570.3s] Excuse number five, I'll just learn
+[570.3s - 572.3s] Excuse number five, I'll just learn S/4HANA and BTP and the problem will be
+[572.3s - 572.3s] S/4HANA and BTP and the problem will be
+[572.3s - 574.6s] S/4HANA and BTP and the problem will be solved. Now, this is the most common
+[574.6s - 574.6s] solved. Now, this is the most common
+[574.6s - 577.7s] solved. Now, this is the most common response I get and I need to be direct.
+[577.7s - 577.7s] response I get and I need to be direct.
+[577.7s - 579.9s] response I get and I need to be direct. Taking an S/4HANA certification is not
+[579.9s - 579.9s] Taking an S/4HANA certification is not
+[579.9s - 583.0s] Taking an S/4HANA certification is not adapting. Watching a BTP tutorial on
+[583.0s - 583.0s] adapting. Watching a BTP tutorial on
+[583.0s - 585.9s] adapting. Watching a BTP tutorial on YouTube is not adapting. Adding S/4HANA
+[585.9s - 585.9s] YouTube is not adapting. Adding S/4HANA
+[585.9s - 588.0s] YouTube is not adapting. Adding S/4HANA to your LinkedIn headline, you know,
+[588.0s - 588.0s] to your LinkedIn headline, you know,
+[588.0s - 590.3s] to your LinkedIn headline, you know, while still doing ECC style
+[590.3s - 590.3s] while still doing ECC style
+[590.3s - 592.0s] while still doing ECC style configuration with a different interface
+[592.0s - 592.0s] configuration with a different interface
+[592.0s - 593.4s] configuration with a different interface is not adapting.
+[593.4s - 593.4s] is not adapting.
+[593.4s - 595.1s] is not adapting. Adapting means fundamentally changing
+[595.1s - 595.2s] Adapting means fundamentally changing
+[595.2s - 597.1s] Adapting means fundamentally changing what you do, not learning a new version
+[597.1s - 597.1s] what you do, not learning a new version
+[597.1s - 599.0s] what you do, not learning a new version of the same tool. So, if you're still
+[599.0s - 599.0s] of the same tool. So, if you're still
+[599.0s - 600.5s] of the same tool. So, if you're still positioning yourself as someone who
+[600.5s - 600.5s] positioning yourself as someone who
+[600.5s - 603.0s] positioning yourself as someone who configures SAP, you're still in the path
+[603.0s - 603.0s] configures SAP, you're still in the path
+[603.0s - 604.9s] configures SAP, you're still in the path of all three shifts and it doesn't
+[604.9s - 604.9s] of all three shifts and it doesn't
+[604.9s - 606.4s] of all three shifts and it doesn't matter which version.
+[606.4s - 606.4s] matter which version.
+[606.4s - 608.6s] matter which version. So, five excuses, none of them hold up.
+[608.6s - 608.6s] So, five excuses, none of them hold up.
+[608.6s - 610.8s] So, five excuses, none of them hold up. So, what do you actually do? So, let me
+[610.8s - 610.8s] So, what do you actually do? So, let me
+[610.8s - 612.6s] So, what do you actually do? So, let me give you the specific timelines and
+[612.6s - 612.6s] give you the specific timelines and
+[612.6s - 614.3s] give you the specific timelines and these are my projections based on what
+[614.3s - 614.3s] these are my projections based on what
+[614.3s - 616.1s] these are my projections based on what I'm seeing on my own projects and across
+[616.1s - 616.2s] I'm seeing on my own projects and across
+[616.2s - 617.4s] I'm seeing on my own projects and across the industry.
+[617.4s - 617.4s] the industry.
+[617.4s - 619.2s] the industry. And I watched these technology cycles
+[619.2s - 619.2s] And I watched these technology cycles
+[619.2s - 621.8s] And I watched these technology cycles play over the last 25 years. Here's how
+[621.8s - 621.8s] play over the last 25 years. Here's how
+[621.8s - 623.8s] play over the last 25 years. Here's how I see this one unfolding. So, first
+[623.8s - 623.8s] I see this one unfolding. So, first
+[623.8s - 626.1s] I see this one unfolding. So, first wave, already happening, SD and MM
+[626.1s - 626.1s] wave, already happening, SD and MM
+[626.1s - 628.5s] wave, already happening, SD and MM configuration specialist, order to cash,
+[628.5s - 628.5s] configuration specialist, order to cash,
+[628.5s - 630.4s] configuration specialist, order to cash, procure to pay are the most standardized
+[630.4s - 630.4s] procure to pay are the most standardized
+[630.4s - 632.1s] procure to pay are the most standardized processes in SAP.
+[632.1s - 632.2s] processes in SAP.
+[632.2s - 633.5s] processes in SAP. They're the first ones to benefit from
+[633.5s - 633.6s] They're the first ones to benefit from
+[633.6s - 635.8s] They're the first ones to benefit from the AI automation and the first to move
+[635.8s - 635.8s] the AI automation and the first to move
+[635.8s - 638.0s] the AI automation and the first to move to standard under clean code. In my
+[638.0s - 638.0s] to standard under clean code. In my
+[638.0s - 639.6s] to standard under clean code. In my assessment, if this is your primary
+[639.6s - 639.6s] assessment, if this is your primary
+[639.6s - 641.7s] assessment, if this is your primary skill, you have around 12 months before
+[641.7s - 641.7s] skill, you have around 12 months before
+[641.7s - 644.2s] skill, you have around 12 months before the market shifts significantly. Second
+[644.2s - 644.2s] the market shifts significantly. Second
+[644.2s - 647.4s] the market shifts significantly. Second wave, late 2026, FI and CO consultants
+[647.4s - 647.4s] wave, late 2026, FI and CO consultants
+[647.4s - 649.2s] wave, late 2026, FI and CO consultants doing routine configuration, chart of
+[649.2s - 649.2s] doing routine configuration, chart of
+[649.2s - 651.6s] doing routine configuration, chart of accounts, cost center hierarchies,
+[651.6s - 651.6s] accounts, cost center hierarchies,
+[651.6s - 653.0s] accounts, cost center hierarchies, standard financial reporting,
+[653.0s - 653.0s] standard financial reporting,
+[653.0s - 655.2s] standard financial reporting, structured, repeatable, well-documented
+[655.2s - 655.2s] structured, repeatable, well-documented
+[655.2s - 658.0s] structured, repeatable, well-documented work, exactly what AI handles best. I'd
+[658.0s - 658.0s] work, exactly what AI handles best. I'd
+[658.0s - 660.3s] work, exactly what AI handles best. I'd give it maximum 18 months. Now, the
+[660.3s - 660.3s] give it maximum 18 months. Now, the
+[660.3s - 663.6s] give it maximum 18 months. Now, the third wave, 2027, PP, PM, QM
+[663.6s - 663.6s] third wave, 2027, PP, PM, QM
+[663.6s - 666.1s] third wave, 2027, PP, PM, QM specialists, manufacturing and quality
+[666.1s - 666.1s] specialists, manufacturing and quality
+[666.1s - 668.5s] specialists, manufacturing and quality processes are getting more complex, more
+[668.5s - 668.5s] processes are getting more complex, more
+[668.5s - 671.0s] processes are getting more complex, more variable, but SAP's industry cloud
+[671.0s - 671.0s] variable, but SAP's industry cloud
+[671.0s - 672.8s] variable, but SAP's industry cloud solutions are targeting these modules
+[672.8s - 672.8s] solutions are targeting these modules
+[672.8s - 674.1s] solutions are targeting these modules specifically.
+[674.1s - 674.2s] specifically.
+[674.2s - 676.0s] specifically. So, the pharma production planning agent
+[676.0s - 676.0s] So, the pharma production planning agent
+[676.0s - 679.1s] So, the pharma production planning agent goes live early 2026 and that's not a
+[679.1s - 679.2s] goes live early 2026 and that's not a
+[679.2s - 682.1s] goes live early 2026 and that's not a roadmap slide, yeah. That's a ship date.
+[682.1s - 682.1s] roadmap slide, yeah. That's a ship date.
+[682.1s - 684.4s] roadmap slide, yeah. That's a ship date. I'd say 24 months. Longer runway,
+[684.4s - 684.4s] I'd say 24 months. Longer runway,
+[684.4s - 686.1s] I'd say 24 months. Longer runway, industry specialists with deep
+[686.1s - 686.1s] industry specialists with deep
+[686.1s - 687.9s] industry specialists with deep regulatory knowledge, three to four
+[687.9s - 687.9s] regulatory knowledge, three to four
+[687.9s - 689.8s] regulatory knowledge, three to four years, but the clock is ticking for
+[689.8s - 689.8s] years, but the clock is ticking for
+[689.8s - 692.1s] years, but the clock is ticking for everyone. Here's the path that actually
+[692.1s - 692.1s] everyone. Here's the path that actually
+[692.1s - 693.7s] everyone. Here's the path that actually matters. Three moves I see consultants
+[693.7s - 693.7s] matters. Three moves I see consultants
+[693.7s - 695.6s] matters. Three moves I see consultants making right now that won't really save
+[695.6s - 695.6s] making right now that won't really save
+[695.6s - 697.9s] making right now that won't really save them and one that will. So, waste of
+[697.9s - 697.9s] them and one that will. So, waste of
+[697.9s - 699.1s] them and one that will. So, waste of time number one, getting more
+[699.1s - 699.1s] time number one, getting more
+[699.1s - 701.9s] time number one, getting more certifications. SAP certifications test
+[701.9s - 701.9s] certifications. SAP certifications test
+[701.9s - 704.1s] certifications. SAP certifications test you on what SAP was, not what it's
+[704.1s - 704.1s] you on what SAP was, not what it's
+[704.1s - 706.0s] you on what SAP was, not what it's becoming. I've hired hundreds of
+[706.0s - 706.0s] becoming. I've hired hundreds of
+[706.0s - 708.5s] becoming. I've hired hundreds of consultants over 25 years. I've never
+[708.5s - 708.5s] consultants over 25 years. I've never
+[708.5s - 710.9s] consultants over 25 years. I've never once made a hiring decision purely based
+[710.9s - 710.9s] once made a hiring decision purely based
+[710.9s - 713.8s] once made a hiring decision purely based on a certification, not once. I hire,
+[713.8s - 713.8s] on a certification, not once. I hire,
+[713.8s - 715.4s] on a certification, not once. I hire, you know, based on whether you can walk
+[715.4s - 715.4s] you know, based on whether you can walk
+[715.4s - 717.8s] you know, based on whether you can walk into a room of confused executives and
+[717.8s - 717.8s] into a room of confused executives and
+[717.8s - 720.0s] into a room of confused executives and solve a problem that they know how to
+[720.0s - 720.0s] solve a problem that they know how to
+[720.0s - 722.2s] solve a problem that they know how to describe. No certification test for
+[722.2s - 722.2s] describe. No certification test for
+[722.2s - 723.2s] describe. No certification test for that.
+[723.2s - 723.2s] that.
+[723.2s - 725.3s] that. Waste of time number two, learning ABAP
+[725.3s - 725.3s] Waste of time number two, learning ABAP
+[725.3s - 727.1s] Waste of time number two, learning ABAP or any other technical skills as a
+[727.1s - 727.1s] or any other technical skills as a
+[727.1s - 728.1s] or any other technical skills as a hedge.
+[728.1s - 728.1s] hedge.
+[728.1s - 729.8s] hedge. So, if you watch my last video, you
+[729.8s - 729.8s] So, if you watch my last video, you
+[729.8s - 731.9s] So, if you watch my last video, you already know ABAP programmers are facing
+[731.9s - 731.9s] already know ABAP programmers are facing
+[731.9s - 734.3s] already know ABAP programmers are facing the same technology shifts you are.
+[734.3s - 734.3s] the same technology shifts you are.
+[734.3s - 736.3s] the same technology shifts you are. Moving sideways into a role that's under
+[736.3s - 736.3s] Moving sideways into a role that's under
+[736.3s - 738.4s] Moving sideways into a role that's under pressure doesn't really help. Waste of
+[738.4s - 738.4s] pressure doesn't really help. Waste of
+[738.4s - 740.3s] pressure doesn't really help. Waste of time number three is waiting for it to
+[740.3s - 740.3s] time number three is waiting for it to
+[740.3s - 742.4s] time number three is waiting for it to blow over. Now, this is the default
+[742.4s - 742.4s] blow over. Now, this is the default
+[742.4s - 743.8s] blow over. Now, this is the default choice and it's the worst one.
+[743.8s - 743.8s] choice and it's the worst one.
+[743.8s - 746.0s] choice and it's the worst one. Technology doesn't reverse. Cloud didn't
+[746.0s - 746.0s] Technology doesn't reverse. Cloud didn't
+[746.0s - 748.6s] Technology doesn't reverse. Cloud didn't reverse, mobile didn't reverse, and AI
+[748.6s - 748.6s] reverse, mobile didn't reverse, and AI
+[748.6s - 751.5s] reverse, mobile didn't reverse, and AI won't reverse. So, every month you wait,
+[751.5s - 751.5s] won't reverse. So, every month you wait,
+[751.5s - 753.1s] won't reverse. So, every month you wait, the market gets more crowded with
+[753.1s - 753.1s] the market gets more crowded with
+[753.1s - 754.8s] the market gets more crowded with displaced consultants and, you know,
+[754.8s - 754.8s] displaced consultants and, you know,
+[754.8s - 756.9s] displaced consultants and, you know, more automated by the tools. Your
+[756.9s - 756.9s] more automated by the tools. Your
+[756.9s - 758.5s] more automated by the tools. Your leverage shrinks a little more every
+[758.5s - 758.5s] leverage shrinks a little more every
+[758.5s - 761.2s] leverage shrinks a little more every quarter. Now, the one move that actually
+[761.2s - 761.2s] quarter. Now, the one move that actually
+[761.2s - 763.1s] quarter. Now, the one move that actually matters, become the person who tells the
+[763.1s - 763.1s] matters, become the person who tells the
+[763.1s - 765.2s] matters, become the person who tells the business what to do, not what to
+[765.2s - 765.2s] business what to do, not what to
+[765.2s - 767.5s] business what to do, not what to configure, what to do. So, right now
+[767.5s - 767.5s] configure, what to do. So, right now
+[767.5s - 769.6s] configure, what to do. So, right now companies are making massive decisions
+[769.6s - 769.6s] companies are making massive decisions
+[769.6s - 772.0s] companies are making massive decisions about their SAP landscape. Do we go to
+[772.0s - 772.0s] about their SAP landscape. Do we go to
+[772.0s - 774.5s] about their SAP landscape. Do we go to rise or do we stay on premise? How do we
+[774.5s - 774.6s] rise or do we stay on premise? How do we
+[774.6s - 776.8s] rise or do we stay on premise? How do we restructure our processes to fit
+[776.8s - 776.8s] restructure our processes to fit
+[776.8s - 779.4s] restructure our processes to fit standard SAP? What do we build on BTP
+[779.4s - 779.4s] standard SAP? What do we build on BTP
+[779.4s - 781.6s] standard SAP? What do we build on BTP versus what do we abandon?
+[781.6s - 781.6s] versus what do we abandon?
+[781.6s - 784.0s] versus what do we abandon? Which AI agents do we deploy and how do
+[784.0s - 784.0s] Which AI agents do we deploy and how do
+[784.0s - 786.0s] Which AI agents do we deploy and how do we govern them? These are strategic
+[786.0s - 786.0s] we govern them? These are strategic
+[786.0s - 788.1s] we govern them? These are strategic decisions worth millions of dollars and
+[788.1s - 788.2s] decisions worth millions of dollars and
+[788.2s - 790.4s] decisions worth millions of dollars and the people making them are terrified
+[790.4s - 790.4s] the people making them are terrified
+[790.4s - 792.8s] the people making them are terrified because the technology is moving faster
+[792.8s - 792.8s] because the technology is moving faster
+[792.8s - 794.9s] because the technology is moving faster than their ability to understand it. The
+[794.9s - 794.9s] than their ability to understand it. The
+[794.9s - 796.6s] than their ability to understand it. The CIO doesn't understand the business
+[796.6s - 796.6s] CIO doesn't understand the business
+[796.6s - 799.0s] CIO doesn't understand the business implication. The CFO doesn't understand
+[799.0s - 799.0s] implication. The CFO doesn't understand
+[799.0s - 801.2s] implication. The CFO doesn't understand the technology options, and nobody in
+[801.2s - 801.2s] the technology options, and nobody in
+[801.2s - 803.8s] the technology options, and nobody in the room speaks both the languages.
+[803.8s - 803.8s] the room speaks both the languages.
+[803.8s - 805.8s] the room speaks both the languages. That's where you come in. You have 15
+[805.8s - 805.8s] That's where you come in. You have 15
+[805.8s - 807.9s] That's where you come in. You have 15 years of watching SAP implementation
+[807.9s - 807.9s] years of watching SAP implementation
+[807.9s - 810.1s] years of watching SAP implementation succeed and fail. And you know which
+[810.1s - 810.1s] succeed and fail. And you know which
+[810.1s - 811.8s] succeed and fail. And you know which business processes actually need to be
+[811.8s - 811.8s] business processes actually need to be
+[811.8s - 814.4s] business processes actually need to be custom and which ones are custom
+[814.4s - 814.4s] custom and which ones are custom
+[814.4s - 816.0s] custom and which ones are custom because, you know, someone's ego
+[816.0s - 816.0s] because, you know, someone's ego
+[816.0s - 818.3s] because, you know, someone's ego demanded it. You know which stakeholders
+[818.3s - 818.3s] demanded it. You know which stakeholders
+[818.3s - 820.4s] demanded it. You know which stakeholders will sabotage a clean core migration and
+[820.4s - 820.4s] will sabotage a clean core migration and
+[820.4s - 823.0s] will sabotage a clean core migration and which ones will champion it. You know
+[823.0s - 823.0s] which ones will champion it. You know
+[823.0s - 825.1s] which ones will champion it. You know what goes wrong at month six of a rise
+[825.1s - 825.1s] what goes wrong at month six of a rise
+[825.1s - 827.3s] what goes wrong at month six of a rise implementation because you've lived it.
+[827.3s - 827.3s] implementation because you've lived it.
+[827.3s - 829.7s] implementation because you've lived it. That knowledge isn't configurable, it
+[829.7s - 829.7s] That knowledge isn't configurable, it
+[829.7s - 832.3s] That knowledge isn't configurable, it isn't automatable, and it's desperately
+[832.3s - 832.3s] isn't automatable, and it's desperately
+[832.3s - 834.5s] isn't automatable, and it's desperately needed right now. But you have to stop
+[834.5s - 834.5s] needed right now. But you have to stop
+[834.5s - 835.7s] needed right now. But you have to stop calling yourself a functional
+[835.7s - 835.7s] calling yourself a functional
+[835.7s - 838.0s] calling yourself a functional consultant. That title describes the
+[838.0s - 838.0s] consultant. That title describes the
+[838.0s - 840.8s] consultant. That title describes the role the technology is evolving past. So
+[840.8s - 840.8s] role the technology is evolving past. So
+[840.8s - 843.4s] role the technology is evolving past. So call yourself a transformation advisor,
+[843.4s - 843.4s] call yourself a transformation advisor,
+[843.4s - 845.1s] call yourself a transformation advisor, a business architect, a process
+[845.1s - 845.1s] a business architect, a process
+[845.1s - 847.4s] a business architect, a process strategist, whatever. Just stop being
+[847.4s - 847.4s] strategist, whatever. Just stop being
+[847.4s - 849.5s] strategist, whatever. Just stop being the person who implements the decision
+[849.5s - 849.5s] the person who implements the decision
+[849.5s - 851.7s] the person who implements the decision and start being the person who shapes
+[851.7s - 851.7s] and start being the person who shapes
+[851.7s - 854.0s] and start being the person who shapes the decision. The consultant who makes
+[854.0s - 854.0s] the decision. The consultant who makes
+[854.0s - 855.9s] the decision. The consultant who makes the shift in the next 12 months will
+[855.9s - 855.9s] the shift in the next 12 months will
+[855.9s - 858.3s] the shift in the next 12 months will earn more than they would have ever had.
+[858.3s - 858.3s] earn more than they would have ever had.
+[858.3s - 861.0s] earn more than they would have ever had. The demand for strategic SAP guidance is
+[861.0s - 861.0s] The demand for strategic SAP guidance is
+[861.0s - 863.9s] The demand for strategic SAP guidance is massive and the supply is almost zero.
+[863.9s - 863.9s] massive and the supply is almost zero.
+[863.9s - 865.9s] massive and the supply is almost zero. Everybody is either a technical person
+[865.9s - 865.9s] Everybody is either a technical person
+[865.9s - 868.6s] Everybody is either a technical person who can't speak the business or, you
+[868.6s - 868.6s] who can't speak the business or, you
+[868.6s - 870.1s] who can't speak the business or, you know, a business person who can't speak
+[870.1s - 870.2s] know, a business person who can't speak
+[870.2s - 872.8s] know, a business person who can't speak SAP. If you speak both, that's your
+[872.8s - 872.8s] SAP. If you speak both, that's your
+[872.8s - 875.7s] SAP. If you speak both, that's your edge. Use it before the window closes.
+[875.7s - 875.7s] edge. Use it before the window closes.
+[875.7s - 877.8s] edge. Use it before the window closes. Now, I know this is a lot to take in and
+[877.8s - 877.8s] Now, I know this is a lot to take in and
+[877.8s - 879.4s] Now, I know this is a lot to take in and some of you might disagree with my
+[879.4s - 879.4s] some of you might disagree with my
+[879.4s - 881.1s] some of you might disagree with my timelines. That's fair, but that's my
+[881.1s - 881.2s] timelines. That's fair, but that's my
+[881.2s - 883.2s] timelines. That's fair, but that's my opinion. Now, these are just my
+[883.2s - 883.2s] opinion. Now, these are just my
+[883.2s - 885.3s] opinion. Now, these are just my projection, but the direction the
+[885.3s - 885.3s] projection, but the direction the
+[885.3s - 888.2s] projection, but the direction the direction is not debatable. AI, clean
+[888.2s - 888.2s] direction is not debatable. AI, clean
+[888.2s - 890.5s] direction is not debatable. AI, clean core, self-service are all moving in one
+[890.5s - 890.5s] core, self-service are all moving in one
+[890.5s - 892.5s] core, self-service are all moving in one direction and the only question is
+[892.5s - 892.6s] direction and the only question is
+[892.6s - 894.6s] direction and the only question is speed. So if you're a functional
+[894.6s - 894.6s] speed. So if you're a functional
+[894.6s - 897.0s] speed. So if you're a functional consultant watching this, I want to hear
+[897.0s - 897.0s] consultant watching this, I want to hear
+[897.0s - 899.2s] consultant watching this, I want to hear from you. Drop a comment below. Tell me
+[899.2s - 899.2s] from you. Drop a comment below. Tell me
+[899.2s - 901.2s] from you. Drop a comment below. Tell me your module. Tell me how many years
+[901.2s - 901.2s] your module. Tell me how many years
+[901.2s - 903.0s] your module. Tell me how many years you've been doing this and I'll tell you
+[903.0s - 903.0s] you've been doing this and I'll tell you
+[903.0s - 905.8s] you've been doing this and I'll tell you how exposed I think you are and what I'd
+[905.8s - 905.8s] how exposed I think you are and what I'd
+[905.8s - 908.3s] how exposed I think you are and what I'd do if I were in your position. If you're
+[908.3s - 908.3s] do if I were in your position. If you're
+[908.3s - 910.9s] do if I were in your position. If you're new here, I'm Noel Benjamin De Costa, 25
+[910.9s - 910.9s] new here, I'm Noel Benjamin De Costa, 25
+[910.9s - 913.8s] new here, I'm Noel Benjamin De Costa, 25 years leading SAP transformation. I make
+[913.8s - 913.8s] years leading SAP transformation. I make
+[913.8s - 915.8s] years leading SAP transformation. I make these videos because I watched too many
+[915.8s - 915.8s] these videos because I watched too many
+[915.8s - 918.7s] these videos because I watched too many good consultants get caught off guard by
+[918.7s - 918.7s] good consultants get caught off guard by
+[918.7s - 921.2s] good consultants get caught off guard by shifts that they could have seen coming.
+[921.2s - 921.2s] shifts that they could have seen coming.
+[921.2s - 923.4s] shifts that they could have seen coming. Now, the goal isn't to scare you, it's
+[923.4s - 923.4s] Now, the goal isn't to scare you, it's
+[923.4s - 925.5s] Now, the goal isn't to scare you, it's to give you enough of time to move. So,
+[925.5s - 925.5s] to give you enough of time to move. So,
+[925.5s - 927.3s] to give you enough of time to move. So, in the next video, we're going to talk
+[927.3s - 927.3s] in the next video, we're going to talk
+[927.3s - 929.7s] in the next video, we're going to talk about what's happening to the SAP Basis
+[929.7s - 929.7s] about what's happening to the SAP Basis
+[929.7s - 932.2s] about what's happening to the SAP Basis admin. The cloud is doing to them what
+[932.2s - 932.2s] admin. The cloud is doing to them what
+[932.2s - 934.5s] admin. The cloud is doing to them what AI and clean core are doing to you, and
+[934.5s - 934.5s] AI and clean core are doing to you, and
+[934.5s - 936.4s] AI and clean core are doing to you, and it's happening faster. So, if you like
+[936.4s - 936.4s] it's happening faster. So, if you like
+[936.4s - 938.1s] it's happening faster. So, if you like this video, share it with your
+[938.1s - 938.1s] this video, share it with your
+[938.1s - 940.4s] this video, share it with your colleagues and your friends because this
+[940.4s - 940.4s] colleagues and your friends because this
+[940.4s - 942.5s] colleagues and your friends because this situation is really getting out of hand.
+[942.5s - 942.5s] situation is really getting out of hand.
+[942.5s - 945.0s] situation is really getting out of hand. I want to help you. Subscribe to my
+[945.0s - 945.0s] I want to help you. Subscribe to my
+[945.0s - 947.1s] I want to help you. Subscribe to my channel, and I'll see you in the next
+[947.1s - 947.1s] channel, and I'll see you in the next
+[947.1s - 949.4s] channel, and I'll see you in the next one.

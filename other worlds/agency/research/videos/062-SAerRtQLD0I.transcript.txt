@@ -1,0 +1,912 @@
+# Transcript: SAerRtQLD0I
+Language: en
+
+[0.2s - 1.9s] So, nobody's buying your AI agents or
+[1.9s - 1.9s] So, nobody's buying your AI agents or
+[1.9s - 3.6s] So, nobody's buying your AI agents or your AI workflows. And it's not because
+[3.6s - 3.6s] your AI workflows. And it's not because
+[3.6s - 5.0s] your AI workflows. And it's not because you're a beginner with no proof or
+[5.0s - 5.0s] you're a beginner with no proof or
+[5.0s - 6.5s] you're a beginner with no proof or because of what you're selling. It's
+[6.5s - 6.6s] because of what you're selling. It's
+[6.6s - 8.2s] because of what you're selling. It's because of how. So, in this video, we'll
+[8.2s - 8.2s] because of how. So, in this video, we'll
+[8.2s - 9.3s] because of how. So, in this video, we'll go through the mistakes you're making
+[9.3s - 9.3s] go through the mistakes you're making
+[9.3s - 10.9s] go through the mistakes you're making and how to fix them so you can sell your
+[10.9s - 10.9s] and how to fix them so you can sell your
+[10.9s - 12.7s] and how to fix them so you can sell your own AI services, just like I've done.
+[12.7s - 12.7s] own AI services, just like I've done.
+[12.7s - 14.1s] own AI services, just like I've done. So, let's get started and take a look at
+[14.1s - 14.1s] So, let's get started and take a look at
+[14.1s - 15.6s] So, let's get started and take a look at the first reason why no one is buying
+[15.6s - 15.6s] the first reason why no one is buying
+[15.6s - 16.8s] the first reason why no one is buying from you. The first reason no one's
+[16.8s - 16.8s] from you. The first reason no one's
+[16.8s - 18.2s] from you. The first reason no one's buying your AI agents is because you're
+[18.2s - 18.2s] buying your AI agents is because you're
+[18.2s - 19.6s] buying your AI agents is because you're focusing too much on the what, not the
+[19.6s - 19.6s] focusing too much on the what, not the
+[19.6s - 21.2s] focusing too much on the what, not the how. Here's what I mean. When I sold my
+[21.2s - 21.2s] how. Here's what I mean. When I sold my
+[21.2s - 23.3s] how. Here's what I mean. When I sold my very first $1,200 LinkedIn agent, I did
+[23.3s - 23.4s] very first $1,200 LinkedIn agent, I did
+[23.4s - 25.1s] very first $1,200 LinkedIn agent, I did not sell the agent itself. I didn't get
+[25.1s - 25.1s] not sell the agent itself. I didn't get
+[25.1s - 26.7s] not sell the agent itself. I didn't get it on a call and say, "Hey, here's this
+[26.7s - 26.7s] it on a call and say, "Hey, here's this
+[26.7s - 28.4s] it on a call and say, "Hey, here's this workflow. Here's how many nodes it has.
+[28.4s - 28.4s] workflow. Here's how many nodes it has.
+[28.4s - 29.9s] workflow. Here's how many nodes it has. Here's what model it uses." None of that
+[29.9s - 29.9s] Here's what model it uses." None of that
+[29.9s - 31.2s] Here's what model it uses." None of that matters to the business owner. What I
+[31.2s - 31.2s] matters to the business owner. What I
+[31.2s - 33.1s] matters to the business owner. What I actually sold was the idea, the outcome.
+[33.1s - 33.1s] actually sold was the idea, the outcome.
+[33.1s - 34.4s] actually sold was the idea, the outcome. I sold the fact that they would never
+[34.4s - 34.4s] I sold the fact that they would never
+[34.4s - 36.4s] I sold the fact that they would never have to research or write LinkedIn posts
+[36.4s - 36.4s] have to research or write LinkedIn posts
+[36.4s - 37.8s] have to research or write LinkedIn posts ever again, but they'd still be getting
+[37.8s - 37.8s] ever again, but they'd still be getting
+[37.8s - 39.6s] ever again, but they'd still be getting that consistent inbound traffic and
+[39.6s - 39.6s] that consistent inbound traffic and
+[39.6s - 41.3s] that consistent inbound traffic and expanding their brand's top of funnel.
+[41.3s - 41.3s] expanding their brand's top of funnel.
+[41.3s - 43.0s] expanding their brand's top of funnel. That's what got the client excited, not
+[43.0s - 43.0s] That's what got the client excited, not
+[43.0s - 44.9s] That's what got the client excited, not the tech, the result. And this is where
+[44.9s - 44.9s] the tech, the result. And this is where
+[44.9s - 46.2s] the tech, the result. And this is where a lot of people mess up. You could have
+[46.2s - 46.2s] a lot of people mess up. You could have
+[46.2s - 47.7s] a lot of people mess up. You could have the most advanced personal assistant
+[47.7s - 47.7s] the most advanced personal assistant
+[47.7s - 48.9s] the most advanced personal assistant agent in the world, something that has
+[48.9s - 48.9s] agent in the world, something that has
+[48.9s - 50.7s] agent in the world, something that has outreach, scheduling, reporting,
+[50.7s - 50.7s] outreach, scheduling, reporting,
+[50.7s - 52.0s] outreach, scheduling, reporting, whatever, but if you pitch it in the
+[52.0s - 52.0s] whatever, but if you pitch it in the
+[52.0s - 53.7s] whatever, but if you pitch it in the wrong way, no one's going to buy it and
+[53.7s - 53.7s] wrong way, no one's going to buy it and
+[53.7s - 56.1s] wrong way, no one's going to buy it and see that value. Because selling AI isn't
+[56.1s - 56.1s] see that value. Because selling AI isn't
+[56.1s - 57.9s] see that value. Because selling AI isn't about features, it's about framing. You
+[57.9s - 57.9s] about features, it's about framing. You
+[57.9s - 59.3s] about features, it's about framing. You have to ask the right questions. You
+[59.3s - 59.4s] have to ask the right questions. You
+[59.4s - 60.7s] have to ask the right questions. You have to find the pain points. You have
+[60.7s - 60.7s] have to find the pain points. You have
+[60.7s - 62.5s] have to find the pain points. You have to press hard on those pain points. And
+[62.5s - 62.5s] to press hard on those pain points. And
+[62.5s - 63.9s] to press hard on those pain points. And then you have to position your AI
+[63.9s - 63.9s] then you have to position your AI
+[63.9s - 66.1s] then you have to position your AI solution as the fix by demonstrating the
+[66.1s - 66.2s] solution as the fix by demonstrating the
+[66.2s - 68.1s] solution as the fix by demonstrating the value. So the secret to that is to
+[68.1s - 68.1s] value. So the secret to that is to
+[68.1s - 70.1s] value. So the secret to that is to always sell the destination, not the
+[70.1s - 70.2s] always sell the destination, not the
+[70.2s - 71.7s] always sell the destination, not the vehicle. Nobody buys a plane ticket
+[71.7s - 71.7s] vehicle. Nobody buys a plane ticket
+[71.7s - 73.0s] vehicle. Nobody buys a plane ticket because they love sitting on an
+[73.0s - 73.0s] because they love sitting on an
+[73.0s - 74.5s] because they love sitting on an airplane. They buy it because they want
+[74.5s - 74.5s] airplane. They buy it because they want
+[74.5s - 76.1s] airplane. They buy it because they want to get to their vacation spot. Same
+[76.1s - 76.2s] to get to their vacation spot. Same
+[76.2s - 77.8s] to get to their vacation spot. Same thing here. The AI workflow is the
+[77.8s - 77.8s] thing here. The AI workflow is the
+[77.8s - 79.9s] thing here. The AI workflow is the plane, but the outcome is the vacation.
+[79.9s - 79.9s] plane, but the outcome is the vacation.
+[79.9s - 81.3s] plane, but the outcome is the vacation. And if you can actually communicate that
+[81.3s - 81.4s] And if you can actually communicate that
+[81.4s - 83.2s] And if you can actually communicate that clearly, your chances of closing a deal
+[83.2s - 83.2s] clearly, your chances of closing a deal
+[83.2s - 85.2s] clearly, your chances of closing a deal go way up. Reason number two, no one
+[85.2s - 85.2s] go way up. Reason number two, no one
+[85.2s - 87.3s] go way up. Reason number two, no one cares about the AI. The second reason no
+[87.3s - 87.3s] cares about the AI. The second reason no
+[87.3s - 88.8s] cares about the AI. The second reason no one's buying your AI agents is because
+[88.8s - 88.8s] one's buying your AI agents is because
+[88.8s - 90.1s] one's buying your AI agents is because you're focusing too much on the AI
+[90.1s - 90.2s] you're focusing too much on the AI
+[90.2s - 91.7s] you're focusing too much on the AI itself. Here's the truth. Business
+[91.7s - 91.7s] itself. Here's the truth. Business
+[91.7s - 93.4s] itself. Here's the truth. Business owners may not actually care about the
+[93.4s - 93.4s] owners may not actually care about the
+[93.4s - 94.9s] owners may not actually care about the AI. They don't care how many nodes are
+[94.9s - 94.9s] AI. They don't care how many nodes are
+[94.9s - 96.3s] AI. They don't care how many nodes are in your workflow or what chat model
+[96.3s - 96.3s] in your workflow or what chat model
+[96.3s - 98.1s] in your workflow or what chat model you're using or how technically complex
+[98.1s - 98.2s] you're using or how technically complex
+[98.2s - 99.5s] you're using or how technically complex your system is. What they care about
+[99.5s - 99.5s] your system is. What they care about
+[99.5s - 101.3s] your system is. What they care about comes down to literally three things:
+[101.3s - 101.4s] comes down to literally three things:
+[101.4s - 103.9s] comes down to literally three things: time, money, focus. How many hours are
+[103.9s - 103.9s] time, money, focus. How many hours are
+[103.9s - 105.4s] time, money, focus. How many hours are you giving back to them or their team
+[105.4s - 105.4s] you giving back to them or their team
+[105.4s - 107.0s] you giving back to them or their team every week? How much money are you
+[107.0s - 107.0s] every week? How much money are you
+[107.0s - 108.4s] every week? How much money are you saving them or how much extra revenue
+[108.4s - 108.4s] saving them or how much extra revenue
+[108.4s - 110.1s] saving them or how much extra revenue are you unlocking? And what distractions
+[110.1s - 110.1s] are you unlocking? And what distractions
+[110.1s - 112.2s] are you unlocking? And what distractions or low-v valueue tasks are you removing
+[112.2s - 112.2s] or low-v valueue tasks are you removing
+[112.2s - 113.7s] or low-v valueue tasks are you removing so that they can spend their energy on
+[113.7s - 113.7s] so that they can spend their energy on
+[113.7s - 115.4s] so that they can spend their energy on things that actually grow the business.
+[115.4s - 115.4s] things that actually grow the business.
+[115.4s - 117.4s] things that actually grow the business. So, keep it simple. That's it. Those
+[117.4s - 117.4s] So, keep it simple. That's it. Those
+[117.4s - 119.0s] So, keep it simple. That's it. Those three things. If your agent doesn't
+[119.0s - 119.0s] three things. If your agent doesn't
+[119.0s - 120.6s] three things. If your agent doesn't clearly tie back to at least one of
+[120.6s - 120.6s] clearly tie back to at least one of
+[120.6s - 122.4s] clearly tie back to at least one of those three resources, it's not going to
+[122.4s - 122.4s] those three resources, it's not going to
+[122.4s - 124.1s] those three resources, it's not going to sell. Now, here's the kicker. Sometimes
+[124.1s - 124.1s] sell. Now, here's the kicker. Sometimes
+[124.1s - 126.1s] sell. Now, here's the kicker. Sometimes it's as simple as actually automating
+[126.1s - 126.2s] it's as simple as actually automating
+[126.2s - 127.8s] it's as simple as actually automating manual repetitive processes that a team
+[127.8s - 127.8s] manual repetitive processes that a team
+[127.8s - 130.0s] manual repetitive processes that a team is doing by hand without AI. That alone
+[130.0s - 130.0s] is doing by hand without AI. That alone
+[130.0s - 132.0s] is doing by hand without AI. That alone is a huge save in time, money, and
+[132.0s - 132.0s] is a huge save in time, money, and
+[132.0s - 133.7s] is a huge save in time, money, and focus. And the funny part is a lot of
+[133.7s - 133.7s] focus. And the funny part is a lot of
+[133.7s - 135.3s] focus. And the funny part is a lot of business owners are just now becoming
+[135.3s - 135.4s] business owners are just now becoming
+[135.4s - 137.7s] business owners are just now becoming aware of standard automation in general
+[137.7s - 137.7s] aware of standard automation in general
+[137.7s - 139.3s] aware of standard automation in general because of the term AI. It's in the
+[139.3s - 139.4s] because of the term AI. It's in the
+[139.4s - 141.1s] because of the term AI. It's in the news. It's a buzz word. It's everywhere.
+[141.1s - 141.1s] news. It's a buzz word. It's everywhere.
+[141.1s - 143.0s] news. It's a buzz word. It's everywhere. And that's what basically opened their
+[143.0s - 143.0s] And that's what basically opened their
+[143.0s - 145.0s] And that's what basically opened their eyes to efficiency gains. And if you can
+[145.0s - 145.0s] eyes to efficiency gains. And if you can
+[145.0s - 146.9s] eyes to efficiency gains. And if you can deliver that, AI or not, you'll make
+[146.9s - 146.9s] deliver that, AI or not, you'll make
+[146.9s - 148.3s] deliver that, AI or not, you'll make yourself incredibly valuable. So, stop
+[148.3s - 148.3s] yourself incredibly valuable. So, stop
+[148.3s - 150.2s] yourself incredibly valuable. So, stop selling AI. Start selling time, money,
+[150.2s - 150.2s] selling AI. Start selling time, money,
+[150.2s - 151.8s] selling AI. Start selling time, money, and focus. And that's what actually
+[151.8s - 151.8s] and focus. And that's what actually
+[151.8s - 153.5s] and focus. And that's what actually closes deals. Reason number three is
+[153.5s - 153.5s] closes deals. Reason number three is
+[153.5s - 155.4s] closes deals. Reason number three is that value is about results, not time.
+[155.4s - 155.4s] that value is about results, not time.
+[155.4s - 156.9s] that value is about results, not time. The third reason no one's buying your AI
+[156.9s - 156.9s] The third reason no one's buying your AI
+[156.9s - 158.3s] The third reason no one's buying your AI agents is because you've got a massive
+[158.3s - 158.3s] agents is because you've got a massive
+[158.3s - 160.2s] agents is because you've got a massive misconception about what business owners
+[160.2s - 160.2s] misconception about what business owners
+[160.2s - 161.8s] misconception about what business owners value. I saw this in my comment section
+[161.8s - 161.8s] value. I saw this in my comment section
+[161.8s - 163.4s] value. I saw this in my comment section on a recent video. People saying things
+[163.4s - 163.4s] on a recent video. People saying things
+[163.4s - 164.8s] on a recent video. People saying things like, "I feel sorry for that business
+[164.8s - 164.8s] like, "I feel sorry for that business
+[164.8s - 166.4s] like, "I feel sorry for that business owner because I made a video about a
+[166.4s - 166.4s] owner because I made a video about a
+[166.4s - 168.0s] owner because I made a video about a solution that only took me 2 hours to
+[168.0s - 168.0s] solution that only took me 2 hours to
+[168.0s - 169.4s] solution that only took me 2 hours to build." But here's the reality. Client
+[169.4s - 169.4s] build." But here's the reality. Client
+[169.4s - 170.9s] build." But here's the reality. Client was thrilled. He didn't care that it
+[170.9s - 170.9s] was thrilled. He didn't care that it
+[170.9s - 172.6s] was thrilled. He didn't care that it only took 2 hours to build. Why? Because
+[172.6s - 172.6s] only took 2 hours to build. Why? Because
+[172.6s - 173.9s] only took 2 hours to build. Why? Because the results were still the same.
+[173.9s - 173.9s] the results were still the same.
+[173.9s - 175.6s] the results were still the same. Business owners are not paying for the
+[175.6s - 175.6s] Business owners are not paying for the
+[175.6s - 177.0s] Business owners are not paying for the number of hours you put in. That's the
+[177.0s - 177.0s] number of hours you put in. That's the
+[177.0s - 178.6s] number of hours you put in. That's the mindset of an hourly employee. What
+[178.6s - 178.6s] mindset of an hourly employee. What
+[178.6s - 180.2s] mindset of an hourly employee. What they're paying for is the solution, the
+[180.2s - 180.2s] they're paying for is the solution, the
+[180.2s - 181.5s] they're paying for is the solution, the outcome, the fact that their pain point
+[181.5s - 181.5s] outcome, the fact that their pain point
+[181.5s - 182.9s] outcome, the fact that their pain point is solved and that their life or
+[182.9s - 183.0s] is solved and that their life or
+[183.0s - 184.8s] is solved and that their life or business just got easier. If you build
+[184.8s - 184.8s] business just got easier. If you build
+[184.8s - 186.4s] business just got easier. If you build something for someone and it saves them
+[186.4s - 186.4s] something for someone and it saves them
+[186.4s - 187.6s] something for someone and it saves them 20 hours a month, do you really think
+[187.6s - 187.6s] 20 hours a month, do you really think
+[187.6s - 188.7s] 20 hours a month, do you really think that they're going to complain that it
+[188.7s - 188.7s] that they're going to complain that it
+[188.7s - 190.3s] that they're going to complain that it only took you 2 hours to make? Of course
+[190.3s - 190.3s] only took you 2 hours to make? Of course
+[190.3s - 192.0s] only took you 2 hours to make? Of course not. What they're thinking is, man, I
+[192.0s - 192.0s] not. What they're thinking is, man, I
+[192.0s - 193.2s] not. What they're thinking is, man, I just got a system that saves me
+[193.2s - 193.2s] just got a system that saves me
+[193.2s - 194.9s] just got a system that saves me thousands of dollars worth of time for a
+[194.9s - 195.0s] thousands of dollars worth of time for a
+[195.0s - 197.1s] thousands of dollars worth of time for a onetime fee. That's a steal. So, if you
+[197.1s - 197.1s] onetime fee. That's a steal. So, if you
+[197.1s - 198.6s] onetime fee. That's a steal. So, if you want to sell, you need to shift out of
+[198.6s - 198.6s] want to sell, you need to shift out of
+[198.6s - 200.3s] want to sell, you need to shift out of that employee mentality and into the
+[200.3s - 200.3s] that employee mentality and into the
+[200.3s - 201.8s] that employee mentality and into the problem solver mentality. Business
+[201.8s - 201.8s] problem solver mentality. Business
+[201.8s - 203.9s] problem solver mentality. Business owners love quick, effective solutions.
+[203.9s - 203.9s] owners love quick, effective solutions.
+[203.9s - 205.3s] owners love quick, effective solutions. They don't care about time you spend.
+[205.3s - 205.4s] They don't care about time you spend.
+[205.4s - 207.3s] They don't care about time you spend. They care about the results you deliver.
+[207.3s - 207.4s] They care about the results you deliver.
+[207.4s - 209.8s] They care about the results you deliver. Once again, value is about results, not
+[209.8s - 209.8s] Once again, value is about results, not
+[209.8s - 212.1s] Once again, value is about results, not time. Reason number four, pick a niche.
+[212.1s - 212.2s] time. Reason number four, pick a niche.
+[212.2s - 214.0s] time. Reason number four, pick a niche. Don't be a generalist. Fourth reason no
+[214.0s - 214.0s] Don't be a generalist. Fourth reason no
+[214.0s - 215.7s] Don't be a generalist. Fourth reason no one is buying your AI agents is because
+[215.7s - 215.7s] one is buying your AI agents is because
+[215.7s - 217.1s] one is buying your AI agents is because you're trying to be everything to
+[217.1s - 217.1s] you're trying to be everything to
+[217.1s - 218.5s] you're trying to be everything to everyone. You've heard the saying, a
+[218.5s - 218.5s] everyone. You've heard the saying, a
+[218.5s - 220.2s] everyone. You've heard the saying, a jack of all trades is a master of none.
+[220.2s - 220.2s] jack of all trades is a master of none.
+[220.2s - 221.8s] jack of all trades is a master of none. And that's true. But here's the full
+[221.8s - 221.8s] And that's true. But here's the full
+[221.8s - 223.4s] And that's true. But here's the full saying. Jack of all trades is a master
+[223.4s - 223.4s] saying. Jack of all trades is a master
+[223.4s - 225.3s] saying. Jack of all trades is a master of none, but oftent times better than a
+[225.3s - 225.4s] of none, but oftent times better than a
+[225.4s - 227.2s] of none, but oftent times better than a master of one. You don't need to niche
+[227.2s - 227.2s] master of one. You don't need to niche
+[227.2s - 228.8s] master of one. You don't need to niche down so tightly that you're only
+[228.8s - 228.8s] down so tightly that you're only
+[228.8s - 230.3s] down so tightly that you're only building for barber shops. But you do
+[230.3s - 230.3s] building for barber shops. But you do
+[230.3s - 231.7s] building for barber shops. But you do need to pick a lane. For example,
+[231.7s - 231.7s] need to pick a lane. For example,
+[231.7s - 233.2s] need to pick a lane. For example, instead of barber shops, think broader
+[233.2s - 233.2s] instead of barber shops, think broader
+[233.2s - 234.9s] instead of barber shops, think broader like hair and beauty. That way, you can
+[234.9s - 234.9s] like hair and beauty. That way, you can
+[234.9s - 236.3s] like hair and beauty. That way, you can learn the common problems everyone in
+[236.3s - 236.3s] learn the common problems everyone in
+[236.3s - 237.8s] learn the common problems everyone in the industry faces and then design
+[237.8s - 237.8s] the industry faces and then design
+[237.8s - 240.0s] the industry faces and then design solutions that solve those repeated
+[240.0s - 240.0s] solutions that solve those repeated
+[240.0s - 241.4s] solutions that solve those repeated problems. So, here's why this actually
+[241.4s - 241.4s] problems. So, here's why this actually
+[241.4s - 243.0s] problems. So, here's why this actually matters. If you know the space deeply,
+[243.0s - 243.0s] matters. If you know the space deeply,
+[243.0s - 244.5s] matters. If you know the space deeply, you can build a system once and then
+[244.5s - 244.5s] you can build a system once and then
+[244.5s - 246.9s] you can build a system once and then reuse 70 to 80% of it for multiple
+[246.9s - 246.9s] reuse 70 to 80% of it for multiple
+[246.9s - 248.3s] reuse 70 to 80% of it for multiple clients. You're not reinventing the
+[248.3s - 248.3s] clients. You're not reinventing the
+[248.3s - 250.1s] clients. You're not reinventing the wheel every time. Sure, you can't just
+[250.1s - 250.2s] wheel every time. Sure, you can't just
+[250.2s - 251.8s] wheel every time. Sure, you can't just massell generic templates, which
+[251.8s - 251.8s] massell generic templates, which
+[251.8s - 253.4s] massell generic templates, which unfortunately is a narrative that I see
+[253.4s - 253.4s] unfortunately is a narrative that I see
+[253.4s - 255.0s] unfortunately is a narrative that I see being pushed around way too often.
+[255.0s - 255.0s] being pushed around way too often.
+[255.0s - 256.6s] being pushed around way too often. Templates are commoditized, and a bundle
+[256.6s - 256.6s] Templates are commoditized, and a bundle
+[256.6s - 258.1s] Templates are commoditized, and a bundle of templates isn't useful. But what you
+[258.1s - 258.2s] of templates isn't useful. But what you
+[258.2s - 259.8s] of templates isn't useful. But what you can do with a bundle of templates is
+[259.8s - 259.8s] can do with a bundle of templates is
+[259.8s - 261.6s] can do with a bundle of templates is start with a strong base and then tweak
+[261.6s - 261.6s] start with a strong base and then tweak
+[261.6s - 263.3s] start with a strong base and then tweak it with the subject matter expertise of
+[263.3s - 263.3s] it with the subject matter expertise of
+[263.3s - 265.5s] it with the subject matter expertise of each business owner so it fits perfectly
+[265.5s - 265.5s] each business owner so it fits perfectly
+[265.5s - 267.4s] each business owner so it fits perfectly into their systems. And this goes back
+[267.4s - 267.4s] into their systems. And this goes back
+[267.4s - 268.9s] into their systems. And this goes back to what I've always stressed. You want
+[268.9s - 268.9s] to what I've always stressed. You want
+[268.9s - 270.6s] to what I've always stressed. You want to be a problem solver who can speak the
+[270.6s - 270.6s] to be a problem solver who can speak the
+[270.6s - 272.0s] to be a problem solver who can speak the business owner's language. If you're an
+[272.0s - 272.0s] business owner's language. If you're an
+[272.0s - 273.3s] business owner's language. If you're an expert in the industry, you can walk
+[273.3s - 273.3s] expert in the industry, you can walk
+[273.3s - 274.7s] expert in the industry, you can walk into a conversation and pitch them
+[274.7s - 274.7s] into a conversation and pitch them
+[274.7s - 276.1s] into a conversation and pitch them something that they didn't even realize
+[276.1s - 276.2s] something that they didn't even realize
+[276.2s - 277.6s] something that they didn't even realize they needed yet. And that instantly
+[277.6s - 277.6s] they needed yet. And that instantly
+[277.6s - 279.4s] they needed yet. And that instantly positions you as an expert in their
+[279.4s - 279.4s] positions you as an expert in their
+[279.4s - 281.4s] positions you as an expert in their eyes. The bonus is once you have proof
+[281.4s - 281.4s] eyes. The bonus is once you have proof
+[281.4s - 282.9s] eyes. The bonus is once you have proof from that niche, you can charge way
+[282.9s - 282.9s] from that niche, you can charge way
+[282.9s - 284.1s] from that niche, you can charge way more. You can confidently say, "I've
+[284.1s - 284.2s] more. You can confidently say, "I've
+[284.2s - 285.7s] more. You can confidently say, "I've worked with five other business owners
+[285.7s - 285.7s] worked with five other business owners
+[285.7s - 287.2s] worked with five other business owners just like you. I've delivered these
+[287.2s - 287.2s] just like you. I've delivered these
+[287.2s - 289.3s] just like you. I've delivered these exact results and I can do the same for
+[289.3s - 289.3s] exact results and I can do the same for
+[289.3s - 291.0s] exact results and I can do the same for you. That credibility makes your offer
+[291.0s - 291.0s] you. That credibility makes your offer
+[291.0s - 293.3s] you. That credibility makes your offer 10 times stronger and justifies higher
+[293.3s - 293.3s] 10 times stronger and justifies higher
+[293.3s - 294.6s] 10 times stronger and justifies higher pricing. Let's say you build a system
+[294.6s - 294.6s] pricing. Let's say you build a system
+[294.6s - 296.3s] pricing. Let's say you build a system that automatically follows up with leads
+[296.3s - 296.3s] that automatically follows up with leads
+[296.3s - 298.0s] that automatically follows up with leads for gyms. Once you've done it once, you
+[298.0s - 298.0s] for gyms. Once you've done it once, you
+[298.0s - 299.6s] for gyms. Once you've done it once, you can tweak that same build for a yoga
+[299.6s - 299.6s] can tweak that same build for a yoga
+[299.6s - 301.7s] can tweak that same build for a yoga studio, a boxing gym, or a CrossFit gym.
+[301.7s - 301.8s] studio, a boxing gym, or a CrossFit gym.
+[301.8s - 304.0s] studio, a boxing gym, or a CrossFit gym. Same pain, same solutions, just a little
+[304.0s - 304.0s] Same pain, same solutions, just a little
+[304.0s - 305.4s] Same pain, same solutions, just a little customization. So, don't try to be a
+[305.4s - 305.4s] customization. So, don't try to be a
+[305.4s - 307.0s] customization. So, don't try to be a generalist building random workflows for
+[307.0s - 307.0s] generalist building random workflows for
+[307.0s - 308.6s] generalist building random workflows for everyone. Pick a niche, learn their pain
+[308.6s - 308.6s] everyone. Pick a niche, learn their pain
+[308.6s - 310.6s] everyone. Pick a niche, learn their pain points, and build repeatable solutions
+[310.6s - 310.6s] points, and build repeatable solutions
+[310.6s - 312.6s] points, and build repeatable solutions that scale. Reason number five is that
+[312.6s - 312.6s] that scale. Reason number five is that
+[312.6s - 313.7s] that scale. Reason number five is that you're trying to sell like everyone
+[313.7s - 313.7s] you're trying to sell like everyone
+[313.7s - 315.2s] you're trying to sell like everyone else. The fifth reason no one is buying
+[315.2s - 315.2s] else. The fifth reason no one is buying
+[315.2s - 316.5s] else. The fifth reason no one is buying your AI agents is because you're trying
+[316.5s - 316.5s] your AI agents is because you're trying
+[316.5s - 317.9s] your AI agents is because you're trying to sell like everyone else. Over the
+[317.9s - 317.9s] to sell like everyone else. Over the
+[317.9s - 319.6s] to sell like everyone else. Over the past few months, I've spoken to hundreds
+[319.6s - 319.6s] past few months, I've spoken to hundreds
+[319.6s - 320.8s] past few months, I've spoken to hundreds of business owners. And you know what?
+[320.8s - 320.8s] of business owners. And you know what?
+[320.8s - 322.4s] of business owners. And you know what? Nearly all of them complain about the
+[322.4s - 322.4s] Nearly all of them complain about the
+[322.4s - 324.2s] Nearly all of them complain about the quality of service in the industry. They
+[324.2s - 324.2s] quality of service in the industry. They
+[324.2s - 325.8s] quality of service in the industry. They tell me about people who overcharge,
+[325.8s - 325.8s] tell me about people who overcharge,
+[325.8s - 327.7s] tell me about people who overcharge, overpromise, and underdel. Or the
+[327.7s - 327.8s] overpromise, and underdel. Or the
+[327.8s - 329.2s] overpromise, and underdel. Or the opposite. People who charge way too
+[329.2s - 329.2s] opposite. People who charge way too
+[329.2s - 330.6s] opposite. People who charge way too cheap and then don't deliver anything
+[330.6s - 330.6s] cheap and then don't deliver anything
+[330.6s - 332.8s] cheap and then don't deliver anything close to real value. Either way, the end
+[332.8s - 332.8s] close to real value. Either way, the end
+[332.8s - 334.2s] close to real value. Either way, the end result is the same. Disappointed
+[334.2s - 334.2s] result is the same. Disappointed
+[334.2s - 336.0s] result is the same. Disappointed business owners who don't trust the next
+[336.0s - 336.0s] business owners who don't trust the next
+[336.0s - 337.6s] business owners who don't trust the next person that pitches them. So that's the
+[337.6s - 337.6s] person that pitches them. So that's the
+[337.6s - 338.9s] person that pitches them. So that's the gap in the market. There's a huge
+[338.9s - 338.9s] gap in the market. There's a huge
+[338.9s - 340.4s] gap in the market. There's a huge opportunity for you if you can simply
+[340.4s - 340.4s] opportunity for you if you can simply
+[340.4s - 341.7s] opportunity for you if you can simply sell differently and deliver
+[341.7s - 341.8s] sell differently and deliver
+[341.8s - 343.2s] sell differently and deliver differently. Stop looking at each
+[343.2s - 343.2s] differently. Stop looking at each
+[343.2s - 344.6s] differently. Stop looking at each business as just a client that you can
+[344.6s - 344.6s] business as just a client that you can
+[344.6s - 346.4s] business as just a client that you can squeeze money out of. Start looking at
+[346.4s - 346.4s] squeeze money out of. Start looking at
+[346.4s - 348.4s] squeeze money out of. Start looking at them as a system. You can add value to
+[348.4s - 348.4s] them as a system. You can add value to
+[348.4s - 350.1s] them as a system. You can add value to an organization you can guide through a
+[350.1s - 350.1s] an organization you can guide through a
+[350.1s - 352.0s] an organization you can guide through a multi-year transition into being AI
+[352.0s - 352.0s] multi-year transition into being AI
+[352.0s - 353.5s] multi-year transition into being AI first. Because here's the reality. It's
+[353.5s - 353.5s] first. Because here's the reality. It's
+[353.5s - 355.4s] first. Because here's the reality. It's not just one agent and done. For a
+[355.4s - 355.4s] not just one agent and done. For a
+[355.4s - 357.3s] not just one agent and done. For a company to truly become AI first, it's a
+[357.3s - 357.3s] company to truly become AI first, it's a
+[357.3s - 359.4s] company to truly become AI first, it's a long process. Years, not weeks. And the
+[359.4s - 359.4s] long process. Years, not weeks. And the
+[359.4s - 360.7s] long process. Years, not weeks. And the business owners know that. Which means
+[360.7s - 360.7s] business owners know that. Which means
+[360.7s - 362.1s] business owners know that. Which means if you're the one who starts with them
+[362.1s - 362.1s] if you're the one who starts with them
+[362.1s - 363.8s] if you're the one who starts with them now, proves your value, executes
+[363.8s - 363.8s] now, proves your value, executes
+[363.8s - 365.5s] now, proves your value, executes consistently, and earns their trust,
+[365.5s - 365.5s] consistently, and earns their trust,
+[365.5s - 367.4s] consistently, and earns their trust, you'll be their go-to partner for every
+[367.4s - 367.4s] you'll be their go-to partner for every
+[367.4s - 369.4s] you'll be their go-to partner for every single step along that journey in their
+[369.4s - 369.4s] single step along that journey in their
+[369.4s - 370.9s] single step along that journey in their AI transformation. And here's something
+[370.9s - 370.9s] AI transformation. And here's something
+[370.9s - 372.4s] AI transformation. And here's something a lot of people don't realize. Most
+[372.4s - 372.4s] a lot of people don't realize. Most
+[372.4s - 373.6s] a lot of people don't realize. Most businesses don't even know where to
+[373.6s - 373.6s] businesses don't even know where to
+[373.6s - 375.1s] businesses don't even know where to start with AI. Their first thought would
+[375.1s - 375.1s] start with AI. Their first thought would
+[375.1s - 376.7s] start with AI. Their first thought would be to turn to a big consulting firm like
+[376.7s - 376.7s] be to turn to a big consulting firm like
+[376.7s - 379.4s] be to turn to a big consulting firm like McKenzie, BCG, Asenture, one of those
+[379.4s - 379.4s] McKenzie, BCG, Asenture, one of those
+[379.4s - 380.9s] McKenzie, BCG, Asenture, one of those big guys. But those firms charge
+[380.9s - 381.0s] big guys. But those firms charge
+[381.0s - 382.8s] big guys. But those firms charge hundreds of thousands of dollars just
+[382.8s - 382.8s] hundreds of thousands of dollars just
+[382.8s - 384.6s] hundreds of thousands of dollars just for an audit or scoping. That's
+[384.6s - 384.6s] for an audit or scoping. That's
+[384.6s - 386.0s] for an audit or scoping. That's completely out of range for the majority
+[386.0s - 386.0s] completely out of range for the majority
+[386.0s - 387.7s] completely out of range for the majority of small to medium-sized businesses that
+[387.7s - 387.7s] of small to medium-sized businesses that
+[387.7s - 389.2s] of small to medium-sized businesses that want to get started with this. And the
+[389.2s - 389.2s] want to get started with this. And the
+[389.2s - 391.1s] want to get started with this. And the irony is these smaller businesses can
+[391.1s - 391.1s] irony is these smaller businesses can
+[391.1s - 392.8s] irony is these smaller businesses can actually move way faster. They don't
+[392.8s - 392.8s] actually move way faster. They don't
+[392.8s - 394.2s] actually move way faster. They don't have as much red tape. You can get in
+[394.2s - 394.2s] have as much red tape. You can get in
+[394.2s - 395.9s] have as much red tape. You can get in front of real decision makers quickly
+[395.9s - 395.9s] front of real decision makers quickly
+[395.9s - 397.4s] front of real decision makers quickly and actually implement something in
+[397.4s - 397.4s] and actually implement something in
+[397.4s - 399.4s] and actually implement something in weeks rather than months. And that's a
+[399.4s - 399.4s] weeks rather than months. And that's a
+[399.4s - 401.3s] weeks rather than months. And that's a massive opportunity if you can position
+[401.3s - 401.3s] massive opportunity if you can position
+[401.3s - 403.3s] massive opportunity if you can position yourself correctly and sell your value.
+[403.3s - 403.3s] yourself correctly and sell your value.
+[403.3s - 404.7s] yourself correctly and sell your value. And part of selling differently means
+[404.7s - 404.7s] And part of selling differently means
+[404.7s - 406.1s] And part of selling differently means charging differently. Instead of just
+[406.1s - 406.2s] charging differently. Instead of just
+[406.2s - 408.6s] charging differently. Instead of just slapping a flat fee on every project,
+[408.6s - 408.6s] slapping a flat fee on every project,
+[408.6s - 410.1s] slapping a flat fee on every project, think about creative pricing models.
+[410.1s - 410.1s] think about creative pricing models.
+[410.1s - 411.5s] think about creative pricing models. Maybe something like a setup fee that
+[411.5s - 411.5s] Maybe something like a setup fee that
+[411.5s - 413.7s] Maybe something like a setup fee that covers your costs plus a rev share model
+[413.7s - 413.8s] covers your costs plus a rev share model
+[413.8s - 416.1s] covers your costs plus a rev share model tied to money saved or hours saved
+[416.1s - 416.2s] tied to money saved or hours saved
+[416.2s - 417.8s] tied to money saved or hours saved compared to hiring another employee. Not
+[417.8s - 417.8s] compared to hiring another employee. Not
+[417.8s - 419.6s] compared to hiring another employee. Not saying that's the best way, just saying
+[419.6s - 419.6s] saying that's the best way, just saying
+[419.6s - 421.4s] saying that's the best way, just saying there's not really an industry standard
+[421.4s - 421.4s] there's not really an industry standard
+[421.4s - 422.7s] there's not really an industry standard way to price yet. Everyone's trying to
+[422.7s - 422.7s] way to price yet. Everyone's trying to
+[422.7s - 424.1s] way to price yet. Everyone's trying to figure out pricing, but you want to make
+[424.1s - 424.2s] figure out pricing, but you want to make
+[424.2s - 425.7s] figure out pricing, but you want to make sure that you have a system so you can
+[425.7s - 425.8s] sure that you have a system so you can
+[425.8s - 427.5s] sure that you have a system so you can actually justify why you're charging
+[427.5s - 427.5s] actually justify why you're charging
+[427.5s - 428.9s] actually justify why you're charging what you're charging. That way, you're
+[428.9s - 429.0s] what you're charging. That way, you're
+[429.0s - 430.4s] what you're charging. That way, you're not just a service provider. You're
+[430.4s - 430.4s] not just a service provider. You're
+[430.4s - 431.8s] not just a service provider. You're aligned with their success. And that's
+[431.8s - 431.8s] aligned with their success. And that's
+[431.8s - 433.4s] aligned with their success. And that's the kind of partnership business owners
+[433.4s - 433.4s] the kind of partnership business owners
+[433.4s - 435.4s] the kind of partnership business owners are dying to find in the space. So, if
+[435.4s - 435.4s] are dying to find in the space. So, if
+[435.4s - 436.7s] are dying to find in the space. So, if you want to stand out, don't sell like
+[436.7s - 436.7s] you want to stand out, don't sell like
+[436.7s - 438.2s] you want to stand out, don't sell like everyone else. Execute differently,
+[438.2s - 438.2s] everyone else. Execute differently,
+[438.2s - 440.2s] everyone else. Execute differently, price differently, and think long-term.
+[440.2s - 440.2s] price differently, and think long-term.
+[440.2s - 441.9s] price differently, and think long-term. Funnily enough, that's an example of how
+[441.9s - 441.9s] Funnily enough, that's an example of how
+[441.9s - 443.6s] Funnily enough, that's an example of how to get people to buy, and that's what
+[443.6s - 443.6s] to get people to buy, and that's what
+[443.6s - 445.5s] to get people to buy, and that's what we're going to cover now. So, we just
+[445.5s - 445.5s] we're going to cover now. So, we just
+[445.5s - 447.6s] we're going to cover now. So, we just talked about why people are not buying
+[447.6s - 447.6s] talked about why people are not buying
+[447.6s - 449.4s] talked about why people are not buying your AI agents. Let's flip it. How do
+[449.4s - 449.4s] your AI agents. Let's flip it. How do
+[449.4s - 450.8s] your AI agents. Let's flip it. How do you actually get people to buy? The
+[450.8s - 450.8s] you actually get people to buy? The
+[450.8s - 452.0s] you actually get people to buy? The first thing you need to understand is
+[452.0s - 452.0s] first thing you need to understand is
+[452.0s - 453.7s] first thing you need to understand is this. You're not selling AI. You're not
+[453.7s - 453.7s] this. You're not selling AI. You're not
+[453.7s - 455.2s] this. You're not selling AI. You're not selling the agent or the workflow. By
+[455.2s - 455.2s] selling the agent or the workflow. By
+[455.2s - 456.6s] selling the agent or the workflow. By the time they come to you, they're
+[456.6s - 456.6s] the time they come to you, they're
+[456.6s - 458.8s] the time they come to you, they're already sold on the idea of using AI.
+[458.8s - 458.8s] already sold on the idea of using AI.
+[458.8s - 460.4s] already sold on the idea of using AI. So, take me as an example. A lot of
+[460.4s - 460.4s] So, take me as an example. A lot of
+[460.4s - 462.3s] So, take me as an example. A lot of people come in already wanting noden
+[462.3s - 462.3s] people come in already wanting noden
+[462.3s - 463.7s] people come in already wanting noden implementation. But here's the thing.
+[463.7s - 463.8s] implementation. But here's the thing.
+[463.8s - 465.4s] implementation. But here's the thing. They're not paying me for any workflows.
+[465.4s - 465.4s] They're not paying me for any workflows.
+[465.4s - 467.0s] They're not paying me for any workflows. If all they wanted was a workflow, they
+[467.0s - 467.0s] If all they wanted was a workflow, they
+[467.0s - 468.6s] If all they wanted was a workflow, they could grab one of the hundreds that are
+[468.6s - 468.6s] could grab one of the hundreds that are
+[468.6s - 470.1s] could grab one of the hundreds that are in my free school community or they
+[470.1s - 470.2s] in my free school community or they
+[470.2s - 471.9s] in my free school community or they could go to Naden's website and grab one
+[471.9s - 471.9s] could go to Naden's website and grab one
+[471.9s - 473.4s] could go to Naden's website and grab one of the thousands that are there for
+[473.4s - 473.4s] of the thousands that are there for
+[473.4s - 474.6s] of the thousands that are there for free. So, clearly, that's not what
+[474.6s - 474.6s] free. So, clearly, that's not what
+[474.6s - 475.8s] free. So, clearly, that's not what they're looking for, and that's not what
+[475.8s - 475.8s] they're looking for, and that's not what
+[475.8s - 476.9s] they're looking for, and that's not what they're buying. What they're really
+[476.9s - 476.9s] they're buying. What they're really
+[476.9s - 478.9s] they're buying. What they're really buying is you and your brain and your
+[478.9s - 478.9s] buying is you and your brain and your
+[478.9s - 480.5s] buying is you and your brain and your ability to understand their problems and
+[480.5s - 480.5s] ability to understand their problems and
+[480.5s - 482.3s] ability to understand their problems and translate that into a solution that fits
+[482.3s - 482.3s] translate that into a solution that fits
+[482.3s - 484.1s] translate that into a solution that fits their needs. Think of yourself like a
+[484.1s - 484.1s] their needs. Think of yourself like a
+[484.1s - 485.7s] their needs. Think of yourself like a doctor. Patients don't show up to a
+[485.7s - 485.8s] doctor. Patients don't show up to a
+[485.8s - 487.5s] doctor. Patients don't show up to a hospital saying, "I need ibuprofen." If
+[487.5s - 487.5s] hospital saying, "I need ibuprofen." If
+[487.5s - 488.9s] hospital saying, "I need ibuprofen." If all they needed was an over-the-counter
+[488.9s - 489.0s] all they needed was an over-the-counter
+[489.0s - 490.3s] all they needed was an over-the-counter medicine, they just go buy it
+[490.3s - 490.3s] medicine, they just go buy it
+[490.3s - 492.1s] medicine, they just go buy it themselves. They show up because they
+[492.1s - 492.2s] themselves. They show up because they
+[492.2s - 493.6s] themselves. They show up because they don't actually know what's wrong and
+[493.6s - 493.6s] don't actually know what's wrong and
+[493.6s - 494.8s] don't actually know what's wrong and they don't know what they need. They
+[494.8s - 494.8s] they don't know what they need. They
+[494.8s - 496.4s] they don't know what they need. They need a doctor to diagnose the problem
+[496.4s - 496.4s] need a doctor to diagnose the problem
+[496.4s - 498.0s] need a doctor to diagnose the problem and prescribe the right treatment. It's
+[498.0s - 498.0s] and prescribe the right treatment. It's
+[498.0s - 499.7s] and prescribe the right treatment. It's the same thing here. The free templates,
+[499.7s - 499.7s] the same thing here. The free templates,
+[499.7s - 501.4s] the same thing here. The free templates, all those random agents online, those
+[501.4s - 501.4s] all those random agents online, those
+[501.4s - 503.4s] all those random agents online, those are the over-the-counter ibuprofens.
+[503.4s - 503.4s] are the over-the-counter ibuprofens.
+[503.4s - 504.9s] are the over-the-counter ibuprofens. What business owners need is someone who
+[504.9s - 504.9s] What business owners need is someone who
+[504.9s - 506.4s] What business owners need is someone who can come in, diagnose what's really
+[506.4s - 506.4s] can come in, diagnose what's really
+[506.4s - 507.8s] can come in, diagnose what's really holding them back, and then prescribe
+[507.8s - 507.8s] holding them back, and then prescribe
+[507.8s - 510.1s] holding them back, and then prescribe the exact AI workflow or agent that's
+[510.1s - 510.2s] the exact AI workflow or agent that's
+[510.2s - 511.8s] the exact AI workflow or agent that's going to fix that problem for them. And
+[511.8s - 511.8s] going to fix that problem for them. And
+[511.8s - 514.0s] going to fix that problem for them. And once again, get them back time, money,
+[514.0s - 514.0s] once again, get them back time, money,
+[514.0s - 515.8s] once again, get them back time, money, and focus. And here's the key. People
+[515.8s - 515.8s] and focus. And here's the key. People
+[515.8s - 517.7s] and focus. And here's the key. People automatically buy the solution once the
+[517.7s - 517.7s] automatically buy the solution once the
+[517.7s - 519.1s] automatically buy the solution once the pain is crystal clear. You don't even
+[519.1s - 519.1s] pain is crystal clear. You don't even
+[519.1s - 520.4s] pain is crystal clear. You don't even have to hard sell it. You just have to
+[520.4s - 520.4s] have to hard sell it. You just have to
+[520.4s - 522.3s] have to hard sell it. You just have to make the cost of the pain bigger than
+[522.3s - 522.3s] make the cost of the pain bigger than
+[522.3s - 523.8s] make the cost of the pain bigger than the cost of the solution. So, in your
+[523.8s - 523.8s] the cost of the solution. So, in your
+[523.8s - 525.7s] the cost of the solution. So, in your conversations with prospects, drill into
+[525.7s - 525.7s] conversations with prospects, drill into
+[525.7s - 527.7s] conversations with prospects, drill into what their pain is costing them in time,
+[527.7s - 527.7s] what their pain is costing them in time,
+[527.7s - 529.4s] what their pain is costing them in time, in money, and missed opportunities.
+[529.4s - 529.4s] in money, and missed opportunities.
+[529.4s - 531.8s] in money, and missed opportunities. Then, position your AI as the fix. When
+[531.8s - 531.8s] Then, position your AI as the fix. When
+[531.8s - 533.4s] Then, position your AI as the fix. When you do that, it becomes a no-brainer for
+[533.4s - 533.4s] you do that, it becomes a no-brainer for
+[533.4s - 534.9s] you do that, it becomes a no-brainer for them to say yes. And also think about
+[534.9s - 534.9s] them to say yes. And also think about
+[534.9s - 536.3s] them to say yes. And also think about this. If you're doing multiple calls
+[536.3s - 536.3s] this. If you're doing multiple calls
+[536.3s - 538.1s] this. If you're doing multiple calls with a prospect, don't just show up on
+[538.1s - 538.1s] with a prospect, don't just show up on
+[538.1s - 539.8s] with a prospect, don't just show up on the second call trying to close them.
+[539.8s - 539.8s] the second call trying to close them.
+[539.8s - 541.8s] the second call trying to close them. Instead, build a custom road map. Do
+[541.8s - 541.8s] Instead, build a custom road map. Do
+[541.8s - 542.9s] Instead, build a custom road map. Do something different. Take that extra
+[542.9s - 543.0s] something different. Take that extra
+[543.0s - 544.5s] something different. Take that extra step that other vendors that they're
+[544.5s - 544.5s] step that other vendors that they're
+[544.5s - 546.1s] step that other vendors that they're probably talking to aren't doing. Here's
+[546.1s - 546.2s] probably talking to aren't doing. Here's
+[546.2s - 547.7s] probably talking to aren't doing. Here's how that could look in practice. On call
+[547.7s - 547.7s] how that could look in practice. On call
+[547.7s - 549.4s] how that could look in practice. On call one, you dig into their pain points. You
+[549.4s - 549.4s] one, you dig into their pain points. You
+[549.4s - 550.6s] one, you dig into their pain points. You map out what's hurting, where they're
+[550.6s - 550.6s] map out what's hurting, where they're
+[550.6s - 552.5s] map out what's hurting, where they're wasting time, money, and focus. Then
+[552.5s - 552.6s] wasting time, money, and focus. Then
+[552.6s - 554.1s] wasting time, money, and focus. Then before the next call, you put together a
+[554.1s - 554.2s] before the next call, you put together a
+[554.2s - 556.0s] before the next call, you put together a short audit, a wireframe, process map,
+[556.0s - 556.0s] short audit, a wireframe, process map,
+[556.0s - 557.4s] short audit, a wireframe, process map, whatever it is. It doesn't have to be
+[557.4s - 557.4s] whatever it is. It doesn't have to be
+[557.4s - 559.0s] whatever it is. It doesn't have to be too fancy. On the follow-up call, you
+[559.0s - 559.0s] too fancy. On the follow-up call, you
+[559.0s - 560.1s] too fancy. On the follow-up call, you say, "Here's what we mapped out
+[560.1s - 560.1s] say, "Here's what we mapped out
+[560.1s - 561.4s] say, "Here's what we mapped out together. here's the solution I think
+[561.4s - 561.4s] together. here's the solution I think
+[561.4s - 562.7s] together. here's the solution I think could fix your problems. Am I
+[562.7s - 562.7s] could fix your problems. Am I
+[562.7s - 563.8s] could fix your problems. Am I understanding you correctly? This
+[563.8s - 563.8s] understanding you correctly? This
+[563.8s - 565.0s] understanding you correctly? This approach works because you're showing
+[565.0s - 565.0s] approach works because you're showing
+[565.0s - 566.5s] approach works because you're showing them that you actually listened. You're
+[566.5s - 566.5s] them that you actually listened. You're
+[566.5s - 567.7s] them that you actually listened. You're not just trying to sell them something
+[567.7s - 567.7s] not just trying to sell them something
+[567.7s - 569.4s] not just trying to sell them something generic. You've mapped their pain to
+[569.4s - 569.4s] generic. You've mapped their pain to
+[569.4s - 571.0s] generic. You've mapped their pain to your solution. This obviously builds
+[571.0s - 571.0s] your solution. This obviously builds
+[571.0s - 572.5s] your solution. This obviously builds trust and makes you stand out from
+[572.5s - 572.6s] trust and makes you stand out from
+[572.6s - 574.1s] trust and makes you stand out from almost everyone else who's probably
+[574.1s - 574.1s] almost everyone else who's probably
+[574.1s - 575.9s] almost everyone else who's probably trying to pitch them AI solutions right
+[575.9s - 575.9s] trying to pitch them AI solutions right
+[575.9s - 577.7s] trying to pitch them AI solutions right now. Okay. Now, let's talk about how to
+[577.7s - 577.7s] now. Okay. Now, let's talk about how to
+[577.7s - 579.2s] now. Okay. Now, let's talk about how to frame your pricing in a way that feels
+[579.2s - 579.2s] frame your pricing in a way that feels
+[579.2s - 580.9s] frame your pricing in a way that feels like a no-brainer. A good rule of thumb
+[580.9s - 581.0s] like a no-brainer. A good rule of thumb
+[581.0s - 582.7s] like a no-brainer. A good rule of thumb is 10 times ROI. Here's what I mean by
+[582.7s - 582.7s] is 10 times ROI. Here's what I mean by
+[582.7s - 584.2s] is 10 times ROI. Here's what I mean by that. If I told you right now to give me
+[584.2s - 584.2s] that. If I told you right now to give me
+[584.2s - 586.3s] that. If I told you right now to give me $10,000, but I said in the next year I'd
+[586.3s - 586.3s] $10,000, but I said in the next year I'd
+[586.3s - 588.4s] $10,000, but I said in the next year I'd give you back $100,000, would you do it?
+[588.4s - 588.4s] give you back $100,000, would you do it?
+[588.4s - 589.8s] give you back $100,000, would you do it? For most people, that's an easy yes.
+[589.8s - 589.8s] For most people, that's an easy yes.
+[589.8s - 591.4s] For most people, that's an easy yes. Unless for some reason they desperately
+[591.4s - 591.4s] Unless for some reason they desperately
+[591.4s - 593.4s] Unless for some reason they desperately need that 10K right now. Your offer
+[593.4s - 593.4s] need that 10K right now. Your offer
+[593.4s - 594.7s] need that 10K right now. Your offer needs to feel the same way. If you're
+[594.7s - 594.7s] needs to feel the same way. If you're
+[594.7s - 596.6s] needs to feel the same way. If you're charging 5K for a system, you need to
+[596.6s - 596.6s] charging 5K for a system, you need to
+[596.6s - 597.9s] charging 5K for a system, you need to show them how it's going to generate at
+[597.9s - 597.9s] show them how it's going to generate at
+[597.9s - 599.9s] show them how it's going to generate at least 50K in value over time. That could
+[599.9s - 599.9s] least 50K in value over time. That could
+[599.9s - 601.5s] least 50K in value over time. That could be in direct money saved, revenue
+[601.5s - 601.5s] be in direct money saved, revenue
+[601.5s - 603.5s] be in direct money saved, revenue gained, or opportunity cost from all the
+[603.5s - 603.5s] gained, or opportunity cost from all the
+[603.5s - 605.2s] gained, or opportunity cost from all the hours that they're no longer wasting.
+[605.2s - 605.2s] hours that they're no longer wasting.
+[605.2s - 607.4s] hours that they're no longer wasting. And here's the thing, that 10 times ROI
+[607.4s - 607.4s] And here's the thing, that 10 times ROI
+[607.4s - 609.2s] And here's the thing, that 10 times ROI exists in almost every automation you
+[609.2s - 609.2s] exists in almost every automation you
+[609.2s - 610.8s] exists in almost every automation you could possibly build. The problem is,
+[610.8s - 610.8s] could possibly build. The problem is,
+[610.8s - 612.9s] could possibly build. The problem is, your clients won't go calculate it for
+[612.9s - 612.9s] your clients won't go calculate it for
+[612.9s - 614.5s] your clients won't go calculate it for themselves. They won't naturally just go
+[614.5s - 614.6s] themselves. They won't naturally just go
+[614.6s - 616.2s] themselves. They won't naturally just go connect all those dots between three
+[616.2s - 616.2s] connect all those dots between three
+[616.2s - 617.7s] connect all those dots between three wasted hours a week and tens of
+[617.7s - 617.7s] wasted hours a week and tens of
+[617.7s - 619.4s] wasted hours a week and tens of thousands of dollars in lost opportunity
+[619.4s - 619.4s] thousands of dollars in lost opportunity
+[619.4s - 620.9s] thousands of dollars in lost opportunity over the course of a year. So that is
+[620.9s - 620.9s] over the course of a year. So that is
+[620.9s - 622.9s] over the course of a year. So that is your job. You have to shed light on it.
+[622.9s - 623.0s] your job. You have to shed light on it.
+[623.0s - 624.8s] your job. You have to shed light on it. You have to clearly communicate the ROI
+[624.8s - 624.8s] You have to clearly communicate the ROI
+[624.8s - 627.1s] You have to clearly communicate the ROI and then press on that pain of what it's
+[627.1s - 627.1s] and then press on that pain of what it's
+[627.1s - 628.8s] and then press on that pain of what it's costing them right now. Because once you
+[628.8s - 628.8s] costing them right now. Because once you
+[628.8s - 630.2s] costing them right now. Because once you frame it like that, your solution
+[630.2s - 630.2s] frame it like that, your solution
+[630.2s - 631.9s] frame it like that, your solution doesn't feel like an expense. It's a
+[631.9s - 631.9s] doesn't feel like an expense. It's a
+[631.9s - 633.8s] doesn't feel like an expense. It's a no-brainer investment, like I said, with
+[633.8s - 633.8s] no-brainer investment, like I said, with
+[633.8s - 635.9s] no-brainer investment, like I said, with a measurable return. And the bonus is
+[635.9s - 635.9s] a measurable return. And the bonus is
+[635.9s - 637.7s] a measurable return. And the bonus is when you actually take the extra mile to
+[637.7s - 637.7s] when you actually take the extra mile to
+[637.7s - 639.5s] when you actually take the extra mile to make these ROI calculations, you're just
+[639.5s - 639.5s] make these ROI calculations, you're just
+[639.5s - 641.0s] make these ROI calculations, you're just creating a built-in case study, which
+[641.0s - 641.0s] creating a built-in case study, which
+[641.0s - 642.4s] creating a built-in case study, which you can literally show the client,
+[642.4s - 642.4s] you can literally show the client,
+[642.4s - 643.8s] you can literally show the client, here's exactly where your business was
+[643.8s - 643.8s] here's exactly where your business was
+[643.8s - 645.2s] here's exactly where your business was three months ago, and here's where it is
+[645.2s - 645.2s] three months ago, and here's where it is
+[645.2s - 646.6s] three months ago, and here's where it is now after you started working with me
+[646.6s - 646.6s] now after you started working with me
+[646.6s - 647.8s] now after you started working with me and I helped you put in these
+[647.8s - 647.8s] and I helped you put in these
+[647.8s - 649.4s] and I helped you put in these automations. And now you can ask for a
+[649.4s - 649.4s] automations. And now you can ask for a
+[649.4s - 650.8s] automations. And now you can ask for a testimonial because you're only going to
+[650.8s - 650.8s] testimonial because you're only going to
+[650.8s - 652.1s] testimonial because you're only going to get one if someone actually felt like
+[652.1s - 652.2s] get one if someone actually felt like
+[652.2s - 653.8s] get one if someone actually felt like they received value from you. And when
+[653.8s - 653.8s] they received value from you. And when
+[653.8s - 655.2s] they received value from you. And when you can prove it with numbers and it
+[655.2s - 655.2s] you can prove it with numbers and it
+[655.2s - 656.8s] you can prove it with numbers and it objectively lives there, then it becomes
+[656.8s - 656.8s] objectively lives there, then it becomes
+[656.8s - 658.2s] objectively lives there, then it becomes a no-brainer for them to give you a
+[658.2s - 658.2s] a no-brainer for them to give you a
+[658.2s - 659.8s] a no-brainer for them to give you a video testimonial. So now you have that
+[659.8s - 659.8s] video testimonial. So now you have that
+[659.8s - 661.0s] video testimonial. So now you have that for your website. You've got a case
+[661.0s - 661.0s] for your website. You've got a case
+[661.0s - 662.4s] for your website. You've got a case study for your marketing materials and
+[662.4s - 662.4s] study for your marketing materials and
+[662.4s - 664.2s] study for your marketing materials and proof that you can share in content and
+[664.2s - 664.2s] proof that you can share in content and
+[664.2s - 665.9s] proof that you can share in content and on sales calls. You've just created an
+[665.9s - 665.9s] on sales calls. You've just created an
+[665.9s - 667.8s] on sales calls. You've just created an endless flywheel. Every happy client
+[667.8s - 667.8s] endless flywheel. Every happy client
+[667.8s - 669.8s] endless flywheel. Every happy client turns into more business. And yes, the
+[669.8s - 669.8s] turns into more business. And yes, the
+[669.8s - 671.6s] turns into more business. And yes, the hardest one to get is always your first
+[671.6s - 671.6s] hardest one to get is always your first
+[671.6s - 673.0s] hardest one to get is always your first customer, but once you have that first
+[673.0s - 673.0s] customer, but once you have that first
+[673.0s - 674.6s] customer, but once you have that first one documented, everything will become
+[674.6s - 674.6s] one documented, everything will become
+[674.6s - 676.7s] one documented, everything will become 10 times easier. So, to recap, the
+[676.7s - 676.7s] 10 times easier. So, to recap, the
+[676.7s - 678.1s] 10 times easier. So, to recap, the reason no one's buying your AI builds
+[678.1s - 678.2s] reason no one's buying your AI builds
+[678.2s - 679.8s] reason no one's buying your AI builds isn't because you're a beginner. It's
+[679.8s - 679.8s] isn't because you're a beginner. It's
+[679.8s - 681.1s] isn't because you're a beginner. It's because of how you're selling. You need
+[681.1s - 681.1s] because of how you're selling. You need
+[681.1s - 683.0s] because of how you're selling. You need to sell the outcome, not the tool. You
+[683.0s - 683.0s] to sell the outcome, not the tool. You
+[683.0s - 685.1s] to sell the outcome, not the tool. You need to focus on time, money, and focus.
+[685.1s - 685.1s] need to focus on time, money, and focus.
+[685.1s - 686.7s] need to focus on time, money, and focus. You need to stop charging by the hour.
+[686.7s - 686.7s] You need to stop charging by the hour.
+[686.7s - 688.0s] You need to stop charging by the hour. You need to pick a niche. You need to
+[688.0s - 688.0s] You need to pick a niche. You need to
+[688.0s - 689.4s] You need to pick a niche. You need to sell differently. And you need to prove
+[689.4s - 689.4s] sell differently. And you need to prove
+[689.4s - 691.2s] sell differently. And you need to prove ROI. If you can do those things, you'll
+[691.2s - 691.2s] ROI. If you can do those things, you'll
+[691.2s - 692.8s] ROI. If you can do those things, you'll stand out instantly. And listen, I
+[692.8s - 692.8s] stand out instantly. And listen, I
+[692.8s - 694.5s] stand out instantly. And listen, I didn't start with experience. I was a
+[694.5s - 694.6s] didn't start with experience. I was a
+[694.6s - 696.3s] didn't start with experience. I was a 22-year-old kid who just quit his job
+[696.3s - 696.3s] 22-year-old kid who just quit his job
+[696.3s - 698.0s] 22-year-old kid who just quit his job and was hopping on calls with business
+[698.0s - 698.0s] and was hopping on calls with business
+[698.0s - 699.9s] and was hopping on calls with business owners and I had no idea how to speak
+[699.9s - 699.9s] owners and I had no idea how to speak
+[699.9s - 701.4s] owners and I had no idea how to speak their language. And now that I've spoken
+[701.4s - 701.4s] their language. And now that I've spoken
+[701.4s - 702.5s] their language. And now that I've spoken to tons of different business owners
+[702.5s - 702.6s] to tons of different business owners
+[702.6s - 704.1s] to tons of different business owners across tons of different industries,
+[704.1s - 704.1s] across tons of different industries,
+[704.1s - 705.7s] across tons of different industries, different sizes of businesses, I've got
+[705.7s - 705.7s] different sizes of businesses, I've got
+[705.7s - 707.3s] different sizes of businesses, I've got a good grasp on how to speak their
+[707.3s - 707.3s] a good grasp on how to speak their
+[707.3s - 709.2s] a good grasp on how to speak their language and this whole ROI thing
+[709.2s - 709.2s] language and this whole ROI thing
+[709.2s - 710.5s] language and this whole ROI thing becomes very clear. Now that you've
+[710.5s - 710.6s] becomes very clear. Now that you've
+[710.6s - 712.1s] becomes very clear. Now that you've heard all this and you have a road map,
+[712.1s - 712.1s] heard all this and you have a road map,
+[712.1s - 713.8s] heard all this and you have a road map, the only question is, are you going to
+[713.8s - 713.8s] the only question is, are you going to
+[713.8s - 715.4s] the only question is, are you going to start selling the right way? So, I know
+[715.4s - 715.4s] start selling the right way? So, I know
+[715.4s - 716.8s] start selling the right way? So, I know that that was a lot to take in. So, what
+[716.8s - 716.8s] that that was a lot to take in. So, what
+[716.8s - 718.1s] that that was a lot to take in. So, what I've done for you guys is thrown all of
+[718.1s - 718.1s] I've done for you guys is thrown all of
+[718.1s - 719.8s] I've done for you guys is thrown all of this that we just talked about into a
+[719.8s - 719.8s] this that we just talked about into a
+[719.8s - 721.1s] this that we just talked about into a free resource that you guys can grab
+[721.1s - 721.1s] free resource that you guys can grab
+[721.1s - 722.5s] free resource that you guys can grab from my school community. Link for that
+[722.5s - 722.6s] from my school community. Link for that
+[722.6s - 724.1s] from my school community. Link for that is down in the description. Once again,
+[724.1s - 724.1s] is down in the description. Once again,
+[724.1s - 725.1s] is down in the description. Once again, completely free. And if you're looking
+[725.1s - 725.1s] completely free. And if you're looking
+[725.1s - 726.3s] completely free. And if you're looking to take this a little further and
+[726.3s - 726.3s] to take this a little further and
+[726.3s - 727.6s] to take this a little further and connect with other people who are
+[727.6s - 727.6s] connect with other people who are
+[727.6s - 729.6s] connect with other people who are monetizing their NAN and AI automation
+[729.6s - 729.6s] monetizing their NAN and AI automation
+[729.6s - 730.9s] monetizing their NAN and AI automation knowledge, then definitely check out my
+[730.9s - 731.0s] knowledge, then definitely check out my
+[731.0s - 732.3s] knowledge, then definitely check out my plus community. The link for that is
+[732.3s - 732.3s] plus community. The link for that is
+[732.3s - 733.4s] plus community. The link for that is down in the description. Definitely
+[733.4s - 733.4s] down in the description. Definitely
+[733.4s - 734.6s] down in the description. Definitely check it out. And if you liked this type
+[734.6s - 734.6s] check it out. And if you liked this type
+[734.6s - 736.1s] check it out. And if you liked this type of video, there's more of that type of
+[736.1s - 736.1s] of video, there's more of that type of
+[736.1s - 737.5s] of video, there's more of that type of stuff in the community. So, that's going
+[737.5s - 737.5s] stuff in the community. So, that's going
+[737.5s - 738.9s] stuff in the community. So, that's going to do it for today. I hope you guys find
+[738.9s - 739.0s] to do it for today. I hope you guys find
+[739.0s - 740.7s] to do it for today. I hope you guys find this one insightful. If you did or if
+[740.7s - 740.7s] this one insightful. If you did or if
+[740.7s - 741.9s] this one insightful. If you did or if you enjoyed, please give it a like.
+[741.9s - 741.9s] you enjoyed, please give it a like.
+[741.9s - 743.4s] you enjoyed, please give it a like. Definitely helps me out a ton. And as
+[743.4s - 743.4s] Definitely helps me out a ton. And as
+[743.4s - 744.7s] Definitely helps me out a ton. And as always, I appreciate you guys making it
+[744.7s - 744.7s] always, I appreciate you guys making it
+[744.7s - 746.0s] always, I appreciate you guys making it to the end of the video. So, I'll see
+[746.0s - 746.0s] to the end of the video. So, I'll see
+[746.0s - 748.9s] to the end of the video. So, I'll see you on the next one.

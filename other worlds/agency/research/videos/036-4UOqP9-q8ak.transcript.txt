@@ -1,0 +1,2135 @@
+# Transcript: 4UOqP9-q8ak
+Language: en
+
+[0.0s - 1.5s] Over the past 2 years, our team has
+[1.5s - 1.5s] Over the past 2 years, our team has
+[1.5s - 3.6s] Over the past 2 years, our team has delivered more than 100 hours of direct
+[3.6s - 3.6s] delivered more than 100 hours of direct
+[3.6s - 5.6s] delivered more than 100 hours of direct AI consulting work with business owners
+[5.6s - 5.6s] AI consulting work with business owners
+[5.6s - 7.8s] AI consulting work with business owners ranging from medical clinics, processing
+[7.8s - 7.8s] ranging from medical clinics, processing
+[7.8s - 9.8s] ranging from medical clinics, processing thousands of patient interactions
+[9.8s - 9.8s] thousands of patient interactions
+[9.8s - 11.7s] thousands of patient interactions monthly, even property management
+[11.7s - 11.7s] monthly, even property management
+[11.7s - 14.3s] monthly, even property management companies managing hundreds of units,
+[14.3s - 14.3s] companies managing hundreds of units,
+[14.3s - 16.1s] companies managing hundreds of units, law firms drowning in document
+[16.1s - 16.2s] law firms drowning in document
+[16.2s - 18.6s] law firms drowning in document workflows, and even coaching businesses
+[18.6s - 18.6s] workflows, and even coaching businesses
+[18.6s - 20.9s] workflows, and even coaching businesses just trying to deliver consistent client
+[20.9s - 21.0s] just trying to deliver consistent client
+[21.0s - 23.3s] just trying to deliver consistent client experiences at scale. And here is what
+[23.3s - 23.3s] experiences at scale. And here is what
+[23.3s - 25.3s] experiences at scale. And here is what we have discovered is that while most
+[25.3s - 25.3s] we have discovered is that while most
+[25.3s - 27.3s] we have discovered is that while most businesses they are just scrambling to
+[27.3s - 27.4s] businesses they are just scrambling to
+[27.4s - 30.2s] businesses they are just scrambling to add AI and random agents and even
+[30.2s - 30.2s] add AI and random agents and even
+[30.2s - 32.8s] add AI and random agents and even automations to their operations, the
+[32.8s - 32.8s] automations to their operations, the
+[32.8s - 34.3s] automations to their operations, the companies that are actually transforming
+[34.3s - 34.3s] companies that are actually transforming
+[34.3s - 36.4s] companies that are actually transforming their businesses with AI, they're doing
+[36.4s - 36.4s] their businesses with AI, they're doing
+[36.4s - 38.4s] their businesses with AI, they're doing something completely different now.
+[38.4s - 38.4s] something completely different now.
+[38.4s - 40.7s] something completely different now. They're not treating AI as a collection
+[40.7s - 40.7s] They're not treating AI as a collection
+[40.7s - 43.2s] They're not treating AI as a collection of band-aid [music] solutions. They're
+[43.2s - 43.2s] of band-aid [music] solutions. They're
+[43.2s - 44.7s] of band-aid [music] solutions. They're building it as foundational
+[44.7s - 44.7s] building it as foundational
+[44.7s - 46.3s] building it as foundational infrastructure that fundamentally
+[46.3s - 46.3s] infrastructure that fundamentally
+[46.3s - 48.5s] infrastructure that fundamentally reshapes how their entire operation
+[48.5s - 48.6s] reshapes how their entire operation
+[48.6s - 51.1s] reshapes how their entire operation runs. So if you are a business owner and
+[51.1s - 51.1s] runs. So if you are a business owner and
+[51.1s - 53.0s] runs. So if you are a business owner and you know AI matters but you're just
+[53.0s - 53.0s] you know AI matters but you're just
+[53.0s - 55.4s] you know AI matters but you're just stuck on where to actually start, this
+[55.4s - 55.4s] stuck on where to actually start, this
+[55.4s - 57.2s] stuck on where to actually start, this video will give you the complete road
+[57.2s - 57.2s] video will give you the complete road
+[57.2s - 58.6s] video will give you the complete road map. Now by the end you will understand
+[58.6s - 58.6s] map. Now by the end you will understand
+[58.6s - 61.2s] map. Now by the end you will understand the four shifts that separate expensive
+[61.2s - 61.2s] the four shifts that separate expensive
+[61.2s - 63.0s] the four shifts that separate expensive experiments just from transformational
+[63.0s - 63.0s] experiments just from transformational
+[63.0s - 65.3s] experiments just from transformational implementations and the exact discovery
+[65.3s - 65.4s] implementations and the exact discovery
+[65.4s - 67.3s] implementations and the exact discovery framework that we use in our company to
+[67.3s - 67.3s] framework that we use in our company to
+[67.3s - 69.0s] framework that we use in our company to identify six and seven figure
+[69.0s - 69.0s] identify six and seven figure
+[69.0s - 71.0s] identify six and seven figure opportunities hidden inside your current
+[71.0s - 71.0s] opportunities hidden inside your current
+[71.0s - 73.4s] opportunities hidden inside your current operations. And of course how to build
+[73.4s - 73.4s] operations. And of course how to build
+[73.4s - 75.8s] operations. And of course how to build what we call the AI core. This is the
+[75.8s - 75.8s] what we call the AI core. This is the
+[75.8s - 77.7s] what we call the AI core. This is the foundational infrastructure that allows
+[77.7s - 77.8s] foundational infrastructure that allows
+[77.8s - 79.7s] foundational infrastructure that allows everything else to actually [music] all
+[79.7s - 79.7s] everything else to actually [music] all
+[79.7s - 81.7s] everything else to actually [music] all work together and create compound
+[81.7s - 81.7s] work together and create compound
+[81.7s - 83.0s] work together and create compound leverage inside of your business. So,
+[83.0s - 83.0s] leverage inside of your business. So,
+[83.0s - 84.5s] leverage inside of your business. So, let's get into it. Before we dive in,
+[84.5s - 84.5s] let's get into it. Before we dive in,
+[84.5s - 85.6s] let's get into it. Before we dive in, everything that I'm going to be showing
+[85.6s - 85.6s] everything that I'm going to be showing
+[85.6s - 87.2s] everything that I'm going to be showing you, the complete discovery audit
+[87.2s - 87.2s] you, the complete discovery audit
+[87.2s - 89.0s] you, the complete discovery audit template, the ROI calculation [music]
+[89.0s - 89.0s] template, the ROI calculation [music]
+[89.0s - 91.8s] template, the ROI calculation [music] framework, and the prioritization matrix
+[91.8s - 91.8s] framework, and the prioritization matrix
+[91.8s - 93.8s] framework, and the prioritization matrix and the interview questions that we ask,
+[93.8s - 93.8s] and the interview questions that we ask,
+[93.8s - 95.5s] and the interview questions that we ask, it is all going to be available for free
+[95.5s - 95.5s] it is all going to be available for free
+[95.5s - 97.6s] it is all going to be available for free down below in the description. So, you
+[97.6s - 97.6s] down below in the description. So, you
+[97.6s - 99.4s] down below in the description. So, you can take these frameworks and run them
+[99.4s - 99.4s] can take these frameworks and run them
+[99.4s - 100.9s] can take these frameworks and run them in your business today. Now, after our
+[100.9s - 100.9s] in your business today. Now, after our
+[100.9s - 102.5s] in your business today. Now, after our team has spent more than 100 hours on
+[102.5s - 102.6s] team has spent more than 100 hours on
+[102.6s - 104.0s] team has spent more than 100 hours on consulting calls with business owners
+[104.0s - 104.0s] consulting calls with business owners
+[104.0s - 105.8s] consulting calls with business owners just like you, we have identified four
+[105.8s - 105.8s] just like you, we have identified four
+[105.8s - 107.9s] just like you, we have identified four critical mindset shifts that separate
+[107.9s - 107.9s] critical mindset shifts that separate
+[107.9s - 110.0s] critical mindset shifts that separate businesses that waste their money on AI
+[110.0s - 110.0s] businesses that waste their money on AI
+[110.0s - 112.3s] businesses that waste their money on AI experiments and chasing shiny objects
+[112.3s - 112.3s] experiments and chasing shiny objects
+[112.3s - 113.9s] experiments and chasing shiny objects from businesses that fundamentally
+[113.9s - 113.9s] from businesses that fundamentally
+[113.9s - 115.3s] from businesses that fundamentally transform their operations and their
+[115.3s - 115.4s] transform their operations and their
+[115.4s - 118.5s] transform their operations and their competitive pricing as a result. So,
+[118.5s - 118.5s] competitive pricing as a result. So,
+[118.5s - 120.2s] competitive pricing as a result. So, shift number one is going to be going
+[120.2s - 120.2s] shift number one is going to be going
+[120.2s - 122.7s] shift number one is going to be going from point solutions to infrastructure.
+[122.7s - 122.7s] from point solutions to infrastructure.
+[122.7s - 124.2s] from point solutions to infrastructure. Now, most businesses, [music] they
+[124.2s - 124.2s] Now, most businesses, [music] they
+[124.2s - 126.7s] Now, most businesses, [music] they approach AI transformation the complete
+[126.7s - 126.7s] approach AI transformation the complete
+[126.7s - 129.3s] approach AI transformation the complete wrong way. they see a problem, then they
+[129.3s - 129.4s] wrong way. they see a problem, then they
+[129.4s - 131.5s] wrong way. they see a problem, then they hire someone to build an automation for
+[131.5s - 131.5s] hire someone to build an automation for
+[131.5s - 133.1s] hire someone to build an automation for that [music] specific problem and then
+[133.1s - 133.1s] that [music] specific problem and then
+[133.1s - 135.1s] that [music] specific problem and then they just move on. So if lead follow-up
+[135.1s - 135.1s] they just move on. So if lead follow-up
+[135.1s - 137.3s] they just move on. So if lead follow-up is slow, build a follow-up system. If
+[137.3s - 137.3s] is slow, build a follow-up system. If
+[137.3s - 139.3s] is slow, build a follow-up system. If invoicing takes too long, just automate
+[139.3s - 139.3s] invoicing takes too long, just automate
+[139.3s - 140.9s] invoicing takes too long, just automate invoice generation. If support tickets
+[140.9s - 141.0s] invoice generation. If support tickets
+[141.0s - 142.9s] invoice generation. If support tickets are piling up, then obviously they you
+[142.9s - 142.9s] are piling up, then obviously they you
+[142.9s - 144.9s] are piling up, then obviously they you can add a chatbot. Now 6 months later,
+[144.9s - 145.0s] can add a chatbot. Now 6 months later,
+[145.0s - 146.4s] can add a chatbot. Now 6 months later, they have a dozen disconnected
+[146.4s - 146.4s] they have a dozen disconnected
+[146.4s - 148.2s] they have a dozen disconnected automations that just simply do not talk
+[148.2s - 148.2s] automations that just simply do not talk
+[148.2s - 150.4s] automations that just simply do not talk to each other. Now the follow-up system
+[150.4s - 150.4s] to each other. Now the follow-up system
+[150.4s - 152.0s] to each other. Now the follow-up system does not know what the chatbot has
+[152.0s - 152.0s] does not know what the chatbot has
+[152.0s - 153.8s] does not know what the chatbot has promised the customer. The invoice
+[153.8s - 153.8s] promised the customer. The invoice
+[153.8s - 155.7s] promised the customer. The invoice automation does not trigger the delivery
+[155.7s - 155.7s] automation does not trigger the delivery
+[155.7s - 158.6s] automation does not trigger the delivery workflow. Now nothing shares data
+[158.6s - 158.6s] workflow. Now nothing shares data
+[158.6s - 160.9s] workflow. Now nothing shares data between all of these systems. Now every
+[160.9s - 161.0s] between all of these systems. Now every
+[161.0s - 163.3s] between all of these systems. Now every new project it requires just rebuilding
+[163.3s - 163.3s] new project it requires just rebuilding
+[163.3s - 164.8s] new project it requires just rebuilding half of what already exists because
+[164.8s - 164.8s] half of what already exists because
+[164.8s - 166.4s] half of what already exists because there is no foundation to actually build
+[166.4s - 166.4s] there is no foundation to actually build
+[166.4s - 168.1s] there is no foundation to actually build upon. And this is the fundamental
+[168.1s - 168.1s] upon. And this is the fundamental
+[168.1s - 170.5s] upon. And this is the fundamental mistake is treating AI as point
+[170.5s - 170.5s] mistake is treating AI as point
+[170.5s - 172.7s] mistake is treating AI as point solutions instead of infrastructure. Now
+[172.7s - 172.7s] solutions instead of infrastructure. Now
+[172.7s - 174.6s] solutions instead of infrastructure. Now what you actually need is going to be a
+[174.6s - 174.6s] what you actually need is going to be a
+[174.6s - 177.0s] what you actually need is going to be a unified system where every automation
+[177.0s - 177.0s] unified system where every automation
+[177.0s - 179.3s] unified system where every automation builds on the same foundation. It shares
+[179.3s - 179.3s] builds on the same foundation. It shares
+[179.3s - 181.4s] builds on the same foundation. It shares the same data and it connects to
+[181.4s - 181.4s] the same data and it connects to
+[181.4s - 183.2s] the same data and it connects to everything else. Now [music] of course
+[183.2s - 183.2s] everything else. Now [music] of course
+[183.2s - 185.1s] everything else. Now [music] of course as we mentioned before we call this our
+[185.1s - 185.1s] as we mentioned before we call this our
+[185.1s - 186.9s] as we mentioned before we call this our AI core. So you could think of this like
+[186.9s - 187.0s] AI core. So you could think of this like
+[187.0s - 189.0s] AI core. So you could think of this like the nervous system in your body. [music]
+[189.0s - 189.0s] the nervous system in your body. [music]
+[189.0s - 191.5s] the nervous system in your body. [music] So you do not have separate disconnected
+[191.5s - 191.5s] So you do not have separate disconnected
+[191.5s - 194.1s] So you do not have separate disconnected systems for moving your arm or even
+[194.1s - 194.1s] systems for moving your arm or even
+[194.1s - 196.6s] systems for moving your arm or even breathing and digesting food. You have
+[196.6s - 196.6s] breathing and digesting food. You have
+[196.6s - 198.1s] breathing and digesting food. You have one integrated nervous [music] system
+[198.1s - 198.1s] one integrated nervous [music] system
+[198.1s - 200.0s] one integrated nervous [music] system that just coordinates everything. Now
+[200.0s - 200.0s] that just coordinates everything. Now
+[200.0s - 201.8s] that just coordinates everything. Now the part that most people misunderstand
+[201.8s - 201.8s] the part that most people misunderstand
+[201.8s - 203.6s] the part that most people misunderstand here is that you do not build your AI
+[203.6s - 203.6s] here is that you do not build your AI
+[203.6s - 205.9s] here is that you do not build your AI core as a separate infrastructure
+[205.9s - 205.9s] core as a separate infrastructure
+[205.9s - 208.1s] core as a separate infrastructure project and then build automations just
+[208.1s - 208.2s] project and then build automations just
+[208.2s - 209.7s] project and then build automations just stacking [music] on top of that. Now
+[209.7s - 209.7s] stacking [music] on top of that. Now
+[209.7s - 211.7s] stacking [music] on top of that. Now that would take months with no delivered
+[211.7s - 211.7s] that would take months with no delivered
+[211.7s - 213.5s] that would take months with no delivered value and no business owner will pay for
+[213.5s - 213.5s] value and no business owner will pay for
+[213.5s - 215.1s] value and no business owner will pay for that. [music] I know because we have
+[215.1s - 215.1s] that. [music] I know because we have
+[215.1s - 216.9s] that. [music] I know because we have tried to do this from experience where
+[216.9s - 216.9s] tried to do this from experience where
+[216.9s - 218.7s] tried to do this from experience where we tried to do this as complete separate
+[218.7s - 218.7s] we tried to do this as complete separate
+[218.7s - 220.2s] we tried to do this as complete separate projects and it just failed in [music]
+[220.2s - 220.2s] projects and it just failed in [music]
+[220.2s - 222.0s] projects and it just failed in [music] the sense that it took way too long and
+[222.0s - 222.0s] the sense that it took way too long and
+[222.0s - 224.1s] the sense that it took way too long and it got way too expensive as opposed to
+[224.1s - 224.2s] it got way too expensive as opposed to
+[224.2s - 226.2s] it got way too expensive as opposed to what I'm about to present. So what you
+[226.2s - 226.2s] what I'm about to present. So what you
+[226.2s - 228.3s] what I'm about to present. So what you want to do instead is you build the AI
+[228.3s - 228.3s] want to do instead is you build the AI
+[228.3s - 230.3s] want to do instead is you build the AI core incrementally through quick wins.
+[230.3s - 230.3s] core incrementally through quick wins.
+[230.3s - 231.9s] core incrementally through quick wins. Now your first automation, let's just
+[231.9s - 231.9s] Now your first automation, let's just
+[231.9s - 234.2s] Now your first automation, let's just say this is going to be lead response.
+[234.2s - 234.2s] say this is going to be lead response.
+[234.2s - 236.1s] say this is going to be lead response. Now this isn't just a chatbot. It is
+[236.1s - 236.2s] Now this isn't just a chatbot. It is
+[236.2s - 237.3s] Now this isn't just a chatbot. It is going to be the beginning of your
+[237.3s - 237.3s] going to be the beginning of your
+[237.3s - 239.3s] going to be the beginning of your foundation, your integration patterns,
+[239.3s - 239.4s] foundation, your integration patterns,
+[239.4s - 241.7s] foundation, your integration patterns, your command center. It's architected
+[241.7s - 241.7s] your command center. It's architected
+[241.7s - 244.2s] your command center. It's architected from day one to be extended, not
+[244.2s - 244.2s] from day one to be extended, not
+[244.2s - 246.5s] from day one to be extended, not necessarily isolated. Now, your second
+[246.5s - 246.5s] necessarily isolated. Now, your second
+[246.5s - 248.5s] necessarily isolated. Now, your second automation is going to connect to the
+[248.5s - 248.5s] automation is going to connect to the
+[248.5s - 250.4s] automation is going to connect to the same database just using the same
+[250.4s - 250.4s] same database just using the same
+[250.4s - 252.0s] same database just using the same integration [music] patterns and then
+[252.0s - 252.0s] integration [music] patterns and then
+[252.0s - 254.6s] integration [music] patterns and then it's going to add to the same dashboard.
+[254.6s - 254.6s] it's going to add to the same dashboard.
+[254.6s - 256.6s] it's going to add to the same dashboard. Now, they can talk to each other. Now,
+[256.6s - 256.6s] Now, they can talk to each other. Now,
+[256.6s - 258.6s] Now, they can talk to each other. Now, your third automation, if there even is
+[258.6s - 258.6s] your third automation, if there even is
+[258.6s - 260.3s] your third automation, if there even is another third automation, which
+[260.3s - 260.3s] another third automation, which
+[260.3s - 262.1s] another third automation, which typically there is inside of a business,
+[262.1s - 262.1s] typically there is inside of a business,
+[262.1s - 263.7s] typically there is inside of a business, there's a lot to do. This is going to
+[263.7s - 263.7s] there's a lot to do. This is going to
+[263.7s - 265.1s] there's a lot to do. This is going to extend it further. So by the time that
+[265.1s - 265.1s] extend it further. So by the time that
+[265.1s - 267.1s] extend it further. So by the time that you have delivered about five quick wins
+[267.1s - 267.1s] you have delivered about five quick wins
+[267.1s - 269.4s] you have delivered about five quick wins over a few months, you have built the AI
+[269.4s - 269.4s] over a few months, you have built the AI
+[269.4s - 271.5s] over a few months, you have built the AI core without even calling it that. Now
+[271.5s - 271.5s] core without even calling it that. Now
+[271.5s - 273.4s] core without even calling it that. Now that is what infrastructure thinking
+[273.4s - 273.4s] that is what infrastructure thinking
+[273.4s - 275.4s] that is what infrastructure thinking means. So every system that you build
+[275.4s - 275.4s] means. So every system that you build
+[275.4s - 277.3s] means. So every system that you build today, it is designed with the
+[277.3s - 277.3s] today, it is designed with the
+[277.3s - 279.7s] today, it is designed with the assumption that five more systems will
+[279.7s - 279.7s] assumption that five more systems will
+[279.7s - 282.0s] assumption that five more systems will need to connect to it tomorrow. So
+[282.0s - 282.0s] need to connect to it tomorrow. So
+[282.0s - 283.6s] need to connect to it tomorrow. So you're not automating tasks. You're
+[283.6s - 283.6s] you're not automating tasks. You're
+[283.6s - 285.4s] you're not automating tasks. You're building an operational nervous system
+[285.4s - 285.4s] building an operational nervous system
+[285.4s - 287.4s] building an operational nervous system piece by piece just through delivering
+[287.4s - 287.4s] piece by piece just through delivering
+[287.4s - 289.4s] piece by piece just through delivering immediate value. And this is going to be
+[289.4s - 289.4s] immediate value. And this is going to be
+[289.4s - 291.4s] immediate value. And this is going to be the difference between spending $10,000
+[291.4s - 291.4s] the difference between spending $10,000
+[291.4s - 292.9s] the difference between spending $10,000 every single time that you want to
+[292.9s - 293.0s] every single time that you want to
+[293.0s - 295.4s] every single time that you want to automate something new versus spending
+[295.4s - 295.4s] automate something new versus spending
+[295.4s - 297.5s] automate something new versus spending $10,000 on your first quick win, but
+[297.5s - 297.5s] $10,000 on your first quick win, but
+[297.5s - 299.7s] $10,000 on your first quick win, but architecting it properly so that your
+[299.7s - 299.8s] architecting it properly so that your
+[299.8s - 301.6s] architecting it properly so that your second automation costs $8,000, [music]
+[301.6s - 301.6s] second automation costs $8,000, [music]
+[301.6s - 303.8s] second automation costs $8,000, [music] your third cost a few thousand. And by
+[303.8s - 303.8s] your third cost a few thousand. And by
+[303.8s - 306.1s] your third cost a few thousand. And by the time you've invested $50,000, you
+[306.1s - 306.1s] the time you've invested $50,000, you
+[306.1s - 307.7s] the time you've invested $50,000, you have seven working automations in a
+[307.7s - 307.8s] have seven working automations in a
+[307.8s - 310.3s] have seven working automations in a complete infrastructure. Now, most
+[310.3s - 310.3s] complete infrastructure. Now, most
+[310.3s - 311.6s] complete infrastructure. Now, most businesses, they're just [music] buying
+[311.6s - 311.6s] businesses, they're just [music] buying
+[311.6s - 314.0s] businesses, they're just [music] buying isolated tools, oneoff custom
+[314.0s - 314.0s] isolated tools, oneoff custom
+[314.0s - 317.2s] isolated tools, oneoff custom development for their operations. you
+[317.2s - 317.2s] development for their operations. you
+[317.2s - 318.4s] development for their operations. you instead you need to be building
+[318.4s - 318.4s] instead you need to be building
+[318.4s - 319.7s] instead you need to be building infrastructure through disciplined
+[319.7s - 319.8s] infrastructure through disciplined
+[319.8s - 321.4s] infrastructure through disciplined execution and that all comes with having
+[321.4s - 321.4s] execution and that all comes with having
+[321.4s - 322.6s] execution and that all comes with having a plan which I'm going [music] to be
+[322.6s - 322.6s] a plan which I'm going [music] to be
+[322.6s - 328.0s] a plan which I'm going [music] to be presenting this video.
+[328.0s - 329.2s] Most business owners when they start
+[329.2s - 329.2s] Most business owners when they start
+[329.2s - 330.9s] Most business owners when they start working with us or even on our initial
+[330.9s - 331.0s] working with us or even on our initial
+[331.0s - 332.9s] working with us or even on our initial conversation they tell me what they
+[332.9s - 333.0s] conversation they tell me what they
+[333.0s - 334.5s] conversation they tell me what they think that their problem is and they're
+[334.5s - 334.5s] think that their problem is and they're
+[334.5s - 336.0s] think that their problem is and they're usually wrong. So maybe they tell me
+[336.0s - 336.0s] usually wrong. So maybe they tell me
+[336.0s - 337.3s] usually wrong. So maybe they tell me that their problem is tenant
+[337.3s - 337.3s] that their problem is tenant
+[337.3s - 339.6s] that their problem is tenant communication or proposal creation or
+[339.6s - 339.6s] communication or proposal creation or
+[339.6s - 341.5s] communication or proposal creation or maybe support ticket volume but those
+[341.5s - 341.5s] maybe support ticket volume but those
+[341.5s - 343.0s] maybe support ticket volume but those are not problems. Those are actually
+[343.0s - 343.0s] are not problems. Those are actually
+[343.0s - 344.9s] are not problems. Those are actually symptoms. So, a property management
+[344.9s - 344.9s] symptoms. So, a property management
+[344.9s - 346.7s] symptoms. So, a property management company not long ago, they came to us
+[346.7s - 346.7s] company not long ago, they came to us
+[346.7s - 349.1s] company not long ago, they came to us just drowning in emails and phone calls.
+[349.1s - 349.1s] just drowning in emails and phone calls.
+[349.1s - 350.9s] just drowning in emails and phone calls. So, tenant complaints, they were quite
+[350.9s - 351.0s] So, tenant complaints, they were quite
+[351.0s - 352.1s] So, tenant complaints, they were quite literally everywhere. Maintenance
+[352.1s - 352.2s] literally everywhere. Maintenance
+[352.2s - 353.7s] literally everywhere. Maintenance requests, they were piling up. Their
+[353.7s - 353.8s] requests, they were piling up. Their
+[353.8s - 355.4s] requests, they were piling up. Their support team, they were just completely
+[355.4s - 355.4s] support team, they were just completely
+[355.4s - 356.8s] support team, they were just completely overwhelmed. So, they were convinced
+[356.8s - 356.8s] overwhelmed. So, they were convinced
+[356.8s - 358.4s] overwhelmed. So, they were convinced that they needed to automate tenant
+[358.4s - 358.4s] that they needed to automate tenant
+[358.4s - 359.9s] that they needed to automate tenant communication. And they were not
+[359.9s - 359.9s] communication. And they were not
+[359.9s - 362.0s] communication. And they were not necessarily wrong. But when we actually
+[362.0s - 362.0s] necessarily wrong. But when we actually
+[362.0s - 363.4s] necessarily wrong. But when we actually interviewed their team and mapped their
+[363.4s - 363.4s] interviewed their team and mapped their
+[363.4s - 365.2s] interviewed their team and mapped their workflows, we actually uncovered
+[365.2s - 365.2s] workflows, we actually uncovered
+[365.2s - 366.9s] workflows, we actually uncovered something completely different. They
+[366.9s - 366.9s] something completely different. They
+[366.9s - 368.6s] something completely different. They weren't inherently losing time on ten of
+[368.6s - 368.6s] weren't inherently losing time on ten of
+[368.6s - 370.8s] weren't inherently losing time on ten of communication, but they were losing
+[370.8s - 370.8s] communication, but they were losing
+[370.8s - 372.8s] communication, but they were losing deals. 30% of their inbound leads, they
+[372.8s - 372.8s] deals. 30% of their inbound leads, they
+[372.8s - 374.6s] deals. 30% of their inbound leads, they never actually converted. And this was
+[374.6s - 374.6s] never actually converted. And this was
+[374.6s - 376.8s] never actually converted. And this was not because of bad communication, but
+[376.8s - 376.8s] not because of bad communication, but
+[376.8s - 378.6s] not because of bad communication, but instead because their average response
+[378.6s - 378.6s] instead because their average response
+[378.6s - 380.9s] instead because their average response time was 3 to four hours. Now, by the
+[380.9s - 381.0s] time was 3 to four hours. Now, by the
+[381.0s - 382.4s] time was 3 to four hours. Now, by the time that they had called all of their
+[382.4s - 382.4s] time that they had called all of their
+[382.4s - 384.6s] time that they had called all of their prospects back, those people, they had
+[384.6s - 384.6s] prospects back, those people, they had
+[384.6s - 386.2s] prospects back, those people, they had already signed leases with competitors
+[386.2s - 386.2s] already signed leases with competitors
+[386.2s - 388.1s] already signed leases with competitors who responded in minutes or just
+[388.1s - 388.1s] who responded in minutes or just
+[388.1s - 390.8s] who responded in minutes or just completely lost interest. Now, the chaos
+[390.8s - 390.8s] completely lost interest. Now, the chaos
+[390.8s - 392.7s] completely lost interest. Now, the chaos that they were experiencing downstream
+[392.7s - 392.7s] that they were experiencing downstream
+[392.7s - 394.9s] that they were experiencing downstream was created by a breakdown that was
+[394.9s - 394.9s] was created by a breakdown that was
+[394.9s - 396.6s] was created by a breakdown that was actually upstream. So fix the lead
+[396.6s - 396.6s] actually upstream. So fix the lead
+[396.6s - 397.7s] actually upstream. So fix the lead response problem and have the
+[397.7s - 397.8s] response problem and have the
+[397.8s - 399.4s] response problem and have the operational chaos disappears just
+[399.4s - 399.4s] operational chaos disappears just
+[399.4s - 401.3s] operational chaos disappears just because you were bringing in better
+[401.3s - 401.3s] because you were bringing in better
+[401.3s - 404.1s] because you were bringing in better qualified tenants who just cause fewer
+[404.1s - 404.1s] qualified tenants who just cause fewer
+[404.1s - 405.4s] qualified tenants who just cause fewer issues. Now, if they had actually
+[405.4s - 405.4s] issues. Now, if they had actually
+[405.4s - 406.9s] issues. Now, if they had actually automated what they thought was their
+[406.9s - 407.0s] automated what they thought was their
+[407.0s - 408.6s] automated what they thought was their problem, they would have spent maybe
+[408.6s - 408.6s] problem, they would have spent maybe
+[408.6s - 410.2s] problem, they would have spent maybe $30,000 building a better tenant
+[410.2s - 410.2s] $30,000 building a better tenant
+[410.2s - 412.1s] $30,000 building a better tenant communication system while continuing to
+[412.1s - 412.1s] communication system while continuing to
+[412.1s - 414.8s] communication system while continuing to lose $200,000 annually in missed lease
+[414.8s - 414.8s] lose $200,000 annually in missed lease
+[414.8s - 416.1s] lose $200,000 annually in missed lease opportunities. Now, what you might
+[416.1s - 416.1s] opportunities. Now, what you might
+[416.1s - 417.5s] opportunities. Now, what you might actually think is your problem, it's
+[417.5s - 417.5s] actually think is your problem, it's
+[417.5s - 419.8s] actually think is your problem, it's almost always a symptom. But the real
+[419.8s - 419.8s] almost always a symptom. But the real
+[419.8s - 421.7s] almost always a symptom. But the real problem, it's just buried three steps
+[421.7s - 421.7s] problem, it's just buried three steps
+[421.7s - 423.7s] problem, it's just buried three steps upstream, hidden in a process that you
+[423.7s - 423.7s] upstream, hidden in a process that you
+[423.7s - 425.4s] upstream, hidden in a process that you didn't even know was broken in the first
+[425.4s - 425.4s] didn't even know was broken in the first
+[425.4s - 426.8s] didn't even know was broken in the first place. You can't automate what you don't
+[426.8s - 426.8s] place. You can't automate what you don't
+[426.8s - 428.7s] place. You can't automate what you don't understand. And you can't understand
+[428.7s - 428.7s] understand. And you can't understand
+[428.7s - 430.6s] understand. And you can't understand your business just by looking at where
+[430.6s - 430.6s] your business just by looking at where
+[430.6s - 432.2s] your business just by looking at where your team is actually spending their
+[432.2s - 432.2s] your team is actually spending their
+[432.2s - 433.7s] your team is actually spending their time. You simply have to ask them why
+[433.7s - 433.8s] time. You simply have to ask them why
+[433.8s - 435.1s] time. You simply have to ask them why they are spending time there in the
+[435.1s - 435.1s] they are spending time there in the
+[435.1s - 437.4s] they are spending time there in the first place. What actually has broke
+[437.4s - 437.4s] first place. What actually has broke
+[437.4s - 439.4s] first place. What actually has broke upstream? What inefficiency is creating
+[439.4s - 439.4s] upstream? What inefficiency is creating
+[439.4s - 441.4s] upstream? What inefficiency is creating this downstream chaos? And the companies
+[441.4s - 441.4s] this downstream chaos? And the companies
+[441.4s - 443.9s] this downstream chaos? And the companies that do succeed with AI transformation,
+[443.9s - 443.9s] that do succeed with AI transformation,
+[443.9s - 445.3s] that do succeed with AI transformation, they are going to be the ones that are
+[445.3s - 445.3s] they are going to be the ones that are
+[445.3s - 447.4s] they are going to be the ones that are just willing to actually just take a
+[447.4s - 447.4s] just willing to actually just take a
+[447.4s - 450.1s] just willing to actually just take a step back and question everything. So
+[450.1s - 450.2s] step back and question everything. So
+[450.2s - 452.3s] step back and question everything. So not just asking like how do we automate
+[452.3s - 452.3s] not just asking like how do we automate
+[452.3s - 455.0s] not just asking like how do we automate this process, but instead should this
+[455.0s - 455.0s] this process, but instead should this
+[455.0s - 457.0s] this process, but instead should this process even exist in the first place?
+[457.0s - 457.0s] process even exist in the first place?
+[457.0s - 458.9s] process even exist in the first place? Shift number three, I see this trap
+[458.9s - 458.9s] Shift number three, I see this trap
+[458.9s - 460.6s] Shift number three, I see this trap constantly. Business owners, they get
+[460.6s - 460.6s] constantly. Business owners, they get
+[460.6s - 462.7s] constantly. Business owners, they get excited about AI capabilities. They want
+[462.7s - 462.7s] excited about AI capabilities. They want
+[462.7s - 464.9s] excited about AI capabilities. They want the latest maybe voice agent. They want
+[464.9s - 464.9s] the latest maybe voice agent. They want
+[464.9s - 467.6s] the latest maybe voice agent. They want the latest chatbot that is the most
+[467.6s - 467.6s] the latest chatbot that is the most
+[467.6s - 470.0s] the latest chatbot that is the most empathetic. They want an automated email
+[470.0s - 470.0s] empathetic. They want an automated email
+[470.0s - 471.9s] empathetic. They want an automated email sequence and when I actually ask them
+[471.9s - 471.9s] sequence and when I actually ask them
+[471.9s - 473.6s] sequence and when I actually ask them like what specific business outcome are
+[473.6s - 473.6s] like what specific business outcome are
+[473.6s - 475.9s] like what specific business outcome are you trying to achieve they can't give me
+[475.9s - 475.9s] you trying to achieve they can't give me
+[475.9s - 478.4s] you trying to achieve they can't give me a clear truly sound answer. So what we
+[478.4s - 478.4s] a clear truly sound answer. So what we
+[478.4s - 480.6s] a clear truly sound answer. So what we found is the question that you actually
+[480.6s - 480.6s] found is the question that you actually
+[480.6s - 483.8s] found is the question that you actually need to ask is not what can AI actually
+[483.8s - 483.8s] need to ask is not what can AI actually
+[483.8s - 485.8s] need to ask is not what can AI actually do. Instead the question that you should
+[485.8s - 485.8s] do. Instead the question that you should
+[485.8s - 487.1s] do. Instead the question that you should be asking is what is this problem
+[487.1s - 487.1s] be asking is what is this problem
+[487.1s - 488.8s] be asking is what is this problem actually costing me right now? So to
+[488.8s - 488.8s] actually costing me right now? So to
+[488.8s - 491.0s] actually costing me right now? So to just break that down further from a past
+[491.0s - 491.0s] just break that down further from a past
+[491.0s - 492.9s] just break that down further from a past project we had three property managers
+[492.9s - 493.0s] project we had three property managers
+[493.0s - 495.8s] project we had three property managers at $58,000 each spending 15 hours per
+[495.8s - 495.8s] at $58,000 each spending 15 hours per
+[495.8s - 498.8s] at $58,000 each spending 15 hours per week on admin tasks. Now, that's $78,000
+[498.8s - 498.8s] week on admin tasks. Now, that's $78,000
+[498.8s - 501.3s] week on admin tasks. Now, that's $78,000 annually in labor costs on tasks. That
+[501.3s - 501.3s] annually in labor costs on tasks. That
+[501.3s - 503.2s] annually in labor costs on tasks. That could just be systemized. Now, a lead
+[503.2s - 503.2s] could just be systemized. Now, a lead
+[503.2s - 505.2s] could just be systemized. Now, a lead coordinator spending 35 hours weekly on
+[505.2s - 505.2s] coordinator spending 35 hours weekly on
+[505.2s - 507.3s] coordinator spending 35 hours weekly on manual lead processing at, let's say,
+[507.3s - 507.3s] manual lead processing at, let's say,
+[507.3s - 510.9s] manual lead processing at, let's say, $65,000 salary. That's another $37,000
+[510.9s - 510.9s] $65,000 salary. That's another $37,000
+[510.9s - 512.2s] $65,000 salary. That's another $37,000 annually. Error correction, when
+[512.2s - 512.2s] annually. Error correction, when
+[512.2s - 513.3s] annually. Error correction, when maintenance requests get
+[513.3s - 513.3s] maintenance requests get
+[513.3s - 515.7s] maintenance requests get miscatategorized and require rework.
+[515.7s - 515.7s] miscatategorized and require rework.
+[515.7s - 518.0s] miscatategorized and require rework. This adds another almost $10,000
+[518.0s - 518.0s] This adds another almost $10,000
+[518.0s - 519.9s] This adds another almost $10,000 annually in hidden costs. But now you
+[519.9s - 519.9s] annually in hidden costs. But now you
+[519.9s - 521.6s] annually in hidden costs. But now you actually have a number. Now you can make
+[521.6s - 521.6s] actually have a number. Now you can make
+[521.6s - 523.6s] actually have a number. Now you can make a business decision. So, if I were to
+[523.6s - 523.6s] a business decision. So, if I were to
+[523.6s - 525.7s] a business decision. So, if I were to invest $50,000 to automate these
+[525.7s - 525.7s] invest $50,000 to automate these
+[525.7s - 528.9s] invest $50,000 to automate these workflows and save $124,000 annually in
+[528.9s - 529.0s] workflows and save $124,000 annually in
+[529.0s - 530.7s] workflows and save $124,000 annually in direct and hidden costs, that's going to
+[530.7s - 530.7s] direct and hidden costs, that's going to
+[530.7s - 533.4s] direct and hidden costs, that's going to be $148% return on investment in year
+[533.4s - 533.4s] be $148% return on investment in year
+[533.4s - 535.4s] be $148% return on investment in year one. And it compounds every year after
+[535.4s - 535.4s] one. And it compounds every year after
+[535.4s - 537.4s] one. And it compounds every year after that. Now, with all of that being said,
+[537.4s - 537.4s] that. Now, with all of that being said,
+[537.4s - 539.8s] that. Now, with all of that being said, before we build anything for a client,
+[539.8s - 539.8s] before we build anything for a client,
+[539.8s - 542.0s] before we build anything for a client, we create an ROI model. So, the current
+[542.0s - 542.0s] we create an ROI model. So, the current
+[542.0s - 543.8s] we create an ROI model. So, the current state costs, the revenue impact
+[543.8s - 543.8s] state costs, the revenue impact
+[543.8s - 545.4s] state costs, the revenue impact potential, the realistic ramp up
+[545.4s - 545.4s] potential, the realistic ramp up
+[545.4s - 547.4s] potential, the realistic ramp up periods, and we also take the first year
+[547.4s - 547.4s] periods, and we also take the first year
+[547.4s - 549.4s] periods, and we also take the first year realized benefits calculated pretty
+[549.4s - 549.4s] realized benefits calculated pretty
+[549.4s - 551.6s] realized benefits calculated pretty conservatively at about 60% of the full
+[551.6s - 551.6s] conservatively at about 60% of the full
+[551.6s - 553.0s] conservatively at about 60% of the full potential. just because we want to
+[553.0s - 553.0s] potential. just because we want to
+[553.0s - 555.2s] potential. just because we want to exceed projections, not fall short of
+[555.2s - 555.2s] exceed projections, not fall short of
+[555.2s - 557.0s] exceed projections, not fall short of them. Now, this ROI calculation template
+[557.0s - 557.0s] them. Now, this ROI calculation template
+[557.0s - 558.5s] them. Now, this ROI calculation template is going to be in the description that
+[558.5s - 558.6s] is going to be in the description that
+[558.6s - 560.0s] is going to be in the description that you can just plug in your own numbers
+[560.0s - 560.0s] you can just plug in your own numbers
+[560.0s - 562.2s] you can just plug in your own numbers and see exactly what transformation
+[562.2s - 562.2s] and see exactly what transformation
+[562.2s - 564.9s] and see exactly what transformation would be worth your business before you
+[564.9s - 564.9s] would be worth your business before you
+[564.9s - 566.2s] would be worth your business before you actually spend a dollar. And that is
+[566.2s - 566.2s] actually spend a dollar. And that is
+[566.2s - 567.8s] actually spend a dollar. And that is really how you need to be thinking about
+[567.8s - 567.8s] really how you need to be thinking about
+[567.8s - 570.8s] really how you need to be thinking about AI transformation, not simply as buying
+[570.8s - 570.8s] AI transformation, not simply as buying
+[570.8s - 572.5s] AI transformation, not simply as buying features, but more as investing in
+[572.5s - 572.6s] features, but more as investing in
+[572.6s - 574.3s] features, but more as investing in infrastructure that's going to create
+[574.3s - 574.3s] infrastructure that's going to create
+[574.3s - 576.7s] infrastructure that's going to create measurable, repeatable, compounding
+[576.7s - 576.7s] measurable, repeatable, compounding
+[576.7s - 578.5s] measurable, repeatable, compounding business outcomes. Shift number four,
+[578.5s - 578.5s] business outcomes. Shift number four,
+[578.5s - 580.0s] business outcomes. Shift number four, this is going to be the one that most
+[580.0s - 580.0s] this is going to be the one that most
+[580.0s - 582.6s] this is going to be the one that most completely miss. And this is why most AI
+[582.6s - 582.6s] completely miss. And this is why most AI
+[582.6s - 585.1s] completely miss. And this is why most AI implementations actually fail even when
+[585.1s - 585.1s] implementations actually fail even when
+[585.1s - 587.5s] implementations actually fail even when the technology works perfectly. Now, you
+[587.5s - 587.5s] the technology works perfectly. Now, you
+[587.5s - 589.6s] the technology works perfectly. Now, you can build the most sophisticated AI
+[589.6s - 589.6s] can build the most sophisticated AI
+[589.6s - 592.0s] can build the most sophisticated AI system in the world. But if your team
+[592.0s - 592.0s] system in the world. But if your team
+[592.0s - 594.8s] system in the world. But if your team does not adopt it, I mean, you've built
+[594.8s - 594.8s] does not adopt it, I mean, you've built
+[594.8s - 596.1s] does not adopt it, I mean, you've built quite literally nothing. You've created
+[596.1s - 596.2s] quite literally nothing. You've created
+[596.2s - 598.1s] quite literally nothing. You've created an expensive science project that just
+[598.1s - 598.2s] an expensive science project that just
+[598.2s - 599.8s] an expensive science project that just sits unused while your team just
+[599.8s - 599.8s] sits unused while your team just
+[599.8s - 602.1s] sits unused while your team just continues doing things the oldfashioned
+[602.1s - 602.1s] continues doing things the oldfashioned
+[602.1s - 604.5s] continues doing things the oldfashioned way, going manual. Now I've seen this
+[604.5s - 604.5s] way, going manual. Now I've seen this
+[604.5s - 606.4s] way, going manual. Now I've seen this specific instance kill more AI projects
+[606.4s - 606.4s] specific instance kill more AI projects
+[606.4s - 609.6s] specific instance kill more AI projects than just technical failures in itself
+[609.6s - 609.6s] than just technical failures in itself
+[609.6s - 612.1s] than just technical failures in itself where the system works the ROI it's
+[612.1s - 612.1s] where the system works the ROI it's
+[612.1s - 614.4s] where the system works the ROI it's there but 6 months later nobody is using
+[614.4s - 614.4s] there but 6 months later nobody is using
+[614.4s - 617.4s] there but 6 months later nobody is using it. Now why that actually is is because
+[617.4s - 617.4s] it. Now why that actually is is because
+[617.4s - 619.6s] it. Now why that actually is is because businesses treat AI transformation as a
+[619.6s - 619.6s] businesses treat AI transformation as a
+[619.6s - 621.7s] businesses treat AI transformation as a technical problem when it's actually a
+[621.7s - 621.7s] technical problem when it's actually a
+[621.7s - 622.9s] technical problem when it's actually a people problem. They're skeptical
+[622.9s - 623.0s] people problem. They're skeptical
+[623.0s - 624.9s] people problem. They're skeptical because they have tried AI tools before
+[624.9s - 625.0s] because they have tried AI tools before
+[625.0s - 627.4s] because they have tried AI tools before that just made things worse, not better.
+[627.4s - 627.4s] that just made things worse, not better.
+[627.4s - 629.6s] that just made things worse, not better. And they're overwhelmed because they are
+[629.6s - 629.6s] And they're overwhelmed because they are
+[629.6s - 631.3s] And they're overwhelmed because they are already buried in work. And now you're
+[631.3s - 631.3s] already buried in work. And now you're
+[631.3s - 632.4s] already buried in work. And now you're asking them to learn something
+[632.4s - 632.4s] asking them to learn something
+[632.4s - 633.9s] asking them to learn something completely new that's going to take a
+[633.9s - 633.9s] completely new that's going to take a
+[633.9s - 635.7s] completely new that's going to take a lot of time. And they also feel they
+[635.7s - 635.7s] lot of time. And they also feel they
+[635.7s - 637.8s] lot of time. And they also feel they might get replaced. And they're going to
+[637.8s - 637.8s] might get replaced. And they're going to
+[637.8s - 639.7s] might get replaced. And they're going to be resistant because change it is very
+[639.7s - 639.7s] be resistant because change it is very
+[639.7s - 641.8s] be resistant because change it is very hard. In the old way, it is comfortable
+[641.8s - 641.8s] hard. In the old way, it is comfortable
+[641.8s - 643.7s] hard. In the old way, it is comfortable even if it is inefficient. I mean, this
+[643.7s - 643.7s] even if it is inefficient. I mean, this
+[643.7s - 646.6s] even if it is inefficient. I mean, this is just how the average employee feels.
+[646.6s - 646.6s] is just how the average employee feels.
+[646.6s - 648.5s] is just how the average employee feels. Now, if you do not address all of these
+[648.5s - 648.5s] Now, if you do not address all of these
+[648.5s - 651.0s] Now, if you do not address all of these fears directly, your transformation, it
+[651.0s - 651.0s] fears directly, your transformation, it
+[651.0s - 653.3s] fears directly, your transformation, it will inevitably fail. Point blank
+[653.3s - 653.3s] will inevitably fail. Point blank
+[653.3s - 655.2s] will inevitably fail. Point blank period. Now, the companies that will
+[655.2s - 655.2s] period. Now, the companies that will
+[655.2s - 657.0s] period. Now, the companies that will succeed with AI transformation, they do
+[657.0s - 657.0s] succeed with AI transformation, they do
+[657.0s - 659.0s] succeed with AI transformation, they do three things that most businesses just
+[659.0s - 659.0s] three things that most businesses just
+[659.0s - 661.2s] three things that most businesses just completely skip from what we have seen.
+[661.2s - 661.2s] completely skip from what we have seen.
+[661.2s - 663.7s] completely skip from what we have seen. Now, first, they involve the team in the
+[663.7s - 663.7s] Now, first, they involve the team in the
+[663.7s - 665.4s] Now, first, they involve the team in the discovery process from day one. So, when
+[665.4s - 665.4s] discovery process from day one. So, when
+[665.4s - 666.6s] discovery process from day one. So, when you're interviewing your property
+[666.6s - 666.6s] you're interviewing your property
+[666.6s - 668.9s] you're interviewing your property managers, your sales reps, your support
+[668.9s - 668.9s] managers, your sales reps, your support
+[668.9s - 670.9s] managers, your sales reps, your support team as part of discovery, you're not
+[670.9s - 670.9s] team as part of discovery, you're not
+[670.9s - 672.4s] team as part of discovery, you're not just gathering information. You're
+[672.4s - 672.4s] just gathering information. You're
+[672.4s - 674.0s] just gathering information. You're actually creating buyin. So people
+[674.0s - 674.0s] actually creating buyin. So people
+[674.0s - 676.4s] actually creating buyin. So people support what they actually help create.
+[676.4s - 676.4s] support what they actually help create.
+[676.4s - 678.2s] support what they actually help create. Now second, they frame AI as
+[678.2s - 678.2s] Now second, they frame AI as
+[678.2s - 680.3s] Now second, they frame AI as augmentation, not just replacement. Now
+[680.3s - 680.3s] augmentation, not just replacement. Now
+[680.3s - 681.7s] augmentation, not just replacement. Now your property managers, they aren't
+[681.7s - 681.7s] your property managers, they aren't
+[681.7s - 683.4s] your property managers, they aren't losing their jobs. They're just getting
+[683.4s - 683.4s] losing their jobs. They're just getting
+[683.4s - 686.4s] losing their jobs. They're just getting freed up from 15 hours a week of boring,
+[686.4s - 686.4s] freed up from 15 hours a week of boring,
+[686.4s - 689.4s] freed up from 15 hours a week of boring, monotonous administrative work. So they
+[689.4s - 689.4s] monotonous administrative work. So they
+[689.4s - 691.2s] monotonous administrative work. So they can instead focus on relationship
+[691.2s - 691.2s] can instead focus on relationship
+[691.2s - 692.9s] can instead focus on relationship management and any strategic work that
+[692.9s - 692.9s] management and any strategic work that
+[692.9s - 694.4s] management and any strategic work that actually requires human judgment. And
+[694.4s - 694.4s] actually requires human judgment. And
+[694.4s - 696.0s] actually requires human judgment. And this is where this whole AI age is
+[696.0s - 696.0s] this is where this whole AI age is
+[696.0s - 697.9s] this is where this whole AI age is taking us and where we're seeing all
+[697.9s - 697.9s] taking us and where we're seeing all
+[697.9s - 699.9s] taking us and where we're seeing all these positions actually evolve. Now
+[699.9s - 699.9s] these positions actually evolve. Now
+[699.9s - 701.7s] these positions actually evolve. Now third is they invest in real training.
+[701.7s - 701.7s] third is they invest in real training.
+[701.7s - 703.8s] third is they invest in real training. So, not just a 30-minute overview. It's
+[703.8s - 703.8s] So, not just a 30-minute overview. It's
+[703.8s - 705.0s] So, not just a 30-minute overview. It's going to be a hands-on workshop where
+[705.0s - 705.0s] going to be a hands-on workshop where
+[705.0s - 707.2s] going to be a hands-on workshop where your team actually uses the systems with
+[707.2s - 707.2s] your team actually uses the systems with
+[707.2s - 708.9s] your team actually uses the systems with their real workflows. And this also
+[708.9s - 708.9s] their real workflows. And this also
+[708.9s - 710.3s] their real workflows. And this also requires documentation that's going to
+[710.3s - 710.3s] requires documentation that's going to
+[710.3s - 712.3s] requires documentation that's going to be specific to your business, not really
+[712.3s - 712.3s] be specific to your business, not really
+[712.3s - 714.9s] be specific to your business, not really just generic and also ongoing support
+[714.9s - 715.0s] just generic and also ongoing support
+[715.0s - 716.6s] just generic and also ongoing support during the first 90 days when adoption
+[716.6s - 716.6s] during the first 90 days when adoption
+[716.6s - 719.1s] during the first 90 days when adoption is very fragile. Now, most businesses,
+[719.1s - 719.1s] is very fragile. Now, most businesses,
+[719.1s - 720.7s] is very fragile. Now, most businesses, they just skip all of this. They build a
+[720.7s - 720.7s] they just skip all of this. They build a
+[720.7s - 723.2s] they just skip all of this. They build a system, they do a quick demo, and they
+[723.2s - 723.2s] system, they do a quick demo, and they
+[723.2s - 725.9s] system, they do a quick demo, and they expect everyone's to just figure it out,
+[725.9s - 725.9s] expect everyone's to just figure it out,
+[725.9s - 727.7s] expect everyone's to just figure it out, be able to use it pretty easily, and
+[727.7s - 727.7s] be able to use it pretty easily, and
+[727.7s - 729.0s] be able to use it pretty easily, and then they're shocked when their adoption
+[729.0s - 729.0s] then they're shocked when their adoption
+[729.0s - 732.6s] then they're shocked when their adoption rate is 20% 3 months later. The best AI
+[732.6s - 732.6s] rate is 20% 3 months later. The best AI
+[732.6s - 734.0s] rate is 20% 3 months later. The best AI system in the world that nobody actually
+[734.0s - 734.0s] system in the world that nobody actually
+[734.0s - 736.9s] system in the world that nobody actually uses in your team, it is worth $0. Now
+[736.9s - 736.9s] uses in your team, it is worth $0. Now
+[736.9s - 738.4s] uses in your team, it is worth $0. Now that you understand the four mindset
+[738.4s - 738.4s] that you understand the four mindset
+[738.4s - 739.6s] that you understand the four mindset shifts, I'm going to walk you through
+[739.6s - 739.6s] shifts, I'm going to walk you through
+[739.6s - 741.3s] shifts, I'm going to walk you through the exact discovery framework that we
+[741.3s - 741.3s] the exact discovery framework that we
+[741.3s - 743.2s] the exact discovery framework that we use to identify transformation
+[743.2s - 743.2s] use to identify transformation
+[743.2s - 745.6s] use to identify transformation opportunities and actually build the
+[745.6s - 745.6s] opportunities and actually build the
+[745.6s - 747.8s] opportunities and actually build the business case for AI infrastructure.
+[747.8s - 747.8s] business case for AI infrastructure.
+[747.8s - 749.6s] business case for AI infrastructure. Now, this is a four-phase process. Every
+[749.6s - 749.6s] Now, this is a four-phase process. Every
+[749.6s - 751.1s] Now, this is a four-phase process. Every question I'm about to share, every
+[751.1s - 751.1s] question I'm about to share, every
+[751.1s - 752.8s] question I'm about to share, every framework, every template, it's all
+[752.8s - 752.8s] framework, every template, it's all
+[752.8s - 753.8s] framework, every template, it's all going to be down below in the
+[753.8s - 753.8s] going to be down below in the
+[753.8s - 755.4s] going to be down below in the description for completely free. Phase
+[755.4s - 755.4s] description for completely free. Phase
+[755.4s - 757.4s] description for completely free. Phase one, clarifying business outcomes. Now,
+[757.4s - 757.4s] one, clarifying business outcomes. Now,
+[757.4s - 758.7s] one, clarifying business outcomes. Now, most business owners, they think that
+[758.7s - 758.7s] most business owners, they think that
+[758.7s - 760.1s] most business owners, they think that they want automation, but what they
+[760.1s - 760.2s] they want automation, but what they
+[760.2s - 762.0s] they want automation, but what they actually want is freedom. Freedom from
+[762.0s - 762.0s] actually want is freedom. Freedom from
+[762.0s - 764.5s] actually want is freedom. Freedom from being buried in emails, freedom from
+[764.5s - 764.5s] being buried in emails, freedom from
+[764.5s - 767.8s] being buried in emails, freedom from having to micromanage every process,
+[767.8s - 767.8s] having to micromanage every process,
+[767.8s - 769.9s] having to micromanage every process, freedom to scale without drowning in
+[769.9s - 769.9s] freedom to scale without drowning in
+[769.9s - 772.4s] freedom to scale without drowning in operational chaos. So, because of this,
+[772.4s - 772.4s] operational chaos. So, because of this,
+[772.4s - 774.5s] operational chaos. So, because of this, we do not start discovery by asking what
+[774.5s - 774.6s] we do not start discovery by asking what
+[774.6s - 776.1s] we do not start discovery by asking what can we automate. You should know this
+[776.1s - 776.2s] can we automate. You should know this
+[776.2s - 777.8s] can we automate. You should know this already. We start by asking what does
+[777.8s - 777.8s] already. We start by asking what does
+[777.8s - 780.9s] already. We start by asking what does success look like for you? And it as a
+[780.9s - 780.9s] success look like for you? And it as a
+[780.9s - 783.4s] success look like for you? And it as a result has to be real and it has to
+[783.4s - 783.4s] result has to be real and it has to
+[783.4s - 785.7s] result has to be real and it has to actually be tangible for them. So the
+[785.7s - 785.7s] actually be tangible for them. So the
+[785.7s - 787.8s] actually be tangible for them. So the three questions that we ask every client
+[787.8s - 787.8s] three questions that we ask every client
+[787.8s - 790.1s] three questions that we ask every client at the start of discovery are what does
+[790.1s - 790.1s] at the start of discovery are what does
+[790.1s - 791.5s] at the start of discovery are what does discovery look like for your business in
+[791.5s - 791.5s] discovery look like for your business in
+[791.5s - 793.9s] discovery look like for your business in the next 12 months? What operational
+[793.9s - 793.9s] the next 12 months? What operational
+[793.9s - 795.8s] the next 12 months? What operational constraint if it were going to be
+[795.8s - 795.8s] constraint if it were going to be
+[795.8s - 798.1s] constraint if it were going to be removed would have the biggest impact on
+[798.1s - 798.1s] removed would have the biggest impact on
+[798.1s - 800.1s] removed would have the biggest impact on achieving success? And what is the
+[800.1s - 800.2s] achieving success? And what is the
+[800.2s - 802.2s] achieving success? And what is the bottleneck that is actually holding you
+[802.2s - 802.2s] bottleneck that is actually holding you
+[802.2s - 803.9s] bottleneck that is actually holding you or your team back? And the next question
+[803.9s - 803.9s] or your team back? And the next question
+[803.9s - 805.9s] or your team back? And the next question is if you had 20 extra hours per week
+[805.9s - 805.9s] is if you had 20 extra hours per week
+[805.9s - 807.5s] is if you had 20 extra hours per week back in your schedule where would you
+[807.5s - 807.5s] back in your schedule where would you
+[807.5s - 808.7s] back in your schedule where would you spend that time? So they have to
+[808.7s - 808.7s] spend that time? So they have to
+[808.7s - 810.3s] spend that time? So they have to consider what strategic work that they
+[810.3s - 810.3s] consider what strategic work that they
+[810.3s - 812.0s] consider what strategic work that they are not doing because they are buried in
+[812.0s - 812.0s] are not doing because they are buried in
+[812.0s - 813.6s] are not doing because they are buried in operations and all of these questions
+[813.6s - 813.6s] operations and all of these questions
+[813.6s - 815.9s] operations and all of these questions they force specificity because if you do
+[815.9s - 815.9s] they force specificity because if you do
+[815.9s - 817.3s] they force specificity because if you do not know where you're going any
+[817.3s - 817.3s] not know where you're going any
+[817.3s - 820.3s] not know where you're going any automation will just feel like progress.
+[820.3s - 820.3s] automation will just feel like progress.
+[820.3s - 821.7s] automation will just feel like progress. Phase number two is just going to be
+[821.7s - 821.7s] Phase number two is just going to be
+[821.7s - 823.3s] Phase number two is just going to be mapping the entire business. Now most
+[823.3s - 823.3s] mapping the entire business. Now most
+[823.3s - 825.1s] mapping the entire business. Now most firms they fail at this including us in
+[825.1s - 825.1s] firms they fail at this including us in
+[825.1s - 826.8s] firms they fail at this including us in the past. I mean, we would interview the
+[826.8s - 826.8s] the past. I mean, we would interview the
+[826.8s - 829.2s] the past. I mean, we would interview the CEO, maybe the COO, and think that they
+[829.2s - 829.2s] CEO, maybe the COO, and think that they
+[829.2s - 830.9s] CEO, maybe the COO, and think that they understand how the business actually
+[830.9s - 831.0s] understand how the business actually
+[831.0s - 833.4s] understand how the business actually works, but what executives are
+[833.4s - 833.4s] works, but what executives are
+[833.4s - 835.3s] works, but what executives are describing and what actually happens on
+[835.3s - 835.3s] describing and what actually happens on
+[835.3s - 837.2s] describing and what actually happens on the front line, they're completely
+[837.2s - 837.2s] the front line, they're completely
+[837.2s - 839.1s] the front line, they're completely different things. So, what we do is we
+[839.1s - 839.1s] different things. So, what we do is we
+[839.1s - 841.1s] different things. So, what we do is we interview everybody who touches the
+[841.1s - 841.1s] interview everybody who touches the
+[841.1s - 842.9s] interview everybody who touches the processes that we might actually
+[842.9s - 843.0s] processes that we might actually
+[843.0s - 844.5s] processes that we might actually automate. So, we're going to be using
+[844.5s - 844.5s] automate. So, we're going to be using
+[844.5s - 846.2s] automate. So, we're going to be using our similar property management
+[846.2s - 846.2s] our similar property management
+[846.2s - 847.9s] our similar property management companies. So, the property managers,
+[847.9s - 847.9s] companies. So, the property managers,
+[847.9s - 849.8s] companies. So, the property managers, the leasing agents, the sales reps, the
+[849.8s - 849.8s] the leasing agents, the sales reps, the
+[849.8s - 851.6s] the leasing agents, the sales reps, the customer support, the finance, the
+[851.6s - 851.6s] customer support, the finance, the
+[851.6s - 853.3s] customer support, the finance, the operations, all of these meetings about
+[853.3s - 853.3s] operations, all of these meetings about
+[853.3s - 855.5s] operations, all of these meetings about 30 to 5 minutes each. And the key is we
+[855.5s - 855.5s] 30 to 5 minutes each. And the key is we
+[855.5s - 857.8s] 30 to 5 minutes each. And the key is we do not ask these people like what they
+[857.8s - 857.8s] do not ask these people like what they
+[857.8s - 859.8s] do not ask these people like what they actually do. Because when you ask people
+[859.8s - 859.8s] actually do. Because when you ask people
+[859.8s - 861.4s] actually do. Because when you ask people what they do, they tell you what they
+[861.4s - 861.4s] what they do, they tell you what they
+[861.4s - 863.8s] what they do, they tell you what they think that they do or what they're
+[863.8s - 863.8s] think that they do or what they're
+[863.8s - 866.1s] think that they do or what they're supposed to be doing or what they wish
+[866.1s - 866.1s] supposed to be doing or what they wish
+[866.1s - 868.4s] supposed to be doing or what they wish that they did. Instead, we asked them to
+[868.4s - 868.4s] that they did. Instead, we asked them to
+[868.4s - 870.5s] that they did. Instead, we asked them to walk us through yesterday. Now, the five
+[870.5s - 870.6s] walk us through yesterday. Now, the five
+[870.6s - 873.0s] walk us through yesterday. Now, the five questions that we ask every single team
+[873.0s - 873.0s] questions that we ask every single team
+[873.0s - 874.8s] questions that we ask every single team are typically just asking them to walk
+[874.8s - 874.8s] are typically just asking them to walk
+[874.8s - 876.4s] are typically just asking them to walk us through yesterday from the moment
+[876.4s - 876.4s] us through yesterday from the moment
+[876.4s - 878.4s] us through yesterday from the moment that they started work. And this is just
+[878.4s - 878.4s] that they started work. And this is just
+[878.4s - 880.1s] that they started work. And this is just them understanding what is the most
+[880.1s - 880.2s] them understanding what is the most
+[880.2s - 882.1s] them understanding what is the most time-conuming part of their week was
+[882.1s - 882.2s] time-conuming part of their week was
+[882.2s - 884.9s] time-conuming part of their week was where they believe things were breaking
+[884.9s - 885.0s] where they believe things were breaking
+[885.0s - 888.3s] where they believe things were breaking down most often. What actually causes
+[888.3s - 888.3s] down most often. What actually causes
+[888.3s - 891.2s] down most often. What actually causes those things and causes them to go back
+[891.2s - 891.2s] those things and causes them to go back
+[891.2s - 893.2s] those things and causes them to go back and fix things and gather information
+[893.2s - 893.2s] and fix things and gather information
+[893.2s - 895.5s] and fix things and gather information that is mainly hard to find or just
+[895.5s - 895.5s] that is mainly hard to find or just
+[895.5s - 898.0s] that is mainly hard to find or just doesn't often exist. And lastly, we ask
+[898.0s - 898.0s] doesn't often exist. And lastly, we ask
+[898.0s - 900.1s] doesn't often exist. And lastly, we ask if they could eliminate one thing from
+[900.1s - 900.2s] if they could eliminate one thing from
+[900.2s - 901.5s] if they could eliminate one thing from their weekly routine, what would that
+[901.5s - 901.5s] their weekly routine, what would that
+[901.5s - 903.5s] their weekly routine, what would that actually be? So the deliverable that
+[903.5s - 903.5s] actually be? So the deliverable that
+[903.5s - 905.0s] actually be? So the deliverable that you're going to be getting from this is
+[905.0s - 905.0s] you're going to be getting from this is
+[905.0s - 907.4s] you're going to be getting from this is a complete workflow map that just shows
+[907.4s - 907.4s] a complete workflow map that just shows
+[907.4s - 909.8s] a complete workflow map that just shows the actual current state of the entire
+[909.8s - 909.8s] the actual current state of the entire
+[909.8s - 911.5s] the actual current state of the entire operation. Moving on to the next phase,
+[911.5s - 911.5s] operation. Moving on to the next phase,
+[911.5s - 913.4s] operation. Moving on to the next phase, this is all about identifying AI
+[913.4s - 913.4s] this is all about identifying AI
+[913.4s - 915.6s] this is all about identifying AI opportunities. Now within this, what we
+[915.6s - 915.6s] opportunities. Now within this, what we
+[915.6s - 917.4s] opportunities. Now within this, what we do is just going through every workflow
+[917.4s - 917.4s] do is just going through every workflow
+[917.4s - 919.8s] do is just going through every workflow and asking four critical questions. So
+[919.8s - 919.8s] and asking four critical questions. So
+[919.8s - 921.4s] and asking four critical questions. So question number one, is the input
+[921.4s - 921.4s] question number one, is the input
+[921.4s - 922.9s] question number one, is the input structured enough for a model to
+[922.9s - 922.9s] structured enough for a model to
+[922.9s - 924.9s] structured enough for a model to actually interpret? Now if the input
+[924.9s - 925.0s] actually interpret? Now if the input
+[925.0s - 926.9s] actually interpret? Now if the input follows any consistent patterns, it's
+[926.9s - 927.0s] follows any consistent patterns, it's
+[927.0s - 928.5s] follows any consistent patterns, it's going to be a great candidate actually
+[928.5s - 928.6s] going to be a great candidate actually
+[928.6s - 930.1s] going to be a great candidate actually generate. Question number two, is the
+[930.1s - 930.1s] generate. Question number two, is the
+[930.1s - 931.4s] generate. Question number two, is the [snorts] output predictable enough for a
+[931.4s - 931.4s] [snorts] output predictable enough for a
+[931.4s - 933.0s] [snorts] output predictable enough for a system to actually generate? If the
+[933.0s - 933.0s] system to actually generate? If the
+[933.0s - 935.8s] system to actually generate? If the output follows rules, SOPs or templates,
+[935.8s - 935.8s] output follows rules, SOPs or templates,
+[935.8s - 937.3s] output follows rules, SOPs or templates, certainly automated. Question number
+[937.3s - 937.3s] certainly automated. Question number
+[937.3s - 939.2s] certainly automated. Question number three, are decisions made based on rules
+[939.2s - 939.2s] three, are decisions made based on rules
+[939.2s - 941.1s] three, are decisions made based on rules or SOPs that cannot be taught through
+[941.1s - 941.1s] or SOPs that cannot be taught through
+[941.1s - 942.9s] or SOPs that cannot be taught through prompt engineering. If the decision-m
+[942.9s - 942.9s] prompt engineering. If the decision-m
+[942.9s - 945.4s] prompt engineering. If the decision-m process can be articulated very clearly,
+[945.4s - 945.4s] process can be articulated very clearly,
+[945.4s - 947.6s] process can be articulated very clearly, it can be systemized and leading us into
+[947.6s - 947.6s] it can be systemized and leading us into
+[947.6s - 949.7s] it can be systemized and leading us into question four. Is this task repeated
+[949.7s - 949.7s] question four. Is this task repeated
+[949.7s - 952.0s] question four. Is this task repeated often enough to justify automation
+[952.0s - 952.0s] often enough to justify automation
+[952.0s - 953.5s] often enough to justify automation investment? Now, automating something
+[953.5s - 953.5s] investment? Now, automating something
+[953.5s - 957.0s] investment? Now, automating something that happens maybe 50 times a day, it
+[957.0s - 957.0s] that happens maybe 50 times a day, it
+[957.0s - 958.9s] that happens maybe 50 times a day, it will create massive leverage. Obviously,
+[958.9s - 959.0s] will create massive leverage. Obviously,
+[959.0s - 960.6s] will create massive leverage. Obviously, if we can answer yes to all four
+[960.6s - 960.6s] if we can answer yes to all four
+[960.6s - 962.2s] if we can answer yes to all four questions, then this will be a clear
+[962.2s - 962.2s] questions, then this will be a clear
+[962.2s - 964.9s] questions, then this will be a clear indication of a prime candidate for AI
+[964.9s - 964.9s] indication of a prime candidate for AI
+[964.9s - 966.6s] indication of a prime candidate for AI implementation. Now, the template for
+[966.6s - 966.6s] implementation. Now, the template for
+[966.6s - 968.9s] implementation. Now, the template for scoring all of these tasks against these
+[968.9s - 968.9s] scoring all of these tasks against these
+[968.9s - 971.5s] scoring all of these tasks against these four criterias. Again, link is down
+[971.5s - 971.5s] four criterias. Again, link is down
+[971.5s - 972.9s] four criterias. Again, link is down below in the description if you want
+[972.9s - 973.0s] below in the description if you want
+[973.0s - 974.5s] below in the description if you want access to that. Next up for phase number
+[974.5s - 974.5s] access to that. Next up for phase number
+[974.5s - 976.2s] access to that. Next up for phase number four is just prioritizing everything for
+[976.2s - 976.2s] four is just prioritizing everything for
+[976.2s - 978.1s] four is just prioritizing everything for impact. So, of course, you should know
+[978.1s - 978.2s] impact. So, of course, you should know
+[978.2s - 979.7s] impact. So, of course, you should know that not everything should be automated
+[979.7s - 979.8s] that not everything should be automated
+[979.8s - 982.8s] that not everything should be automated at once. Now we classify everything all
+[982.8s - 982.8s] at once. Now we classify everything all
+[982.8s - 984.3s] at once. Now we classify everything all these opportunities into three different
+[984.3s - 984.3s] these opportunities into three different
+[984.3s - 987.2s] these opportunities into three different buckets. So bucket one quick wins. So
+[987.2s - 987.2s] buckets. So bucket one quick wins. So
+[987.2s - 989.2s] buckets. So bucket one quick wins. So the low complexity high return on
+[989.2s - 989.2s] the low complexity high return on
+[989.2s - 991.3s] the low complexity high return on investment delivered in one to two
+[991.3s - 991.3s] investment delivered in one to two
+[991.3s - 993.8s] investment delivered in one to two weeks. All of these are meant to build
+[993.8s - 993.8s] weeks. All of these are meant to build
+[993.8s - 996.1s] weeks. All of these are meant to build momentum and credibility internally.
+[996.1s - 996.2s] momentum and credibility internally.
+[996.2s - 998.2s] momentum and credibility internally. Bucket number two is any operational
+[998.2s - 998.2s] Bucket number two is any operational
+[998.2s - 999.9s] Bucket number two is any operational levers. So these are just medium
+[999.9s - 999.9s] levers. So these are just medium
+[999.9s - 1002.4s] levers. So these are just medium complexity systems that impact cross
+[1002.4s - 1002.4s] complexity systems that impact cross
+[1002.4s - 1004.1s] complexity systems that impact cross functional workflows in the core
+[1004.1s - 1004.1s] functional workflows in the core
+[1004.1s - 1006.2s] functional workflows in the core business processes. So these typically
+[1006.2s - 1006.2s] business processes. So these typically
+[1006.2s - 1008.2s] business processes. So these typically will take about four to six weeks. Of
+[1008.2s - 1008.2s] will take about four to six weeks. Of
+[1008.2s - 1009.7s] will take about four to six weeks. Of course, it's very dependent on your
+[1009.7s - 1009.8s] course, it's very dependent on your
+[1009.8s - 1012.1s] course, it's very dependent on your specific situation. Look at number
+[1012.1s - 1012.2s] specific situation. Look at number
+[1012.2s - 1014.0s] specific situation. Look at number three, these are the strategic systems.
+[1014.0s - 1014.0s] three, these are the strategic systems.
+[1014.0s - 1016.1s] three, these are the strategic systems. So, these are really deep integrations
+[1016.1s - 1016.1s] So, these are really deep integrations
+[1016.1s - 1018.6s] So, these are really deep integrations that create competitive advantages. Now,
+[1018.6s - 1018.6s] that create competitive advantages. Now,
+[1018.6s - 1020.1s] that create competitive advantages. Now, these are two to threemonth
+[1020.1s - 1020.2s] these are two to threemonth
+[1020.2s - 1021.8s] these are two to threemonth implementations that become your
+[1021.8s - 1021.8s] implementations that become your
+[1021.8s - 1024.1s] implementations that become your long-term moat. Now, the goal is to
+[1024.1s - 1024.1s] long-term moat. Now, the goal is to
+[1024.1s - 1025.9s] long-term moat. Now, the goal is to automate the right things in the right
+[1025.9s - 1025.9s] automate the right things in the right
+[1025.9s - 1028.2s] automate the right things in the right order so that each implementation just
+[1028.2s - 1028.2s] order so that each implementation just
+[1028.2s - 1030.0s] order so that each implementation just builds on the last and you create
+[1030.0s - 1030.0s] builds on the last and you create
+[1030.0s - 1032.8s] builds on the last and you create compounding leverage over time. Now, the
+[1032.8s - 1032.8s] compounding leverage over time. Now, the
+[1032.8s - 1035.2s] compounding leverage over time. Now, the prioritization matrix that we use is
+[1035.2s - 1035.2s] prioritization matrix that we use is
+[1035.2s - 1036.8s] prioritization matrix that we use is again in the description. You can plug
+[1036.8s - 1036.8s] again in the description. You can plug
+[1036.8s - 1038.9s] again in the description. You can plug in your opportunities and it will help
+[1038.9s - 1038.9s] in your opportunities and it will help
+[1038.9s - 1041.4s] in your opportunities and it will help rank them for you. Now, this is really
+[1041.4s - 1041.4s] rank them for you. Now, this is really
+[1041.4s - 1043.6s] rank them for you. Now, this is really critical to understand. When you build
+[1043.6s - 1043.6s] critical to understand. When you build
+[1043.6s - 1046.0s] critical to understand. When you build these quick wins, you're not building
+[1046.0s - 1046.0s] these quick wins, you're not building
+[1046.0s - 1048.8s] these quick wins, you're not building them as isolated point solutions. You're
+[1048.8s - 1048.8s] them as isolated point solutions. You're
+[1048.8s - 1050.8s] them as isolated point solutions. You're instead building them as the first
+[1050.8s - 1050.8s] instead building them as the first
+[1050.8s - 1053.2s] instead building them as the first components of our AI core as we
+[1053.2s - 1053.2s] components of our AI core as we
+[1053.2s - 1054.6s] components of our AI core as we discussed earlier on. And when you
+[1054.6s - 1054.6s] discussed earlier on. And when you
+[1054.6s - 1057.0s] discussed earlier on. And when you actually think about it in these phases,
+[1057.0s - 1057.0s] actually think about it in these phases,
+[1057.0s - 1059.7s] actually think about it in these phases, so phase one, we start with single
+[1059.7s - 1059.7s] so phase one, we start with single
+[1059.7s - 1061.7s] so phase one, we start with single person processes, one workflow, one
+[1061.7s - 1061.7s] person processes, one workflow, one
+[1061.7s - 1064.2s] person processes, one workflow, one employee, immediate value. But we can
+[1064.2s - 1064.2s] employee, immediate value. But we can
+[1064.2s - 1066.6s] employee, immediate value. But we can architect it properly just from day one.
+[1066.6s - 1066.6s] architect it properly just from day one.
+[1066.6s - 1068.7s] architect it properly just from day one. So unified data layer, reusable
+[1068.7s - 1068.7s] So unified data layer, reusable
+[1068.7s - 1070.5s] So unified data layer, reusable integration patterns, beginning of your
+[1070.5s - 1070.5s] integration patterns, beginning of your
+[1070.5s - 1072.6s] integration patterns, beginning of your command center dashboard. Now all of
+[1072.6s - 1072.6s] command center dashboard. Now all of
+[1072.6s - 1075.1s] command center dashboard. Now all of these things it is your foundation. Now
+[1075.1s - 1075.1s] these things it is your foundation. Now
+[1075.1s - 1077.8s] these things it is your foundation. Now phase two we extend to multi-person
+[1077.8s - 1077.8s] phase two we extend to multi-person
+[1077.8s - 1080.7s] phase two we extend to multi-person single function processes. So again this
+[1080.7s - 1080.7s] single function processes. So again this
+[1080.7s - 1083.3s] single function processes. So again this is going to be extending multi-person
+[1083.3s - 1083.4s] is going to be extending multi-person
+[1083.4s - 1085.4s] is going to be extending multi-person single function processes. So consider
+[1085.4s - 1085.4s] single function processes. So consider
+[1085.4s - 1087.8s] single function processes. So consider your entire sales pipeline from lead to
+[1087.8s - 1087.8s] your entire sales pipeline from lead to
+[1087.8s - 1090.2s] your entire sales pipeline from lead to close. Now multiple agents are
+[1090.2s - 1090.2s] close. Now multiple agents are
+[1090.2s - 1092.5s] close. Now multiple agents are coordinating and they're sharing data
+[1092.5s - 1092.6s] coordinating and they're sharing data
+[1092.6s - 1094.9s] coordinating and they're sharing data and triggering each other. They're all
+[1094.9s - 1094.9s] and triggering each other. They're all
+[1094.9s - 1097.1s] and triggering each other. They're all building on the same foundation that you
+[1097.1s - 1097.1s] building on the same foundation that you
+[1097.1s - 1098.9s] building on the same foundation that you had established from way back earlier
+[1098.9s - 1098.9s] had established from way back earlier
+[1098.9s - 1101.7s] had established from way back earlier into phase one. And then in phase three,
+[1101.7s - 1101.7s] into phase one. And then in phase three,
+[1101.7s - 1104.4s] into phase one. And then in phase three, we scale to cross functional processes.
+[1104.4s - 1104.4s] we scale to cross functional processes.
+[1104.4s - 1107.1s] we scale to cross functional processes. So consider marketing, generating leads,
+[1107.1s - 1107.1s] So consider marketing, generating leads,
+[1107.1s - 1109.8s] So consider marketing, generating leads, sales, qualifying them, operations,
+[1109.8s - 1109.8s] sales, qualifying them, operations,
+[1109.8s - 1111.8s] sales, qualifying them, operations, delivering the service, and finance
+[1111.8s - 1111.8s] delivering the service, and finance
+[1111.8s - 1114.7s] delivering the service, and finance invoices and collecting payment. All of
+[1114.7s - 1114.7s] invoices and collecting payment. All of
+[1114.7s - 1116.8s] invoices and collecting payment. All of this coordinated through the same exact
+[1116.8s - 1116.8s] this coordinated through the same exact
+[1116.8s - 1119.3s] this coordinated through the same exact infrastructure. And by the time that you
+[1119.3s - 1119.4s] infrastructure. And by the time that you
+[1119.4s - 1122.7s] infrastructure. And by the time that you reach phase three, you have practically
+[1122.7s - 1122.7s] reach phase three, you have practically
+[1122.7s - 1125.8s] reach phase three, you have practically built the entire AI core. And you didn't
+[1125.8s - 1125.8s] built the entire AI core. And you didn't
+[1125.8s - 1127.5s] built the entire AI core. And you didn't build it separately. You built it
+[1127.5s - 1127.5s] build it separately. You built it
+[1127.5s - 1129.9s] build it separately. You built it incrementally through delivering value
+[1129.9s - 1129.9s] incrementally through delivering value
+[1129.9s - 1132.2s] incrementally through delivering value at each and every step. So again, how
+[1132.2s - 1132.2s] at each and every step. So again, how
+[1132.2s - 1133.8s] at each and every step. So again, how that happened if you didn't catch it is
+[1133.8s - 1133.8s] that happened if you didn't catch it is
+[1133.8s - 1135.4s] that happened if you didn't catch it is each automation just extended the
+[1135.4s - 1135.4s] each automation just extended the
+[1135.4s - 1137.3s] each automation just extended the nervous system rather than creating a
+[1137.3s - 1137.4s] nervous system rather than creating a
+[1137.4s - 1140.1s] nervous system rather than creating a brand new isolated solution. So after
+[1140.1s - 1140.1s] brand new isolated solution. So after
+[1140.1s - 1142.2s] brand new isolated solution. So after you complete this four-phase discovery
+[1142.2s - 1142.2s] you complete this four-phase discovery
+[1142.2s - 1144.2s] you complete this four-phase discovery process, you end up with a complete
+[1144.2s - 1144.2s] process, you end up with a complete
+[1144.2s - 1146.2s] process, you end up with a complete blueprint for how your business actually
+[1146.2s - 1146.2s] blueprint for how your business actually
+[1146.2s - 1148.3s] blueprint for how your business actually runs. identification of where
+[1148.3s - 1148.3s] runs. identification of where
+[1148.3s - 1149.8s] runs. identification of where intelligent automation creates the
+[1149.8s - 1149.8s] intelligent automation creates the
+[1149.8s - 1152.5s] intelligent automation creates the biggest leverage. Also a prioritized
+[1152.5s - 1152.5s] biggest leverage. Also a prioritized
+[1152.5s - 1154.6s] biggest leverage. Also a prioritized roadmap that scales complexity very
+[1154.6s - 1154.6s] roadmap that scales complexity very
+[1154.6s - 1156.6s] roadmap that scales complexity very gradually and buyin from stakeholders
+[1156.6s - 1156.6s] gradually and buyin from stakeholders
+[1156.6s - 1158.8s] gradually and buyin from stakeholders who actually participated in a clear
+[1158.8s - 1158.8s] who actually participated in a clear
+[1158.8s - 1161.0s] who actually participated in a clear return on investment projections for
+[1161.0s - 1161.0s] return on investment projections for
+[1161.0s - 1163.0s] return on investment projections for every single opportunity. So what we
+[1163.0s - 1163.0s] every single opportunity. So what we
+[1163.0s - 1164.8s] every single opportunity. So what we built for clients, it is not a
+[1164.8s - 1164.8s] built for clients, it is not a
+[1164.8s - 1166.8s] built for clients, it is not a collection of just disconnected
+[1166.8s - 1166.8s] collection of just disconnected
+[1166.8s - 1168.9s] collection of just disconnected automations. It's what we call the AI
+[1168.9s - 1168.9s] automations. It's what we call the AI
+[1168.9s - 1171.3s] automations. It's what we call the AI core. So five layers of interconnected
+[1171.3s - 1171.4s] core. So five layers of interconnected
+[1171.4s - 1172.8s] core. So five layers of interconnected infrastructure that all just work
+[1172.8s - 1172.8s] infrastructure that all just work
+[1172.8s - 1174.9s] infrastructure that all just work together to create an AI first operating
+[1174.9s - 1174.9s] together to create an AI first operating
+[1174.9s - 1177.1s] together to create an AI first operating model. Now, I did just explain that you
+[1177.1s - 1177.1s] model. Now, I did just explain that you
+[1177.1s - 1179.0s] model. Now, I did just explain that you build this incrementally through quick
+[1179.0s - 1179.0s] build this incrementally through quick
+[1179.0s - 1181.2s] build this incrementally through quick wins. So, when I walk through these five
+[1181.2s - 1181.2s] wins. So, when I walk through these five
+[1181.2s - 1183.3s] wins. So, when I walk through these five layers, understand that you are not
+[1183.3s - 1183.4s] layers, understand that you are not
+[1183.4s - 1186.2s] layers, understand that you are not building all five layers up front. Your
+[1186.2s - 1186.2s] building all five layers up front. Your
+[1186.2s - 1189.1s] building all five layers up front. Your first quick win, it establishes layer 1
+[1189.1s - 1189.1s] first quick win, it establishes layer 1
+[1189.1s - 1191.6s] first quick win, it establishes layer 1 and two. Your second quick win extends
+[1191.6s - 1191.6s] and two. Your second quick win extends
+[1191.6s - 1194.3s] and two. Your second quick win extends layer 1, two, and three. Now, by quick
+[1194.3s - 1194.3s] layer 1, two, and three. Now, by quick
+[1194.3s - 1197.1s] layer 1, two, and three. Now, by quick win five, all five layers, they are
+[1197.1s - 1197.1s] win five, all five layers, they are
+[1197.1s - 1198.5s] win five, all five layers, they are going to be in place. So, you're
+[1198.5s - 1198.5s] going to be in place. So, you're
+[1198.5s - 1200.3s] going to be in place. So, you're building this infrastructure through
+[1200.3s - 1200.3s] building this infrastructure through
+[1200.3s - 1202.1s] building this infrastructure through delivering value, not just by building
+[1202.1s - 1202.1s] delivering value, not just by building
+[1202.1s - 1204.2s] delivering value, not just by building infrastructure before delivering any
+[1204.2s - 1204.2s] infrastructure before delivering any
+[1204.2s - 1205.6s] infrastructure before delivering any value. And that piece is very important
+[1205.6s - 1205.6s] value. And that piece is very important
+[1205.6s - 1209.0s] value. And that piece is very important for us and of course our clients. So if
+[1209.0s - 1209.0s] for us and of course our clients. So if
+[1209.0s - 1211.4s] for us and of course our clients. So if we want to actually win a business over,
+[1211.4s - 1211.4s] we want to actually win a business over,
+[1211.4s - 1213.3s] we want to actually win a business over, we have to show them within the first 3
+[1213.3s - 1213.4s] we have to show them within the first 3
+[1213.4s - 1214.5s] we have to show them within the first 3 months that we can actually deliver
+[1214.5s - 1214.6s] months that we can actually deliver
+[1214.6s - 1216.0s] months that we can actually deliver something that's going to make a change
+[1216.0s - 1216.0s] something that's going to make a change
+[1216.0s - 1217.8s] something that's going to make a change and make an impact in their operations.
+[1217.8s - 1217.8s] and make an impact in their operations.
+[1217.8s - 1219.3s] and make an impact in their operations. And I mean you as a business owner
+[1219.3s - 1219.4s] And I mean you as a business owner
+[1219.4s - 1221.3s] And I mean you as a business owner yourself, you want to experience the
+[1221.3s - 1221.4s] yourself, you want to experience the
+[1221.4s - 1223.3s] yourself, you want to experience the quick wins. You want to experience that
+[1223.3s - 1223.4s] quick wins. You want to experience that
+[1223.4s - 1227.0s] quick wins. You want to experience that firsthand leverage increase right away.
+[1227.0s - 1227.0s] firsthand leverage increase right away.
+[1227.0s - 1229.7s] firsthand leverage increase right away. So diving into layer number one, this is
+[1229.7s - 1229.7s] So diving into layer number one, this is
+[1229.7s - 1231.9s] So diving into layer number one, this is going to be the data foundation. Now
+[1231.9s - 1231.9s] going to be the data foundation. Now
+[1231.9s - 1233.8s] going to be the data foundation. Now everything it starts with data. Most
+[1233.8s - 1233.8s] everything it starts with data. Most
+[1233.8s - 1236.5s] everything it starts with data. Most businesses they have extreme data chaos.
+[1236.5s - 1236.5s] businesses they have extreme data chaos.
+[1236.5s - 1238.5s] businesses they have extreme data chaos. So they have lead information living in
+[1238.5s - 1238.6s] So they have lead information living in
+[1238.6s - 1240.8s] So they have lead information living in one system. Customer records living in
+[1240.8s - 1240.8s] one system. Customer records living in
+[1240.8s - 1242.6s] one system. Customer records living in another. Communication history is
+[1242.6s - 1242.6s] another. Communication history is
+[1242.6s - 1244.8s] another. Communication history is scattered across email, Slack, phone
+[1244.8s - 1244.8s] scattered across email, Slack, phone
+[1244.8s - 1246.5s] scattered across email, Slack, phone calls, financial data, it's in
+[1246.5s - 1246.6s] calls, financial data, it's in
+[1246.6s - 1249.0s] calls, financial data, it's in QuickBooks, uh project data, it's in
+[1249.0s - 1249.0s] QuickBooks, uh project data, it's in
+[1249.0s - 1251.8s] QuickBooks, uh project data, it's in Asana. Nothing talks to anything else.
+[1251.8s - 1251.8s] Asana. Nothing talks to anything else.
+[1251.8s - 1253.8s] Asana. Nothing talks to anything else. So layer one, it's just creating this
+[1253.8s - 1253.8s] So layer one, it's just creating this
+[1253.8s - 1257.3s] So layer one, it's just creating this unified master database that becomes the
+[1257.3s - 1257.4s] unified master database that becomes the
+[1257.4s - 1259.5s] unified master database that becomes the single source of truth for your entire
+[1259.5s - 1259.5s] single source of truth for your entire
+[1259.5s - 1260.7s] single source of truth for your entire business. And when you build your first
+[1260.7s - 1260.7s] business. And when you build your first
+[1260.7s - 1262.6s] business. And when you build your first automation, let's say it's going to be
+[1262.6s - 1262.6s] automation, let's say it's going to be
+[1262.6s - 1264.2s] automation, let's say it's going to be lead response, you're not just building
+[1264.2s - 1264.2s] lead response, you're not just building
+[1264.2s - 1266.1s] lead response, you're not just building a chatbot. You're instead building the
+[1266.1s - 1266.2s] a chatbot. You're instead building the
+[1266.2s - 1268.5s] a chatbot. You're instead building the database where all of the lead data will
+[1268.5s - 1268.6s] database where all of the lead data will
+[1268.6s - 1271.0s] database where all of the lead data will live for every future automation. You're
+[1271.0s - 1271.0s] live for every future automation. You're
+[1271.0s - 1273.6s] live for every future automation. You're also going to be establishing the
+[1273.6s - 1273.6s] also going to be establishing the
+[1273.6s - 1275.7s] also going to be establishing the pattern. So for again a property
+[1275.7s - 1275.7s] pattern. So for again a property
+[1275.7s - 1277.4s] pattern. So for again a property management client, their first
+[1277.4s - 1277.4s] management client, their first
+[1277.4s - 1279.6s] management client, their first automation established a centralized
+[1279.6s - 1279.6s] automation established a centralized
+[1279.6s - 1281.8s] automation established a centralized lead database. Their second automation,
+[1281.8s - 1281.8s] lead database. Their second automation,
+[1281.8s - 1284.5s] lead database. Their second automation, it just extended it to include tenant
+[1284.5s - 1284.5s] it just extended it to include tenant
+[1284.5s - 1286.4s] it just extended it to include tenant data. And then the third, it added
+[1286.4s - 1286.4s] data. And then the third, it added
+[1286.4s - 1288.9s] data. And then the third, it added maintenance tickets. Now by automation
+[1288.9s - 1288.9s] maintenance tickets. Now by automation
+[1288.9s - 1291.3s] maintenance tickets. Now by automation number four they had consolidated six
+[1291.3s - 1291.3s] number four they had consolidated six
+[1291.3s - 1293.0s] number four they had consolidated six different systems into just one data
+[1293.0s - 1293.0s] different systems into just one data
+[1293.0s - 1294.6s] different systems into just one data foundation without ever calling it a
+[1294.6s - 1294.6s] foundation without ever calling it a
+[1294.6s - 1297.0s] foundation without ever calling it a data foundation project and without this
+[1297.0s - 1297.0s] data foundation project and without this
+[1297.0s - 1299.3s] data foundation project and without this layer everything else it quite literally
+[1299.3s - 1299.4s] layer everything else it quite literally
+[1299.4s - 1301.5s] layer everything else it quite literally falls apart if your agent does not have
+[1301.5s - 1301.5s] falls apart if your agent does not have
+[1301.5s - 1304.0s] falls apart if your agent does not have access to complete accurate up-to-date
+[1304.0s - 1304.0s] access to complete accurate up-to-date
+[1304.0s - 1305.8s] access to complete accurate up-to-date information they cannot make good
+[1305.8s - 1305.8s] information they cannot make good
+[1305.8s - 1307.8s] information they cannot make good decisions obviously so you end up with
+[1307.8s - 1307.8s] decisions obviously so you end up with
+[1307.8s - 1310.1s] decisions obviously so you end up with garbage in garbage out layer number two
+[1310.1s - 1310.1s] garbage in garbage out layer number two
+[1310.1s - 1312.3s] garbage in garbage out layer number two this is the intelligence engine so this
+[1312.3s - 1312.3s] this is the intelligence engine so this
+[1312.3s - 1315.1s] this is the intelligence engine so this is actually where your workflows your
+[1315.1s - 1315.1s] is actually where your workflows your
+[1315.1s - 1317.5s] is actually where your workflows your SOPs everything in your team's head it
+[1317.5s - 1317.5s] SOPs everything in your team's head it
+[1317.5s - 1320.0s] SOPs everything in your team's head it gets encoded into AI systems. So how you
+[1320.0s - 1320.0s] gets encoded into AI systems. So how you
+[1320.0s - 1322.1s] gets encoded into AI systems. So how you qualify leads, how you prioritize tasks,
+[1322.1s - 1322.2s] qualify leads, how you prioritize tasks,
+[1322.2s - 1324.9s] qualify leads, how you prioritize tasks, how you handle edge cases. Now tribal
+[1324.9s - 1324.9s] how you handle edge cases. Now tribal
+[1324.9s - 1326.6s] how you handle edge cases. Now tribal knowledge, it becomes institutional
+[1326.6s - 1326.6s] knowledge, it becomes institutional
+[1326.6s - 1328.6s] knowledge, it becomes institutional knowledge that every agent can actually
+[1328.6s - 1328.6s] knowledge that every agent can actually
+[1328.6s - 1330.7s] knowledge that every agent can actually leverage. So when you build your first
+[1330.7s - 1330.7s] leverage. So when you build your first
+[1330.7s - 1332.9s] leverage. So when you build your first automation, you are encoding the
+[1332.9s - 1332.9s] automation, you are encoding the
+[1332.9s - 1334.8s] automation, you are encoding the business logic for that specific
+[1334.8s - 1334.8s] business logic for that specific
+[1334.8s - 1338.1s] business logic for that specific process. So lead qualification criteria,
+[1338.1s - 1338.1s] process. So lead qualification criteria,
+[1338.1s - 1340.5s] process. So lead qualification criteria, response templates, escalation rules.
+[1340.5s - 1340.6s] response templates, escalation rules.
+[1340.6s - 1343.3s] response templates, escalation rules. This is going to be becoming the
+[1343.3s - 1343.4s] This is going to be becoming the
+[1343.4s - 1345.2s] This is going to be becoming the template for how you will encode logic
+[1345.2s - 1345.2s] template for how you will encode logic
+[1345.2s - 1348.5s] template for how you will encode logic for every future automation. Now this
+[1348.5s - 1348.5s] for every future automation. Now this
+[1348.5s - 1351.2s] for every future automation. Now this layer, it is also where you build your
+[1351.2s - 1351.2s] layer, it is also where you build your
+[1351.2s - 1353.2s] layer, it is also where you build your business logic. So the conditional rules
+[1353.2s - 1353.2s] business logic. So the conditional rules
+[1353.2s - 1355.8s] business logic. So the conditional rules that determine what happens when if a
+[1355.8s - 1355.8s] that determine what happens when if a
+[1355.8s - 1358.8s] that determine what happens when if a lead scores above 80 on a qualification
+[1358.8s - 1358.8s] lead scores above 80 on a qualification
+[1358.8s - 1360.5s] lead scores above 80 on a qualification criteria, you root them to the sales
+[1360.5s - 1360.6s] criteria, you root them to the sales
+[1360.6s - 1362.4s] criteria, you root them to the sales team immediately. And if they score
+[1362.4s - 1362.4s] team immediately. And if they score
+[1362.4s - 1364.5s] team immediately. And if they score between 50 to 80, you put them in a
+[1364.5s - 1364.5s] between 50 to 80, you put them in a
+[1364.5s - 1366.4s] between 50 to 80, you put them in a nurture sequence. Now, if they score
+[1366.4s - 1366.4s] nurture sequence. Now, if they score
+[1366.4s - 1369.2s] nurture sequence. Now, if they score below 50, you send them to a resource
+[1369.2s - 1369.2s] below 50, you send them to a resource
+[1369.2s - 1370.9s] below 50, you send them to a resource library and you just disqualify them
+[1370.9s - 1370.9s] library and you just disqualify them
+[1370.9s - 1372.4s] library and you just disqualify them from active follow-up. And this
+[1372.4s - 1372.4s] from active follow-up. And this
+[1372.4s - 1374.1s] from active follow-up. And this intelligence engine, it is really what
+[1374.1s - 1374.1s] intelligence engine, it is really what
+[1374.1s - 1377.0s] intelligence engine, it is really what transforms what I call really just dumb
+[1377.0s - 1377.0s] transforms what I call really just dumb
+[1377.0s - 1379.7s] transforms what I call really just dumb automations into smart systems that
+[1379.7s - 1379.7s] automations into smart systems that
+[1379.7s - 1382.1s] automations into smart systems that adapt based on context and you just
+[1382.1s - 1382.2s] adapt based on context and you just
+[1382.2s - 1384.4s] adapt based on context and you just build it in one process at a time.
+[1384.4s - 1384.4s] build it in one process at a time.
+[1384.4s - 1386.1s] build it in one process at a time. Moving into layer three, this is the
+[1386.1s - 1386.1s] Moving into layer three, this is the
+[1386.1s - 1387.8s] Moving into layer three, this is the orchestration layer. So this is actually
+[1387.8s - 1387.8s] orchestration layer. So this is actually
+[1387.8s - 1390.1s] orchestration layer. So this is actually where these individual agents, they
+[1390.1s - 1390.2s] where these individual agents, they
+[1390.2s - 1392.5s] where these individual agents, they become a consolidated team. So when one
+[1392.5s - 1392.5s] become a consolidated team. So when one
+[1392.5s - 1394.6s] become a consolidated team. So when one agent completes a task, it triggers the
+[1394.6s - 1394.6s] agent completes a task, it triggers the
+[1394.6s - 1396.8s] agent completes a task, it triggers the next agent. So when payment clears,
+[1396.8s - 1396.8s] next agent. So when payment clears,
+[1396.8s - 1398.4s] next agent. So when payment clears, fulfillment then begins. When a support
+[1398.4s - 1398.4s] fulfillment then begins. When a support
+[1398.4s - 1400.5s] fulfillment then begins. When a support ticket closes, the retention tracking
+[1400.5s - 1400.5s] ticket closes, the retention tracking
+[1400.5s - 1402.6s] ticket closes, the retention tracking updates. So they pass data between each
+[1402.6s - 1402.6s] updates. So they pass data between each
+[1402.6s - 1404.3s] updates. So they pass data between each other. They maintain shared memory and
+[1404.3s - 1404.3s] other. They maintain shared memory and
+[1404.3s - 1405.8s] other. They maintain shared memory and they all just work together towards
+[1405.8s - 1405.8s] they all just work together towards
+[1405.8s - 1408.6s] they all just work together towards business outcomes. And something to note
+[1408.6s - 1408.6s] business outcomes. And something to note
+[1408.6s - 1410.3s] business outcomes. And something to note is that you do not build orchestration
+[1410.3s - 1410.3s] is that you do not build orchestration
+[1410.3s - 1412.1s] is that you do not build orchestration on day one either. You build it when you
+[1412.1s - 1412.2s] on day one either. You build it when you
+[1412.2s - 1413.6s] on day one either. You build it when you have your second automation. And that is
+[1413.6s - 1413.6s] have your second automation. And that is
+[1413.6s - 1416.1s] have your second automation. And that is when you establish how the agent one
+[1416.1s - 1416.2s] when you establish how the agent one
+[1416.2s - 1418.1s] when you establish how the agent one actually talks to agent two, how they
+[1418.1s - 1418.2s] actually talks to agent two, how they
+[1418.2s - 1420.2s] actually talks to agent two, how they share data, how they trigger each other.
+[1420.2s - 1420.2s] share data, how they trigger each other.
+[1420.2s - 1422.2s] share data, how they trigger each other. And each new automation, it simply just
+[1422.2s - 1422.2s] And each new automation, it simply just
+[1422.2s - 1423.8s] And each new automation, it simply just extends the orchestration patterns that
+[1423.8s - 1423.8s] extends the orchestration patterns that
+[1423.8s - 1425.2s] extends the orchestration patterns that you have established. And now moving
+[1425.2s - 1425.2s] you have established. And now moving
+[1425.2s - 1427.0s] you have established. And now moving beyond this, the shared memory that we
+[1427.0s - 1427.0s] beyond this, the shared memory that we
+[1427.0s - 1428.3s] beyond this, the shared memory that we are going to install it is going to be
+[1428.3s - 1428.3s] are going to install it is going to be
+[1428.3s - 1429.8s] are going to install it is going to be the game changanger here. So without
+[1429.8s - 1429.8s] the game changanger here. So without
+[1429.8s - 1432.4s] the game changanger here. So without memory, every interaction just resets to
+[1432.4s - 1432.4s] memory, every interaction just resets to
+[1432.4s - 1434.4s] memory, every interaction just resets to zero. Your agents can't learn, they
+[1434.4s - 1434.4s] zero. Your agents can't learn, they
+[1434.4s - 1436.5s] zero. Your agents can't learn, they can't reference past conversations, they
+[1436.5s - 1436.6s] can't reference past conversations, they
+[1436.6s - 1438.5s] can't reference past conversations, they can't provide continuity. Now with
+[1438.5s - 1438.5s] can't provide continuity. Now with
+[1438.5s - 1441.0s] can't provide continuity. Now with shared memory, your agents, they greet
+[1441.0s - 1441.0s] shared memory, your agents, they greet
+[1441.0s - 1442.9s] shared memory, your agents, they greet returning customers by name. They
+[1442.9s - 1442.9s] returning customers by name. They
+[1442.9s - 1444.5s] returning customers by name. They referenced last week's inquiry and they
+[1444.5s - 1444.6s] referenced last week's inquiry and they
+[1444.6s - 1447.6s] referenced last week's inquiry and they build relationships over time and this
+[1447.6s - 1447.6s] build relationships over time and this
+[1447.6s - 1449.5s] build relationships over time and this is really what separates infrastructure
+[1449.5s - 1449.5s] is really what separates infrastructure
+[1449.5s - 1452.1s] is really what separates infrastructure from these isolated point solutions.
+[1452.1s - 1452.2s] from these isolated point solutions.
+[1452.2s - 1454.1s] from these isolated point solutions. Point solutions they just execute tasks
+[1454.1s - 1454.1s] Point solutions they just execute tasks
+[1454.1s - 1457.5s] Point solutions they just execute tasks in isolation whereas infrastructure it
+[1457.5s - 1457.5s] in isolation whereas infrastructure it
+[1457.5s - 1459.5s] in isolation whereas infrastructure it orchestrates systems that actually all
+[1459.5s - 1459.5s] orchestrates systems that actually all
+[1459.5s - 1461.1s] orchestrates systems that actually all work together. Now layer number four
+[1461.1s - 1461.1s] work together. Now layer number four
+[1461.1s - 1462.8s] work together. Now layer number four this is the integration framework. So
+[1462.8s - 1462.8s] this is the integration framework. So
+[1462.8s - 1465.8s] this is the integration framework. So your AI infrastructure it has to connect
+[1465.8s - 1465.8s] your AI infrastructure it has to connect
+[1465.8s - 1468.1s] your AI infrastructure it has to connect to your entire existing stack. So the
+[1468.1s - 1468.1s] to your entire existing stack. So the
+[1468.1s - 1469.4s] to your entire existing stack. So the integration framework is the
+[1469.4s - 1469.4s] integration framework is the
+[1469.4s - 1471.1s] integration framework is the connectivity issue. So, it's just a
+[1471.1s - 1471.1s] connectivity issue. So, it's just a
+[1471.1s - 1473.0s] connectivity issue. So, it's just a library of pre-built integrations,
+[1473.0s - 1473.0s] library of pre-built integrations,
+[1473.0s - 1475.7s] library of pre-built integrations, custom API connections, and web hooks
+[1475.7s - 1475.7s] custom API connections, and web hooks
+[1475.7s - 1478.4s] custom API connections, and web hooks and data pipelines that just allow your
+[1478.4s - 1478.4s] and data pipelines that just allow your
+[1478.4s - 1481.1s] and data pipelines that just allow your AI core to read from and even write to
+[1481.1s - 1481.1s] AI core to read from and even write to
+[1481.1s - 1483.2s] AI core to read from and even write to every system in your business without
+[1483.2s - 1483.2s] every system in your business without
+[1483.2s - 1485.6s] every system in your business without any manual data entry. Now, when you
+[1485.6s - 1485.6s] any manual data entry. Now, when you
+[1485.6s - 1487.0s] any manual data entry. Now, when you build your first automation, you
+[1487.0s - 1487.0s] build your first automation, you
+[1487.0s - 1489.4s] build your first automation, you establish how external systems actually
+[1489.4s - 1489.4s] establish how external systems actually
+[1489.4s - 1491.8s] establish how external systems actually connect to your data foundation. Now,
+[1491.8s - 1491.8s] connect to your data foundation. Now,
+[1491.8s - 1493.9s] connect to your data foundation. Now, the pattern for how your CRM talks to
+[1493.9s - 1493.9s] the pattern for how your CRM talks to
+[1493.9s - 1496.1s] the pattern for how your CRM talks to your database, how your database talks
+[1496.1s - 1496.1s] your database, how your database talks
+[1496.1s - 1498.4s] your database, how your database talks to your agents, how your agents just
+[1498.4s - 1498.4s] to your agents, how your agents just
+[1498.4s - 1501.1s] to your agents, how your agents just write back to external systems and each
+[1501.1s - 1501.1s] write back to external systems and each
+[1501.1s - 1503.4s] write back to external systems and each new automation, it just reuses and
+[1503.4s - 1503.4s] new automation, it just reuses and
+[1503.4s - 1505.3s] new automation, it just reuses and extends these patterns instead of
+[1505.3s - 1505.4s] extends these patterns instead of
+[1505.4s - 1507.4s] extends these patterns instead of actually reinventing every single one of
+[1507.4s - 1507.4s] actually reinventing every single one of
+[1507.4s - 1509.8s] actually reinventing every single one of them. And this layer, it is quite
+[1509.8s - 1509.8s] them. And this layer, it is quite
+[1509.8s - 1511.8s] them. And this layer, it is quite literally what makes AI transformation
+[1511.8s - 1511.8s] literally what makes AI transformation
+[1511.8s - 1515.1s] literally what makes AI transformation very practical instead of theoretical.
+[1515.1s - 1515.1s] very practical instead of theoretical.
+[1515.1s - 1516.9s] very practical instead of theoretical. So, you're not ripping out your entire
+[1516.9s - 1516.9s] So, you're not ripping out your entire
+[1516.9s - 1518.5s] So, you're not ripping out your entire text stack. you're instead just building
+[1518.5s - 1518.5s] text stack. you're instead just building
+[1518.5s - 1520.3s] text stack. you're instead just building a layer on top that actually just
+[1520.3s - 1520.3s] a layer on top that actually just
+[1520.3s - 1522.3s] a layer on top that actually just unifies everything, you know, one
+[1522.3s - 1522.3s] unifies everything, you know, one
+[1522.3s - 1523.8s] unifies everything, you know, one integration at a time. And last but not
+[1523.8s - 1523.8s] integration at a time. And last but not
+[1523.8s - 1525.8s] integration at a time. And last but not least, layer number five, this is the
+[1525.8s - 1525.8s] least, layer number five, this is the
+[1525.8s - 1527.8s] least, layer number five, this is the command center. So this is the final
+[1527.8s - 1527.8s] command center. So this is the final
+[1527.8s - 1530.3s] command center. So this is the final layer. It is visibility and control. And
+[1530.3s - 1530.3s] layer. It is visibility and control. And
+[1530.3s - 1531.8s] layer. It is visibility and control. And this is just a real-time dashboard where
+[1531.8s - 1531.8s] this is just a real-time dashboard where
+[1531.8s - 1533.3s] this is just a real-time dashboard where you can monitor performance, you can
+[1533.3s - 1533.3s] you can monitor performance, you can
+[1533.3s - 1535.2s] you can monitor performance, you can configure agent behavior, track return
+[1535.2s - 1535.2s] configure agent behavior, track return
+[1535.2s - 1537.4s] configure agent behavior, track return on investments against projections and
+[1537.4s - 1537.4s] on investments against projections and
+[1537.4s - 1539.9s] on investments against projections and identify optimization opportunities. And
+[1539.9s - 1539.9s] identify optimization opportunities. And
+[1539.9s - 1541.6s] identify optimization opportunities. And you build this incrementally too. So
+[1541.6s - 1541.6s] you build this incrementally too. So
+[1541.6s - 1543.8s] you build this incrementally too. So your first automation, it gets its own
+[1543.8s - 1543.8s] your first automation, it gets its own
+[1543.8s - 1545.4s] your first automation, it gets its own dashboard just showing the performance
+[1545.4s - 1545.4s] dashboard just showing the performance
+[1545.4s - 1548.1s] dashboard just showing the performance for that one process. Your second
+[1548.1s - 1548.1s] for that one process. Your second
+[1548.1s - 1550.7s] for that one process. Your second automation, it adds its metrics to the
+[1550.7s - 1550.7s] automation, it adds its metrics to the
+[1550.7s - 1553.0s] automation, it adds its metrics to the same dashboard and by let's say your
+[1553.0s - 1553.0s] same dashboard and by let's say your
+[1553.0s - 1555.0s] same dashboard and by let's say your fifth automation, you have a unified
+[1555.0s - 1555.0s] fifth automation, you have a unified
+[1555.0s - 1556.1s] fifth automation, you have a unified command center just showing the
+[1556.1s - 1556.2s] command center just showing the
+[1556.2s - 1559.0s] command center just showing the performance of your entire operation all
+[1559.0s - 1559.0s] performance of your entire operation all
+[1559.0s - 1561.9s] performance of your entire operation all in this one place. So you can see lead
+[1561.9s - 1561.9s] in this one place. So you can see lead
+[1561.9s - 1563.9s] in this one place. So you can see lead response times, you can see conversion
+[1563.9s - 1563.9s] response times, you can see conversion
+[1563.9s - 1566.1s] response times, you can see conversion rates, you can see task completion
+[1566.1s - 1566.1s] rates, you can see task completion
+[1566.1s - 1569.1s] rates, you can see task completion rates, error rates, plane out tasks,
+[1569.1s - 1569.1s] rates, error rates, plane out tasks,
+[1569.1s - 1571.3s] rates, error rates, plane out tasks, cost savings, and revenue impact just
+[1571.3s - 1571.4s] cost savings, and revenue impact just
+[1571.4s - 1573.0s] cost savings, and revenue impact just all in one place. And when something
+[1573.0s - 1573.0s] all in one place. And when something
+[1573.0s - 1575.0s] all in one place. And when something breaks or it just underperforms, your
+[1575.0s - 1575.0s] breaks or it just underperforms, your
+[1575.0s - 1576.6s] breaks or it just underperforms, your dashboard, it will alert you. Your
+[1576.6s - 1576.6s] dashboard, it will alert you. Your
+[1576.6s - 1578.5s] dashboard, it will alert you. Your agent, it will send feedback about what
+[1578.5s - 1578.6s] agent, it will send feedback about what
+[1578.6s - 1581.1s] agent, it will send feedback about what is actually working, what's not working.
+[1581.1s - 1581.1s] is actually working, what's not working.
+[1581.1s - 1583.2s] is actually working, what's not working. And as a result, your team focuses on
+[1583.2s - 1583.2s] And as a result, your team focuses on
+[1583.2s - 1585.4s] And as a result, your team focuses on continuous improvement instead of crisis
+[1585.4s - 1585.4s] continuous improvement instead of crisis
+[1585.4s - 1587.6s] continuous improvement instead of crisis management. In the command center, it
+[1587.6s - 1587.6s] management. In the command center, it
+[1587.6s - 1590.6s] management. In the command center, it really transforms from operator to
+[1590.6s - 1590.6s] really transforms from operator to
+[1590.6s - 1593.0s] really transforms from operator to owner. So, you are no longer in the
+[1593.0s - 1593.0s] owner. So, you are no longer in the
+[1593.0s - 1595.1s] owner. So, you are no longer in the weeds executing tasks. You're instead
+[1595.1s - 1595.1s] weeds executing tasks. You're instead
+[1595.1s - 1597.0s] weeds executing tasks. You're instead monitoring systems, identifying
+[1597.0s - 1597.0s] monitoring systems, identifying
+[1597.0s - 1599.2s] monitoring systems, identifying opportunities, designing improvements,
+[1599.2s - 1599.2s] opportunities, designing improvements,
+[1599.2s - 1602.4s] opportunities, designing improvements, and even thinking strategically about
+[1602.4s - 1602.4s] and even thinking strategically about
+[1602.4s - 1604.4s] and even thinking strategically about leverage. So, these five layers, they
+[1604.4s - 1604.4s] leverage. So, these five layers, they
+[1604.4s - 1606.5s] leverage. So, these five layers, they all work together to create this AI core
+[1606.5s - 1606.6s] all work together to create this AI core
+[1606.6s - 1608.5s] all work together to create this AI core that we call it. And once it's built
+[1608.5s - 1608.6s] that we call it. And once it's built
+[1608.6s - 1611.0s] that we call it. And once it's built incrementally through five to seven
+[1611.0s - 1611.0s] incrementally through five to seven
+[1611.0s - 1614.1s] incrementally through five to seven quick wins over maybe 6 months, every
+[1614.1s - 1614.1s] quick wins over maybe 6 months, every
+[1614.1s - 1615.8s] quick wins over maybe 6 months, every new agent that you add, it becomes
+[1615.8s - 1615.8s] new agent that you add, it becomes
+[1615.8s - 1618.2s] new agent that you add, it becomes exponentially easier and more powerful
+[1618.2s - 1618.2s] exponentially easier and more powerful
+[1618.2s - 1620.3s] exponentially easier and more powerful just because it leverages all five
+[1620.3s - 1620.3s] just because it leverages all five
+[1620.3s - 1623.3s] just because it leverages all five layers from day one. And this is truly
+[1623.3s - 1623.4s] layers from day one. And this is truly
+[1623.4s - 1625.1s] layers from day one. And this is truly what separates AI infrastructure from
+[1625.1s - 1625.1s] what separates AI infrastructure from
+[1625.1s - 1628.2s] what separates AI infrastructure from just random shitty automations. Now this
+[1628.2s - 1628.2s] just random shitty automations. Now this
+[1628.2s - 1630.3s] just random shitty automations. Now this infrastructure, it compounds through
+[1630.3s - 1630.3s] infrastructure, it compounds through
+[1630.3s - 1632.8s] infrastructure, it compounds through actual disciplined execution. and random
+[1632.8s - 1632.8s] actual disciplined execution. and random
+[1632.8s - 1634.9s] actual disciplined execution. and random automations, they just will always stay
+[1634.9s - 1634.9s] automations, they just will always stay
+[1634.9s - 1637.6s] automations, they just will always stay expensive and practically disconnected
+[1637.6s - 1637.6s] expensive and practically disconnected
+[1637.6s - 1639.0s] expensive and practically disconnected forever. Now, I would like to show you
+[1639.0s - 1639.0s] forever. Now, I would like to show you
+[1639.0s - 1640.8s] forever. Now, I would like to show you what this actually looks like with one
+[1640.8s - 1640.8s] what this actually looks like with one
+[1640.8s - 1642.5s] what this actually looks like with one of our recent clients. So, again, we're
+[1642.5s - 1642.6s] of our recent clients. So, again, we're
+[1642.6s - 1644.0s] of our recent clients. So, again, we're going to be talking specifically about
+[1644.0s - 1644.0s] going to be talking specifically about
+[1644.0s - 1645.4s] going to be talking specifically about the property management company. So,
+[1645.4s - 1645.4s] the property management company. So,
+[1645.4s - 1647.8s] the property management company. So, they had 400 residential units, 2.8
+[1647.8s - 1647.8s] they had 400 residential units, 2.8
+[1647.8s - 1650.1s] they had 400 residential units, 2.8 million in annual revenue, 12 employees,
+[1650.1s - 1650.1s] million in annual revenue, 12 employees,
+[1650.1s - 1652.2s] million in annual revenue, 12 employees, and they came to us thinking that their
+[1652.2s - 1652.2s] and they came to us thinking that their
+[1652.2s - 1653.6s] and they came to us thinking that their biggest problem was tenant
+[1653.6s - 1653.6s] biggest problem was tenant
+[1653.6s - 1655.5s] biggest problem was tenant communication. I mentioned this earlier,
+[1655.5s - 1655.5s] communication. I mentioned this earlier,
+[1655.5s - 1657.0s] communication. I mentioned this earlier, but when we actually went through the
+[1657.0s - 1657.0s] but when we actually went through the
+[1657.0s - 1658.8s] but when we actually went through the discovery process and we had mapped
+[1658.8s - 1658.8s] discovery process and we had mapped
+[1658.8s - 1661.0s] discovery process and we had mapped their actual workflows, we uncovered
+[1661.0s - 1661.0s] their actual workflows, we uncovered
+[1661.0s - 1663.5s] their actual workflows, we uncovered what their real problem actually was. It
+[1663.5s - 1663.5s] what their real problem actually was. It
+[1663.5s - 1665.3s] what their real problem actually was. It was lead management. Now, they were
+[1665.3s - 1665.4s] was lead management. Now, they were
+[1665.4s - 1667.3s] was lead management. Now, they were losing 30% of their inbound leads just
+[1667.3s - 1667.3s] losing 30% of their inbound leads just
+[1667.3s - 1669.7s] losing 30% of their inbound leads just to slow response times. Now, the average
+[1669.7s - 1669.7s] to slow response times. Now, the average
+[1669.7s - 1671.5s] to slow response times. Now, the average response time was about 3 to four hours.
+[1671.5s - 1671.5s] response time was about 3 to four hours.
+[1671.5s - 1673.3s] response time was about 3 to four hours. They were getting about 200 leads per
+[1673.3s - 1673.4s] They were getting about 200 leads per
+[1673.4s - 1675.3s] They were getting about 200 leads per month with a 20% conversion rate. Now,
+[1675.3s - 1675.4s] month with a 20% conversion rate. Now,
+[1675.4s - 1677.3s] month with a 20% conversion rate. Now, if we were able to improve response time
+[1677.3s - 1677.4s] if we were able to improve response time
+[1677.4s - 1679.8s] if we were able to improve response time and increase conversion to about 25%,
+[1679.8s - 1679.8s] and increase conversion to about 25%,
+[1679.8s - 1681.3s] and increase conversion to about 25%, that's going to be 10 additional leases
+[1681.3s - 1681.3s] that's going to be 10 additional leases
+[1681.3s - 1684.4s] that's going to be 10 additional leases per month. now at $1,400 average rent
+[1684.4s - 1684.4s] per month. now at $1,400 average rent
+[1684.4s - 1687.2s] per month. now at $1,400 average rent with a 10% management fee. Each lease
+[1687.2s - 1687.2s] with a 10% management fee. Each lease
+[1687.2s - 1689.9s] with a 10% management fee. Each lease will generate $140 in monthly recurring
+[1689.9s - 1689.9s] will generate $140 in monthly recurring
+[1689.9s - 1693.3s] will generate $140 in monthly recurring revenue. So 10 additional leases, this
+[1693.3s - 1693.4s] revenue. So 10 additional leases, this
+[1693.4s - 1696.2s] revenue. So 10 additional leases, this equates to about $17,000 in additional
+[1696.2s - 1696.2s] equates to about $17,000 in additional
+[1696.2s - 1698.9s] equates to about $17,000 in additional annual revenue. We also had looked at
+[1698.9s - 1698.9s] annual revenue. We also had looked at
+[1698.9s - 1700.8s] annual revenue. We also had looked at the tenants retention. So they had about
+[1700.8s - 1700.8s] the tenants retention. So they had about
+[1700.8s - 1703.6s] the tenants retention. So they had about 35% annual turnover. Now if we reduce
+[1703.6s - 1703.6s] 35% annual turnover. Now if we reduce
+[1703.6s - 1706.5s] 35% annual turnover. Now if we reduce turnover from 35% to 30%, that's going
+[1706.5s - 1706.6s] turnover from 35% to 30%, that's going
+[1706.6s - 1709.3s] turnover from 35% to 30%, that's going to be 20er turnovers per year. And each
+[1709.3s - 1709.3s] to be 20er turnovers per year. And each
+[1709.3s - 1712.2s] to be 20er turnovers per year. And each turnover cost about $1,000 in vacancy
+[1712.2s - 1712.2s] turnover cost about $1,000 in vacancy
+[1712.2s - 1715.1s] turnover cost about $1,000 in vacancy and make ready expenses. So 20er
+[1715.1s - 1715.1s] and make ready expenses. So 20er
+[1715.1s - 1718.1s] and make ready expenses. So 20er turnovers. This saves close to $20,000
+[1718.1s - 1718.1s] turnovers. This saves close to $20,000
+[1718.1s - 1720.8s] turnovers. This saves close to $20,000 annually. Plus those retained tenants
+[1720.8s - 1720.8s] annually. Plus those retained tenants
+[1720.8s - 1723.2s] annually. Plus those retained tenants continue generating management fees. So
+[1723.2s - 1723.2s] continue generating management fees. So
+[1723.2s - 1727.3s] continue generating management fees. So 20 retained tenants times $140*
+[1727.3s - 1727.4s] 20 retained tenants times $140*
+[1727.4s - 1731.3s] 20 retained tenants times $140* 12 months. This equals $33,600
+[1731.3s - 1731.4s] 12 months. This equals $33,600
+[1731.4s - 1733.3s] 12 months. This equals $33,600 in additional annual revenue. So from
+[1733.3s - 1733.3s] in additional annual revenue. So from
+[1733.3s - 1735.1s] in additional annual revenue. So from all this, we had quantified the current
+[1735.1s - 1735.1s] all this, we had quantified the current
+[1735.1s - 1738.4s] all this, we had quantified the current state costs of $160,000. We had also
+[1738.4s - 1738.4s] state costs of $160,000. We had also
+[1738.4s - 1740.6s] state costs of $160,000. We had also identified the revenue impact
+[1740.6s - 1740.6s] identified the revenue impact
+[1740.6s - 1743.0s] identified the revenue impact opportunities worth about $280,000
+[1743.0s - 1743.0s] opportunities worth about $280,000
+[1743.0s - 1745.0s] opportunities worth about $280,000 annually, but we did not promise them
+[1745.0s - 1745.0s] annually, but we did not promise them
+[1745.0s - 1748.3s] annually, but we did not promise them this $300,000 in year 1. We factored in
+[1748.3s - 1748.3s] this $300,000 in year 1. We factored in
+[1748.3s - 1750.1s] this $300,000 in year 1. We factored in realistic ramp up periods and calculated
+[1750.1s - 1750.1s] realistic ramp up periods and calculated
+[1750.1s - 1752.8s] realistic ramp up periods and calculated firstear realized benefits at 60% of
+[1752.8s - 1752.8s] firstear realized benefits at 60% of
+[1752.8s - 1754.7s] firstear realized benefits at 60% of full potential. So that came out to be
+[1754.7s - 1754.7s] full potential. So that came out to be
+[1754.7s - 1758.2s] full potential. So that came out to be about $170,000 in firstear value against
+[1758.2s - 1758.2s] about $170,000 in firstear value against
+[1758.2s - 1761.2s] about $170,000 in firstear value against an $81,000 implementation investment
+[1761.2s - 1761.2s] an $81,000 implementation investment
+[1761.2s - 1763.4s] an $81,000 implementation investment that we charged them. So the
+[1763.4s - 1763.4s] that we charged them. So the
+[1763.4s - 1767.0s] that we charged them. So the conservative ROI projection this was 73%
+[1767.0s - 1767.0s] conservative ROI projection this was 73%
+[1767.0s - 1770.2s] conservative ROI projection this was 73% with a 6.9month payback period. So what
+[1770.2s - 1770.2s] with a 6.9month payback period. So what
+[1770.2s - 1772.2s] with a 6.9month payback period. So what we had done is we had built out the AI
+[1772.2s - 1772.2s] we had done is we had built out the AI
+[1772.2s - 1774.4s] we had done is we had built out the AI core for their operation incrementally
+[1774.4s - 1774.4s] core for their operation incrementally
+[1774.4s - 1776.7s] core for their operation incrementally over 8 months. Now we started with quick
+[1776.7s - 1776.7s] over 8 months. Now we started with quick
+[1776.7s - 1778.6s] over 8 months. Now we started with quick win one which was just lead response
+[1778.6s - 1778.6s] win one which was just lead response
+[1778.6s - 1780.5s] win one which was just lead response automation. So this just had established
+[1780.5s - 1780.5s] automation. So this just had established
+[1780.5s - 1782.6s] automation. So this just had established their unified data foundation for all
+[1782.6s - 1782.6s] their unified data foundation for all
+[1782.6s - 1784.6s] their unified data foundation for all the lead data, their integration pattern
+[1784.6s - 1784.6s] the lead data, their integration pattern
+[1784.6s - 1787.0s] the lead data, their integration pattern for connecting external lead sources to
+[1787.0s - 1787.0s] for connecting external lead sources to
+[1787.0s - 1789.2s] for connecting external lead sources to the database and the beginning of their
+[1789.2s - 1789.2s] the database and the beginning of their
+[1789.2s - 1790.7s] the database and the beginning of their command center dashboard just showing
+[1790.7s - 1790.7s] command center dashboard just showing
+[1790.7s - 1794.0s] command center dashboard just showing lead response metrics. So quick win too.
+[1794.0s - 1794.0s] lead response metrics. So quick win too.
+[1794.0s - 1796.2s] lead response metrics. So quick win too. This was the lead qualification and
+[1796.2s - 1796.2s] This was the lead qualification and
+[1796.2s - 1798.1s] This was the lead qualification and routing. So what this had done is it
+[1798.1s - 1798.2s] routing. So what this had done is it
+[1798.2s - 1800.0s] routing. So what this had done is it extended the data foundation to actually
+[1800.0s - 1800.0s] extended the data foundation to actually
+[1800.0s - 1802.5s] extended the data foundation to actually include the qualification scoring, built
+[1802.5s - 1802.6s] include the qualification scoring, built
+[1802.6s - 1803.8s] include the qualification scoring, built intelligence engine for the
+[1803.8s - 1803.8s] intelligence engine for the
+[1803.8s - 1806.0s] intelligence engine for the qualification logic and it added the
+[1806.0s - 1806.0s] qualification logic and it added the
+[1806.0s - 1807.7s] qualification logic and it added the qualification metrics to the command
+[1807.7s - 1807.7s] qualification metrics to the command
+[1807.7s - 1810.3s] qualification metrics to the command center. Moving on to quick win number
+[1810.3s - 1810.3s] center. Moving on to quick win number
+[1810.3s - 1812.9s] center. Moving on to quick win number three. This was the automated follow-up
+[1812.9s - 1812.9s] three. This was the automated follow-up
+[1812.9s - 1814.8s] three. This was the automated follow-up sequences. So this actually introduced
+[1814.8s - 1814.8s] sequences. So this actually introduced
+[1814.8s - 1816.6s] sequences. So this actually introduced the orchestration layer. So this
+[1816.6s - 1816.6s] the orchestration layer. So this
+[1816.6s - 1818.7s] the orchestration layer. So this actually introduced the orchestration
+[1818.7s - 1818.7s] actually introduced the orchestration
+[1818.7s - 1820.6s] actually introduced the orchestration layer. So now the qualification agent
+[1820.6s - 1820.6s] layer. So now the qualification agent
+[1820.6s - 1822.4s] layer. So now the qualification agent could actually trigger the follow-up
+[1822.4s - 1822.4s] could actually trigger the follow-up
+[1822.4s - 1824.1s] could actually trigger the follow-up agent. They shared memory about each
+[1824.1s - 1824.1s] agent. They shared memory about each
+[1824.1s - 1825.8s] agent. They shared memory about each lead and they coordinated without any
+[1825.8s - 1825.8s] lead and they coordinated without any
+[1825.8s - 1829.0s] lead and they coordinated without any manual handoffs. So by quick win number
+[1829.0s - 1829.0s] manual handoffs. So by quick win number
+[1829.0s - 1831.5s] manual handoffs. So by quick win number five, they had the AI core fully built.
+[1831.5s - 1831.5s] five, they had the AI core fully built.
+[1831.5s - 1833.1s] five, they had the AI core fully built. So what they got from this was a unified
+[1833.1s - 1833.1s] So what they got from this was a unified
+[1833.1s - 1834.6s] So what they got from this was a unified data foundation across leads and
+[1834.6s - 1834.6s] data foundation across leads and
+[1834.6s - 1836.5s] data foundation across leads and tenants. Intelligence engine with
+[1836.5s - 1836.6s] tenants. Intelligence engine with
+[1836.6s - 1838.5s] tenants. Intelligence engine with qualification and maintenance
+[1838.5s - 1838.5s] qualification and maintenance
+[1838.5s - 1840.9s] qualification and maintenance prioritization rules, orchestration
+[1840.9s - 1840.9s] prioritization rules, orchestration
+[1840.9s - 1842.6s] prioritization rules, orchestration layers connecting five agents that all
+[1842.6s - 1842.6s] layers connecting five agents that all
+[1842.6s - 1844.8s] layers connecting five agents that all work together, integration framework
+[1844.8s - 1844.8s] work together, integration framework
+[1844.8s - 1846.5s] work together, integration framework connecting everything to their existing
+[1846.5s - 1846.6s] connecting everything to their existing
+[1846.6s - 1848.5s] connecting everything to their existing tech stacks and a complete command
+[1848.5s - 1848.5s] tech stacks and a complete command
+[1848.5s - 1849.9s] tech stacks and a complete command center dashboard showing real-time
+[1849.9s - 1849.9s] center dashboard showing real-time
+[1849.9s - 1851.9s] center dashboard showing real-time performance across all their metrics. So
+[1851.9s - 1851.9s] performance across all their metrics. So
+[1851.9s - 1853.7s] performance across all their metrics. So we did not build the infrastructure and
+[1853.7s - 1853.7s] we did not build the infrastructure and
+[1853.7s - 1856.3s] we did not build the infrastructure and then build the one-off automations or
+[1856.3s - 1856.3s] then build the one-off automations or
+[1856.3s - 1858.0s] then build the one-off automations or set of automations. We built
+[1858.0s - 1858.0s] set of automations. We built
+[1858.0s - 1859.7s] set of automations. We built infrastructure through automations
+[1859.7s - 1859.7s] infrastructure through automations
+[1859.7s - 1862.1s] infrastructure through automations delivering value at every single step
+[1862.1s - 1862.2s] delivering value at every single step
+[1862.2s - 1865.4s] delivering value at every single step just practically adding the deliverables
+[1865.4s - 1865.4s] just practically adding the deliverables
+[1865.4s - 1868.6s] just practically adding the deliverables onto each automation. Now 8 months post
+[1868.6s - 1868.6s] onto each automation. Now 8 months post
+[1868.6s - 1870.5s] onto each automation. Now 8 months post implementation. Let me show you the
+[1870.5s - 1870.5s] implementation. Let me show you the
+[1870.5s - 1873.3s] implementation. Let me show you the actual results that we had achieved. So
+[1873.3s - 1873.4s] actual results that we had achieved. So
+[1873.4s - 1875.8s] actual results that we had achieved. So lead response time averaged 18 seconds.
+[1875.8s - 1875.8s] lead response time averaged 18 seconds.
+[1875.8s - 1878.2s] lead response time averaged 18 seconds. 97% of leads got responses within 30
+[1878.2s - 1878.2s] 97% of leads got responses within 30
+[1878.2s - 1880.4s] 97% of leads got responses within 30 seconds. The lead to lease conversion
+[1880.4s - 1880.4s] seconds. The lead to lease conversion
+[1880.4s - 1882.9s] seconds. The lead to lease conversion improved from 20 to 24%. Now that is
+[1882.9s - 1882.9s] improved from 20 to 24%. Now that is
+[1882.9s - 1884.8s] improved from 20 to 24%. Now that is eight additional leases monthly all
+[1884.8s - 1884.8s] eight additional leases monthly all
+[1884.8s - 1887.1s] eight additional leases monthly all generating about $13,000 in annual
+[1887.1s - 1887.1s] generating about $13,000 in annual
+[1887.1s - 1888.8s] generating about $13,000 in annual recurring revenue. Now the attenant
+[1888.8s - 1888.8s] recurring revenue. Now the attenant
+[1888.8s - 1891.3s] recurring revenue. Now the attenant communication time this reduced 68%.
+[1891.3s - 1891.3s] communication time this reduced 68%.
+[1891.3s - 1893.1s] communication time this reduced 68%. Property managers they went from 15
+[1893.1s - 1893.1s] Property managers they went from 15
+[1893.1s - 1895.8s] Property managers they went from 15 hours weekly on admin task to about 5
+[1895.8s - 1895.8s] hours weekly on admin task to about 5
+[1895.8s - 1897.7s] hours weekly on admin task to about 5 hours. The maintenance coordination time
+[1897.7s - 1897.7s] hours. The maintenance coordination time
+[1897.7s - 1902.3s] hours. The maintenance coordination time reduced 58%. So the total first year
+[1902.3s - 1902.3s] reduced 58%. So the total first year
+[1902.3s - 1905.3s] reduced 58%. So the total first year value delivered was about $100,000
+[1905.3s - 1905.3s] value delivered was about $100,000
+[1905.3s - 1908.4s] value delivered was about $100,000 against the $81,000 investment. Now the
+[1908.4s - 1908.4s] against the $81,000 investment. Now the
+[1908.4s - 1911.2s] against the $81,000 investment. Now the actual return on investment this came in
+[1911.2s - 1911.2s] actual return on investment this came in
+[1911.2s - 1914.5s] actual return on investment this came in at 123%. So we had exceeded our
+[1914.5s - 1914.6s] at 123%. So we had exceeded our
+[1914.6s - 1918.5s] at 123%. So we had exceeded our conservative 73% projection by 68%. And
+[1918.5s - 1918.5s] conservative 73% projection by 68%. And
+[1918.5s - 1920.5s] conservative 73% projection by 68%. And beyond just the numbers the operations
+[1920.5s - 1920.5s] beyond just the numbers the operations
+[1920.5s - 1922.4s] beyond just the numbers the operations manager is no longer buried in emails
+[1922.4s - 1922.4s] manager is no longer buried in emails
+[1922.4s - 1923.9s] manager is no longer buried in emails and phone calls. She's simply just
+[1923.9s - 1923.9s] and phone calls. She's simply just
+[1923.9s - 1926.1s] and phone calls. She's simply just reviewing dashboards identifying any
+[1926.1s - 1926.1s] reviewing dashboards identifying any
+[1926.1s - 1927.8s] reviewing dashboards identifying any improvement opportunities and of course
+[1927.8s - 1927.8s] improvement opportunities and of course
+[1927.8s - 1929.3s] improvement opportunities and of course designing some new workflows. Now the
+[1929.3s - 1929.4s] designing some new workflows. Now the
+[1929.4s - 1930.9s] designing some new workflows. Now the property managers they had went from
+[1930.9s - 1930.9s] property managers they had went from
+[1930.9s - 1933.1s] property managers they had went from reactive firefighting to proactive
+[1933.1s - 1933.1s] reactive firefighting to proactive
+[1933.1s - 1935.2s] reactive firefighting to proactive relationship management. And that is
+[1935.2s - 1935.2s] relationship management. And that is
+[1935.2s - 1936.9s] relationship management. And that is really what AI transformation looks like
+[1936.9s - 1936.9s] really what AI transformation looks like
+[1936.9s - 1938.5s] really what AI transformation looks like when you think about infrastructure
+[1938.5s - 1938.6s] when you think about infrastructure
+[1938.6s - 1941.1s] when you think about infrastructure instead of simply automation thinking.
+[1941.1s - 1941.1s] instead of simply automation thinking.
+[1941.1s - 1942.1s] instead of simply automation thinking. And really quick, if you're watching
+[1942.1s - 1942.1s] And really quick, if you're watching
+[1942.1s - 1943.7s] And really quick, if you're watching this and thinking like this is exactly
+[1943.7s - 1943.7s] this and thinking like this is exactly
+[1943.7s - 1945.5s] this and thinking like this is exactly what my business needs, but I have no
+[1945.5s - 1945.5s] what my business needs, but I have no
+[1945.5s - 1947.4s] what my business needs, but I have no idea how to implement it myself. We
+[1947.4s - 1947.4s] idea how to implement it myself. We
+[1947.4s - 1949.2s] idea how to implement it myself. We offer done for you AI transformation
+[1949.2s - 1949.2s] offer done for you AI transformation
+[1949.2s - 1951.0s] offer done for you AI transformation services where we will handle the entire
+[1951.0s - 1951.0s] services where we will handle the entire
+[1951.0s - 1953.7s] services where we will handle the entire process from discovery to deployment to
+[1953.7s - 1953.7s] process from discovery to deployment to
+[1953.7s - 1955.3s] process from discovery to deployment to optimization. Now, this isn't a course
+[1955.3s - 1955.4s] optimization. Now, this isn't a course
+[1955.4s - 1957.3s] optimization. Now, this isn't a course or a coaching program. This is our team
+[1957.3s - 1957.4s] or a coaching program. This is our team
+[1957.4s - 1959.3s] or a coaching program. This is our team working directly with your team to build
+[1959.3s - 1959.3s] working directly with your team to build
+[1959.3s - 1961.6s] working directly with your team to build the AI core for your specific operation.
+[1961.6s - 1961.6s] the AI core for your specific operation.
+[1961.6s - 1963.7s] the AI core for your specific operation. Now, we do the discovery audit. We map
+[1963.7s - 1963.7s] Now, we do the discovery audit. We map
+[1963.7s - 1965.0s] Now, we do the discovery audit. We map your workflows. We design the
+[1965.0s - 1965.0s] your workflows. We design the
+[1965.0s - 1966.8s] your workflows. We design the architecture. We build the systems. And
+[1966.8s - 1966.8s] architecture. We build the systems. And
+[1966.8s - 1968.5s] architecture. We build the systems. And we integrate with your tech stack and
+[1968.5s - 1968.5s] we integrate with your tech stack and
+[1968.5s - 1970.7s] we integrate with your tech stack and train your team and of course optimize
+[1970.7s - 1970.7s] train your team and of course optimize
+[1970.7s - 1973.2s] train your team and of course optimize performance until we hit the ROI targets
+[1973.2s - 1973.2s] performance until we hit the ROI targets
+[1973.2s - 1975.1s] performance until we hit the ROI targets that we committed to. Now, our clients
+[1975.1s - 1975.1s] that we committed to. Now, our clients
+[1975.1s - 1977.0s] that we committed to. Now, our clients on average typically see about 40 plus
+[1977.0s - 1977.0s] on average typically see about 40 plus
+[1977.0s - 1979.2s] on average typically see about 40 plus hours saved per week for their teams.
+[1979.2s - 1979.2s] hours saved per week for their teams.
+[1979.2s - 1981.0s] hours saved per week for their teams. They also see measurable increases in
+[1981.0s - 1981.0s] They also see measurable increases in
+[1981.0s - 1982.6s] They also see measurable increases in revenue and their bottom line and
+[1982.6s - 1982.6s] revenue and their bottom line and
+[1982.6s - 1984.5s] revenue and their bottom line and sustainable competitive advantages that
+[1984.5s - 1984.5s] sustainable competitive advantages that
+[1984.5s - 1986.0s] sustainable competitive advantages that just compound over time.
+[1986.0s - 1986.0s] just compound over time.
+[1986.0s - 1986.0s] just compound over time. >> [snorts]
+[1986.0s - 1986.0s] >> [snorts]
+[1986.0s - 1987.4s] >> [snorts] >> So, if you want to explore whether this
+[1987.4s - 1987.4s] >> So, if you want to explore whether this
+[1987.4s - 1989.4s] >> So, if you want to explore whether this makes sense for your business, there's a
+[1989.4s - 1989.4s] makes sense for your business, there's a
+[1989.4s - 1991.0s] makes sense for your business, there's a link down below in the description to
+[1991.0s - 1991.0s] link down below in the description to
+[1991.0s - 1993.2s] link down below in the description to schedule a discovery call with our team
+[1993.2s - 1993.2s] schedule a discovery call with our team
+[1993.2s - 1994.9s] schedule a discovery call with our team where we will help you take your
+[1994.9s - 1994.9s] where we will help you take your
+[1994.9s - 1997.8s] where we will help you take your business to, you know, the next decade
+[1997.8s - 1997.8s] business to, you know, the next decade
+[1997.8s - 2000.4s] business to, you know, the next decade of where AI is leading us into. So, if
+[2000.4s - 2000.4s] of where AI is leading us into. So, if
+[2000.4s - 2001.3s] of where AI is leading us into. So, if you want to explore whether that makes
+[2001.3s - 2001.4s] you want to explore whether that makes
+[2001.4s - 2002.4s] you want to explore whether that makes sense for your business, there's going
+[2002.4s - 2002.4s] sense for your business, there's going
+[2002.4s - 2003.5s] sense for your business, there's going to be a link down below in the
+[2003.5s - 2003.5s] to be a link down below in the
+[2003.5s - 2005.1s] to be a link down below in the description to schedule a discovery call
+[2005.1s - 2005.1s] description to schedule a discovery call
+[2005.1s - 2006.4s] description to schedule a discovery call with our team. We'll walk through your
+[2006.4s - 2006.4s] with our team. We'll walk through your
+[2006.4s - 2008.6s] with our team. We'll walk through your current operations, identify the highest
+[2008.6s - 2008.6s] current operations, identify the highest
+[2008.6s - 2010.3s] current operations, identify the highest impact opportunities, and show you
+[2010.3s - 2010.3s] impact opportunities, and show you
+[2010.3s - 2012.5s] impact opportunities, and show you exactly what transformation would and
+[2012.5s - 2012.5s] exactly what transformation would and
+[2012.5s - 2013.8s] exactly what transformation would and can look like for your specific
+[2013.8s - 2013.8s] can look like for your specific
+[2013.8s - 2015.3s] can look like for your specific situations. Now, whether you work with
+[2015.3s - 2015.4s] situations. Now, whether you work with
+[2015.4s - 2017.1s] situations. Now, whether you work with us or not, all the frameworks and the
+[2017.1s - 2017.1s] us or not, all the frameworks and the
+[2017.1s - 2018.1s] us or not, all the frameworks and the templates from this video, they're going
+[2018.1s - 2018.2s] templates from this video, they're going
+[2018.2s - 2020.3s] templates from this video, they're going to be down below in the description. All
+[2020.3s - 2020.3s] to be down below in the description. All
+[2020.3s - 2022.1s] to be down below in the description. All yours for completely free. If you're
+[2022.1s - 2022.2s] yours for completely free. If you're
+[2022.2s - 2024.3s] yours for completely free. If you're going to take any action, then at the
+[2024.3s - 2024.3s] going to take any action, then at the
+[2024.3s - 2026.3s] going to take any action, then at the very least, take a look at those. Do not
+[2026.3s - 2026.3s] very least, take a look at those. Do not
+[2026.3s - 2028.0s] very least, take a look at those. Do not neglect those. Now, let's just quickly
+[2028.0s - 2028.0s] neglect those. Now, let's just quickly
+[2028.0s - 2030.0s] neglect those. Now, let's just quickly discuss what will actually change after
+[2030.0s - 2030.0s] discuss what will actually change after
+[2030.0s - 2031.1s] discuss what will actually change after transformation. So, once your
+[2031.1s - 2031.1s] transformation. So, once your
+[2031.1s - 2032.5s] transformation. So, once your transformation is actually finished,
+[2032.5s - 2032.6s] transformation is actually finished,
+[2032.6s - 2033.8s] transformation is actually finished, your business will be operating
+[2033.8s - 2033.8s] your business will be operating
+[2033.8s - 2035.4s] your business will be operating fundamentally differently. So, your
+[2035.4s - 2035.4s] fundamentally differently. So, your
+[2035.4s - 2037.8s] fundamentally differently. So, your role, it will quite literally transform.
+[2037.8s - 2037.8s] role, it will quite literally transform.
+[2037.8s - 2039.8s] role, it will quite literally transform. You will go from being in the weeds,
+[2039.8s - 2039.8s] You will go from being in the weeds,
+[2039.8s - 2042.1s] You will go from being in the weeds, firefighting, responding to every issue,
+[2042.1s - 2042.2s] firefighting, responding to every issue,
+[2042.2s - 2044.4s] firefighting, responding to every issue, scrambling across Slack channels, Teams
+[2044.4s - 2044.4s] scrambling across Slack channels, Teams
+[2044.4s - 2046.6s] scrambling across Slack channels, Teams channels, to being the architect. You're
+[2046.6s - 2046.6s] channels, to being the architect. You're
+[2046.6s - 2048.3s] channels, to being the architect. You're reviewing performance dashboards. You're
+[2048.3s - 2048.3s] reviewing performance dashboards. You're
+[2048.3s - 2049.3s] reviewing performance dashboards. You're identifying the improvement
+[2049.3s - 2049.4s] identifying the improvement
+[2049.4s - 2051.1s] identifying the improvement opportunities and you're designing new
+[2051.1s - 2051.1s] opportunities and you're designing new
+[2051.1s - 2052.5s] opportunities and you're designing new workflows. So, you're thinking about
+[2052.5s - 2052.5s] workflows. So, you're thinking about
+[2052.5s - 2054.4s] workflows. So, you're thinking about better outcomes instead of just reacting
+[2054.4s - 2054.4s] better outcomes instead of just reacting
+[2054.4s - 2056.6s] better outcomes instead of just reacting to the current chaos. And this is really
+[2056.6s - 2056.6s] to the current chaos. And this is really
+[2056.6s - 2058.9s] to the current chaos. And this is really the shift from operator to owner. So,
+[2058.9s - 2058.9s] the shift from operator to owner. So,
+[2058.9s - 2061.0s] the shift from operator to owner. So, you're no longer the bottleneck. You are
+[2061.0s - 2061.0s] you're no longer the bottleneck. You are
+[2061.0s - 2063.5s] you're no longer the bottleneck. You are the designer of systems that runs all
+[2063.5s - 2063.5s] the designer of systems that runs all
+[2063.5s - 2066.1s] the designer of systems that runs all without you. Your hiring also changes.
+[2066.1s - 2066.1s] without you. Your hiring also changes.
+[2066.1s - 2067.5s] without you. Your hiring also changes. So eventually you will have to add
+[2067.5s - 2067.5s] So eventually you will have to add
+[2067.5s - 2069.1s] So eventually you will have to add headcount again, but the roles are
+[2069.1s - 2069.1s] headcount again, but the roles are
+[2069.1s - 2070.5s] headcount again, but the roles are completely different. You're hiring
+[2070.5s - 2070.5s] completely different. You're hiring
+[2070.5s - 2072.0s] completely different. You're hiring people to oversee and improve and
+[2072.0s - 2072.0s] people to oversee and improve and
+[2072.0s - 2073.2s] people to oversee and improve and collaborate with the agents that
+[2073.2s - 2073.2s] collaborate with the agents that
+[2073.2s - 2074.5s] collaborate with the agents that actually do the work. So you'll find
+[2074.5s - 2074.5s] actually do the work. So you'll find
+[2074.5s - 2076.6s] actually do the work. So you'll find revenue operators who just refine the AI
+[2076.6s - 2076.6s] revenue operators who just refine the AI
+[2076.6s - 2079.0s] revenue operators who just refine the AI flows and maybe even systems integrators
+[2079.0s - 2079.0s] flows and maybe even systems integrators
+[2079.0s - 2081.1s] flows and maybe even systems integrators who manage data flows between the
+[2081.1s - 2081.1s] who manage data flows between the
+[2081.1s - 2083.6s] who manage data flows between the platforms and AI oversight coordinators
+[2083.6s - 2083.6s] platforms and AI oversight coordinators
+[2083.6s - 2086.0s] platforms and AI oversight coordinators who improve agent performance. And with
+[2086.0s - 2086.0s] who improve agent performance. And with
+[2086.0s - 2087.2s] who improve agent performance. And with all that being said, your competitive
+[2087.2s - 2087.2s] all that being said, your competitive
+[2087.2s - 2089.1s] all that being said, your competitive positioning completely changes. So you
+[2089.1s - 2089.1s] positioning completely changes. So you
+[2089.1s - 2091.7s] positioning completely changes. So you now compete based on capabilities that
+[2091.7s - 2091.7s] now compete based on capabilities that
+[2091.7s - 2093.3s] now compete based on capabilities that traditional businesses simply cannot
+[2093.3s - 2093.4s] traditional businesses simply cannot
+[2093.4s - 2095.8s] traditional businesses simply cannot replicate 247 responsiveness without
+[2095.8s - 2095.8s] replicate 247 responsiveness without
+[2095.8s - 2097.6s] replicate 247 responsiveness without additional headcount. And ultimately you
+[2097.6s - 2097.6s] additional headcount. And ultimately you
+[2097.6s - 2099.3s] additional headcount. And ultimately you will see the ability to scale without
+[2099.3s - 2099.3s] will see the ability to scale without
+[2099.3s - 2100.9s] will see the ability to scale without proportional cost increases. So if you
+[2100.9s - 2101.0s] proportional cost increases. So if you
+[2101.0s - 2103.0s] proportional cost increases. So if you couldn't tell already, the window for AI
+[2103.0s - 2103.0s] couldn't tell already, the window for AI
+[2103.0s - 2104.9s] couldn't tell already, the window for AI first transformation, it is open right
+[2104.9s - 2104.9s] first transformation, it is open right
+[2104.9s - 2106.7s] first transformation, it is open right now, but it will not last forever.
+[2106.7s - 2106.7s] now, but it will not last forever.
+[2106.7s - 2108.9s] now, but it will not last forever. There's this temporary period where
+[2108.9s - 2108.9s] There's this temporary period where
+[2108.9s - 2110.9s] There's this temporary period where demand for sophisticated AI
+[2110.9s - 2110.9s] demand for sophisticated AI
+[2110.9s - 2113.1s] demand for sophisticated AI transformation just massively exceeds
+[2113.1s - 2113.1s] transformation just massively exceeds
+[2113.1s - 2115.0s] transformation just massively exceeds the supply. Companies [snorts] that
+[2115.0s - 2115.0s] the supply. Companies [snorts] that
+[2115.0s - 2117.3s] the supply. Companies [snorts] that establish themselves as truly AI first
+[2117.3s - 2117.3s] establish themselves as truly AI first
+[2117.3s - 2120.1s] establish themselves as truly AI first in the next, let's say, six months, they
+[2120.1s - 2120.1s] in the next, let's say, six months, they
+[2120.1s - 2121.3s] in the next, let's say, six months, they will be capturing the majority of
+[2121.3s - 2121.4s] will be capturing the majority of
+[2121.4s - 2123.8s] will be capturing the majority of long-term value in their markets and
+[2123.8s - 2123.8s] long-term value in their markets and
+[2123.8s - 2125.8s] long-term value in their markets and everyone else, they will just be
+[2125.8s - 2125.8s] everyone else, they will just be
+[2125.8s - 2128.0s] everyone else, they will just be fighting for scraps years behind trying
+[2128.0s - 2128.0s] fighting for scraps years behind trying
+[2128.0s - 2130.6s] fighting for scraps years behind trying to just [snorts] catch up while you're
+[2130.6s - 2130.6s] to just [snorts] catch up while you're
+[2130.6s - 2132.7s] to just [snorts] catch up while you're compounding advantages. And none of this
+[2132.7s - 2132.7s] compounding advantages. And none of this
+[2132.7s - 2134.6s] compounding advantages. And none of this is hype. This is a genuine strategic
+[2134.6s - 2134.6s] is hype. This is a genuine strategic
+[2134.6s - 2136.0s] is hype. This is a genuine strategic inflection point. And the businesses
+[2136.0s - 2136.0s] inflection point. And the businesses
+[2136.0s - 2138.3s] inflection point. And the businesses that do move now thoughtfully,
+[2138.3s - 2138.3s] that do move now thoughtfully,
+[2138.3s - 2140.4s] that do move now thoughtfully, strategically with the right framework,
+[2140.4s - 2140.4s] strategically with the right framework,
+[2140.4s - 2142.0s] strategically with the right framework, the right partners, they will be the
+[2142.0s - 2142.0s] the right partners, they will be the
+[2142.0s - 2143.9s] the right partners, they will be the ones that dominate their industries for
+[2143.9s - 2143.9s] ones that dominate their industries for
+[2143.9s - 2145.9s] ones that dominate their industries for the next decade. So think about where
+[2145.9s - 2145.9s] the next decade. So think about where
+[2145.9s - 2148.1s] the next decade. So think about where you are right now. Are you still just
+[2148.1s - 2148.1s] you are right now. Are you still just
+[2148.1s - 2150.8s] you are right now. Are you still just treating AI as a set of random tools to
+[2150.8s - 2150.8s] treating AI as a set of random tools to
+[2150.8s - 2152.9s] treating AI as a set of random tools to just bolt onto your existing operations
+[2152.9s - 2153.0s] just bolt onto your existing operations
+[2153.0s - 2154.9s] just bolt onto your existing operations or are you fundamentally rethinking how
+[2154.9s - 2154.9s] or are you fundamentally rethinking how
+[2154.9s - 2157.0s] or are you fundamentally rethinking how your business actually operates with AI
+[2157.0s - 2157.0s] your business actually operates with AI
+[2157.0s - 2159.2s] your business actually operates with AI as this like nervous system? So that is
+[2159.2s - 2159.2s] as this like nervous system? So that is
+[2159.2s - 2160.5s] as this like nervous system? So that is going to be the shift. That is the
+[2160.5s - 2160.5s] going to be the shift. That is the
+[2160.5s - 2162.9s] going to be the shift. That is the opportunity and that is really what this
+[2162.9s - 2162.9s] opportunity and that is really what this
+[2162.9s - 2165.2s] opportunity and that is really what this entire framework is designed to help you
+[2165.2s - 2165.2s] entire framework is designed to help you
+[2165.2s - 2166.8s] entire framework is designed to help you achieve. So with all this being said, if
+[2166.8s - 2166.8s] achieve. So with all this being said, if
+[2166.8s - 2168.4s] achieve. So with all this being said, if this framework was valuable, make sure
+[2168.4s - 2168.4s] this framework was valuable, make sure
+[2168.4s - 2170.6s] this framework was valuable, make sure to like, subscribe, drop a comment.
+[2170.6s - 2170.6s] to like, subscribe, drop a comment.
+[2170.6s - 2172.3s] to like, subscribe, drop a comment. We're putting out deep dive content like
+[2172.3s - 2172.3s] We're putting out deep dive content like
+[2172.3s - 2174.6s] We're putting out deep dive content like this regularly on AI transformations,
+[2174.6s - 2174.6s] this regularly on AI transformations,
+[2174.6s - 2176.6s] this regularly on AI transformations, systems thinking, and how to build
+[2176.6s - 2176.6s] systems thinking, and how to build
+[2176.6s - 2178.5s] systems thinking, and how to build leverage into your operations. And if
+[2178.5s - 2178.5s] leverage into your operations. And if
+[2178.5s - 2180.2s] leverage into your operations. And if you're a business owner ready to explore
+[2180.2s - 2180.2s] you're a business owner ready to explore
+[2180.2s - 2182.2s] you're a business owner ready to explore AI transformation for your company,
+[2182.2s - 2182.2s] AI transformation for your company,
+[2182.2s - 2183.4s] AI transformation for your company, click the link down below description to
+[2183.4s - 2183.4s] click the link down below description to
+[2183.4s - 2185.3s] click the link down below description to schedule a discovery call with our team
+[2185.3s - 2185.3s] schedule a discovery call with our team
+[2185.3s - 2186.9s] schedule a discovery call with our team and myself. We have worked with more
+[2186.9s - 2186.9s] and myself. We have worked with more
+[2186.9s - 2188.6s] and myself. We have worked with more than 50 companies across multiple
+[2188.6s - 2188.6s] than 50 companies across multiple
+[2188.6s - 2190.7s] than 50 companies across multiple industries driving measurable results
+[2190.7s - 2190.7s] industries driving measurable results
+[2190.7s - 2192.3s] industries driving measurable results and we'd love to discuss how this
+[2192.3s - 2192.3s] and we'd love to discuss how this
+[2192.3s - 2193.7s] and we'd love to discuss how this actually applies to your specific
+[2193.7s - 2193.7s] actually applies to your specific
+[2193.7s - 2194.9s] actually applies to your specific situation. And again, all the
+[2194.9s - 2195.0s] situation. And again, all the
+[2195.0s - 2196.9s] situation. And again, all the frameworks, templates, questions,
+[2196.9s - 2197.0s] frameworks, templates, questions,
+[2197.0s - 2198.6s] frameworks, templates, questions, anything like that, all the resources
+[2198.6s - 2198.6s] anything like that, all the resources
+[2198.6s - 2199.9s] anything like that, all the resources completely free. They're in the
+[2199.9s - 2199.9s] completely free. They're in the
+[2199.9s - 2201.5s] completely free. They're in the description. Take them, use them,
+[2201.5s - 2201.5s] description. Take them, use them,
+[2201.5s - 2203.3s] description. Take them, use them, implement them in your business. With
+[2203.3s - 2203.3s] implement them in your business. With
+[2203.3s - 2204.6s] implement them in your business. With that being said, thank you guys for
+[2204.6s - 2204.6s] that being said, thank you guys for
+[2204.6s - 2207.5s] that being said, thank you guys for watching and I'll see you in the next

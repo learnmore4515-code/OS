@@ -1,0 +1,491 @@
+# Transcription of C:\Users\profe\Downloads\20261022_085121.aac
+# Detected language: en (probability 1.00)
+# Duration: 2574.3s
+
+[180.00 --> 187.00]   .
+[187.00 --> 194.00]   .
+[194.00 --> 201.00]   .
+[201.00 --> 208.00]   .
+[208.00 --> 233.00]   .
+[233.00 --> 236.00]   .
+[236.00 --> 243.00]   .
+[243.00 --> 250.00]   .
+[250.00 --> 257.00]   .
+[257.00 --> 264.00]   .
+[264.00 --> 271.00]   .
+[271.00 --> 278.00]   .
+[278.00 --> 285.00]   .
+[285.00 --> 292.00]   .
+[292.00 --> 293.00]   .
+[293.00 --> 300.00]   .
+[300.00 --> 306.00]   .
+[306.00 --> 313.00]   .
+[313.00 --> 318.00]   .
+[318.00 --> 322.00]   .
+[322.00 --> 329.00]   .
+[329.00 --> 334.00]   .
+[334.00 --> 340.00]   .
+[340.00 --> 347.00]   .
+[347.00 --> 350.00]   .
+[350.00 --> 355.00]   .
+[355.00 --> 360.00]   .
+[360.00 --> 365.00]   .
+[365.00 --> 370.00]   .
+[370.00 --> 375.00]   .
+[375.00 --> 379.00]   .
+[379.00 --> 384.00]   .
+[384.00 --> 389.00]   .
+[389.00 --> 394.00]   .
+[394.00 --> 399.00]   .
+[399.00 --> 404.00]   .
+[404.00 --> 408.00]   .
+[408.00 --> 413.00]   .
+[413.00 --> 418.00]   .
+[418.00 --> 423.00]   .
+[423.00 --> 428.00]   .
+[428.00 --> 433.00]   .
+[433.00 --> 436.00]   .
+[436.00 --> 441.00]   .
+[441.00 --> 446.00]   .
+[446.00 --> 451.00]   .
+[451.00 --> 456.00]   .
+[456.00 --> 461.00]   .
+[461.00 --> 465.00]   .
+[465.00 --> 470.00]   .
+[470.00 --> 475.00]   .
+[475.00 --> 480.00]   .
+[480.00 --> 485.00]   .
+[485.00 --> 490.00]   .
+[490.00 --> 493.00]   .
+[493.00 --> 498.00]   .
+[498.00 --> 503.00]   .
+[503.00 --> 508.00]   .
+[508.00 --> 513.00]   .
+[513.00 --> 518.00]   .
+[518.00 --> 521.00]   .
+[521.00 --> 526.00]   .
+[526.00 --> 531.00]   .
+[531.00 --> 536.00]   .
+[536.00 --> 541.00]   .
+[541.00 --> 546.00]   .
+[546.00 --> 550.00]   .
+[550.00 --> 555.00]   .
+[555.00 --> 560.00]   .
+[560.00 --> 565.00]   .
+[565.00 --> 570.00]   .
+[570.00 --> 575.00]   .
+[575.00 --> 578.00]   .
+[578.00 --> 579.00]   .
+[579.00 --> 584.00]   .
+[584.00 --> 589.00]   .
+[589.00 --> 594.00]   .
+[594.00 --> 599.00]   .
+[599.00 --> 604.00]   .
+[604.00 --> 607.00]   .
+[607.00 --> 608.00]   .
+[608.00 --> 610.00]   .
+[610.00 --> 613.00]   .
+[613.00 --> 617.00]   .
+[617.00 --> 621.00]   .
+[621.00 --> 625.00]   .
+[625.00 --> 629.00]   .
+[629.00 --> 633.00]   .
+[633.00 --> 636.00]   .
+[636.00 --> 637.00]   .
+[637.00 --> 640.00]   .
+[640.00 --> 643.00]   .
+[643.00 --> 647.00]   .
+[647.00 --> 651.00]   .
+[651.00 --> 655.00]   .
+[655.00 --> 658.00]   .
+[658.00 --> 662.00]   .
+[662.00 --> 666.00]   .
+[666.00 --> 671.00]   .
+[671.00 --> 676.00]   .
+[676.00 --> 681.00]   .
+[681.00 --> 685.00]   .
+[685.00 --> 689.00]   .
+[689.00 --> 693.00]   .
+[693.00 --> 695.00]   .
+[695.00 --> 698.00]   .
+[698.00 --> 701.00]   .
+[701.00 --> 705.00]   .
+[705.00 --> 708.00]   .
+[708.00 --> 712.00]   .
+[712.00 --> 715.00]   .
+[715.00 --> 720.00]   .
+[720.00 --> 723.00]   .
+[723.00 --> 724.00]   .
+[724.00 --> 727.00]   .
+[727.00 --> 730.00]   .
+[730.00 --> 734.00]   .
+[734.00 --> 738.00]   .
+[738.00 --> 742.00]   .
+[742.00 --> 745.00]   .
+[745.00 --> 749.00]   .
+[749.00 --> 752.00]   .
+[752.00 --> 753.00]   .
+[753.00 --> 756.00]   .
+[756.00 --> 759.00]   .
+[759.00 --> 762.00]   .
+[762.00 --> 765.00]   .
+[765.00 --> 768.00]   .
+[768.00 --> 771.00]   .
+[771.00 --> 774.00]   .
+[774.00 --> 778.00]   .
+[778.00 --> 781.00]   .
+[781.00 --> 782.00]   .
+[782.00 --> 785.00]   .
+[785.00 --> 788.00]   .
+[788.00 --> 791.00]   .
+[791.00 --> 794.00]   .
+[794.00 --> 797.00]   .
+[797.00 --> 800.00]   .
+[800.00 --> 803.00]   .
+[803.00 --> 807.00]   .
+[807.00 --> 810.00]   .
+[810.00 --> 811.00]   .
+[811.00 --> 814.00]   .
+[814.00 --> 817.00]   .
+[817.00 --> 820.00]   .
+[820.00 --> 823.00]   .
+[823.00 --> 826.00]   .
+[826.00 --> 829.00]   .
+[829.00 --> 832.00]   .
+[832.00 --> 836.00]   .
+[836.00 --> 839.00]   .
+[839.00 --> 840.00]   .
+[840.00 --> 843.00]   .
+[843.00 --> 846.00]   .
+[846.00 --> 849.00]   .
+[849.00 --> 852.00]   .
+[852.00 --> 855.00]   .
+[855.00 --> 858.00]   .
+[858.00 --> 861.00]   .
+[861.00 --> 865.00]   .
+[865.00 --> 868.00]   .
+[868.00 --> 869.00]   .
+[869.00 --> 870.00]   .
+[870.00 --> 871.00]   .
+[871.00 --> 872.00]   .
+[872.00 --> 873.00]   .
+[873.00 --> 874.00]   .
+[874.00 --> 875.00]   .
+[875.00 --> 876.00]   .
+[876.00 --> 877.00]   .
+[877.00 --> 878.00]   .
+[878.00 --> 879.00]   .
+[879.00 --> 880.00]   .
+[880.00 --> 881.00]   .
+[881.00 --> 882.00]   .
+[882.00 --> 883.00]   .
+[883.00 --> 884.00]   .
+[884.00 --> 885.00]   .
+[885.00 --> 886.00]   .
+[886.00 --> 887.00]   .
+[887.00 --> 888.00]   .
+[888.00 --> 889.00]   .
+[889.00 --> 890.00]   .
+[890.00 --> 891.00]   .
+[891.00 --> 892.00]   .
+[892.00 --> 893.00]   .
+[893.00 --> 894.00]   .
+[894.00 --> 895.00]   .
+[895.00 --> 896.00]   .
+[896.00 --> 897.00]   .
+[897.00 --> 898.00]   .
+[898.00 --> 902.00]   I know you need to answer.
+[902.00 --> 907.00]   So the claim comes to, I am just a list, list, list.
+[907.00 --> 910.00]   It's a sample.
+[910.00 --> 914.00]   And it's to positive, it's to positive.
+[914.00 --> 916.00]   Glock has arrived.
+[916.00 --> 917.00]   For the insurer has arrived.
+[917.00 --> 920.00]   I think now it's insured correct.
+[920.00 --> 923.00]   So let's say the three are missing.
+[923.00 --> 926.00]   Directly to the insurer.
+[926.00 --> 929.00]   The glock has not known that the claim is fake.
+[929.00 --> 931.00]   It's a pre-continuous component.
+[931.00 --> 933.00]   That's what I think.
+[933.00 --> 936.00]   The insurer and the glock have arrived already.
+[936.00 --> 938.00]   To confirm that claim.
+[938.00 --> 941.00]   It comes through to that type of claim they actually did.
+[941.00 --> 944.00]   Again, a lot of, a lot of add me.
+[944.00 --> 947.00]   And I hope you follow what I'm saying.
+[947.00 --> 953.00]   So we're just looking for the claim.
+[953.00 --> 959.00]   And we will be avoiding it.
+[959.00 --> 963.00]   Then after the onboarding is the adamant situation.
+[963.00 --> 971.00]   The adamant reply.
+[971.00 --> 981.24]   It could be an increase in the family's role during reduction in the family's role.
+[981.24 --> 988.92]   So the client, she sent either send a WhatsApp or makes a phone call or send an email.
+[988.92 --> 991.68]   The broker has sent that information.
+[991.68 --> 997.40]   The process starts again and the broker has to go now to the insurance and make this change.
+[997.40 --> 1001.40]   So the last thing I might say is that it's not premium or refund premium.
+[1001.40 --> 1005.40]   To ensure a calculate, the premium comes back to the broker.
+[1005.40 --> 1011.40]   The broker has sent the document with the changes that the client wants and say, hey,
+[1011.40 --> 1017.40]   it's expected to change and the income from your premium is in DCV.
+[1017.40 --> 1024.40]   And the same process of acceptance, premium, premium is repeated.
+[1024.40 --> 1034.40]   So, this is what the broker has at dealing with every day of the alliance in terms of when I'm
+[1034.40 --> 1040.40]   truck at the administration, converting of policies, changes to policies.
+[1040.40 --> 1044.40]   Let's say a client wants to cancel a policy.
+[1044.40 --> 1046.40]   Again, the same process is followed.
+[1046.40 --> 1048.40]   The same is touching to the broker.
+[1048.40 --> 1050.40]   I can't show my forms.
+[1050.40 --> 1052.40]   The broker has used the information.
+[1052.40 --> 1054.40]   I can't show this policy.
+[1054.40 --> 1056.40]   They are refund premium years.
+[1056.40 --> 1058.40]   I might see effects.
+[1058.40 --> 1064.40]   The broker community is back to the insurance or the client.
+[1064.40 --> 1066.40]   And the issue is in credit notes.
+[1066.40 --> 1069.40]   And then the process is the refund.
+[1069.40 --> 1072.40]   And the refund comes from the insurance.
+[1072.40 --> 1076.40]   I guess to invest our bank account.
+[1076.40 --> 1078.40]   I mean, the refund translation also happens.
+[1078.40 --> 1081.40]   The reconsiliation also happens.
+[1081.40 --> 1091.40]   So, in terms of premium employment, the reconsiliation process, in terms of the refund,
+[1091.40 --> 1092.40]   insurance, doe düşen a client.
+[1092.40 --> 1098.40]   In terms of the cancellation of the policy, for a refund, organizing from an initialization of an asset or an item of policy,
+[1098.40 --> 1101.40]   there is also the reconsiliation case.
+[1101.40 --> 1110.40]   In very simple terms, the level of administration that goes into the phone body and the day-to-day
+[1110.40 --> 1116.40]   I have a portfolio of the college or a portfolio of the program.
+[1116.40 --> 1125.40]   And this happens every day and that probably takes up 60% broadcast time.
+[1125.40 --> 1132.40]   And broadcasts are divided in those that are trying to face in that
+[1132.40 --> 1137.40]   that are dealing with the client in terms of policy administration.
+[1137.40 --> 1144.40]   Then there are those that are specifically dealing with change-related matters.
+[1144.40 --> 1150.40]   Although it's more like broadcasts, you will find that one person could be the same person being
+[1150.40 --> 1155.40]   asking for policy changes, policy administration, on-point of new compliance,
+[1155.40 --> 1160.40]   as well as the claims.
+[1160.40 --> 1162.40]   Right?
+[1162.40 --> 1168.40]   So I hope you're getting questions or comments.
+[1168.40 --> 1175.40]   So I would like to ask you a question.
+[1175.40 --> 1182.40]   I would like to ask you a question.
+[1182.40 --> 1189.40]   I would like to ask you a question.
+[1189.40 --> 1196.40]   I would like to ask you a question.
+[1196.40 --> 1203.40]   I would like to ask you a question.
+[1203.40 --> 1210.40]   I would like to ask you a question.
+[1211.40 --> 1217.40]   Do you have any questions around policy administration?
+[1217.40 --> 1224.40]   I would like to ask you a question.
+[1224.40 --> 1232.40]   I would like to ask you a question.
+[1233.40 --> 1244.40]   So recommendations are usually slowed down by reference references that come from the
+[1244.40 --> 1247.40]   insurance.
+[1247.40 --> 1251.40]   So a client is paying a premium.
+[1251.40 --> 1257.40]   They don't put all the reference information that will allow an insurance immediately identified
+[1258.40 --> 1262.40]   in all of the cases that they account.
+[1262.40 --> 1269.40]   So you, the people, you have been given a cover for a model vehicle.
+[1269.40 --> 1274.40]   And then you go to your infant cell or to your bank and you paint a premium.
+[1274.40 --> 1280.40]   But you fail to attract details like policy number for instance, or your account number,
+[1280.40 --> 1286.40]   or references that they ensure I would like to put on that payment so that it becomes easy for them
+[1286.40 --> 1293.40]   to automatically allocate that premium to the individual that they raised.
+[1293.40 --> 1301.40]   So that means when we ensure I receive that payment, it remains analogous to themselves.
+[1301.40 --> 1308.40]   They are able to establish what the premium is for because they could be 20 or 20 people
+[1308.40 --> 1313.40]   in a month.
+[1313.40 --> 1317.40]   But the new reference number has not been captured.
+[1317.40 --> 1326.40]   The other point is that you may capture all the information, but you pay less or more.
+[1326.40 --> 1334.40]   So an accounting office like to spend 20 minutes trying to figure out what this payment is for.
+[1334.40 --> 1337.40]   And that creates reconciliation issues.
+[1337.40 --> 1345.40]   So there are many issues that can result in reconciliation in the United.
+[1345.40 --> 1352.40]   But you need to speak to someone in finance in a insurance company, in a brokerage app company
+[1352.40 --> 1356.40]   to clearly understand what their pay is.
+[1356.40 --> 1358.40]   But I'm just giving you an example.
+[1358.40 --> 1364.40]   Now, let's talk about phase.
+[1364.40 --> 1369.40]   And specifically regarding the missing documents.
+[1369.40 --> 1376.40]   The broker, the law's suggestion and the insurer.
+[1376.40 --> 1377.40]   These are three parts.
+[1377.40 --> 1384.40]   You could even actually enter a client that's the fourth part of the client.
+[1384.40 --> 1389.40]   So what happens is when you claim your case, the client initiates the client,
+[1389.40 --> 1393.40]   they report the claim before the first notice loss.
+[1393.40 --> 1398.40]   They have been involved in an accident.
+[1398.40 --> 1402.40]   The details of the accident as follows.
+[1402.40 --> 1408.40]   They ask you complete a claim from whether it's an attorney.
+[1408.40 --> 1412.40]   But most of the time it's seen in a paper form.
+[1412.40 --> 1415.40]   Or the client.
+[1415.40 --> 1419.40]   Yeah, the value change is.
+[1419.40 --> 1424.40]   They claim from all the supporting documents.
+[1424.40 --> 1426.40]   From the client.
+[1426.40 --> 1433.40]   Whether via email or the link by post or the link.
+[1433.40 --> 1438.40]   The broker's office or the insurer's office.
+[1438.40 --> 1444.40]   The broker then told an information greatest as a claim.
+[1444.40 --> 1452.40]   And it transmits all the relevant documents to the insurer that the client has ever claimed.
+[1452.40 --> 1456.40]   The insurer seems to information.
+[1456.40 --> 1466.40]   Check to see that the claim is valid in terms of the policy in place.
+[1466.40 --> 1471.40]   That is waiting to be claimed against.
+[1471.40 --> 1476.40]   So yeah, make sure that the policy best premium is maintained.
+[1476.40 --> 1481.40]   The vehicle in question is not policy.
+[1481.40 --> 1484.40]   Yeah, clear?
+[1484.40 --> 1485.40]   Yeah.
+[1485.40 --> 1490.40]   The insurer takes the depending on the subject of the claim, most of the time.
+[1490.40 --> 1499.40]   To then set both documents and send them to a lost adjuster or a claims assessor.
+[1499.40 --> 1503.40]   Who in most cases are external people?
+[1503.40 --> 1507.40]   And lots of adjusters.
+[1507.40 --> 1512.40]   Most of them are not digital in terms of the way they operate.
+[1512.40 --> 1517.40]   They deal with pay ties.
+[1517.40 --> 1521.40]   So you can imagine what then happens.
+[1521.40 --> 1527.40]   Critical error is in that along the chain some documents will get lost.
+[1527.40 --> 1529.40]   Not completely lost.
+[1529.40 --> 1531.40]   Yeah, I think they lost all.
+[1531.40 --> 1535.40]   They are not transmitted to the respective parties.
+[1535.40 --> 1536.40]   So from the client.
+[1536.40 --> 1539.40]   The client may miss some documents.
+[1539.40 --> 1542.40]   They have to come to an office after that.
+[1542.40 --> 1546.40]   They could have been sure I saved our own free quotations in this.
+[1546.40 --> 1549.40]   And they forget one question.
+[1549.40 --> 1552.40]   So the broker now has to say,
+[1552.40 --> 1556.40]   please send the third one.
+[1556.40 --> 1559.40]   The broker also means that they claim for me.
+[1559.40 --> 1562.40]   They are not completely questioned.
+[1562.40 --> 1568.40]   They go and completely send me the claim from back so they are behaving in the process.
+[1568.40 --> 1571.40]   But while the broker does this check,
+[1571.40 --> 1579.40]   the next level of checking and validation happens that they ensure I save.
+[1579.40 --> 1584.40]   They will say, oh, you have not signed this claim for me.
+[1584.40 --> 1586.40]   I have not written this.
+[1586.40 --> 1590.40]   So they send it back to the broker and move and send me back to the client.
+[1590.40 --> 1595.40]   So that the same is completed.
+[1595.40 --> 1597.40]   Okay.
+[1597.40 --> 1601.40]   So now they now have to send all these documents.
+[1601.40 --> 1604.40]   They send to the assessor.
+[1604.40 --> 1608.40]   The assessor is not in the office.
+[1608.40 --> 1612.40]   So he has to collect pieces of papers.
+[1612.40 --> 1614.40]   And who knows?
+[1614.40 --> 1616.40]   Even with 10 claims.
+[1616.40 --> 1618.40]   From that particular day.
+[1618.40 --> 1619.40]   And we lose it.
+[1619.40 --> 1622.40]   They claim from from one client.
+[1622.40 --> 1624.40]   That change at the whole process.
+[1624.40 --> 1626.40]   They suspect all of them.
+[1626.40 --> 1628.40]   They yes to go back to the insurance.
+[1628.40 --> 1631.40]   Or you did not give me this document.
+[1631.40 --> 1635.40]   Or I lost this document and I have another code.
+[1635.40 --> 1637.40]   So all these documents,
+[1637.40 --> 1640.40]   you can imagine what it does to the client.
+[1640.40 --> 1642.40]   Because the client is waiting.
+[1642.40 --> 1644.40]   There's that enough things.
+[1644.40 --> 1646.40]   And ultimately, one thing,
+[1646.40 --> 1651.40]   is fulfilment of the context that they ensure
+[1651.40 --> 1653.40]   that they remain for the broker and me
+[1653.40 --> 1654.40]   to them.
+[1654.40 --> 1655.40]   That in the end of the day,
+[1655.40 --> 1657.40]   you are company.
+[1657.40 --> 1660.40]   Make sure that we'll put you in the same findings of the position
+[1660.40 --> 1662.40]   that you have in the office.
+[1662.40 --> 1664.40]   Thank you.
+[1664.40 --> 1666.40]   So your question around the customer experience
+[1666.40 --> 1669.40]   or not answered it because you can figure it out.
+[1669.40 --> 1672.40]   And put your issues with the client.
+[1672.40 --> 1675.40]   And just be mindful yourself.
+[1675.40 --> 1680.40]   Waiting for this dark panel of documents
+[1680.40 --> 1683.40]   that you don't know who's doing what
+[1683.40 --> 1686.40]   and how long it's going to take.
+[1686.40 --> 1688.40]   But meanwhile,
+[1688.40 --> 1693.40]   you are paid because your vehicle is standing there
+[1693.40 --> 1696.40]   at the panel of this hour in your garage,
+[1696.40 --> 1698.40]   waiting for instructions to be given
+[1698.40 --> 1700.40]   to remove for it to be a bed
+[1700.40 --> 1704.40]   or for you to get paid so that you can have it in place.
+[1704.40 --> 1706.40]   Yes.
+[1706.40 --> 1730.40]   So there are tracking systems.
+[1730.40 --> 1754.40]   So, they are not all looking at the process through, um, through one window, they are different
+[1754.40 --> 1761.40]   angles of them, the client is not the only angle of the blocker, the one, uh, the insular
+[1761.40 --> 1769.40]   is one, and the loads are adjusted is one. So, there is no idea by insisting that puts all
+[1769.40 --> 1778.40]   the angles of the blocker. So, there is no idea by insisting that puts all the angles of the
+[1778.40 --> 1786.40]   blocker. So, there is no idea by insisting that puts all the angles of the blocker, the
+[1786.40 --> 1801.40]   blocker. So, the most efficient way of doing this is to reduce the number of touch points,
+[1801.40 --> 1811.40]   nine or touch points. So, you answer an API that is a great being sure and the broker so
+[1811.40 --> 1817.40]   that on the same page in terms of what they are viewing, whether it's policy information,
+[1817.40 --> 1824.40]   claim status, premium payment status, they want to be on the same window. The loads are just
+[1824.40 --> 1831.40]   there and the client can only be accurate to make that better, the critical, the most important
+[1831.40 --> 1838.40]   for the broker, if it's not API, then it is a very important process for information that should
+[1838.40 --> 1845.40]   be happening so that there are two screens that I speak to each other and when they are checking
+[1845.40 --> 1851.40]   for statements, they see the same information.
+[1851.40 --> 1861.40]   You know, I think those things need to speak to someone in the chairman of the
+[1861.40 --> 1877.40]   chairman. You know, I think those things need to speak to someone in the chairman of the
+[1877.40 --> 1883.40]   chairman of the chairman. In fact, I think that should be a static point to find some
+[1883.40 --> 1890.40]   of the things that you can have to face to face conversation that can also demonstrate
+[1890.40 --> 1895.40]   you what actually happens in a functional office because you may be dealing with fairly
+[1895.40 --> 1903.40]   of what goes on in the blockchain company is not actually a representative of the
+[1903.40 --> 1911.40]   thinking work that goes on and the pay that goes on. So, do you know anyone who
+[1941.40 --> 1946.40]   is not going to be able to work with the chairman of the chairman of the
+[1946.40 --> 1949.40]   chairman of the chairman of the chairman of the chairman?
+[1949.40 --> 1954.40]   Yeah, but what do they have for this person?
+[1954.40 --> 1983.40]   Yeah, I'm just sensing that you need more
+[1983.40 --> 1993.40]   knowledge of what people are actually dealing with, but you need also to be
+[1993.40 --> 2000.40]   educated by someone who is on the ground because no knowledge of the leadership is
+[2000.40 --> 2010.40]   no idea what it should be for you to appreciate the solutions that are required.
+[2011.40 --> 2017.40]   And for me to spend time telling you about theoretical aspects of the leadership,
+[2017.40 --> 2024.40]   I don't think it's going to do anything, you know, become educated theoretically but you need
+[2024.40 --> 2032.40]   practical aspects of the leadership. My suggestion to you is if you can find some
+[2032.40 --> 2041.40]   a broker, a medium-sized broker that allows you to sit in the office for a week or two,
+[2041.40 --> 2049.40]   first to understand how the engineering quotations, what are the channels that we are
+[2049.40 --> 2055.40]   meeting, the source quotations that they might have, brokers they might have
+[2056.40 --> 2065.40]   cells people are being developing for. What happens also is that the question comes to the
+[2065.40 --> 2072.40]   exception, especially when you know that all the digital assets you need to understand
+[2072.40 --> 2079.40]   that and you need two or three things that you are looking at.
+[2080.40 --> 2098.40]   So one is on the client side in terms of the administration and relationship
+[2098.40 --> 2105.40]   management, what do they do, what are the issues, and you need another
+[2106.40 --> 2110.40]   and the oneself and the business development, what are the issues that we are dealing with,
+[2110.40 --> 2117.40]   and how are the processes in them, then you need another team on things.
+[2117.40 --> 2123.40]   How do they process things, and what are the issues, and what are they trying to say, and how are they
+[2124.40 --> 2130.40]   trying to get the value based in the business. For instance, are you a bit, do you know what is
+[2130.40 --> 2137.40]   called a new commodity score?
+[2137.40 --> 2146.40]   So you want to try, or just think, if you do, a complement and a complete register, where
+[2146.40 --> 2151.40]   they are not involved in paying money from the client, but it's not it's one thing for
+[2152.40 --> 2158.40]   you to tell your owner that point is that those are important, but what are the client's
+[2158.40 --> 2167.40]   important? And if you automate, is there a line in the complains from the client, and the
+[2167.40 --> 2174.40]   pay points of the blogger?
+[2175.40 --> 2180.40]   Yeah, so I'm thinking that might be, that might just open.
+[2180.40 --> 2189.40]   I've been speaking and I raised stories from Saratoga and different places that I've been,
+[2189.40 --> 2200.40]   and it's very different to be in an insurance workers' environment, and see for
+[2200.40 --> 2203.40]   yourself and asking why do you do that?
+[2204.40 --> 2211.40]   Well, getting the process load charged from the blogger, because that's also something
+[2211.40 --> 2218.40]   you need to know. You can talk about the pay points that you want to provide the process
+[2218.40 --> 2225.40]   floor as well, at some point, enough to feel ready for the process, and say, okay, I am
+[2225.40 --> 2232.40]   in the bottom here, and if we can take out the forum, then it means the flow will be a lot
+[2232.40 --> 2239.40]   of time.
+[2239.40 --> 2246.40]   Okay, so I, where are you going to be in my office?
+[2246.40 --> 2259.40]   Okay, so I have friends at a company called MeNet. Do you know MeNet? This is called Aeon?
+[2259.40 --> 2266.40]   Do you know anyone within me?
+[2266.40 --> 2273.40]   Okay, are you close to them in terms of your location where you are?
+[2273.40 --> 2287.40]   I see, okay, so what I was doing is I'll introduce you to the actual
+[2287.40 --> 2299.40]   operating officer, okay, and she might go to YouTube to allocate someone to see you, and see
+[2299.40 --> 2306.40]   how best they can out you, but actually, yeah, they will be out you, because they are
+[2306.40 --> 2315.40]   really awesome, when I asked, last year sometime, you know, did not understand that.
+[2315.40 --> 2319.40]   They were easy, or they were already going a long way in all of these.
+[2319.40 --> 2332.40]   So, you see the evolution of their process, and then I wonder maybe MeNet will not be
+[2332.40 --> 2342.40]   a good place to start from. Maybe you should start off with someone who is actually
+[2342.40 --> 2351.40]   battling, or who is somewhere in the process of automating that they still are getting
+[2351.40 --> 2357.40]   efficient. So, there is another guy, I can remember the name of this company,
+[2357.40 --> 2362.40]   it's the old store, it's in the broken space. So, I appeared out in the
+[2362.40 --> 2370.40]   industry, and it's like that first, you see what I've been doing, you might be
+[2370.40 --> 2376.40]   a good cause of stuff, because they may not be big, and they may not be
+[2376.40 --> 2381.40]   thinking about it, and they may think, oh, you're waiting on time, maybe
+[2381.40 --> 2386.40]   what you need to do, and you're going to have time for it.
+[2386.40 --> 2395.40]   Okay. All right, so let's do that. Does that work?
+[2395.40 --> 2400.40]   Do you think it might be helpful for you?
+[2401.40 --> 2407.40]   Okay, okay. Yeah, and I'll be interested to find out what to, what to
+[2407.40 --> 2412.40]   develop in the industry, and those are main systems, that's why I was asking you,
+[2412.40 --> 2417.40]   where do you change these types of things where you're expecting to get into the
+[2417.40 --> 2421.40]   work that you have done, what you mentioned, you were very general.
+[2421.40 --> 2424.40]   Are you, do you automate anything?
+[2425.40 --> 2431.40]   Oh, okay. So the kind of stuff that I do, I do that for
+[2431.40 --> 2435.40]   like, you know, different types of things, yes, I do that.
+[2435.40 --> 2441.40]   I do something in the industry, sometimes I do things in
+[2441.40 --> 2446.40]   the industry, sometimes I do things that I do, I do that sometimes,
+[2446.40 --> 2453.40]   sometimes, sometimes, sometimes I do things that I do.
+[2453.40 --> 2460.40]   All right, okay, so you can somewhere, so there is proof of the work that you have done.
+[2460.40 --> 2478.40]   Yeah, so in terms of producing yourself, I think you could do better by preparing a store,
+[2478.40 --> 2484.40]   whoever you stick to what you have done because really that's the basis of the conversation.
+[2484.40 --> 2486.40]   This is what I've done.
+[2486.40 --> 2494.40]   I want to expand it to be a short industry, but first I need to understand the industry, the processes,
+[2494.40 --> 2498.40]   before I can build a solution.
+[2498.40 --> 2506.40]   So maybe we need to spend a bit more time creating what they call an enterprise,
+[2506.40 --> 2517.40]   which is not in short of just telling people what you have done and what they are doing to the business.
+[2518.40 --> 2524.40]   And also being very specific, when you say I'm sort of an automation,
+[2524.40 --> 2532.40]   I'm a financial accountant, you need to be more confident in regard to your credentials
+[2532.40 --> 2536.40]   in which you've got meetings and don't think that as well.
+[2536.40 --> 2542.40]   And don't say so, don't pronounce it in this case.
+[2542.40 --> 2549.40]   When I asked you to watch your name, you didn't say I'm sort of known to say them.
+[2549.40 --> 2555.40]   Okay, and it's no criticism, that's my automation.
+[2555.40 --> 2560.40]   I get a opinion about that.
+[2560.40 --> 2562.40]   All right, I found something.
+[2562.40 --> 2565.40]   Okay, great to meet you.
+[2565.40 --> 2568.40]   Thank you very much.
+[2568.40 --> 2571.40]   I found it.
+[2571.40 --> 2574.40]   Thank you very much.

@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Premium Reconciliation — Insurance Broker Tool</title>
+<style>
+  /* ===== Design tokens — Kenyan insurance ledger vernacular ===== */
+  :root {
+    --ink: #0F172A;
+    --paper: #FFFFFF;
+    --paper-soft: #F8FAFC;
+    --mpesa-green: #059669;
+    --mpesa-green-dark: #047857;
+    --stamp-red: #DC2626;
+    --stamp-red-bg: #FEF2F2;
+    --discrepancy: #D97706;
+    --discrepancy-bg: #FDF4E7;
+    --matched-bg: #F0FDF4;
+    --border: #E2E8F0;
+    --text-muted: #64748B;
+    --font-display: Georgia, 'Times New Roman', serif;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-data: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+  }
+
+  /* ===== Hero — opens with the problem, not the product ===== */
+  .hero {
+    border-bottom: 4px solid var(--ink);
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .hero-eyebrow {
+    font-family: var(--font-display);
+    font-size: 0.8rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--mpesa-green);
+    font-weight: 700;
+    margin: 0 0 0.75rem 0;
+  }
+
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .hero p {
+    color: var(--text-muted);
+    font-size: 1rem;
+    margin: 0 0 1.5rem 0;
+    max-width: 60ch;
+  }
+
+  .hero-stat {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .stat-value {
+    font-family: var(--font-data);
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .stat-arrow {
+    color: var(--mpesa-green);
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  .stat-label {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+  }
+
+  /* ===== Upload / Input section ===== */
+  .inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .input-card {
+    border: 2px dashed var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    background: var(--paper-soft);
+    transition: border-color 0.2s;
+  }
+
+  .input-card.drag-over {
+    border-color: var(--mpesa-green);
+    background: var(--matched-bg);
+  }
+
+  .input-card h3 {
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    margin: 0 0 1rem 0;
+    color: var(--ink);
+  }
+
+  .drop-zone {
+    border: 2px dashed var(--border);
+    border-radius: 6px;
+    padding: 1.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .drop-zone.drag-over {
+    border-color: var(--mpesa-green);
+    background: var(--matched-bg);
+  }
+
+  .drop-zone p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  .drop-zone em {
+    color: var(--mpesa-green-dark);
+    font-style: normal;
+    font-weight: 600;
+  }
+
+  .file-input {
+    display: none;
+  }
+
+  .upload-btn {
+    display: inline-block;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0.75rem;
+    font-family: var(--font-body);
+    text-decoration: none;
+  }
+
+  .upload-btn:hover {
+    background: var(--mpesa-green-dark);
+  }
+
+  .format-hint {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+    font-style: italic;
+    line-height: 1.4;
+  }
+
+  .sample-row {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .sample-btn {
+    background: var(--paper);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: 0.4rem 0.8rem;
+    font-size: 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: var(--font-body);
+  }
+
+  .sample-btn:hover {
+    border-color: var(--mpesa-green);
+    color: var(--mpesa-green-dark);
+  }
+
+  .sample-btn.primary {
+    background: var(--mpesa-green);
+    color: var(--paper);
+    border-color: var(--mpesa-green);
+  }
+
+  .sample-btn.primary:hover {
+    background: var(--mpesa-green-dark);
+  }
+
+  /* ===== Action bar ===== */
+  .action-bar {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-match {
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    border-radius: 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.8rem;
+  }
+
+  .btn-match:hover {
+    background: var(--mpesa-green-dark);
+  }
+
+  .btn-match:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .btn-clear {
+    background: transparent;
+    color: var(--stamp-red);
+    border: 1px solid var(--stamp-red);
+    padding: 0.8rem 1.5rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+  }
+
+  /* ===== Results section ===== */
+  .results {
+    margin-top: 2rem;
+  }
+
+  .summary-bar {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 1.25rem;
+    background: var(--paper-soft);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--mpesa-green);
+    border-radius: 0;
+  }
+
+  .summary-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex: 1;
+  }
+
+  .summary-item:first-child .summary-value { color: var(--mpesa-green-dark); }
+  .summary-item:nth-child(2) .summary-value { color: var(--stamp-red); }
+  .summary-item:nth-child(3) .summary-value { color: var(--stamp-red); }
+  .summary-item:nth-child(4) .summary-value { color: var(--ink); }
+
+  .summary-value {
+    font-family: var(--font-data);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .summary-label {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 3px solid var(--ink);
+    margin-bottom: 1rem;
+    overflow-x: auto;
+  }
+
+  .tab {
+    padding: 0.75rem 1.5rem;
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-family: var(--font-body);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+
+  .tab.active {
+    color: var(--ink);
+    border-bottom-color: var(--ink);
+  }
+
+  .tab-content {
+    display: none;
+  }
+
+  .tab-content.active {
+    display: block;
+    animation: fadeIn 0.2s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  th {
+    font-family: var(--font-display);
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0.75rem;
+    border-bottom: 3px solid var(--ink);
+    color: var(--ink);
+  }
+
+  td {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--border);
+    font-family: var(--font-data);
+    vertical-align: top;
+  }
+
+  tr.matched {
+    background: var(--matched-bg);
+    border-left: 4px solid var(--mpesa-green);
+  }
+
+  tr.matched td {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.125rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    border: 1px solid;
+  }
+
+  .badge-matched {
+    background: var(--matched-bg);
+    color: var(--mpesa-green-dark);
+    border-color: var(--mpesa-green);
+  }
+
+  .badge-unmatched {
+    background: var(--stamp-red-bg);
+    color: var(--stamp-red);
+    border-color: var(--stamp-red);
+  }
+
+  .badge-discrepancy {
+    background: var(--discrepancy-bg);
+    color: var(--discrepancy);
+    border-color: var(--discrepancy);
+  }
+
+  .btn-export {
+    background: var(--mpesa-green);
+    color: var(--paper);
+    border: none;
+    padding: 0.7rem 1.4rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .btn-export:hover {
+    background: var(--mpesa-green-dark);
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-muted);
+  }
+
+  .empty-state p {
+    font-size: 1rem;
+    max-width: 40ch;
+    margin: 0 auto;
+  }
+
+  .format-badge {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.25rem 0.6rem;
+    background: var(--border);
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    border-radius: 4px;
+    font-family: var(--font-data);
+  }
+
+  /* ===== Mobile ===== */
+  @media (max-width: 768px) {
+    .inputs {
+      grid-template-columns: 1fr;
+    }
+    .hero h1 {
+      font-size: 1.75rem;
+    }
+    .hero-stat {
+      flex-direction: column;
+      gap: 0.75rem;
+      align-items: flex-start;
+    }
+    .summary-bar {
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .tabs {
+      display: block;
+      border-bottom: none;
+    }
+    .tab {
+      display: block;
+      width: 100%;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      border-bottom-color: var(--border);
+      padding: 0.75rem 1rem;
+    }
+    .tab.active {
+      border-bottom-color: var(--border);
+      background: var(--paper-soft);
+    }
+    .action-bar {
+      flex-direction: column;
+    }
+    .btn-match, .btn-clear {
+      width: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Hero -->
+  <div class="hero">
+    <p class="hero-eyebrow">Premium Reconciliation for Insurance Brokers</p>
+    <h1>Match M-Pesa payments to policies in seconds, not minutes</h1>
+    <p>Upload your M-Pesa statement and policy register — or paste SMS messages directly. The tool auto-detects the format, matches payments to policies, and shows what's missing or over/under.</p>
+    <div class="hero-stat">
+      <span class="stat-value">20 min</span>
+      <span class="stat-arrow">→</span>
+      <span class="stat-value" style="color: var(--mpesa-green-dark)">30 sec</span>
+      <span class="stat-label">Time saved per payment reconciled</span>
+    </div>
+  </div>
+
+  <!-- Inputs -->
+  <div class="inputs">
+    <!-- M-Pesa Transactions -->
+    <div class="input-card" id="cardMpesa">
+      <h3>M-Pesa Statement</h3>
+      <div class="drop-zone" id="dropMpesa">
+        <p>Drag &amp; drop CSV/TXT file, or<br><em>click to browse</em></p>
+        <p style="margin-top:0.5rem; font-size:0.8rem; color:var(--text-muted)">Or paste M-Pesa SMS messages below</p>
+      </div>
+      <input type="file" id="fileMpesa" class="file-input" accept=".csv,.txt,.text">
+      <button class="upload-btn" onclick="document.getElementById('fileMpesa').click()">Choose file</button>
+      <textarea id="mpesaInput" placeholder="Paste M-Pesa SMS messages here:
+MES123456, KES5,000 received from 0712345678 on 12/10/2026 at 14:30. New balance KES 12,500.
+MES123457, KES12,000 received from 0798765432 on 12/10/2026 at 15:15. New balance KES 45,000." rows="6"></textarea>
+      <div class="format-hint">Supports: M-Pesa SMS, CSV, pipe-separated (|), tab-separated. Auto-detected.</div>
+      <div class="sample-row">
+        <button class="sample-btn" onclick="loadSample('mpesa')">Load sample M-Pesa</button>
+      </div>
+      <div class="format-badge" id="formatMpesa">Format: not detected</div>
+    </div>
+
+    <!-- Expected Payments -->
+    <div class="input-card" id="cardExpected">
+      <h3>Expected Payments Register</h3>
+      <div class="drop-zone" id="dropExpected">
+        <p>Drag &amp; drop CSV/TXT file, or<br><em>click to browse</em></p>
+        <p style="margin-top:0.5rem; font-size:0.8rem; color:var(--text-muted)">Or paste your policy register below</p>
+      </div>
+      <input type="file" id="fileExpected" class="file-input" accept=".csv,.txt,.text">
+      <button class="upload-btn" onclick="document.getElementById('fileExpected').click()">Choose file</button>
+      <textarea id="expectedInput" placeholder="Paste your policy register here:
+POL-2026-001 | John Kamau | 5,000 | 12/10/2026
+POL-2026-002 | Sarah Wanjiku | 12,000 | 12/10/2026" rows="6"></textarea>
+      <div class="format-hint">Supports: CSV, pipe-separated (|), tab-separated. Auto-detected.</div>
+      <div class="sample-row">
+        <button class="sample-btn" onclick="loadSample('expected')">Load sample register</button>
+      </div>
+      <div class="format-badge" id="formatExpected">Format: not detected</div>
+    </div>
+  </div>
+
+  <!-- Action bar -->
+  <div class="action-bar">
+    <button class="btn-match" onclick="reconcile()">Reconcile Payments</button>
+    <button class="btn-clear" onclick="clearAll()">Clear all</button>
+  </div>
+
+  <!-- Results -->
+  <div class="results" id="results" style="display: none;">
+    <div class="summary-bar">
+      <div class="summary-item">
+        <span class="summary-value" id="statMatched">0</span>
+        <span class="summary-label">Matched payments</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-value" id="statUnmatched">0</span>
+        <span class="summary-label">Unmatched M-Pesa</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-value" id="statUnpaid">0</span>
+        <span class="summary-label">Unpaid policies</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-value" id="statRate">0%</span>
+        <span class="summary-label">Reconciliation rate</span>
+      </div>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" onclick="showTab('matched', this)">Matched Payments</button>
+      <button class="tab" onclick="showTab('unmatchedMpesa', this)">Unmatched M-Pesa</button>
+      <button class="tab" onclick="showTab('unpaidPolicies', this)">Unpaid Policies</button>
+      <button class="tab" onclick="showTab('discrepancies', this)">Amount Discrepancies</button>
+    </div>
+
+    <div id="tab-matched" class="tab-content active">
+      <table>
+        <thead>
+          <tr>
+            <th>Policy</th>
+            <th>Client</th>
+            <th>Expected</th>
+            <th>M-Pesa Ref</th>
+            <th>Received</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="matchedBody"></tbody>
+      </table>
+    </div>
+
+    <div id="tab-unmatchedMpesa" class="tab-content">
+      <table>
+        <thead>
+          <tr>
+            <th>M-Pesa Ref</th>
+            <th>Phone</th>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="unmatchedMpesaBody"></tbody>
+      </table>
+    </div>
+
+    <div id="tab-unpaidPolicies" class="tab-content">
+      <table>
+        <thead>
+          <tr>
+            <th>Policy</th>
+            <th>Client</th>
+            <th>Amount Due</th>
+            <th>Due Date</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="unpaidPoliciesBody"></tbody>
+      </table>
+    </div>
+
+    <div id="tab-discrepancies" class="tab-content">
+      <table>
+        <thead>
+          <tr>
+            <th>Policy</th>
+            <th>Client</th>
+            <th>Expected</th>
+            <th>Received</th>
+            <th>Difference</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="discrepanciesBody"></tbody>
+      </table>
+    </div>
+
+    <button class="btn-export" onclick="exportReport()">Export Reconciliation Report (CSV)</button>
+  </div>
+
+  <div id="emptyState" class="empty-state">
+    <p>Upload files or paste M-Pesa SMS + policy register, then click Reconcile.</p>
+  </div>
+
+</div>
+
+<script>
+/* ===== Drag & drop handlers ===== */
+function setupDropZone(dropZoneId, textareaId, fileInputId, formatBadgeId) {
+  const dropZone = document.getElementById(dropZoneId);
+  const fileInput = document.getElementById(fileInputId);
+
+  dropZone.addEventListener('click', () => fileInput.click());
+
+  dropZone.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    dropZone.classList.add('drag-over');
+  });
+
+  dropZone.addEventListener('dragleave', () => {
+    dropZone.classList.remove('drag-over');
+  });
+
+  dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.classList.remove('drag-over');
+    const file = e.dataTransfer.files[0];
+    if (file) handleFile(file, textareaId, formatBadgeId);
+  });
+
+  fileInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (file) handleFile(file, textareaId, formatBadgeId);
+  });
+}
+
+function handleFile(file, textareaId, formatBadgeId) {
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    const text = e.target.result;
+    document.getElementById(textareaId).value = text;
+    detectFormat(text, formatBadgeId);
+  };
+  reader.readAsText(file);
+}
+
+setupDropZone('dropMpesa', 'mpesaInput', 'fileMpesa', 'formatMpesa');
+setupDropZone('dropExpected', 'expectedInput', 'fileExpected', 'formatExpected');
+
+/* ===== Format detection ===== */
+function detectFormat(text, badgeId) {
+  const badge = badgeId ? document.getElementById(badgeId) : null;
+  const trimmed = text.trim();
+  let format = 'plain';
+
+  // M-Pesa SMS pattern: "MES123456, KES5,000 received from 0712345678 on 12/10/2026 at 14:30..."
+  if (/MES\d+.*KES[\d,]+\s+received\s+from/i.test(trimmed)) {
+    format = 'sms';
+  } else if (/^[A-Za-z].*[,|].*[,|].*[,|]/m.test(trimmed)) {
+    format = 'csv';
+  } else if (/\|/.test(trimmed)) {
+    format = 'pipe';
+  } else if (/\t/.test(trimmed)) {
+    format = 'tab';
+  }
+
+  if (badge) {
+    const labels = {
+      sms: 'Format: M-Pesa SMS',
+      csv: 'Format: CSV / delimited',
+      pipe: 'Format: Pipe-separated (|)',
+      tab: 'Format: Tab-separated',
+      plain: 'Format: plain text (best effort)'
+    };
+    const colors = {
+      sms: { bg: '#DCFCE7', color: '#047857' },
+      csv: { bg: '#DBEAFE', color: '#1D4ED8' },
+      pipe: { bg: '#DBEAFE', color: '#1D4ED8' },
+      tab: { bg: '#DBEAFE', color: '#1D4ED8' },
+      plain: { bg: '#F1F5F9', color: '#64748B' }
+    };
+    badge.textContent = labels[format];
+    badge.style.background = colors[format].bg;
+    badge.style.color = colors[format].color;
+  }
+
+  return format;
+}
+
+/* ===== Parsing ===== */
+function parseAmount(str) {
+  if (!str) return 0;
+  const cleaned = String(str).replace(/[,\sKES\/£$]/g, '');
+  const num = parseFloat(cleaned);
+  return isNaN(num) ? 0 : num;
+}
+
+function parseMpesaSMS(line) {
+  // M-Pesa SMS format: "MES123456, KES5,000 received from 0712345678 on 12/10/2026 at 14:30. New balance KES 12,500."
+  const refMatch = line.match(/MES\d+/i);
+  const amountMatch = line.match(/KES\s*([\d,]+\.?\d*)/i);
+  const phoneMatch = line.match(/from\s+(07\d{8})/i) || line.match(/from\s+(\+?254\d{9})/i);
+  const dateMatch = line.match(/on\s+(\d{1,2}\/\d{1,2}\/\d{4})/i);
+
+  return {
+    ref: refMatch ? refMatch[0] : '',
+    amount: amountMatch ? parseAmount(amountMatch[1]) : 0,
+    phone: phoneMatch ? phoneMatch[1] : '',
+    date: dateMatch ? dateMatch[1] : '',
+    raw: line
+  };
+}
+
+function parseTransactions(text) {
+  const format = detectFormat(text, null); // just for logic, badge already set
+  const lines = text.trim().split('\n').filter(l => l.trim());
+  const transactions = [];
+
+  lines.forEach((line, i) => {
+    let parsed;
+
+    if (format === 'sms' || /MES\d+/i.test(line)) {
+      parsed = parseMpesaSMS(line);
+    } else {
+      const parts = line.split(/[,|\t]/).map(p => p.trim());
+      if (parts.length >= 3) {
+        parsed = {
+          ref: parts[0] || '',
+          phone: parts[1] || '',
+          amount: parseAmount(parts[2]) || 0,
+          date: parts[3] || '',
+          raw: line
+        };
+      } else if (parts.length === 2) {
+        parsed = {
+          ref: parts[0] || '',
+          phone: '',
+          amount: parseAmount(parts[1]) || 0,
+          date: '',
+          raw: line
+        };
+      } else {
+        const amtMatch = line.match(/([\d,]+\.?\d*)/);
+        parsed = {
+          ref: '',
+          phone: '',
+          amount: amtMatch ? parseAmount(amtMatch[1]) : 0,
+          date: '',
+          raw: line
+        };
+      }
+    }
+
+    if (parsed) {
+      parsed.id = 'trx-' + i;
+      transactions.push(parsed);
+    }
+  });
+
+  return transactions;
+}
+
+function parseExpected(text) {
+  const lines = text.trim().split('\n').filter(l => l.trim());
+  return lines.map((line, i) => {
+    const parts = line.split(/[,|\t]/).map(p => p.trim());
+    if (parts.length >= 3) {
+      return {
+        id: 'pol-' + i,
+        policy: parts[0] || '',
+        client: parts[1] || '',
+        amount: parseAmount(parts[2]) || 0,
+        dueDate: parts[3] || '',
+        raw: line
+      };
+    }
+    return {
+      id: 'pol-' + i,
+      policy: '',
+      client: line,
+      amount: 0,
+      dueDate: '',
+      raw: line
+    };
+  });
+}
+
+/* ===== Sample data ===== */
+function loadSample(type) {
+  const mpesaSample = `MES123456, KES5,000 received from 0712345678 on 12/10/2026 at 14:30. New balance KES 12,500.
+MES123457, KES12,000 received from 0798765432 on 12/10/2026 at 15:15. New balance KES 45,000.
+MES123458, KES8,500 received from 0711222333 on 12/10/2026 at 16:00. New balance KES 38,000.
+MES123459, KES15,000 received from 0755666777 on 13/10/2026 at 09:45. New balance KES 89,000.
+MES123460, KES3,200 received from 0722333444 on 13/10/2026 at 11:20. New balance KES 15,000.
+MES123461, KES22,000 received from 0733444555 on 13/10/2026 at 14:10. New balance KES 112,000.
+MES123462, KES6,750 received from 0744555666 on 14/10/2026 at 08:00. New balance KES 23,000.
+MES123463, KES5,000 received from 0712345678 on 14/10/2026 at 10:30. New balance KES 7,500.
+MES123464, KES11,500 received from 0799888777 on 14/10/2026 at 13:00. New balance KES 56,000.`;
+
+  const expectedSample = `POL-2026-001 | John Kamau | 5,000 | 12/10/2026
+POL-2026-002 | Sarah Wanjiku | 12,000 | 12/10/2026
+POL-2026-003 | David Omondi | 8,500 | 13/10/2026
+POL-2026-004 | Mercy Njeri | 15,000 | 13/10/2026
+POL-2026-005 | James Kiplagat | 3,200 | 13/10/2026
+POL-2026-006 | Grace Akinyi | 22,000 | 14/10/2026
+POL-2026-007 | Peter Mutua | 6,750 | 14/10/2026
+POL-2026-008 | Faith Chebet | 9,500 | 14/10/2026
+POL-2026-009 | Moses Ochieng | 18,000 | 15/10/2026`;
+
+  if (type === 'mpesa') {
+    document.getElementById('mpesaInput').value = mpesaSample;
+    detectFormat(mpesaSample, 'formatMpesa');
+  } else {
+    document.getElementById('expectedInput').value = expectedSample;
+    detectFormat(expectedSample, 'formatExpected');
+  }
+}
+
+/* ===== Reconciliation engine ===== */
+function reconcile() {
+  const mpesaText = document.getElementById('mpesaInput').value;
+  const expectedText = document.getElementById('expectedInput').value;
+
+  if (!mpesaText.trim() || !expectedText.trim()) {
+    alert('Please provide both M-Pesa transactions and expected payments register.');
+    return;
+  }
+
+  const mpesa = parseTransactions(mpesaText);
+  const expected = parseExpected(expectedText);
+
+  const matched = [];
+  const mpesaUsed = new Set();
+  const policyUsed = new Set();
+
+  // Pass 1: match by reference number (policy number appears in M-Pesa ref or raw text)
+  mpesa.forEach((m, mi) => {
+    expected.forEach((e, ei) => {
+      if (mpesaUsed.has(mi) || policyUsed.has(ei)) return;
+      if (e.policy && (m.ref.toUpperCase().includes(e.policy.toUpperCase()) || m.raw.toUpperCase().includes(e.policy.toUpperCase()))) {
+        matched.push({ mpesa: m, policy: e, matchType: 'reference' });
+        mpesaUsed.add(mi);
+        policyUsed.add(ei);
+      }
+    });
+  });
+
+  // Pass 2: match by exact amount (remaining unmatched)
+  mpesa.forEach((m, mi) => {
+    if (mpesaUsed.has(mi)) return;
+    expected.forEach((e, ei) => {
+      if (policyUsed.has(ei)) return;
+      if (m.amount > 0 && m.amount === e.amount) {
+        matched.push({ mpesa: m, policy: e, matchType: 'amount' });
+        mpesaUsed.add(mi);
+        policyUsed.add(ei);
+      }
+    });
+  });
+
+  // Build unmatched lists
+  const unmatchedMpesa = mpesa.filter((_, i) => !mpesaUsed.has(i));
+  const unpaidPolicies = expected.filter((_, i) => !policyUsed.has(i));
+
+  // Find amount discrepancies among matched items (>0 and <=100 difference)
+  const discrepancies = matched.filter(pair => {
+    const diff = Math.abs(pair.mpesa.amount - pair.policy.amount);
+    return diff > 0 && diff <= 100;
+  });
+
+  displayResults(matched, unmatchedMpesa, unpaidPolicies, discrepancies);
+}
+
+function displayResults(matched, unmatchedMpesa, unpaidPolicies, discrepancies) {
+  const results = document.getElementById('results');
+  const emptyState = document.getElementById('emptyState');
+  results.style.display = 'block';
+  emptyState.style.display = 'none';
+
+  document.getElementById('statMatched').textContent = matched.length;
+  document.getElementById('statUnmatched').textContent = unmatchedMpesa.length;
+  document.getElementById('statUnpaid').textContent = unpaidPolicies.length;
+  const total = matched.length + unpaidPolicies.length;
+  const rate = total > 0 ? Math.round((matched.length / total) * 100) : 0;
+  document.getElementById('statRate').textContent = rate + '%';
+
+  const matchedBody = document.getElementById('matchedBody');
+  matchedBody.innerHTML = matched.map(pair => `
+    <tr class="matched">
+      <td>${escapeHtml(pair.policy.policy)}</td>
+      <td>${escapeHtml(pair.policy.client)}</td>
+      <td>KES ${formatAmount(pair.policy.amount)}</td>
+      <td>${escapeHtml(pair.mpesa.ref)}</td>
+      <td>KES ${formatAmount(pair.mpesa.amount)}</td>
+      <td><span class="badge badge-matched">Reconciled (${pair.matchType})</span></td>
+    </tr>
+  `).join('');
+
+  const umBody = document.getElementById('unmatchedMpesaBody');
+  umBody.innerHTML = unmatchedMpesa.map(m => `
+    <tr>
+      <td>${escapeHtml(m.ref)}</td>
+      <td>${escapeHtml(m.phone)}</td>
+      <td>KES ${formatAmount(m.amount)}</td>
+      <td>${escapeHtml(m.date)}</td>
+      <td><span class="badge badge-unmatched">Unmatched</span></td>
+    </tr>
+  `).join('');
+
+  const upBody = document.getElementById('unpaidPoliciesBody');
+  upBody.innerHTML = unpaidPolicies.map(p => `
+    <tr>
+      <td>${escapeHtml(p.policy)}</td>
+      <td>${escapeHtml(p.client)}</td>
+      <td>KES ${formatAmount(p.amount)}</td>
+      <td>${escapeHtml(p.dueDate)}</td>
+      <td><span class="badge badge-unmatched">Unpaid</span></td>
+    </tr>
+  `).join('');
+
+  const discBody = document.getElementById('discrepanciesBody');
+  discBody.innerHTML = discrepancies.map(d => `
+    <tr>
+      <td>${escapeHtml(d.policy.policy)}</td>
+      <td>${escapeHtml(d.policy.client)}</td>
+      <td>KES ${formatAmount(d.policy.amount)}</td>
+      <td>KES ${formatAmount(d.mpesa.amount)}</td>
+      <td>KES ${formatAmount(Math.abs(d.mpesa.amount - d.policy.amount))}</td>
+      <td><span class="badge badge-discrepancy">${d.mpesa.amount > d.policy.amount ? 'Overpaid' : 'Underpaid'}</span></td>
+    </tr>
+  `).join('');
+}
+
+function showTab(tabId, btn) {
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('tab-' + tabId).classList.add('active');
+  btn.classList.add('active');
+}
+
+function exportReport() {
+  const matchedBody = document.getElementById('matchedBody');
+  const rows = matchedBody.querySelectorAll('tr');
+  let csv = 'Section,Policy,Client,Expected,Received,Status\n';
+  rows.forEach(row => {
+    const cells = row.querySelectorAll('td');
+    if (cells.length >= 6) {
+      csv += `Matched,${escapeCsv(cells[0].textContent)},${escapeCsv(cells[1].textContent)},${escapeCsv(cells[2].textContent)},${escapeCsv(cells[4].textContent)},Reconciled\n`;
+    }
+  });
+  const blob = new Blob([csv], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'premium-reconciliation.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function clearAll() {
+  document.getElementById('mpesaInput').value = '';
+  document.getElementById('expectedInput').value = '';
+  document.getElementById('formatMpesa').textContent = 'Format: not detected';
+  document.getElementById('formatExpected').textContent = 'Format: not detected';
+  document.getElementById('formatMpesa').style.background = '#F1F5F9';
+  document.getElementById('formatMpesa').style.color = '#64748B';
+  document.getElementById('formatExpected').style.background = '#F1F5F9';
+  document.getElementById('formatExpected').style.color = '#64748B';
+  document.getElementById('results').style.display = 'none';
+  document.getElementById('emptyState').style.display = 'block';
+}
+
+function escapeHtml(text) {
+  if (!text) return '';
+  return String(text).replace(/[&<>"']/g, m => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;'
+  })[m]);
+}
+
+function escapeCsv(text) {
+  if (!text) return '';
+  const s = String(text);
+  if (s.includes(',') || s.includes('"') || s.includes('\n')) {
+    return '"' + s.replace(/"/g, '""') + '"';
+  }
+  return s;
+}
+
+function formatAmount(num) {
+  return num.toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 2 });
+}
+</script>
+</body>
+</html>

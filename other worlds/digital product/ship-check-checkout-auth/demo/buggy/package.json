@@ -1,0 +1,21 @@
+{
+  "name": "shipcheck-demo-healthy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Healthy demonstration app for SHIP CHECK (simulated auth + checkout, no paid services)",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "typescript": "^5"
+  }
+}

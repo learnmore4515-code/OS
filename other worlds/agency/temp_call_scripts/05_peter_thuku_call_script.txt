@@ -1,0 +1,33 @@
+================================================================================
+CALL SCRIPT — PETER THUKU (0726762714)
+Role: Underwriting, Claims, Reinsurance & Agribusiness (DipCII YIPP)
+Pain: Renewal follow-up largely manual; onboarding integration with underwriter's system (#24)
+Channel: WhatsApp voice call
+================================================================================
+
+OPENING (first 30 seconds):
+"Hi Peter Thuku, it's Peter from LinkedIn. Thanks for sharing your number and making time. You mentioned renewal follow-up being manual and onboarding integration with underwriters as challenges."
+
+PURPOSE STATEMENT:
+"I'm researching where brokers lose the most time on manual work. Discovery only — no pitch."
+
+QUESTIONS (ask one at a time, listen to answers):
+1. "Renewal follow-up — how do you track upcoming renewals today?"
+2. "How many reminders do you typically send, and through what channel?"
+3. "Onboarding integration with underwriters — what systems are you trying to connect, and what's not working?"
+4. "Which of these two — renewals or onboarding — takes up more of your week?"
+5. "If one of these was automated, what would that change for you?"
+
+FOLLOW-UP QUESTIONS:
+- If they mention specific underwriters or systems: "Are those local Kenyan underwriters or international?"
+- If they say renewals are seasonal: "When is your busy season, and how do you handle the volume?"
+- If they ask about your background: "I'm starting out in automation, researching insurance brokerage in Kenya."
+
+CLOSING:
+"Thanks Peter Thuku. Really useful. Can I follow up in a week or two?"
+
+NOTES:
+- He volunteered his number. No Calendly link.
+- Renewal follow-up manual + underwriter integration — strong pain data.
+
+================================================================================

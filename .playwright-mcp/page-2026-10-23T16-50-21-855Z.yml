@@ -1,0 +1,830 @@
+- generic [active] [ref=f29e1]:
+  - link "Skip to main content" [ref=f29e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f29e6]:
+    - generic:
+      - generic: "What quoting tools are other independent life agents using, for all product types? : r/LifeInsurance"
+      - banner [ref=f29e10]:
+        - navigation [ref=f29e11]:
+          - generic [ref=f29e12]:
+            - button "Open menu" [ref=f29e16] [cursor=pointer]
+            - link "Home" [ref=f29e24] [cursor=pointer]:
+              - /url: https://www.reddit.com/
+          - search [ref=f29e43]:
+            - generic [ref=f29e45]:
+              - generic "Remove r/LifeInsurance filter and expand search to all of Reddit" [ref=f29e51] [cursor=pointer]:
+                - button [pressed] [ref=f29e52]:
+                  - generic [aria-hidden] [ref=f29e56]: r/LifeInsurance
+              - textbox "Remove r/LifeInsurance filter and expand search to all of Reddit" [ref=f29e62]:
+                - /placeholder: Search in ⁨r/LifeInsurance⁩
+          - generic [ref=f29e63]:
+            - link "Log In" [ref=f29e67] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+            - button "Expand user menu" [ref=f29e74] [cursor=pointer]
+      - generic [ref=f29e83]:
+        - main [ref=f29e84]:
+          - 'generic "What quoting tools are other independent life agents using, for all product types? : r/LifeInsurance"'
+          - generic [ref=f29e85]:
+            - generic [ref=f29e86]:
+              - generic [ref=f29e87]:
+                - button "Back" [ref=f29e89] [cursor=pointer]
+                - link "Go to LifeInsurance" [ref=f29e97] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/LifeInsurance/
+                - group [ref=f29e102]:
+                  - generic [ref=f29e103]:
+                    - link "r/LifeInsurance" [ref=f29e107] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/LifeInsurance/
+                    - generic [aria-hidden] [ref=f29e108]: •
+                    - time [ref=f29e110]: 3y ago
+                  - 'link "Author: Financingmylife" [ref=f29e116] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/Financingmylife/
+                    - generic [ref=f29e117]: u/Financingmylife
+              - button "Open user actions" [ref=f29e122] [cursor=pointer]
+            - 'heading "Post Title: What quoting tools are other independent life agents using, for all product types?" [level=1] [ref=f29e129]': What quoting tools are other independent life agents using, for all product types?
+            - generic [ref=f29e133]:
+              - paragraph [ref=f29e134]: Hey there - I’m newer to life insurance sales. For context, I’m doing an application or two a day sourced 90% from google search leads.
+              - paragraph [ref=f29e135]: I have an upline IMO that has an “ok” quoting and illustration tool. However, it’s annoying to quote permanent products (GUL, Whole Life, IUL, Final Expense). Term quoting is fine and seems like there’s lots of options for that (eg Term4Sale). I have appointments with most of the major insurers through the up line (AIG, MOO, Nationwide, Protective, MassMutual, etc).
+              - paragraph [ref=f29e136]: What do you all use to run quotes to get clients rough pricing and then what do you use to really optimize before starting the application?
+            - generic "Actions available for this post" [ref=f29e138]:
+              - generic [ref=f29e141]:
+                - button "Upvote" [ref=f29e142] [cursor=pointer]
+                - generic [ref=f29e147]: "8"
+                - button "Downvote" [ref=f29e149] [cursor=pointer]
+              - button "15 Go to comments" [ref=f29e154] [cursor=pointer]:
+                - generic [ref=f29e155]: "15"
+                - generic [ref=f29e161]: Go to comments
+              - button "Share" [ref=f29e165] [cursor=pointer]
+          - generic [ref=f29e173]:
+            - generic:
+              - generic [ref=f29e174]:
+                - button "Button to add a comment" [disabled]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - textbox [disabled]:
+                              - /placeholder: Join the conversation
+              - generic [ref=f29e179]:
+                - generic [ref=f29e181]:
+                  - generic [aria-hidden] [ref=f29e182]: "Sort by:"
+                  - button "Sort by Best" [ref=f29e187] [cursor=pointer]:
+                    - generic [ref=f29e188]: Best
+                - button "Search Comments Expand comment search" [ref=f29e196] [cursor=pointer]:
+                  - generic [ref=f29e197]: Search Comments
+                  - generic [ref=f29e204]: Expand comment search
+          - region "Comments" [ref=f29e207]:
+            - heading "Comments Section" [level=1] [ref=f29e208]
+            - article "Comment from Tacosmell9000 3 years ago" [ref=f29e210]:
+              - generic [ref=f29e211] [cursor=pointer]:
+                - link "Tacosmell9000's profile --- avatar" [ref=f29e217]:
+                  - /url: https://www.reddit.com/user/Tacosmell9000/
+                - generic [ref=f29e233]:
+                  - link "Tacosmell9000's profile" [ref=f29e237]:
+                    - /url: https://www.reddit.com/user/Tacosmell9000/
+                    - generic [ref=f29e238]: Tacosmell9000
+                  - generic [aria-hidden] [ref=f29e240]: •
+                  - link [ref=f29e242]:
+                    - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/l0yt7n8/
+                    - time [ref=f29e244]: 3y ago
+              - generic [ref=f29e249]:
+                - paragraph [ref=f29e250]: Ipipeline - TERM / GUL
+                - paragraph [ref=f29e251]: Winflex / insight- permanent products.
+                - paragraph [ref=f29e252]: Insureio - final expense / term / GUL
+                - paragraph [ref=f29e253]: Ask your up line if they can give you a seat on winflex
+            - article "Comment from Icy_Gas_220 3 years ago" [ref=f29e257]:
+              - generic [ref=f29e258] [cursor=pointer]:
+                - link "Icy_Gas_220's profile --- avatar" [ref=f29e264]:
+                  - /url: https://www.reddit.com/user/Icy_Gas_220/
+                - generic [ref=f29e274]:
+                  - link "Icy_Gas_220's profile" [ref=f29e278]:
+                    - /url: https://www.reddit.com/user/Icy_Gas_220/
+                    - generic [ref=f29e279]: Icy_Gas_220
+                  - generic [aria-hidden] [ref=f29e281]: •
+                  - link [ref=f29e283]:
+                    - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/l13dp3g/
+                    - time [ref=f29e285]: 3y ago
+              - generic [ref=f29e287]:
+                - paragraph [ref=f29e291]: How do you get google search leads? And do you have the mobile quoter apps through the companies you’re appointed with?
+                - 'article "Comment thread level 1: Reply from Financingmylife 3 years ago" [ref=f29e296]':
+                  - generic [ref=f29e297] [cursor=pointer]:
+                    - link "Financingmylife's profile --- avatar" [ref=f29e303]:
+                      - /url: https://www.reddit.com/user/Financingmylife/
+                      - img "u/Financingmylife avatar" [ref=f29e306]
+                    - generic [ref=f29e310]:
+                      - link "Financingmylife's profile" [ref=f29e314]:
+                        - /url: https://www.reddit.com/user/Financingmylife/
+                        - generic [ref=f29e315]: Financingmylife
+                      - generic "Comment distinguished as the original poster" [ref=f29e319]: OP
+                      - generic [aria-hidden] [ref=f29e320]: •
+                      - link [ref=f29e322]:
+                        - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/l1clnhr/
+                        - time [ref=f29e324]: 3y ago
+                  - generic [ref=f29e326]:
+                    - paragraph [ref=f29e330]: Hey there - I direct traffic from google to a website. I don’t use mobile quotes now cause I’d have to re enter all the info and that would take a lot of time.
+                    - 'article "Comment thread level 2: Reply from 420medic 2 years ago" [ref=f29e335]':
+                      - generic [ref=f29e336] [cursor=pointer]:
+                        - link "420medic's profile --- avatar" [ref=f29e342]:
+                          - /url: https://www.reddit.com/user/420medic/
+                          - img "u/420medic avatar" [ref=f29e345]
+                        - generic [ref=f29e349]:
+                          - link "420medic's profile" [ref=f29e353]:
+                            - /url: https://www.reddit.com/user/420medic/
+                            - generic [ref=f29e354]: 420medic
+                          - generic [aria-hidden] [ref=f29e356]: •
+                          - link [ref=f29e358]:
+                            - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/md9cc0z/
+                            - time [ref=f29e360]: 2y ago
+                      - paragraph [ref=f29e366]: PM sent to ask a couple questions
+            - article "Comment from Tahoptions 3 years ago" [ref=f29e370]:
+              - generic [ref=f29e371] [cursor=pointer]:
+                - link "Tahoptions's profile --- avatar" [ref=f29e377]:
+                  - /url: https://www.reddit.com/user/Tahoptions/
+                  - img "u/Tahoptions avatar" [ref=f29e380]
+                - generic [ref=f29e384]:
+                  - link "Tahoptions's profile" [ref=f29e388]:
+                    - /url: https://www.reddit.com/user/Tahoptions/
+                    - generic [ref=f29e389]: Tahoptions
+                  - generic [aria-hidden] [ref=f29e391]: •
+                  - link [ref=f29e393]:
+                    - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/l0xjeew/
+                    - time [ref=f29e395]: 3y ago
+              - generic [ref=f29e397]:
+                - generic [ref=f29e400]:
+                  - paragraph [ref=f29e401]: Compulife (the broker version of Term4Sale) will do GUL, some final expense, and term very easily.
+                  - paragraph [ref=f29e402]: Insurancetoolkits is great if you're specializing in final expense.
+                  - paragraph [ref=f29e403]: Whole life and IUL you're kind of stuck with carrier sites and WinFlex.
+                - 'article "Comment thread level 1: Reply from Sharkkboy6 2 years ago" [ref=f29e408]':
+                  - generic [ref=f29e409] [cursor=pointer]:
+                    - link "Sharkkboy6's profile --- avatar" [ref=f29e415]:
+                      - /url: https://www.reddit.com/user/Sharkkboy6/
+                      - img "u/Sharkkboy6 avatar" [ref=f29e418]
+                    - generic [ref=f29e422]:
+                      - link "Sharkkboy6's profile" [ref=f29e426]:
+                        - /url: https://www.reddit.com/user/Sharkkboy6/
+                        - generic [ref=f29e427]: Sharkkboy6
+                      - generic [aria-hidden] [ref=f29e429]: •
+                      - link [ref=f29e431]:
+                        - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/m3yw4zk/
+                        - time [ref=f29e433]: 2y ago
+                  - generic [ref=f29e435]:
+                    - paragraph [ref=f29e439]: What auto insurers allow you to bind the policy same day? I know increase in premiums, but in the mean time.. I have issues waiting for underwriter.
+                    - 'article "Comment thread level 2: Reply from Tahoptions 2 years ago" [ref=f29e444]':
+                      - generic [ref=f29e445] [cursor=pointer]:
+                        - link "Tahoptions's profile --- avatar" [ref=f29e451]:
+                          - /url: https://www.reddit.com/user/Tahoptions/
+                          - img "u/Tahoptions avatar" [ref=f29e454]
+                        - generic [ref=f29e458]:
+                          - link "Tahoptions's profile" [ref=f29e462]:
+                            - /url: https://www.reddit.com/user/Tahoptions/
+                            - generic [ref=f29e463]: Tahoptions
+                          - generic [aria-hidden] [ref=f29e465]: •
+                          - link [ref=f29e467]:
+                            - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/m3yx0r9/
+                            - time [ref=f29e469]: 2y ago
+                      - paragraph [ref=f29e475]: No idea. I don't write P&C.
+            - article "Comment from Gloomy-Anteater29 2 years ago" [ref=f29e479]:
+              - generic [ref=f29e480] [cursor=pointer]:
+                - link "Gloomy-Anteater29's profile --- avatar" [ref=f29e486]:
+                  - /url: https://www.reddit.com/user/Gloomy-Anteater29/
+                  - img "u/Gloomy-Anteater29 avatar" [ref=f29e489]
+                - generic [ref=f29e493]:
+                  - link "Gloomy-Anteater29's profile" [ref=f29e497]:
+                    - /url: https://www.reddit.com/user/Gloomy-Anteater29/
+                    - generic [ref=f29e498]: Gloomy-Anteater29
+                  - generic [aria-hidden] [ref=f29e500]: •
+                  - link [ref=f29e502]:
+                    - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/lnssi93/
+                    - time [ref=f29e504]: 2y ago
+              - paragraph [ref=f29e510]: I am biased, but check out Quoteplicity. You can run quotes for term, final expense, GUL, and whole life.
+            - article "Comment from Quoteplicity 2 years ago" [ref=f29e514]:
+              - generic [ref=f29e515] [cursor=pointer]:
+                - link "Quoteplicity's profile --- avatar" [ref=f29e521]:
+                  - /url: https://www.reddit.com/user/Quoteplicity/
+                  - img "u/Quoteplicity avatar" [ref=f29e524]
+                - generic [ref=f29e528]:
+                  - link "Quoteplicity's profile" [ref=f29e532]:
+                    - /url: https://www.reddit.com/user/Quoteplicity/
+                    - generic [ref=f29e533]: Quoteplicity
+                  - generic [aria-hidden] [ref=f29e535]: •
+                  - link [ref=f29e537]:
+                    - /url: https://www.reddit.com/r/LifeInsurance/comments/1cbb4xr/comment/lp7az9k/
+                    - time [ref=f29e539]: 2y ago
+              - paragraph [ref=f29e545]: Insurance tool kits is excellent for Final expenses and help with underwriting.Check out Quoteplicity for providing customers with the ability to run their own quotes as well as emailing quotes to customers.
+        - generic [ref=f29e548]:
+          - generic [ref=f29e549]:
+            - complementary "People also ask about section" [ref=f29e550]:
+              - heading "People also ask about section" [level=1] [ref=f29e551]
+              - generic [ref=f29e552]: People also ask about
+              - generic [ref=f29e557]:
+                - link "Quoting tools for independent life agents" [ref=f29e559] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/f022aa1f-3daf-4dcd-86a3-d3533114b0ad/?q=Quoting+tools+for+independent+life+agents&source=PDP&ep=pdp_unit&relatedPostId=t3_1cbb4xr
+                - link "Best life insurance quoting software" [ref=f29e568] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/65f27064-bb78-4568-af34-12438e3d4339/?q=Best+life+insurance+quoting+software&source=PDP&ep=pdp_unit&relatedPostId=t3_1cbb4xr
+                - link "Automated quote generator for life insurance" [ref=f29e577] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/a3a4bec1-fce0-4c57-acfa-77cb5ba76a79/?q=Automated+quote+generator+for+life+insurance&source=PDP&ep=pdp_unit&relatedPostId=t3_1cbb4xr
+                - link "Best quoting tools for small business" [ref=f29e586] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/5374bf8e-dbdd-4031-855d-aff12d0b6d0e/?q=Best+quoting+tools+for+small+business&source=PDP&ep=pdp_unit&relatedPostId=t3_1cbb4xr
+                - link "Top misconceptions about life insurance" [ref=f29e595] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/b00cc408-b645-4129-ab50-8f98421774bb/?q=Top+misconceptions+about+life+insurance&source=PDP&ep=pdp_unit&relatedPostId=t3_1cbb4xr
+            - generic [ref=f29e603]:
+              - complementary "Related Posts Section" [ref=f29e604]:
+                - heading "Related Posts Section" [level=1] [ref=f29e605]: More posts you may like
+                - generic [ref=f29e606]: Related posts
+                - list [ref=f29e612]:
+                  - listitem [ref=f29e613]:
+                    - generic [ref=f29e614]:
+                      - generic [ref=f29e615]:
+                        - link "Internet Lead Company Reviews - My experience" [ref=f29e616] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/InsuranceAgent/comments/1l101rg/internet_lead_company_reviews_my_experience/
+                        - generic [ref=f29e619]:
+                          - generic [ref=f29e622]:
+                            - link "r/InsuranceAgent" [ref=f29e623] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/InsuranceAgent/
+                            - generic [aria-hidden] [ref=f29e628]: •
+                            - time [ref=f29e630]: 1y ago
+                          - link [ref=f29e632] [cursor=pointer]:
+                            - /url: /r/InsuranceAgent/comments/1l101rg/internet_lead_company_reviews_my_experience/
+                            - heading "List item post - Internet Lead Company Reviews - My experience" [level=3] [ref=f29e635]: Internet Lead Company Reviews - My experience
+                        - generic [ref=f29e637]:
+                          - generic [ref=f29e638]: "42"
+                          - text: upvotes ·
+                          - generic [ref=f29e639]: "56"
+                          - text: comments
+                      - separator [ref=f29e640]
+                  - listitem
+                  - listitem [ref=f29e641]:
+                    - generic [ref=f29e642]:
+                      - generic [ref=f29e643]:
+                        - link "These quotes are insane" [ref=f29e644] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/hvacadvice/comments/1xace73/these_quotes_are_insane/
+                        - generic [ref=f29e646]:
+                          - generic [ref=f29e647]:
+                            - generic [ref=f29e650]:
+                              - link "r/hvacadvice" [ref=f29e651] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/hvacadvice/
+                              - generic [aria-hidden] [ref=f29e656]: •
+                              - time [ref=f29e658]: 4d ago
+                            - link [ref=f29e660] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/1xace73/these_quotes_are_insane/
+                              - heading "List item post - These quotes are insane" [level=3] [ref=f29e663]: These quotes are insane
+                          - link "r/hvacadvice - These quotes are insane" [ref=f29e666] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/hvacadvice/comments/1xace73/these_quotes_are_insane/
+                            - img "r/hvacadvice - These quotes are insane" [ref=f29e667]
+                        - generic [ref=f29e669]:
+                          - generic [ref=f29e670]: "72"
+                          - text: upvotes ·
+                          - generic [ref=f29e671]: "308"
+                          - text: comments
+                      - separator [ref=f29e672]
+                  - listitem [ref=f29e673]:
+                    - generic [ref=f29e674]:
+                      - generic [ref=f29e675]:
+                        - link "Faithful paraphrases of authentic quotes by lib vets" [ref=f29e676] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ShitLiberalsSay/comments/1vfaf6m/faithful_paraphrases_of_authentic_quotes_by_lib/
+                        - generic [ref=f29e678]:
+                          - generic [ref=f29e679]:
+                            - generic [ref=f29e682]:
+                              - link "r/ShitLiberalsSay" [ref=f29e683] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/ShitLiberalsSay/
+                              - generic [aria-hidden] [ref=f29e688]: •
+                              - time [ref=f29e690]: 3mo ago
+                            - link [ref=f29e692] [cursor=pointer]:
+                              - /url: /r/ShitLiberalsSay/comments/1vfaf6m/faithful_paraphrases_of_authentic_quotes_by_lib/
+                              - heading "List item post - Faithful paraphrases of authentic quotes by lib vets" [level=3] [ref=f29e695]: Faithful paraphrases of authentic quotes by lib vets
+                          - link "r/ShitLiberalsSay - Faithful paraphrases of authentic quotes by lib vets" [ref=f29e698] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ShitLiberalsSay/comments/1vfaf6m/faithful_paraphrases_of_authentic_quotes_by_lib/
+                            - img "r/ShitLiberalsSay - Faithful paraphrases of authentic quotes by lib vets" [ref=f29e699]
+                        - generic [ref=f29e701]:
+                          - generic [ref=f29e702]: "56"
+                          - text: upvotes ·
+                          - generic [ref=f29e703]: "15"
+                          - text: comments
+                      - separator [ref=f29e704]
+                  - listitem [ref=f29e705]:
+                    - generic [ref=f29e706]:
+                      - generic [ref=f29e707]:
+                        - link "Quote APIs?" [ref=f29e708] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/InsurTech/comments/13gdsiu/quote_apis/
+                        - generic [ref=f29e711]:
+                          - generic [ref=f29e714]:
+                            - link "r/InsurTech" [ref=f29e715] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/InsurTech/
+                            - generic [aria-hidden] [ref=f29e720]: •
+                            - time [ref=f29e722]: 3y ago
+                          - link [ref=f29e724] [cursor=pointer]:
+                            - /url: /r/InsurTech/comments/13gdsiu/quote_apis/
+                            - heading "List item post - Quote APIs?" [level=3] [ref=f29e727]: Quote APIs?
+                        - generic [ref=f29e729]:
+                          - generic [ref=f29e730]: "3"
+                          - text: upvotes ·
+                          - generic [ref=f29e731]: "25"
+                          - text: comments
+                      - separator [ref=f29e732]
+                  - listitem [ref=f29e733]:
+                    - generic [ref=f29e734]:
+                      - generic [ref=f29e735]:
+                        - link "Best Lead Sources for Insurance Agents in 2026?" [ref=f29e736] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/InsuranceAgent/comments/1tdxq6v/best_lead_sources_for_insurance_agents_in_2026/
+                        - generic [ref=f29e739]:
+                          - generic [ref=f29e742]:
+                            - link "r/InsuranceAgent" [ref=f29e743] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/InsuranceAgent/
+                            - generic [aria-hidden] [ref=f29e748]: •
+                            - time [ref=f29e750]: 5mo ago
+                          - link [ref=f29e752] [cursor=pointer]:
+                            - /url: /r/InsuranceAgent/comments/1tdxq6v/best_lead_sources_for_insurance_agents_in_2026/
+                            - heading "List item post - Best Lead Sources for Insurance Agents in 2026?" [level=3] [ref=f29e755]: Best Lead Sources for Insurance Agents in 2026?
+                        - generic [ref=f29e757]:
+                          - generic [ref=f29e758]: "12"
+                          - text: upvotes ·
+                          - generic [ref=f29e759]: "35"
+                          - text: comments
+                      - separator [ref=f29e760]
+                  - listitem [ref=f29e761]:
+                    - generic [ref=f29e762]:
+                      - generic [ref=f29e763]:
+                        - link "Alternative in WIP" [ref=f29e764] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Quotev/comments/1wfk4eu/alternative_in_wip/
+                        - generic [ref=f29e766]:
+                          - generic [ref=f29e767]:
+                            - generic [ref=f29e770]:
+                              - link "r/Quotev" [ref=f29e771] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/Quotev/
+                              - generic [aria-hidden] [ref=f29e778]: •
+                              - time [ref=f29e780]: 1mo ago
+                            - link [ref=f29e782] [cursor=pointer]:
+                              - /url: /r/Quotev/comments/1wfk4eu/alternative_in_wip/
+                              - heading "List item post - Alternative in WIP" [level=3] [ref=f29e785]: Alternative in WIP
+                          - link "r/Quotev - Alternative in WIP" [ref=f29e788] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Quotev/comments/1wfk4eu/alternative_in_wip/
+                            - img "r/Quotev - Alternative in WIP" [ref=f29e789]
+                        - generic [ref=f29e791]:
+                          - generic [ref=f29e792]: "63"
+                          - text: upvotes ·
+                          - generic [ref=f29e793]: "22"
+                          - text: comments
+                      - separator [ref=f29e794]
+                  - listitem [ref=f29e795]:
+                    - generic [ref=f29e796]:
+                      - generic [ref=f29e797]:
+                        - link "Too many good quotes" [ref=f29e798] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/venturebros/comments/1uvg4cl/too_many_good_quotes/
+                        - generic [ref=f29e801]:
+                          - generic [ref=f29e804]:
+                            - link "r/venturebros" [ref=f29e805] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/venturebros/
+                            - generic [aria-hidden] [ref=f29e810]: •
+                            - time [ref=f29e812]: 3mo ago
+                          - link [ref=f29e814] [cursor=pointer]:
+                            - /url: /r/venturebros/comments/1uvg4cl/too_many_good_quotes/
+                            - heading "List item post - Too many good quotes" [level=3] [ref=f29e817]: Too many good quotes
+                        - generic [ref=f29e819]:
+                          - generic [ref=f29e820]: "164"
+                          - text: upvotes ·
+                          - generic [ref=f29e821]: "16"
+                          - text: comments
+                      - separator [ref=f29e822]
+                  - listitem [ref=f29e823]:
+                    - generic [ref=f29e824]:
+                      - generic [ref=f29e825]:
+                        - link "Quoting Tools & Software" [ref=f29e826] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/msp/comments/143isbd/quoting_tools_software/
+                        - generic [ref=f29e829]:
+                          - generic [ref=f29e832]:
+                            - link "r/msp" [ref=f29e833] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/msp/
+                            - generic [aria-hidden] [ref=f29e838]: •
+                            - time [ref=f29e840]: 3y ago
+                          - link [ref=f29e842] [cursor=pointer]:
+                            - /url: /r/msp/comments/143isbd/quoting_tools_software/
+                            - heading "List item post - Quoting Tools & Software" [level=3] [ref=f29e845]: Quoting Tools & Software
+                        - generic [ref=f29e847]:
+                          - generic [ref=f29e848]: "6"
+                          - text: upvotes ·
+                          - generic [ref=f29e849]: "11"
+                          - text: comments
+                      - separator [ref=f29e850]
+                  - listitem [ref=f29e851]:
+                    - generic [ref=f29e852]:
+                      - generic [ref=f29e853]:
+                        - link "One opinion that you will defend like that." [ref=f29e854] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Quotes_to_Live_By/comments/1wpu0jw/one_opinion_that_you_will_defend_like_that/
+                        - generic [ref=f29e857]:
+                          - generic [ref=f29e860]:
+                            - link "r/Quotes_to_Live_By" [ref=f29e861] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Quotes_to_Live_By/
+                            - generic [aria-hidden] [ref=f29e866]: •
+                            - time [ref=f29e868]: 28d ago
+                          - link [ref=f29e870] [cursor=pointer]:
+                            - /url: /r/Quotes_to_Live_By/comments/1wpu0jw/one_opinion_that_you_will_defend_like_that/
+                            - heading "List item post - One opinion that you will defend like that." [level=3] [ref=f29e873]: One opinion that you will defend like that.
+                        - generic [ref=f29e875]:
+                          - generic [ref=f29e876]: "259"
+                          - text: upvotes ·
+                          - generic [ref=f29e877]: 1.8K
+                          - text: comments
+                      - separator [ref=f29e878]
+                  - listitem [ref=f29e879]:
+                    - generic [ref=f29e880]:
+                      - generic [ref=f29e881]:
+                        - link "[Interesting Trope] Real Life Quotes (Original or Modified) Being Attributed to Fictional Characters" [ref=f29e882] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/TopCharacterTropes/comments/1wi43kh/interesting_trope_real_life_quotes_original_or/
+                        - generic [ref=f29e884]:
+                          - generic [ref=f29e885]:
+                            - generic [ref=f29e888]:
+                              - link "r/TopCharacterTropes" [ref=f29e889] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/TopCharacterTropes/
+                              - generic [aria-hidden] [ref=f29e894]: •
+                              - time [ref=f29e896]: 1mo ago
+                            - link [ref=f29e898] [cursor=pointer]:
+                              - /url: /r/TopCharacterTropes/comments/1wi43kh/interesting_trope_real_life_quotes_original_or/
+                              - heading "List item post - [Interesting Trope] Real Life Quotes (Original or Modified)..." [level=3] [ref=f29e901]: "[Interesting Trope] Real Life Quotes (Original or Modified) Being Attributed to Fictional Characters"
+                          - link "r/TopCharacterTropes - [Interesting Trope] Real Life Quotes (Original or Modified) Being Attributed to Fictional Characters" [ref=f29e904] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/TopCharacterTropes/comments/1wi43kh/interesting_trope_real_life_quotes_original_or/
+                            - img "r/TopCharacterTropes - [Interesting Trope] Real Life Quotes (Original or Modified) Being Attributed to Fictional Characters" [ref=f29e905]
+                        - generic [ref=f29e907]:
+                          - generic [ref=f29e908]: "26"
+                          - text: upvotes ·
+                          - generic [ref=f29e909]: "7"
+                          - text: comments
+                      - separator [ref=f29e910]
+                  - listitem [ref=f29e911]:
+                    - generic [ref=f29e912]:
+                      - generic [ref=f29e913]:
+                        - link "My friend is dealing with a pro se who is making several references to a “quiet claim dead” instead of a “quit claim deed” and i think “Quiet Claim Dead” would make a fantastic My Chemical Romance song." [ref=f29e914] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Lawyertalk/comments/1xa02w7/my_friend_is_dealing_with_a_pro_se_who_is_making/
+                        - generic [ref=f29e917]:
+                          - generic [ref=f29e920]:
+                            - link "r/Lawyertalk" [ref=f29e921] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Lawyertalk/
+                            - generic [aria-hidden] [ref=f29e926]: •
+                            - time [ref=f29e928]: 4d ago
+                          - link [ref=f29e930] [cursor=pointer]:
+                            - /url: /r/Lawyertalk/comments/1xa02w7/my_friend_is_dealing_with_a_pro_se_who_is_making/
+                            - heading "List item post - My friend is dealing with a pro se who is making several re..." [level=3] [ref=f29e933]: My friend is dealing with a pro se who is making several references to a “quiet claim dead” instead of a “quit claim deed” and i think “Quiet Claim Dead” would make a fantastic My Chemical Romance song.
+                        - generic [ref=f29e935]:
+                          - generic [ref=f29e936]: "286"
+                          - text: upvotes ·
+                          - generic [ref=f29e937]: "44"
+                          - text: comments
+                      - separator [ref=f29e938]
+                  - listitem [ref=f29e939]:
+                    - generic [ref=f29e940]:
+                      - generic [ref=f29e941]:
+                        - link "Can you just pay to see a private consultant to skip the queue without private health insurance?" [ref=f29e942] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/irishpersonalfinance/comments/1x89yq3/can_you_just_pay_to_see_a_private_consultant_to/
+                        - generic [ref=f29e945]:
+                          - generic [ref=f29e948]:
+                            - link "r/irishpersonalfinance" [ref=f29e949] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/irishpersonalfinance/
+                            - generic [aria-hidden] [ref=f29e954]: •
+                            - time [ref=f29e956]: 6d ago
+                          - link [ref=f29e958] [cursor=pointer]:
+                            - /url: /r/irishpersonalfinance/comments/1x89yq3/can_you_just_pay_to_see_a_private_consultant_to/
+                            - heading "List item post - Can you just pay to see a private consultant to skip the qu..." [level=3] [ref=f29e961]: Can you just pay to see a private consultant to skip the queue without private health insurance?
+                        - generic [ref=f29e963]:
+                          - generic [ref=f29e964]: "21"
+                          - text: upvotes ·
+                          - generic [ref=f29e965]: "53"
+                          - text: comments
+                      - separator [ref=f29e966]
+                  - listitem [ref=f29e967]:
+                    - generic [ref=f29e968]:
+                      - generic [ref=f29e969]:
+                        - link "Letter from a law firm informing us we are potentially related to someone with a permanent life insurance policy, scam?" [ref=f29e970] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Scams/comments/1w4q9kk/letter_from_a_law_firm_informing_us_we_are/
+                        - generic [ref=f29e972]:
+                          - generic [ref=f29e973]:
+                            - generic [ref=f29e976]:
+                              - link "r/Scams" [ref=f29e977] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/Scams/
+                              - generic [aria-hidden] [ref=f29e982]: •
+                              - time [ref=f29e984]: 2mo ago
+                            - link [ref=f29e986] [cursor=pointer]:
+                              - /url: /r/Scams/comments/1w4q9kk/letter_from_a_law_firm_informing_us_we_are/
+                              - heading "List item post - Letter from a law firm informing us we are potentially rela..." [level=3] [ref=f29e989]: Letter from a law firm informing us we are potentially related to someone with a permanent life insurance policy, scam?
+                          - link "r/Scams - Letter from a law firm informing us we are potentially related to someone with a permanent life insurance policy, scam?" [ref=f29e992] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Scams/comments/1w4q9kk/letter_from_a_law_firm_informing_us_we_are/
+                            - img "r/Scams - Letter from a law firm informing us we are potentially related to someone with a permanent life insurance policy, scam?" [ref=f29e993]
+                        - generic [ref=f29e995]:
+                          - generic [ref=f29e996]: "50"
+                          - text: upvotes ·
+                          - generic [ref=f29e997]: "107"
+                          - text: comments
+                      - separator [ref=f29e998]
+                  - listitem [ref=f29e999]:
+                    - generic [ref=f29e1000]:
+                      - generic [ref=f29e1001]:
+                        - link "Quick quoting tools" [ref=f29e1002] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/msp/comments/1l071xx/quick_quoting_tools/
+                        - generic [ref=f29e1005]:
+                          - generic [ref=f29e1008]:
+                            - link "r/msp" [ref=f29e1009] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/msp/
+                            - generic [aria-hidden] [ref=f29e1014]: •
+                            - time [ref=f29e1016]: 1y ago
+                          - link [ref=f29e1018] [cursor=pointer]:
+                            - /url: /r/msp/comments/1l071xx/quick_quoting_tools/
+                            - heading "List item post - Quick quoting tools" [level=3] [ref=f29e1021]: Quick quoting tools
+                        - generic [ref=f29e1023]:
+                          - generic [ref=f29e1024]: "15"
+                          - text: upvotes ·
+                          - generic [ref=f29e1025]: "61"
+                          - text: comments
+                      - separator [ref=f29e1026]
+                  - listitem [ref=f29e1027]:
+                    - generic [ref=f29e1028]:
+                      - generic [ref=f29e1029]:
+                        - link "Name one person with integrity.." [ref=f29e1030] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Quotes_to_Live_By/comments/1x6n5nf/name_one_person_with_integrity/
+                        - generic [ref=f29e1033]:
+                          - generic [ref=f29e1036]:
+                            - link "r/Quotes_to_Live_By" [ref=f29e1037] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Quotes_to_Live_By/
+                            - generic [aria-hidden] [ref=f29e1042]: •
+                            - time [ref=f29e1044]: 8d ago
+                          - link [ref=f29e1046] [cursor=pointer]:
+                            - /url: /r/Quotes_to_Live_By/comments/1x6n5nf/name_one_person_with_integrity/
+                            - heading "List item post - Name one person with integrity.." [level=3] [ref=f29e1049]: Name one person with integrity..
+                        - generic [ref=f29e1051]:
+                          - generic [ref=f29e1052]: "517"
+                          - text: upvotes ·
+                          - generic [ref=f29e1053]: "17"
+                          - text: comments
+                      - separator [ref=f29e1054]
+                  - listitem [ref=f29e1055]:
+                    - generic [ref=f29e1056]:
+                      - generic [ref=f29e1057]:
+                        - link "What is a 100% legalized scam that society has just collectively agreed to accept?" [ref=f29e1058] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/A_Persona_on_Reddit/comments/1x6afn4/what_is_a_100_legalized_scam_that_society_has/
+                        - generic [ref=f29e1061]:
+                          - generic [ref=f29e1064]:
+                            - link "r/A_Persona_on_Reddit" [ref=f29e1065] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/A_Persona_on_Reddit/
+                            - generic [aria-hidden] [ref=f29e1070]: •
+                            - time [ref=f29e1072]: 9d ago
+                          - link [ref=f29e1074] [cursor=pointer]:
+                            - /url: /r/A_Persona_on_Reddit/comments/1x6afn4/what_is_a_100_legalized_scam_that_society_has/
+                            - heading "List item post - What is a 100% legalized scam that society has just collect..." [level=3] [ref=f29e1077]: What is a 100% legalized scam that society has just collectively agreed to accept?
+                        - generic [ref=f29e1079]:
+                          - generic [ref=f29e1080]: "5"
+                          - text: upvotes ·
+                          - generic [ref=f29e1081]: "381"
+                          - text: comments
+                      - separator [ref=f29e1082]
+                  - listitem [ref=f29e1083]:
+                    - generic [ref=f29e1084]:
+                      - generic [ref=f29e1085]:
+                        - link "Software for generating quotes from multiple carriers" [ref=f29e1086] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/InsuranceAgent/comments/1b7qnff/software_for_generating_quotes_from_multiple/
+                        - generic [ref=f29e1089]:
+                          - generic [ref=f29e1092]:
+                            - link "r/InsuranceAgent" [ref=f29e1093] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/InsuranceAgent/
+                            - generic [aria-hidden] [ref=f29e1098]: •
+                            - time [ref=f29e1100]: 3y ago
+                          - link [ref=f29e1102] [cursor=pointer]:
+                            - /url: /r/InsuranceAgent/comments/1b7qnff/software_for_generating_quotes_from_multiple/
+                            - heading "List item post - Software for generating quotes from multiple carriers" [level=3] [ref=f29e1105]: Software for generating quotes from multiple carriers
+                        - generic [ref=f29e1107]:
+                          - generic [ref=f29e1108]: "4"
+                          - text: upvotes ·
+                          - generic [ref=f29e1109]: "20"
+                          - text: comments
+                      - separator [ref=f29e1110]
+                  - listitem [ref=f29e1111]:
+                    - generic [ref=f29e1112]:
+                      - generic [ref=f29e1113]:
+                        - link "What's a quote you live by, or at least try to?" [ref=f29e1114] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AskForAnswers/comments/1x3ymdq/whats_a_quote_you_live_by_or_at_least_try_to/
+                        - generic [ref=f29e1117]:
+                          - generic [ref=f29e1120]:
+                            - link "r/AskForAnswers" [ref=f29e1121] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AskForAnswers/
+                            - generic [aria-hidden] [ref=f29e1128]: •
+                            - time [ref=f29e1130]: 11d ago
+                          - link [ref=f29e1132] [cursor=pointer]:
+                            - /url: /r/AskForAnswers/comments/1x3ymdq/whats_a_quote_you_live_by_or_at_least_try_to/
+                            - heading "List item post - What's a quote you live by, or at least try to?" [level=3] [ref=f29e1135]: What's a quote you live by, or at least try to?
+                        - generic [ref=f29e1137]:
+                          - generic [ref=f29e1138]: "24"
+                          - text: upvotes ·
+                          - generic [ref=f29e1139]: "94"
+                          - text: comments
+                      - separator [ref=f29e1140]
+                  - listitem [ref=f29e1141]:
+                    - generic [ref=f29e1142]:
+                      - generic [ref=f29e1143]:
+                        - link "Legit?" [ref=f29e1144] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/SayAnything/comments/1uk0fr5/legit/
+                        - generic [ref=f29e1146]:
+                          - generic [ref=f29e1147]:
+                            - generic [ref=f29e1150]:
+                              - link "r/SayAnything" [ref=f29e1151] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/SayAnything/
+                              - generic [aria-hidden] [ref=f29e1156]: •
+                              - time [ref=f29e1158]: 4mo ago
+                            - link [ref=f29e1160] [cursor=pointer]:
+                              - /url: /r/SayAnything/comments/1uk0fr5/legit/
+                              - heading "List item post - Legit?" [level=3] [ref=f29e1163]: Legit?
+                          - link "r/SayAnything - Legit?" [ref=f29e1166] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/SayAnything/comments/1uk0fr5/legit/
+                            - img "r/SayAnything - Legit?" [ref=f29e1167]
+                        - generic [ref=f29e1169]:
+                          - generic [ref=f29e1170]: "31"
+                          - text: upvotes ·
+                          - generic [ref=f29e1171]: "18"
+                          - text: comments
+                      - separator [ref=f29e1172]
+                  - listitem [ref=f29e1173]:
+                    - generic [ref=f29e1174]:
+                      - generic [ref=f29e1175]:
+                        - link "What are the best online websites/tools to compare life insurance quotes?" [ref=f29e1176] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/personalfinance/comments/10yagyl/what_are_the_best_online_websitestools_to_compare/
+                        - generic [ref=f29e1179]:
+                          - generic [ref=f29e1182]:
+                            - link "r/personalfinance" [ref=f29e1183] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/personalfinance/
+                            - generic [aria-hidden] [ref=f29e1190]: •
+                            - time [ref=f29e1192]: 4y ago
+                          - link [ref=f29e1194] [cursor=pointer]:
+                            - /url: /r/personalfinance/comments/10yagyl/what_are_the_best_online_websitestools_to_compare/
+                            - heading "List item post - What are the best online websites/tools to compare life ins..." [level=3] [ref=f29e1197]: What are the best online websites/tools to compare life insurance quotes?
+                        - generic [ref=f29e1199]:
+                          - generic [ref=f29e1200]: "5"
+                          - text: comments
+                      - separator [ref=f29e1201]
+                  - listitem [ref=f29e1202]:
+                    - generic [ref=f29e1203]:
+                      - generic [ref=f29e1204]:
+                        - link "Quote sanity check" [ref=f29e1205] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/landscaping/comments/1u41qim/quote_sanity_check/
+                        - generic [ref=f29e1207]:
+                          - generic [ref=f29e1208]:
+                            - generic [ref=f29e1211]:
+                              - link "r/landscaping" [ref=f29e1212] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/landscaping/
+                              - generic [aria-hidden] [ref=f29e1219]: •
+                              - time [ref=f29e1221]: 4mo ago
+                            - link [ref=f29e1223] [cursor=pointer]:
+                              - /url: /r/landscaping/comments/1u41qim/quote_sanity_check/
+                              - heading "List item post - Quote sanity check" [level=3] [ref=f29e1226]: Quote sanity check
+                          - link "r/landscaping - Quote sanity check" [ref=f29e1229] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/landscaping/comments/1u41qim/quote_sanity_check/
+                            - img "r/landscaping - Quote sanity check" [ref=f29e1230]
+                        - generic [ref=f29e1232]:
+                          - generic [ref=f29e1233]: "33"
+                          - text: upvotes ·
+                          - generic [ref=f29e1234]: "32"
+                          - text: comments
+                      - separator [ref=f29e1235]
+                  - listitem [ref=f29e1236]:
+                    - generic [ref=f29e1237]:
+                      - generic [ref=f29e1238]:
+                        - link "Good companies? I keep getting contacted by companies that seem like scams." [ref=f29e1239] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/InsuranceAgent/comments/1piy8c9/good_companies_i_keep_getting_contacted_by/
+                        - generic [ref=f29e1242]:
+                          - generic [ref=f29e1245]:
+                            - link "r/InsuranceAgent" [ref=f29e1246] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/InsuranceAgent/
+                            - generic [aria-hidden] [ref=f29e1251]: •
+                            - time [ref=f29e1253]: 1y ago
+                          - link [ref=f29e1255] [cursor=pointer]:
+                            - /url: /r/InsuranceAgent/comments/1piy8c9/good_companies_i_keep_getting_contacted_by/
+                            - heading "List item post - Good companies? I keep getting contacted by companies that ..." [level=3] [ref=f29e1258]: Good companies? I keep getting contacted by companies that seem like scams.
+                        - generic [ref=f29e1260]:
+                          - generic [ref=f29e1261]: "6"
+                          - text: upvotes ·
+                          - generic [ref=f29e1262]: "16"
+                          - text: comments
+                      - separator [ref=f29e1263]
+                  - listitem [ref=f29e1264]:
+                    - generic [ref=f29e1265]:
+                      - generic [ref=f29e1266]:
+                        - link "What is your favorite quote about life/death?" [ref=f29e1267] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/DeathPositive/comments/1utz54o/what_is_your_favorite_quote_about_lifedeath/
+                        - generic [ref=f29e1270]:
+                          - generic [ref=f29e1273]:
+                            - link "r/DeathPositive" [ref=f29e1274] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/DeathPositive/
+                            - generic [aria-hidden] [ref=f29e1279]: •
+                            - time [ref=f29e1281]: 3mo ago
+                          - link [ref=f29e1283] [cursor=pointer]:
+                            - /url: /r/DeathPositive/comments/1utz54o/what_is_your_favorite_quote_about_lifedeath/
+                            - heading "List item post - What is your favorite quote about life/death?" [level=3] [ref=f29e1286]: What is your favorite quote about life/death?
+                        - generic [ref=f29e1288]:
+                          - generic [ref=f29e1289]: "47"
+                          - text: upvotes ·
+                          - generic [ref=f29e1290]: "38"
+                          - text: comments
+                      - separator [ref=f29e1291]
+                  - listitem [ref=f29e1292]:
+                    - generic [ref=f29e1293]:
+                      - generic [ref=f29e1294]:
+                        - link "What do you guys think of service contracts with companies like 800Batteries, BattMobile, etc.?" [ref=f29e1295] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/DubaiPetrolHeads/comments/1bbxioj/what_do_you_guys_think_of_service_contracts_with/
+                        - generic [ref=f29e1298]:
+                          - generic [ref=f29e1301]:
+                            - link "r/DubaiPetrolHeads" [ref=f29e1302] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/DubaiPetrolHeads/
+                            - generic [aria-hidden] [ref=f29e1307]: •
+                            - time [ref=f29e1309]: 3y ago
+                          - link [ref=f29e1311] [cursor=pointer]:
+                            - /url: /r/DubaiPetrolHeads/comments/1bbxioj/what_do_you_guys_think_of_service_contracts_with/
+                            - heading "List item post - What do you guys think of service contracts with companies ..." [level=3] [ref=f29e1314]: What do you guys think of service contracts with companies like 800Batteries, BattMobile, etc.?
+                        - generic [ref=f29e1316]:
+                          - generic [ref=f29e1317]: "5"
+                          - text: upvotes ·
+                          - generic [ref=f29e1318]: "12"
+                          - text: comments
+                      - separator [ref=f29e1319]
+                  - listitem [ref=f29e1320]:
+                    - generic [ref=f29e1322]:
+                      - link "Top three quoting tools you use where you can text a client." [ref=f29e1323] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/InsuranceAgent/comments/1r5n04m/top_three_quoting_tools_you_use_where_you_can/
+                      - generic [ref=f29e1326]:
+                        - generic [ref=f29e1329]:
+                          - link "r/InsuranceAgent" [ref=f29e1330] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/InsuranceAgent/
+                          - generic [aria-hidden] [ref=f29e1335]: •
+                          - time [ref=f29e1337]: 8mo ago
+                        - link [ref=f29e1339] [cursor=pointer]:
+                          - /url: /r/InsuranceAgent/comments/1r5n04m/top_three_quoting_tools_you_use_where_you_can/
+                          - heading "List item post - Top three quoting tools you use where you can text a client." [level=3] [ref=f29e1342]: Top three quoting tools you use where you can text a client.
+                      - generic [ref=f29e1344]:
+                        - generic [ref=f29e1345]: "7"
+                        - text: comments
+              - generic [ref=f29e1346]:
+                - heading "View Post in" [level=2] [ref=f29e1348]
+                - group [ref=f29e1351]:
+                  - generic "See more" [ref=f29e1352] [cursor=pointer]
+              - complementary "Community information" [ref=f29e1357]:
+                - generic [ref=f29e1359]:
+                  - heading "Community Info Section" [level=1] [ref=f29e1360]
+                  - generic [ref=f29e1361]:
+                    - link "r/LifeInsurance" [ref=f29e1363] [cursor=pointer]:
+                      - /url: /r/LifeInsurance/
+                    - button "Join" [ref=f29e1368] [cursor=pointer]
+                  - generic [ref=f29e1369]:
+                    - generic [ref=f29e1370]: Life Insurance Information & Discussion
+                    - generic [ref=f29e1372]: This is a place for discussions or questions specific to life insurance.
+                    - generic: Public
+              - generic [ref=f29e1378]:
+                - heading "Top Posts" [level=2] [ref=f29e1379]
+                - list [ref=f29e1380]:
+                  - listitem [ref=f29e1381]:
+                    - 'link "Reddit reReddit: Top posts of April 23, 2024" [ref=f29e1382] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2024/april-23-1/global/
+                      - generic [ref=f29e1383]: Reddit
+                      - generic [ref=f29e1398]: "reReddit: Top posts of April 23, 2024"
+                      - separator [ref=f29e1399]
+                  - listitem [ref=f29e1400]:
+                    - 'link "Reddit reReddit: Top posts of April 2024" [ref=f29e1401] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2024/april/global/
+                      - generic [ref=f29e1402]: Reddit
+                      - generic [ref=f29e1417]: "reReddit: Top posts of April 2024"
+                      - separator [ref=f29e1418]
+                  - listitem [ref=f29e1419]:
+                    - 'link "Reddit reReddit: Top posts of 2024" [ref=f29e1420] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2024/global/
+                      - generic [ref=f29e1421]: Reddit
+                      - generic [ref=f29e1436]: "reReddit: Top posts of 2024"
+                      - separator [ref=f29e1437]
+          - list [ref=f29e1439]:
+            - listitem [ref=f29e1440]:
+              - link "Home" [ref=f29e1442] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=f29e1443]:
+              - link "Popular" [ref=f29e1445] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=f29e1446]:
+              - link "News" [ref=f29e1448] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=f29e1449]:
+              - link "Explore" [ref=f29e1451] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=f29e1452]:
+              - link "Best of Reddit" [ref=f29e1454] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=f29e1455]:
+              - link "Best of Reddit in Portuguese" [ref=f29e1457] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=f29e1458]:
+              - link "Best of Reddit in German" [ref=f29e1460] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=f29e1461]:
+              - link "Reddit Rules" [ref=f29e1463] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=f29e1464]:
+              - link "Privacy Policy" [ref=f29e1466] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=f29e1467]:
+              - link "User Agreement" [ref=f29e1469] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=f29e1470]:
+              - link "Accessibility" [ref=f29e1472] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=f29e1473]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=f29e1474] [cursor=pointer]:
+                - /url: https://redditinc.com

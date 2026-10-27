@@ -1,0 +1,51 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - heading "Medical Insurance Quote Comparison" [level=1] [ref=e4]
+    - paragraph [ref=e5]: Built for Kevin Osiga — Insurance Broker, Kenya (EAT / UTC+3) • Client-ready comparative proposal in minutes, not hours
+  - generic [ref=e6]: "Time saved: Manual quotation comparison takes 2–3 hours. With this tool, under 30 minutes."
+  - generic [ref=e7]:
+    - heading "Client details" [level=2] [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Client name
+        - textbox "Client name" [ref=e12]:
+          - /placeholder: e.g. Jane Wanjiku
+      - generic [ref=e13]:
+        - generic [ref=e14]: Age
+        - spinbutton "Age" [ref=e15]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Sum insured (KSh)
+        - spinbutton "Sum insured (KSh)" [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]: Location
+        - textbox "Location" [ref=e21]:
+          - /placeholder: e.g. Nairobi, Kenya
+      - generic [ref=e22]:
+        - generic [ref=e23]: Pre-existing conditions (PEC)
+        - textbox "Pre-existing conditions (PEC)" [ref=e24]:
+          - /placeholder: e.g. Hypertension, diagnosed 2022
+        - generic [ref=e25]: Declared pre-existing conditions — affects waiting periods & terms.
+    - generic [ref=e26]:
+      - button "Load Jubilee vs Britam example" [ref=e27] [cursor=pointer]
+      - button "Clear all" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - heading "Underwriter quotes (add up to 4)" [level=2] [ref=e30]
+    - paragraph [ref=e31]: Add one block per underwriter. Enter the premium and benefits from their quote documents. The comparison table updates as you type.
+    - generic [ref=e32]:
+      - button "Jubilee" [ref=e33] [cursor=pointer]
+      - button "Britam" [ref=e34] [cursor=pointer]
+      - button "Sanlam" [ref=e35] [cursor=pointer]
+      - button "APA Insurance" [ref=e36] [cursor=pointer]
+      - button "ICEA Lion" [ref=e37] [cursor=pointer]
+    - button "+ Add underwriter" [ref=e39] [cursor=pointer]
+  - generic [ref=e40]:
+    - heading "Comparative quotation — (client)" [level=2] [ref=e41]
+    - heading "Premium comparison" [level=3] [ref=e43]
+    - table [ref=e44]:
+      - rowgroup [ref=e45]:
+        - row [ref=e46]:
+          - columnheader "Benefit" [ref=e47]
+      - rowgroup
+    - generic [ref=e48]: "Disclaimer: For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter's policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice."
+    - button "Print / Save as PDF →" [ref=e50] [cursor=pointer]
+  - generic [ref=e51]: MVP v1 · Medical insurance only · Zero installation — open this HTML file in any browser · No database, no backend, no account needed

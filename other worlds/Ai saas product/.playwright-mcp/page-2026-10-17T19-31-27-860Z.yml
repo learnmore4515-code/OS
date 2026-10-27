@@ -1,0 +1,190 @@
+- generic [ref=f2e2]:
+  - banner [ref=f2e3]:
+    - navigation "Main navigation" [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - link "Leo Pisha Home" [ref=f2e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f2e7]: Leo Pisha
+        - button "Open menu" [ref=f2e8]
+      - navigation "Mobile navigation":
+        - generic [ref=f2e11]:
+          - link "What I Fix" [ref=f2e12] [cursor=pointer]:
+            - /url: /#what-i-fix
+          - link "How I Work" [ref=f2e13] [cursor=pointer]:
+            - /url: /#how-i-work
+          - link "About" [ref=f2e14] [cursor=pointer]:
+            - /url: /about
+          - link [ref=f2e16] [cursor=pointer]:
+            - /url: /book
+            - button "Book a consultation" [ref=f2e17]
+  - main [ref=f2e19]:
+    - region [ref=f2e20]:
+      - generic [ref=f2e21]:
+        - generic [ref=f2e22]:
+          - generic [ref=f2e23]: What We Do
+          - heading "Automation Services for Insurance" [level=1] [ref=f2e24]
+          - paragraph [ref=f2e25]: From diagnosis to production to ongoing operations. Every engagement starts with a zero-risk pilot.
+        - list [ref=f2e26]:
+          - article [ref=f2e27]:
+            - generic [ref=f2e29]:
+              - heading "Automation Diagnosis" [level=3] [ref=f2e33]
+              - paragraph [ref=f2e34]: We map your workflows, quantify the cost of manual work, and deliver a prioritized roadmap with ROI projections.
+              - generic [ref=f2e35]:
+                - generic [ref=f2e36]: Process audit report
+                - generic [ref=f2e40]: ROI model
+                - generic [ref=f2e44]: Automation roadmap
+                - generic [ref=f2e48]: Quick-win identification
+              - generic [ref=f2e53]:
+                - generic [ref=f2e54]: Timeline
+                - generic [ref=f2e55]: 1-2 weeks
+          - article [ref=f2e57]:
+            - generic [ref=f2e59]:
+              - heading "Claims Processing Automation" [level=3] [ref=f2e63]
+              - paragraph [ref=f2e64]: End-to-end claims automation from FNOL to settlement. Document ingestion, AI extraction, triage, and auto-approval.
+              - generic [ref=f2e65]:
+                - generic [ref=f2e66]: n8n workflows
+                - generic [ref=f2e70]: AI document processing
+                - generic [ref=f2e74]: Triage engine
+                - generic [ref=f2e78]: Adjuster dashboard
+                - generic [ref=f2e82]: IRA compliance logging
+              - generic [ref=f2e87]:
+                - generic [ref=f2e88]: Timeline
+                - generic [ref=f2e89]: 1-2 weeks
+          - article [ref=f2e91]:
+            - generic [ref=f2e93]:
+              - heading "Underwriting Automation" [level=3] [ref=f2e97]
+              - paragraph [ref=f2e98]: Instant quote-to-bind for motor, property, and SME lines. Risk scoring, straight-through processing, exception routing.
+              - generic [ref=f2e99]:
+                - generic [ref=f2e100]: Risk scoring models
+                - generic [ref=f2e104]: Broker portal
+                - generic [ref=f2e108]: STP workflows
+                - generic [ref=f2e112]: Exception handling
+                - generic [ref=f2e116]: Reinsurance reporting
+              - generic [ref=f2e121]:
+                - generic [ref=f2e122]: Timeline
+                - generic [ref=f2e123]: 1-2 weeks
+          - article [ref=f2e125]:
+            - generic [ref=f2e127]:
+              - heading "Customer Operations Automation" [level=3] [ref=f2e131]
+              - paragraph [ref=f2e132]: 24/7 member support via WhatsApp and portal. Eligibility checks, claims status, benefits, provider search.
+              - generic [ref=f2e133]:
+                - generic [ref=f2e134]: WhatsApp bot
+                - generic [ref=f2e138]: RAG knowledge base
+                - generic [ref=f2e142]: Self-service portal
+                - generic [ref=f2e146]: Smart escalation
+                - generic [ref=f2e150]: Analytics dashboard
+              - generic [ref=f2e155]:
+                - generic [ref=f2e156]: Timeline
+                - generic [ref=f2e157]: 1-2 weeks
+          - article [ref=f2e159]:
+            - generic [ref=f2e160]:
+              - heading "Fraud Detection & Prevention" [level=3] [ref=f2e164]
+              - paragraph [ref=f2e165]: AI-powered fraud scoring at claim intake. Network analysis, anomaly detection, investigator case management.
+              - generic [ref=f2e166]:
+                - generic [ref=f2e167]: Fraud scoring models
+                - generic [ref=f2e171]: Network analysis
+                - generic [ref=f2e175]: Investigator workspace
+                - generic [ref=f2e179]: Case management
+                - generic [ref=f2e183]: SAR automation
+              - generic [ref=f2e188]:
+                - generic [ref=f2e189]: Timeline
+                - generic [ref=f2e190]: 1-2 weeks
+          - article [ref=f2e192]:
+            - generic [ref=f2e193]:
+              - heading "Managed Automation Operations" [level=3] [ref=f2e197]
+              - paragraph [ref=f2e198]: We run and optimize your automations. Monthly reviews, proactive improvements, priority support. You own the IP.
+              - generic [ref=f2e199]:
+                - generic [ref=f2e200]: Monthly performance reports
+                - generic [ref=f2e204]: Proactive optimizations
+                - generic [ref=f2e208]: Priority support
+                - generic [ref=f2e212]: SLA monitoring
+                - generic [ref=f2e216]: Capacity planning
+              - generic [ref=f2e221]:
+                - generic [ref=f2e222]: Timeline
+                - generic [ref=f2e223]: 1-2 weeks
+        - generic [ref=f2e226]:
+          - generic [ref=f2e227]: Zero-Risk Pilot Available
+          - heading "Not Sure Where to Start?" [level=3] [ref=f2e230]
+          - paragraph [ref=f2e231]: Begin with an Automation Diagnosis. We'll audit your operations, quantify the opportunity, and deliver a roadmap — all before you commit to a build.
+          - generic [ref=f2e232]:
+            - link [ref=f2e233] [cursor=pointer]:
+              - /url: /book
+              - button "Book a Discovery Call" [ref=f2e234]
+            - link [ref=f2e236] [cursor=pointer]:
+              - /url: /case-studies
+              - button "View Our Work" [ref=f2e237]
+        - generic [ref=f2e240]:
+          - heading "How We Work Together" [level=3] [ref=f2e241]
+          - generic [ref=f2e242]:
+            - generic [ref=f2e243]:
+              - generic [ref=f2e244]: "01"
+              - heading "Diagnose" [level=4] [ref=f2e246]
+              - paragraph [ref=f2e247]: 1-2 weeks. Process audit, ROI model, prioritized roadmap. You decide what to build.
+            - generic [ref=f2e248]:
+              - generic [ref=f2e249]: "02"
+              - heading "Build" [level=4] [ref=f2e251]
+              - paragraph [ref=f2e252]: 1-2 weeks. We build in n8n with full transparency. You see every workflow, every decision point.
+            - generic [ref=f2e253]:
+              - generic [ref=f2e254]: "03"
+              - heading "Operate" [level=4] [ref=f2e256]
+              - paragraph [ref=f2e257]: 1-2 weeks. You own the system; we maintain it. Monthly reviews ensure it keeps delivering.
+  - contentinfo [ref=f2e258]:
+    - generic [ref=f2e259]:
+      - generic [ref=f2e260]:
+        - generic [ref=f2e261]:
+          - link "Leo Pisha Home" [ref=f2e262] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f2e263]: Leo Pisha
+          - paragraph [ref=f2e265]: Insurance operations specialist for firms that want sharper claims flow, underwriting response, and service follow-through.
+          - list "Social links" [ref=f2e266]:
+            - link "LinkedIn" [ref=f2e267] [cursor=pointer]:
+              - /url: "#"
+            - link "Twitter" [ref=f2e270] [cursor=pointer]:
+              - /url: "#"
+            - link "Email" [ref=f2e273] [cursor=pointer]:
+              - /url: mailto:hello@leopisha.com
+        - navigation "Company links" [ref=f2e276]:
+          - heading "Company" [level=3] [ref=f2e277]
+          - list [ref=f2e278]:
+            - listitem [ref=f2e279]:
+              - link "About" [ref=f2e280] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f2e281]:
+              - link "Case Studies" [ref=f2e282] [cursor=pointer]:
+                - /url: /case-studies
+            - listitem [ref=f2e283]:
+              - link "Services" [ref=f2e284] [cursor=pointer]:
+                - /url: /services
+        - navigation "Resources" [ref=f2e285]:
+          - heading "Resources" [level=3] [ref=f2e286]
+          - list [ref=f2e287]:
+            - listitem [ref=f2e288]:
+              - link "Book a Call" [ref=f2e289] [cursor=pointer]:
+                - /url: /book
+            - listitem [ref=f2e290]:
+              - link "About the Practice" [ref=f2e291] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f2e292]:
+              - link "Case Studies" [ref=f2e293] [cursor=pointer]:
+                - /url: /case-studies
+        - navigation "Connect" [ref=f2e294]:
+          - heading "Connect" [level=3] [ref=f2e295]
+          - list [ref=f2e296]:
+            - listitem [ref=f2e297]:
+              - link "Email" [ref=f2e298] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+            - listitem [ref=f2e299]:
+              - link "Book a Session" [ref=f2e300] [cursor=pointer]:
+                - /url: /book
+            - listitem [ref=f2e301]:
+              - link "Case Studies" [ref=f2e302] [cursor=pointer]:
+                - /url: /case-studies
+      - generic [ref=f2e303]:
+        - paragraph [ref=f2e304]: © 2026 Leo Pisha. All rights reserved.
+        - generic [ref=f2e305]:
+          - link "About" [ref=f2e306] [cursor=pointer]:
+            - /url: /about
+          - link "Book" [ref=f2e307] [cursor=pointer]:
+            - /url: /book
+          - link "Case Studies" [ref=f2e308] [cursor=pointer]:
+            - /url: /case-studies

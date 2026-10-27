@@ -1,0 +1,580 @@
+- generic [active] [ref=f19e1]:
+  - link "Skip to main content" [ref=f19e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=f19e3]:
+    - navigation "Primary" [ref=f19e4]:
+      - link "LinkedIn" [ref=f19e5] [cursor=pointer]:
+        - /url: /?trk=keyword-landing-page_nav-header-logo
+      - list [ref=f19e19]:
+        - listitem [ref=f19e20]:
+          - link "Top Content" [ref=f19e21] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=keyword-landing-page_guest_nav_menu_topContent
+        - listitem [ref=f19e26]:
+          - link "People" [ref=f19e27] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/+/+?trk=keyword-landing-page_guest_nav_menu_people
+        - listitem [ref=f19e32]:
+          - link "Learning" [ref=f19e33] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/search?trk=keyword-landing-page_guest_nav_menu_learning
+        - listitem [ref=f19e41]:
+          - link "Jobs" [ref=f19e42] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search?trk=keyword-landing-page_guest_nav_menu_jobs
+        - listitem [ref=f19e47]:
+          - link "Games" [ref=f19e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=keyword-landing-page_guest_nav_menu_games
+        - listitem [ref=f19e53]:
+          - link "Get the app" [ref=f19e54] [cursor=pointer]:
+            - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=keyword-landing-page_guest_nav_menu_windows
+      - generic [ref=f19e59]:
+        - link "Join now" [ref=f19e60] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=%2Ftop-content%2Finnovation%2Fai-trends-and-innovations%2F&trk=keyword-landing-page_nav-header-join
+        - link "Sign in" [ref=f19e61] [cursor=pointer]:
+          - /url: https://www.linkedin.com/uas/login?session_redirect=%2Ftop-content%2Finnovation%2Fai-trends-and-innovations%2F&fromSignIn=true&trk=keyword-landing-page_nav-header-signin
+  - main [ref=f19e62]:
+    - generic [ref=f19e65]:
+      - generic [ref=f19e66]:
+        - list [ref=f19e67]:
+          - listitem [ref=f19e68]:
+            - link "Top Content" [ref=f19e69] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/
+            - text: /
+          - listitem [ref=f19e70]:
+            - link "Innovation" [ref=f19e71] [cursor=pointer]:
+              - /url: https://www.linkedin.com/top-content/innovation/
+            - text: /
+        - heading "AI Trends and Innovations" [level=1] [ref=f19e72]
+        - paragraph [ref=f19e73]: Explore top LinkedIn content from expert professionals.
+      - list [ref=f19e74]:
+        - listitem [ref=f19e75]:
+          - article [ref=f19e76]:
+            - generic [ref=f19e77]:
+              - generic [ref=f19e79]:
+                - link [ref=f19e80] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/andy-jassy-8b1615?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Andy Jassy" [ref=f19e81]
+                - generic [ref=f19e82]:
+                  - generic [ref=f19e83]:
+                    - link "View profile for Andy Jassy" [ref=f19e84] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/andy-jassy-8b1615?trk=keyword-landing-page_feed-actor-name
+                      - text: Andy Jassy
+                    - generic [ref=f19e93]: Andy Jassy is an Influencer
+                  - generic [ref=f19e94]:
+                    - generic [ref=f19e95]: 1,091,078 followers
+                    - generic [ref=f19e96]:
+                      - text: ·
+                      - time [ref=f19e97]: 11mo
+              - button "Open menu" [ref=f19e100] [cursor=pointer]
+            - generic [ref=f19e104]:
+              - paragraph [ref=f19e105]: "Every cloud provider faces the same AI infrastructure challenge: chips need to be positioned close together to exchange data quickly, but they generate intense heat, creating unprecedented cooling demands. We needed a strategic solution that allowed us to use our existing air-cooled data centers to do liquid cooling without waiting for new construction. And it needed to be rapidly deployed so we could bring customers these powerful AI capabilities while we transition towards facility-level liquid cooling. Think of a home where only one sunny room needs AC, while the rest stays naturally cool – that’s what we wanted to achieve, allowing us to efficiently land both liquid and air-cooled racks in the same facilities with complete flexibility. The available options weren't great. Either we could wait to build specialized liquid-cooled facilities or adopt off-the-shelf solutions that didn't scale or meet our unique needs. Neither worked for our customers, so we did what we often do at Amazon… we invented our own solution. Our teams designed and delivered our In-Row Heat Exchanger (IRHX), which uses a direct-to-chip approach with a \"cold plate\" on the chips. The liquid runs through this sealed plate in a closed loop, continuously removing heat without increasing water use. This enables us to support traditional workloads and demanding AI applications in the same facilities. By 2026, our liquid-cooled capacity will grow to over 20% of our ML capacity, which is at multi-gigawatt scale today. While liquid cooling technology itself isn't unique, our approach was. Creating something this effective that could be deployed across our 120 Availability Zones in 38 Regions was significant. Because this solution didn't exist in the market, we developed a system that enables greater liquid cooling capacity with a smaller physical footprint, while maintaining flexibility and efficiency. Our IRHX can support a wide range of racks requiring liquid cooling, uses 9% less water than fully-air cooled sites, and offers a 20% improvement in power efficiency compared to off-the-shelf solutions. And because we invented it in-house, we can deploy it within months in any of our data centers, creating a flexible foundation to serve our customers for decades to come. Reimagining and innovating at scale has been something Amazon has done for a long time and one of the reasons we’ve been the leader in technology infrastructure and data center invention, sustainability, and resilience. We're not done… there's still so much more to invent for customers."
+              - button [aria-hidden] [ref=f19e106] [cursor=pointer]: …more
+            - list [ref=f19e107]:
+              - listitem [ref=f19e108]:
+                - button [ref=f19e109]:
+                  - img "No alternative text description for this image" [ref=f19e110]
+              - listitem [ref=f19e111]:
+                - button [ref=f19e112]:
+                  - img "No alternative text description for this image" [ref=f19e113]
+              - listitem [ref=f19e114]:
+                - button [ref=f19e115]:
+                  - img "No alternative text description for this image" [ref=f19e116]
+            - generic [ref=f19e117]:
+              - link "6,752 Reactions" [ref=f19e118] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandy-jassy-8b1615_every-cloud-provider-faces-the-same-ai-infrastructure-activity-7392215685701132288-goTE&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e119]: 6,752
+              - link "· 212 Comments" [ref=f19e120] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandy-jassy-8b1615_every-cloud-provider-faces-the-same-ai-infrastructure-activity-7392215685701132288-goTE&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e121]:
+              - link "Like" [ref=f19e122] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandy-jassy-8b1615_every-cloud-provider-faces-the-same-ai-infrastructure-activity-7392215685701132288-goTE&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e125] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandy-jassy-8b1615_every-cloud-provider-faces-the-same-ai-infrastructure-activity-7392215685701132288-goTE&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e129] [cursor=pointer]
+        - listitem [ref=f19e131]:
+          - article [ref=f19e132]:
+            - generic [ref=f19e133]:
+              - generic [ref=f19e135]:
+                - link [ref=f19e136] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/marcbenioff?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Marc Benioff" [ref=f19e137]
+                - generic [ref=f19e138]:
+                  - generic [ref=f19e139]:
+                    - link "View profile for Marc Benioff" [ref=f19e140] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/marcbenioff?trk=keyword-landing-page_feed-actor-name
+                      - text: Marc Benioff
+                    - generic [ref=f19e141]: Marc Benioff is an Influencer
+                  - generic [ref=f19e142]:
+                    - generic [ref=f19e143]: 299,125 followers
+                    - generic [ref=f19e144]:
+                      - text: ·
+                      - time [ref=f19e145]: 1y
+              - button "Open menu" [ref=f19e148] [cursor=pointer]
+            - generic [ref=f19e149]:
+              - paragraph [ref=f19e150]:
+                - text: "The Agentic Enterprise is driving profound change across every industry, but nowhere are the stakes higher than in healthcare. There is an incredible opportunity to elevate the work of healthcare professionals and deliver stronger care for patients around the world. In an essay for TIME, Murali Doraiswamy, professor of medicine at Duke University, and I discuss how AI is revolutionizing medicine, including: • Flagging subtle abnormalities in scans and slides that a human eye might miss. • Speeding up the discovery of drugs and drug targets. • Providing patients faster and more personalized support, from scheduling to flagging side effects But we’ve also seen that over-reliance on AI can lead to “deskilling” — in which medical professionals become less effective. That underscores the importance of approaches that keep humans at the center, such as the Intelligent Choice Architecture (ICA), where AI systems don’t make decisions but nudge providers to take a second look at results, weigh alternatives, and stay actively engaged in the process. The future of work is humans and AI agents working together. If we commit to designing systems that sharpen our abilities, we can combine the promise of AI with the critical thinking, compassion, and real-world judgment that only humans bring."
+                - link "https://lnkd.in/gqkTUfb6" [ref=f19e151] [cursor=pointer]:
+                  - /url: https://lnkd.in/gqkTUfb6?trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f19e152] [cursor=pointer]: …more
+            - button "AI Is Revolutionizing Health Care. But It Can’t Replace Your Doctor AI Is Revolutionizing Health Care. But It Can’t Replace Your Doctor time.com" [ref=f19e154] [cursor=pointer]:
+              - img "AI Is Revolutionizing Health Care. But It Can’t Replace Your Doctor" [ref=f19e155]
+              - generic [ref=f19e157]:
+                - generic [ref=f19e158]: AI Is Revolutionizing Health Care. But It Can’t Replace Your Doctor
+                - generic [ref=f19e159]: time.com
+            - generic [ref=f19e160]:
+              - link "1,672 Reactions" [ref=f19e161] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarcbenioff_ai-is-revolutionizing-health-care-but-it-activity-7379976542824747009-7VVX&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e162]: 1,672
+              - link "· 59 Comments" [ref=f19e163] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarcbenioff_ai-is-revolutionizing-health-care-but-it-activity-7379976542824747009-7VVX&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e164]:
+              - link "Like" [ref=f19e165] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarcbenioff_ai-is-revolutionizing-health-care-but-it-activity-7379976542824747009-7VVX&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e168] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmarcbenioff_ai-is-revolutionizing-health-care-but-it-activity-7379976542824747009-7VVX&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e172] [cursor=pointer]
+        - listitem [ref=f19e174]:
+          - article [ref=f19e175]:
+            - generic [ref=f19e176]:
+              - generic [ref=f19e178]:
+                - link [ref=f19e179] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sol-rashidi-mba-a672291?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Sol Rashidi, MBA" [ref=f19e180]
+                - generic [ref=f19e181]:
+                  - generic [ref=f19e182]:
+                    - link "View profile for Sol Rashidi, MBA" [ref=f19e183] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sol-rashidi-mba-a672291?trk=keyword-landing-page_feed-actor-name
+                      - text: Sol Rashidi, MBA
+                    - generic [ref=f19e184]: Sol Rashidi, MBA is an Influencer
+                  - generic [ref=f19e185]:
+                    - generic [ref=f19e186]: 123,907 followers
+                    - generic [ref=f19e187]:
+                      - text: ·
+                      - time [ref=f19e188]: 1y
+              - button "Open menu" [ref=f19e191] [cursor=pointer]
+            - generic [ref=f19e192]:
+              - paragraph [ref=f19e193]:
+                - text: "OpenAI just launched AI consulting for $10M+ clients… and whether they admit it or not—they’re borrowing a page from Palantir’s 20-year-old playbook. Because when every AI company is offering the same APIs and models, the edge isn’t in access. It’s in integration & execution! This move says one thing loud and clear: 💥 Deployment is the differentiator. Think about this for a moment - what used to be “Just use our API” business strategy (and a successful one) is now “We’ll send a full team onsite and help you rewire your ops 🤯🤯🤯 This is important because as I’ve always said, the power is not in the LLM, it’s a commodity. It’s all about how you execute it! Just like Palantir, OpenAI is betting that embedding AI into enterprise workflows is where the money is. Not in benchmarks, but in business transformation. And here’s where it gets spicy: ➡ Every other AI company is watching—and preparing to follow suit. ➡ API margins are cute. But consulting margins are sticky. ➡ Execution-as-a-service will become the next frontier. RECOMMENDATIONS: ✅ If you’re building AI—start designing for deployment. ✅ If you’re buying AI—demand more than demos. Ask who’s staying with you when the model breaks. ⚠️ The model is not the product. The transformation is. Welcome to the era of AI Deployment-as-a-Service."
+                - link "#AI" [ref=f19e194] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=keyword-landing-page-text
+                - link "#Consulting" [ref=f19e195] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fconsulting&trk=keyword-landing-page-text
+                - link "#EnterpriseAI" [ref=f19e196] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fenterpriseai&trk=keyword-landing-page-text
+                - link "#DigitalTransformation" [ref=f19e197] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdigitaltransformation&trk=keyword-landing-page-text
+                - link "#FutureOfWork" [ref=f19e198] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffutureofwork&trk=keyword-landing-page-text
+                - link "#OpenAI" [ref=f19e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopenai&trk=keyword-landing-page-text
+                - link "#Palantir" [ref=f19e200] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpalantir&trk=keyword-landing-page-text
+                - link "#Strategy" [ref=f19e201] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fstrategy&trk=keyword-landing-page-text
+                - link "#AIConsulting" [ref=f19e202] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiconsulting&trk=keyword-landing-page-text
+                - text: ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Worlds 1st Chief AI Officer for Enterprise, 10 patents, former Amazon & C-Suite Exec (5x), best-selling author, FORBES “AI Maverick & Visionary of the 21st Century” , Top 100 AI Thought Leaders, helped IBM launch Watson"
+              - button [aria-hidden] [ref=f19e203] [cursor=pointer]: …more
+            - list [ref=f19e204]:
+              - listitem [ref=f19e205]:
+                - button [ref=f19e206]:
+                  - img "No alternative text description for this image" [ref=f19e207]
+            - generic [ref=f19e208]:
+              - link "3,387 Reactions" [ref=f19e209] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsol-rashidi-mba-a672291_openai-just-launched-ai-consulting-for-10m-activity-7350184738508169216-UIGz&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e210]: 3,387
+              - link "· 370 Comments" [ref=f19e211] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsol-rashidi-mba-a672291_openai-just-launched-ai-consulting-for-10m-activity-7350184738508169216-UIGz&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e212]:
+              - link "Like" [ref=f19e213] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsol-rashidi-mba-a672291_openai-just-launched-ai-consulting-for-10m-activity-7350184738508169216-UIGz&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e216] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsol-rashidi-mba-a672291_openai-just-launched-ai-consulting-for-10m-activity-7350184738508169216-UIGz&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e220] [cursor=pointer]
+        - listitem [ref=f19e222]:
+          - article [ref=f19e223]:
+            - generic [ref=f19e224]:
+              - generic [ref=f19e226]:
+                - link [ref=f19e227] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/alliekmiller?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Allie K. Miller" [ref=f19e228]
+                - generic [ref=f19e229]:
+                  - generic [ref=f19e230]:
+                    - link "View profile for Allie K. Miller" [ref=f19e231] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alliekmiller?trk=keyword-landing-page_feed-actor-name
+                      - text: Allie K. Miller
+                    - generic [ref=f19e232]: Allie K. Miller is an Influencer
+                  - paragraph [ref=f19e233]: "#1 Most Followed Voice in AI Business (2M) | Former Amazon, IBM | Fortune 500 AI and Startup Advisor, Public Speaker | @alliekmiller on Instagram, X, TikTok | AI-First Course with 400K+ students - Link in Bio"
+                  - generic [ref=f19e234]:
+                    - generic [ref=f19e235]: 1,678,883 followers
+                    - generic [ref=f19e236]:
+                      - text: ·
+                      - time [ref=f19e237]: 1y
+              - button "Open menu" [ref=f19e240] [cursor=pointer]
+            - generic [ref=f19e241]:
+              - paragraph [ref=f19e242]: "Been perfecting this small team AI methodology, and it’s incredibly effective. Get 4-8 people together, at least one technical and at least one subject matter expert, and sprint together with paid AI tools (free tools are fun for experiments, not for business). Start with a multi-hour shareout (with AI recording and transcribing!) of the SME sharing the latest in their field, the work the company is doing, the blockers the company has, what you would share if you were onboarding someone new and wanted them to succeed. Then have the dev/SWE/SA/DS do the same. Be sure to include what tools and resources are available, what is actually used in your company’s stack, what’s working, and what’s not. Then run two deep research queries: one on your specific company, one on AI’s impact on your narrow industry. Then brainstorm how to use AI to transform your business (have AI record and transcribe this too! Otter is easy, but there are others). THEN take both deep research outputs and single-person transcriptions, load it as context. Then prompt the AI to brainstorm potential AI ideas, giving the third transcript as an example. In your prompt… Ask for 200 ideas. Ask AI to score and rank the ideas on criteria you care about (potential revenue? Speed to deploy? People required?). Make sure the top 5 are wide in their support (ie not just 5 ideas to improve calendar management). Ask AI to give a mini execution plan for the top 5. Ask for what you might be missing. Ask for ways to make the ideas 5x better. Ask for revolutionary ways to execute the 5 so that they score higher on your criteria. Try and be in person if possible. It's extra magic. We are seeing cutbacks from cost pressures, uncertain economic conditions, and the hope of AI. I am not (yet?) a proponent for 4-day work weeks, but I am a big proponent of smaller teams. This is one way to get ahead. ♻️ Save and share this post with others who could use an AI edge."
+              - button [aria-hidden] [ref=f19e243] [cursor=pointer]: …more
+            - list [ref=f19e244]:
+              - listitem [ref=f19e245]:
+                - button [ref=f19e246]:
+                  - img "No alternative text description for this image" [ref=f19e247]
+            - generic [ref=f19e248]:
+              - link "1,751 Reactions" [ref=f19e249] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Falliekmiller_been-perfecting-this-small-team-ai-methodology-activity-7348061822463213569-6zoR&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e250]: 1,751
+              - link "· 194 Comments" [ref=f19e251] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Falliekmiller_been-perfecting-this-small-team-ai-methodology-activity-7348061822463213569-6zoR&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e252]:
+              - link "Like" [ref=f19e253] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Falliekmiller_been-perfecting-this-small-team-ai-methodology-activity-7348061822463213569-6zoR&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e256] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Falliekmiller_been-perfecting-this-small-team-ai-methodology-activity-7348061822463213569-6zoR&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e260] [cursor=pointer]
+        - listitem [ref=f19e262]:
+          - article [ref=f19e263]:
+            - generic [ref=f19e264]:
+              - generic [ref=f19e266]:
+                - link [ref=f19e267] [cursor=pointer]:
+                  - /url: https://at.linkedin.com/in/pkriaris?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Panagiotis Kriaris" [ref=f19e268]
+                - generic [ref=f19e269]:
+                  - generic [ref=f19e270]:
+                    - link "View profile for Panagiotis Kriaris" [ref=f19e271] [cursor=pointer]:
+                      - /url: https://at.linkedin.com/in/pkriaris?trk=keyword-landing-page_feed-actor-name
+                      - text: Panagiotis Kriaris
+                    - generic [ref=f19e272]: Panagiotis Kriaris is an Influencer
+                  - paragraph [ref=f19e273]: FinTech | Payments | Banking | Advisor, Founder, Editor
+                  - generic [ref=f19e274]:
+                    - generic [ref=f19e275]: 167,462 followers
+                    - generic [ref=f19e276]:
+                      - text: ·
+                      - time [ref=f19e277]: 1y
+              - button "Open menu" [ref=f19e280] [cursor=pointer]
+            - generic [ref=f19e281]:
+              - paragraph [ref=f19e282]:
+                - text: "Just a year ago it was all about GenAI. Today the spotlight is on Agentic AI. What is driving the shift? 𝗗𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻 - GenAI: Models that create or transform content in response to prompts. - Agentic AI: Systems that can pursue goals, plan tasks, and take action with minimal human input. GenAI helps generate ideas; Agentic AI takes action and gets things done. 𝗚𝗲𝗻𝗔𝗜 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 - Rapid content & pattern creation - Natural‑language front ends for analytics Finance examples • Auto‑drafted research and client letters • Multilingual regulatory summaries • Synthetic stress‑test narratives 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 • Real‑time decisioning under uncertainty • Multi‑skill chaining (retrieve → reason → act) • Continuous learning from outcomes Finance examples • Millisecond fraud-blocking on millions of card transactions • Dynamic risk-rule tuning based on issuer feedback • Automated receivables follow-up and payment posting • Autonomous treasury operations: FX hedging and overnight liquidity management 𝗪𝗵𝘆 𝘁𝗵𝗲 𝘀𝗵𝗶𝗳𝘁 Moving from GenAI to Agentic AI fundamentally changes how financial services deliver value: • Real-time revenue protection: agentic systems can reroute or block high-risk payments instantly, slashing fraud losses and chargebacks. • Seamless customer journeys: fully automated KYC and onboarding flows. • Dynamic liquidity management: treasury bots rebalance cash, execute FX hedges, and optimize funding costs overnight. • End-to-end payment orchestration from choosing the most cost-effective cross-border rail to retrying failed pay-outs. • Regulatory agility: continuous-monitoring agents track rule changes, update compliance workflows, and generate audit trails without manual intervention. 𝗪𝗵𝗮𝘁’𝘀 𝗻𝗲𝘅𝘁 • Conversational banking agents: go beyond answering questions - initiate transfers, set up recurring payments, and negotiate loan terms. • Embedded Finance at scale: agents orchestrate lending, insurance, and FX in real time within non-financial apps. • On-demand cross-border settlement: smart agents choose between CBDCs, stablecoins, or traditional rails to settle payments instantly at the lowest cost. • Predictive risk & credit scoring: continuously update merchant and counterparty scores as new data streams in. • Auto-remediating systems: agents detect and fix platform issues in real time - no human ops required. • Automated regtech: agentic workflows handle licensing, screening, reporting, and audits - cutting compliance time from weeks to hours. • AI treasury market making: bots quote and underwrite liquidity in real time, adjusting spreads dynamically to market shifts. Opinions: my own 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐭𝐨 𝐦𝐲 𝐧𝐞𝐰𝐬𝐥𝐞𝐭𝐭𝐞𝐫:"
+                - link "https://lnkd.in/dkqhnxdg" [ref=f19e283] [cursor=pointer]:
+                  - /url: https://lnkd.in/dkqhnxdg?trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f19e284] [cursor=pointer]: …more
+            - list [ref=f19e285]:
+              - listitem [ref=f19e286]:
+                - button [ref=f19e287]:
+                  - img "No alternative text description for this image" [ref=f19e288]
+            - generic [ref=f19e289]:
+              - link "4,171 Reactions" [ref=f19e290] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fpkriaris_just-a-year-ago-it-was-all-about-genai-today-activity-7328282951962529793-LT4b&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e291]: 4,171
+              - link "· 116 Comments" [ref=f19e292] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fpkriaris_just-a-year-ago-it-was-all-about-genai-today-activity-7328282951962529793-LT4b&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e293]:
+              - link "Like" [ref=f19e294] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fpkriaris_just-a-year-ago-it-was-all-about-genai-today-activity-7328282951962529793-LT4b&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e297] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fpkriaris_just-a-year-ago-it-was-all-about-genai-today-activity-7328282951962529793-LT4b&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e301] [cursor=pointer]
+        - listitem [ref=f19e303]:
+          - article [ref=f19e304]:
+            - generic [ref=f19e305]:
+              - generic [ref=f19e307]:
+                - link [ref=f19e308] [cursor=pointer]:
+                  - /url: https://es.linkedin.com/in/andreashorn1?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Andreas Horn" [ref=f19e309]
+                - generic [ref=f19e310]:
+                  - link "View profile for Andreas Horn" [ref=f19e312] [cursor=pointer]:
+                    - /url: https://es.linkedin.com/in/andreashorn1?trk=keyword-landing-page_feed-actor-name
+                    - text: Andreas Horn
+                  - generic [ref=f19e313]:
+                    - generic [ref=f19e314]: 257,877 followers
+                    - generic [ref=f19e315]:
+                      - text: ·
+                      - time [ref=f19e316]: 1y
+              - button "Open menu" [ref=f19e319] [cursor=pointer]
+            - generic [ref=f19e320]:
+              - paragraph [ref=f19e321]:
+                - text: "𝗜𝗳 𝘆𝗼𝘂 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗻𝗲𝘄𝘀, 𝘆𝗼𝘂’𝘃𝗲 𝗽𝗿𝗼𝗯𝗮𝗯𝗹𝘆 𝘀𝗲𝗲𝗻 𝗶𝘁 𝗮𝗹𝗹: 𝗔𝗜 𝗶𝘀 𝗯𝗼𝗼𝗺𝗶𝗻𝗴. 𝗔𝗜 𝗶𝘀 𝗼𝘃𝗲𝗿𝗵𝘆𝗽𝗲𝗱. 𝗔𝗜 𝘄𝗶𝗹𝗹 𝘀𝗮𝘃𝗲 𝘂𝘀. 𝗔𝗜 𝘄𝗶𝗹𝗹 𝗱𝗲𝘀𝘁𝗿𝗼𝘆 𝗷𝗼𝗯𝘀. The"
+                - link "Stanford University" [ref=f19e322] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/school/stanford-university/?trk=keyword-landing-page-text
+                - text: "AI Index 2025 cuts through all of it. Produced by the Institute for Human-Centered Artificial Intelligence, it’s one of the most respected and data-driven reports on the state of AI today. Over 400+ pages of concrete insights — from technical benchmarks and real-world adoption to policy shifts, economic impact, education, and public sentiment. 𝗧𝗵𝗲 2025 𝗲𝗱𝗶𝘁𝗶𝗼𝗻 𝗱𝗿𝗼𝗽𝗽𝗲𝗱 𝗹𝗮𝘀𝘁 𝘄𝗲𝗲𝗸. 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 12 𝗸𝗲𝘆 𝘁𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀: 1. 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸𝘀 𝗮𝗿𝗲 𝗯𝗲𝗶𝗻𝗴 𝗰𝗿𝘂𝘀𝗵𝗲𝗱. ➝ AI performance on complex reasoning and programming tasks surged by up to 67 percentage points in just one year. 2. 𝗔𝗜 𝗶𝘀 𝗻𝗼 𝗹𝗼𝗻𝗴𝗲𝗿 𝘀𝘁𝘂𝗰𝗸 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗮𝗯. ➝ 223 FDA-approved AI medical devices. Over 150,000 autonomous rides weekly from Waymo. This is mainstream adoption. 3. 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝘀 𝗴𝗼𝗶𝗻𝗴 𝗮𝗹𝗹-𝗶𝗻. ➝ $109B in U.S. private AI investment. 78% of organizations using AI. Productivity gains are no longer theoretical. 4. 𝗧𝗵𝗲 𝗨.𝗦. 𝗹𝗲𝗮𝗱𝘀 𝗶𝗻 𝗾𝘂𝗮𝗻𝘁𝗶𝘁𝘆—𝗖𝗵𝗶𝗻𝗮’𝘀 𝗰𝗮𝘁𝗰𝗵𝗶𝗻𝗴 𝘂𝗽 𝗼𝗻 𝗾𝘂𝗮𝗹𝗶𝘁𝘆. ➝ Chinese models now rival U.S. models on MMLU, HumanEval, and more. Global AI is becoming a multi-polar game. 5. 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗔𝗜 𝗶𝘀 𝗹𝗮𝗴𝗴𝗶𝗻𝗴 𝗯𝗲𝗵𝗶𝗻𝗱 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻. ➝ Incidents are rising, but standardized RAI benchmarks and audits are still rare. Governments are stepping in faster than vendors. 6. 𝗚𝗹𝗼𝗯𝗮𝗹 𝗼𝗽𝘁𝗶𝗺𝗶𝘀𝗺 𝗶𝘀 𝗿𝗶𝘀𝗶𝗻𝗴—𝗯𝘂𝘁 𝗻𝗼𝘁 𝗲𝘃𝗲𝗻𝗹𝘆. ➝ 83% of people in China are optimistic about AI. In the U.S., that number is just 39%. 7. 𝗔𝗜 𝗶𝘀 𝗴𝗲𝘁𝘁𝗶𝗻𝗴 𝗰𝗵𝗲𝗮𝗽𝗲𝗿, 𝘀𝗺𝗮𝗹𝗹𝗲𝗿, 𝗮𝗻𝗱 𝗳𝗮𝘀𝘁𝗲𝗿. ➝ The cost of GPT-3.5-level inference dropped 280x in two years. Open-weight models are nearly matching closed ones. 8. 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁𝘀 𝗮𝗿𝗲 𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴. ➝ From Canada’s $2.4B to Saudi Arabia’s $100B push—states aren’t watching from the sidelines anymore. 9. 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 𝗶𝘀 𝗲𝘅𝗽𝗮𝗻𝗱𝗶𝗻𝗴—𝗯𝘂𝘁 𝗿𝗲𝗮𝗱𝗶𝗻𝗲𝘀𝘀 𝗹𝗮𝗴𝘀. ➝ Access is improving, but infrastructure gaps and lack of teacher training still limit global reach. 10. 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗶𝘀 𝗱𝗼𝗺𝗶𝗻𝗮𝘁𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗹 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. ➝ 90% of top AI models now come from companies—not academia. The gap between top players is shrinking fast. 11. 𝗔𝗜 𝗶𝘀 𝘀𝗵𝗮𝗽𝗶𝗻𝗴 𝘀𝗰𝗶𝗲𝗻𝗰𝗲. ➝ AI-driven breakthroughs in physics, chemistry, and biology are earning Nobel Prizes and Turing Awards. 12. 𝗖𝗼𝗺𝗽𝗹𝗲𝘅 𝗿𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴 𝗿𝗲𝗺𝗮𝗶𝗻𝘀 𝘁𝗵𝗲 𝗰𝗲𝗶𝗹𝗶𝗻𝗴. ➝ Despite all the progress, models still struggle with logic-heavy tasks. Precision is still a challenge. You can download the full report FREE here:"
+                - link "https://lnkd.in/dzzuE5tN" [ref=f19e323] [cursor=pointer]:
+                  - /url: https://lnkd.in/dzzuE5tN?trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f19e324] [cursor=pointer]: …more
+            - iframe [ref=f19e325]
+            - generic [ref=f19e326]:
+              - link "1,031 Reactions" [ref=f19e327] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandreashorn1_stanford-ai-index-2025-highlights-activity-7317780096679854080-jAT9&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e328]: 1,031
+              - link "· 83 Comments" [ref=f19e329] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandreashorn1_stanford-ai-index-2025-highlights-activity-7317780096679854080-jAT9&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e330]:
+              - link "Like" [ref=f19e331] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandreashorn1_stanford-ai-index-2025-highlights-activity-7317780096679854080-jAT9&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e334] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandreashorn1_stanford-ai-index-2025-highlights-activity-7317780096679854080-jAT9&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e338] [cursor=pointer]
+        - listitem [ref=f19e340]:
+          - article [ref=f19e341]:
+            - generic [ref=f19e342]:
+              - generic [ref=f19e344]:
+                - link [ref=f19e345] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/brijpandeyji?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Brij Kishore Pandey" [ref=f19e346]
+                - generic [ref=f19e347]:
+                  - link "View profile for Brij Kishore Pandey" [ref=f19e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/brijpandeyji?trk=keyword-landing-page_feed-actor-name
+                    - text: Brij Kishore Pandey
+                  - paragraph [ref=f19e350]: AI Architect & Engineer | Agentic systems, RAG, AI infrastructure, Data Engineering | 738K+ LinkedIn, 294K+ Instagram | Newsletter for 250K AI builders
+                  - generic [ref=f19e351]:
+                    - generic [ref=f19e352]: 740,720 followers
+                    - generic [ref=f19e353]:
+                      - text: ·
+                      - time [ref=f19e354]: 1y
+              - button "Open menu" [ref=f19e357] [cursor=pointer]
+            - generic [ref=f19e358]:
+              - paragraph [ref=f19e359]: "AI is no longer just about automation—it’s evolving into Agentic AI, where systems operate independently, make decisions, learn from feedback, and interact intelligently with users and external environments. But what does that mean? This Agentic AI Layers framework breaks it down into key components: 🔹 Governance & Auditability – Ensuring Transparency & Compliance Transparent Decision Logs – AI maintains a history of its decisions for accountability and audits. Regulatory Compliance – AI follows legal & ethical standards for responsible deployment. Explainability – Provides clear reasoning behind AI decisions for trust and reliability. 🔹 Operational Independence – AI that Learns & Adapts Self-Learning – Continuously improves performance based on feedback. Autonomous Decisions – AI acts independently within defined rules. Automated Workflows – Streamlines repetitive tasks for efficiency. Scalability & Real-Time Decision Making – AI optimizes resources and makes instant decisions based on data. 🔹 External Interactions & Multi-Modal Interfaces API Integrations – AI connects with external systems to fetch & process data. Multi-Modal Support – AI interacts via text, voice, and images for a richer user experience. User Input Processing – Uses NLP to understand and respond to human queries. 🔹 Ethics & Safety – Responsible AI Development Privacy Protection – Ensures secure data handling & regulatory compliance. Bias Detection – Identifies & mitigates biases in AI-generated content. Harm Prevention – Avoids generating misleading or harmful content. 🔹 Knowledge Base & RAG (Retrieval-Augmented Generation) Contextualization & Retrieval – AI fetches relevant information for better context-aware responses. Fact-Checking – Ensures AI outputs are based on verified information. Domain-Specific Enrichment – Enhances AI capabilities in specialized fields like healthcare, finance, and law. 🔹 LLM & Generative Capabilities – Advanced AI Thinking Reasoning & Adaptability – AI processes complex queries and adapts to user intent. Real-Time Data Retrieval – Pulls external data to generate accurate responses. Contextual Augmentation – Expands AI’s knowledge by integrating external sources. Training & Fine-Tuning – AI continuously improves through training updates. Why is Agentic AI Important? As AI systems become more autonomous and decision-driven, ensuring transparency, compliance, and ethical AI governance is crucial for industries like finance, healthcare, cybersecurity, and enterprise automation. Do you think AI should operate with full autonomy, or should human oversight always be required? Drop your thoughts in the comments!"
+              - button [aria-hidden] [ref=f19e360] [cursor=pointer]: …more
+            - list [ref=f19e361]:
+              - listitem [ref=f19e362]:
+                - button [ref=f19e363]:
+                  - img "No alternative text description for this image" [ref=f19e364]
+            - generic [ref=f19e365]:
+              - link "1,795 Reactions" [ref=f19e366] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbrijpandeyji_ai-is-no-longer-just-about-automationit-activity-7291432622642089985-g1QV&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e367]: 1,795
+              - link "· 78 Comments" [ref=f19e368] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbrijpandeyji_ai-is-no-longer-just-about-automationit-activity-7291432622642089985-g1QV&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e369]:
+              - link "Like" [ref=f19e370] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbrijpandeyji_ai-is-no-longer-just-about-automationit-activity-7291432622642089985-g1QV&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e373] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fbrijpandeyji_ai-is-no-longer-just-about-automationit-activity-7291432622642089985-g1QV&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e377] [cursor=pointer]
+        - listitem [ref=f19e379]:
+          - article [ref=f19e380]:
+            - generic [ref=f19e381]:
+              - generic [ref=f19e383]:
+                - link [ref=f19e384] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/andrewyng?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Andrew Ng" [ref=f19e385]
+                - generic [ref=f19e386]:
+                  - generic [ref=f19e387]:
+                    - link "View profile for Andrew Ng" [ref=f19e388] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/andrewyng?trk=keyword-landing-page_feed-actor-name
+                      - text: Andrew Ng
+                    - generic [ref=f19e389]: Andrew Ng is an Influencer
+                  - paragraph [ref=f19e390]: DeepLearning.AI, AI Fund and AI Aspire
+                  - generic [ref=f19e391]:
+                    - generic [ref=f19e392]: 2,663,013 followers
+                    - generic [ref=f19e393]:
+                      - text: ·
+                      - time [ref=f19e394]: 1y
+              - button "Open menu" [ref=f19e397] [cursor=pointer]
+            - generic [ref=f19e398]:
+              - paragraph [ref=f19e399]:
+                - text: "The buzz over DeepSeek this week crystallized, for many people, a few important trends that have been happening in plain sight: (i) China is catching up to the U.S. in generative AI, with implications for the AI supply chain. (ii) Open weight models are commoditizing the foundation-model layer, which creates opportunities for application builders. (iii) Scaling up isn’t the only path to AI progress. Despite the massive focus on and hype around processing power, algorithmic innovations are rapidly pushing down training costs. About a week ago, DeepSeek, a company based in China, released DeepSeek-R1, a remarkable model whose performance on benchmarks is comparable to OpenAI’s o1. Further, it was released as an open weight model with a permissive MIT license. At Davos last week, I got a lot of questions about it from non-technical business leaders. And on Monday, the stock market saw a “DeepSeek selloff”: The share prices of Nvidia and a number of other U.S. tech companies plunged. (As of the time of writing, some have recovered somewhat.) Here’s what I think DeepSeek has caused many people to realize: China is catching up to the U.S. in generative AI. When ChatGPT was launched in November 2022, the U.S. was significantly ahead of China in generative AI. Impressions change slowly, and so even recently I heard friends in both the U.S. and China say they thought China was behind. But in reality, this gap has rapidly eroded over the past two years. With models from China such as Qwen (which my teams have used for months), Kimi, InternVL, and DeepSeek, China had clearly been closing the gap, and in areas such as video generation there were already moments where China seemed to be in the lead. I’m thrilled that DeepSeek-R1 was released as an open weight model, with a technical report that shares many details. In contrast, a number of U.S. companies have pushed for regulation to stifle open source by hyping up hypothetical AI dangers such as human extinction. It is now clear that open source/open weight models are a key part of the AI supply chain: Many companies will use them. If the U.S. continues to stymie open source, China will come to dominate this part of the supply chain and many businesses will end up using models that reflect China’s values much more than America’s. Open weight models are commoditizing the foundation-model layer. As I wrote previously, LLM token prices have been falling rapidly, and open weights have contributed to this trend and given developers more choice. OpenAI’s o1 costs $60 per million output tokens; DeepSeek R1 costs $2.19. This nearly 30x difference brought the trend of falling prices to the attention of many people. [...] [Reached length limit. Full text:"
+                - link "https://lnkd.in/grbFH4D6" [ref=f19e400] [cursor=pointer]:
+                  - /url: https://lnkd.in/grbFH4D6?trk=keyword-landing-page-text
+                - text: "]"
+              - button [aria-hidden] [ref=f19e401] [cursor=pointer]: …more
+            - button "Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, and more... Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, and more... deeplearning.ai" [ref=f19e403] [cursor=pointer]:
+              - img "Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, and more..." [ref=f19e404]
+              - generic [ref=f19e406]:
+                - generic [ref=f19e407]: Reinforcement Learning Heats Up, White House Orders Muscular AI Policy, and more...
+                - generic [ref=f19e408]: deeplearning.ai
+            - generic [ref=f19e409]:
+              - link "12,948 Reactions" [ref=f19e410] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandrewyng_reinforcement-learning-heats-up-white-house-activity-7290799617779085312-qfXN&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e411]: 12,948
+              - link "· 422 Comments" [ref=f19e412] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandrewyng_reinforcement-learning-heats-up-white-house-activity-7290799617779085312-qfXN&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e413]:
+              - link "Like" [ref=f19e414] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandrewyng_reinforcement-learning-heats-up-white-house-activity-7290799617779085312-qfXN&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e417] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fandrewyng_reinforcement-learning-heats-up-white-house-activity-7290799617779085312-qfXN&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e421] [cursor=pointer]
+        - listitem [ref=f19e423]:
+          - article [ref=f19e424]:
+            - generic [ref=f19e425]:
+              - generic [ref=f19e427]:
+                - link [ref=f19e428] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/drjimfan?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Jim Fan" [ref=f19e429]
+                - generic [ref=f19e430]:
+                  - generic [ref=f19e431]:
+                    - link "View profile for Jim Fan" [ref=f19e432] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/drjimfan?trk=keyword-landing-page_feed-actor-name
+                      - text: Jim Fan
+                    - generic [ref=f19e433]: Jim Fan is an Influencer
+                  - paragraph [ref=f19e434]: NVIDIA Director of AI & Distinguished Scientist. Co-Lead of Project GR00T (Humanoid Robotics) & GEAR Lab. Stanford Ph.D. OpenAI's first intern. Solving Physical AGI, one motor at a time.
+                  - generic [ref=f19e435]:
+                    - generic [ref=f19e436]: 262,080 followers
+                    - generic [ref=f19e437]:
+                      - text: ·
+                      - time [ref=f19e438]: 1y
+              - button "Open menu" [ref=f19e441] [cursor=pointer]
+            - generic [ref=f19e442]:
+              - paragraph [ref=f19e443]:
+                - text: "If an AI can control 1,000 robots to perform 1 million skills in 1 billion different simulations, then it may \"just work\" in our real world, which is simply another point in the vast space of possible realities. This is the fundamental principle behind why simulation works so effectively for robotics. Real-world teleoperation data scales linearly with human time (< 24 hrs/robot/day). Sim data scales exponentially with compute. There are 3 big trends for simulators in the near future: 1. Massive parallelization on large clusters. Physics equations are \"just\" matrix math at their core. I hear GPUs are good at matrix math 🔥. One can run 100K copies of simulation on a single GPU. To put this number in perspective: 1 hour of wallclock compute time gives a robot 10 years (!!) of training experience. That's how Neo was able to learn martial arts in a blink of an eye in the Matrix Dojo. 2. Generative graphics pipeline. Traditionally, simulators require a huge amount of manual effort from artists: 3D assets, textures, scene layouts, etc. But every component in the workflow can be automated: text-to-image, text-to-3D mesh, and LLMs that write Universal Scene Description (USD) files as a coding exercise. RoboCasa is one example of a prior work ("
+                - link "https://robocasa.ai/" [ref=f19e444] [cursor=pointer]:
+                  - /url: https://robocasa.ai/?trk=keyword-landing-page-text
+                - text: "). 3. End2end neural net that acts as simulator itself. This is still bluesky research and quite far from replacing a graphics pipeline, but we are seeing some exciting signs-of-life based on video gen models: Sora, Veo2, CogVideoX, Hunyuan (text-to-video); and action-driven world models: GameNGen, Oasis, Genie-2, etc. Genesis does great on (1) for certain tasks, shows good promises on (2), and could become a data generation tool for reaching (3). Its sim2real capabilities for locomotion are good, but there's still a long way to go for contact-rich, dexterous manipulation. It shows a bold vision and is on the right path to providing a virtual cradle for embodied AI. It is open-source and puts a streamlined user journey at the front and center. I had the privilege to know"
+                - link "Zhou Xian" [ref=f19e445] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/zhou-xian-588128150?trk=keyword-landing-page-text
+                - text: and play a small part in his project since a year ago. Xian has been crunching code non-stop on Genesis with a very small group of core devs. He often replied to my messages at 3 am.
+                - link "Zhenjia Xu" [ref=f19e446] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/zhenjia-xu?trk=keyword-landing-page-text
+                - text: from our GEAR team helped with sim2real experiments in his spare time. Genesis is truly a grassroot effort with an intense focus on quality engineering. Nothing gives me more joy than seeing the simulation ecosystem bloom. Robotics should be a moonshot initiative owned by all of humanity. Congratulations!
+                - link "https://lnkd.in/gF7MSDXK" [ref=f19e447] [cursor=pointer]:
+                  - /url: https://lnkd.in/gF7MSDXK?trk=keyword-landing-page-text
+              - button [aria-hidden] [ref=f19e448] [cursor=pointer]: …more
+            - generic [ref=f19e451]:
+              - link "3,525 Reactions" [ref=f19e452] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdrjimfan_if-an-ai-can-control-1000-robots-to-perform-activity-7275562526661062657-EavX&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e453]: 3,525
+              - link "· 121 Comments" [ref=f19e454] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdrjimfan_if-an-ai-can-control-1000-robots-to-perform-activity-7275562526661062657-EavX&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e455]:
+              - link "Like" [ref=f19e456] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdrjimfan_if-an-ai-can-control-1000-robots-to-perform-activity-7275562526661062657-EavX&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e459] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fdrjimfan_if-an-ai-can-control-1000-robots-to-perform-activity-7275562526661062657-EavX&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e463] [cursor=pointer]
+        - listitem [ref=f19e465]:
+          - article [ref=f19e466]:
+            - generic [ref=f19e467]:
+              - generic [ref=f19e469]:
+                - link [ref=f19e470] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/lennyrachitsky?trk=keyword-landing-page_feed-actor-image
+                  - img "View profile for Lenny Rachitsky" [ref=f19e471]
+                - generic [ref=f19e472]:
+                  - generic [ref=f19e473]:
+                    - link "View profile for Lenny Rachitsky" [ref=f19e474] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lennyrachitsky?trk=keyword-landing-page_feed-actor-name
+                      - text: Lenny Rachitsky
+                    - generic [ref=f19e475]: Lenny Rachitsky is an Influencer
+                  - paragraph [ref=f19e476]: Deeply researched product, growth, and career advice
+                  - generic [ref=f19e477]:
+                    - generic [ref=f19e478]: 412,039 followers
+                    - generic [ref=f19e479]:
+                      - text: ·
+                      - time [ref=f19e480]: 8mo
+              - button "Open menu" [ref=f19e483] [cursor=pointer]
+            - generic [ref=f19e484]:
+              - paragraph [ref=f19e485]:
+                - text: My biggest takeaways from
+                - link "Sherwin Wu" [ref=f19e486] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sherwinwu1?trk=keyword-landing-page-text
+                - text: ": 1. AI is writing virtually all code at OpenAI. 95% of the engineers use Codex, and engineers who embrace these tools open 70% more pull requests than their peers, and that gap is widening over time. 2. The role of a software engineer is shifting from writing code to managing fleets of AI agents. Many engineers now run 10 to 20 parallel Codex threads, steering and reviewing rather than writing code themselves. 3. The average PR code review time has dropped from 10-15 minutes per PR to 2-3 minutes. Every pull request at OpenAI is now reviewed by Codex before human eyes see it, and Codex surfaces suggestions and catches issues up front. This allows engineers to focus on more creative and strategic work while dramatically increasing productivity. 4. The models will eat your scaffolding for breakfast. When building AI products, don’t optimize for today’s model capabilities. The field is evolving so rapidly that the scaffolding (vector stores, agent frameworks, etc.) that seems essential today may be obsolete tomorrow as models improve. 5. Build for where the models are going, not where they are today. The most successful AI startups build products that work at 80% capability now, knowing the next model release will push them over the line. 6. Top performers become disproportionately more productive with AI tools. AI tools amplify the productivity of high-agency individuals, so the gap between top performers and everyone else is widening. The ROI on unblocking and empowering your best people compounds faster than ever in an AI-augmented environment. 7. Most enterprise AI deployments have negative ROI because they’re top-down mandates without bottom-up adoption. Success requires both executive buy-in and grassroots enthusiasm. Sherwin recommends creating a “tiger team” of technically-minded enthusiasts (often not engineers) who can explore capabilities, apply AI to specific workflows, and create excitement throughout the organization. 8. The one-person billion-dollar startup is coming, but with unexpected second-order effects. As AI makes individuals more productive, we’ll see not just billion-dollar solo founders but an explosion of small businesses: hundreds of $100M startups and tens of thousands of $10M startups. This will transform the startup ecosystem and venture capital landscape. 9. Business process automation is an underrated AI opportunity. While Silicon Valley focuses on knowledge work, most of the economy runs on repeatable business processes with standard operating procedures. There’s massive potential to apply AI to these workflows, which are often overlooked by the tech community. 10. The next two to three years will be the most exciting in tech history. After a relatively quiet period from 2015 to 2020, we’re now in an unprecedented era of innovation. Sherwin encourages everyone to engage with AI tools and not take this moment for granted, as the pace of change will eventually slow."
+              - button [aria-hidden] [ref=f19e487] [cursor=pointer]: …more
+            - generic [ref=f19e488]:
+              - link "1,968 Reactions" [ref=f19e489] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Flennyrachitsky_my-biggest-takeaways-from-sherwin-wu-1-activity-7427886886838263808-CDdd&trk=keyword-landing-page_social-actions-reactions
+                - generic [aria-hidden] [ref=f19e490]: 1,968
+              - link "· 148 Comments" [ref=f19e491] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Flennyrachitsky_my-biggest-takeaways-from-sherwin-wu-1-activity-7427886886838263808-CDdd&trk=keyword-landing-page_social-actions-comments
+            - generic [ref=f19e492]:
+              - link "Like" [ref=f19e493] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Flennyrachitsky_my-biggest-takeaways-from-sherwin-wu-1-activity-7427886886838263808-CDdd&trk=keyword-landing-page_like-cta
+              - link "Comment" [ref=f19e496] [cursor=pointer]:
+                - /url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Flennyrachitsky_my-biggest-takeaways-from-sherwin-wu-1-activity-7427886886838263808-CDdd&trk=keyword-landing-page_comment-cta
+              - button "Share" [ref=f19e500] [cursor=pointer]
+    - generic [ref=f19e502]:
+      - generic [ref=f19e503]:
+        - heading "More in AI Trends and Innovations" [level=2] [ref=f19e504]
+        - generic [ref=f19e506]:
+          - list [ref=f19e507]:
+            - listitem [ref=f19e508]:
+              - link "AI Summit Takeaways for Engineers" [ref=f19e509] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/ai-summit-takeaways-for-engineers/
+            - listitem [ref=f19e511]:
+              - link "Emerging AI Skills for Enterprises" [ref=f19e512] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/emerging-ai-skills-for-enterprises/
+            - listitem [ref=f19e514]:
+              - link "Future of AI engineering beyond loops" [ref=f19e515] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/future-of-ai-engineering-beyond-loops/
+            - listitem [ref=f19e517]:
+              - link "Key Trends Shaping AI Engineering" [ref=f19e518] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/key-trends-shaping-ai-engineering/
+            - listitem [ref=f19e520]:
+              - link "U.S.-China AI Technology Gap" [ref=f19e521] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/u-s-china-ai-technology-gap/
+            - listitem [ref=f19e523]:
+              - link "Evolution of AI from Q&A to End-to-End Tasks" [ref=f19e524] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/ai-trends-and-innovations/evolution-of-ai-from-q-a-to-end-to-end-tasks/
+          - button "Show more" [ref=f19e526] [cursor=pointer]
+      - generic [ref=f19e528]:
+        - heading "More Innovation topics" [level=2] [ref=f19e529]
+        - generic [ref=f19e531]:
+          - list [ref=f19e532]:
+            - listitem [ref=f19e533]:
+              - link "Process Improvement Methods" [ref=f19e534] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/process-improvement-methods/
+            - listitem [ref=f19e536]:
+              - link "Innovation in Urban Development" [ref=f19e537] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/innovation-in-urban-development/
+            - listitem [ref=f19e539]:
+              - link "Agricultural Innovation Trends" [ref=f19e540] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/agricultural-innovation-trends/
+            - listitem [ref=f19e542]:
+              - link "Advancements in Medical Research" [ref=f19e543] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/advancements-in-medical-research/
+            - listitem [ref=f19e545]:
+              - link "Water Management Innovations" [ref=f19e546] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/water-management-innovations/
+            - listitem [ref=f19e548]:
+              - link "Sustainable Material Innovations" [ref=f19e549] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/innovation/sustainable-material-innovations/
+          - button "Show more" [ref=f19e551] [cursor=pointer]
+      - generic [ref=f19e553]:
+        - heading "Explore categories" [level=2] [ref=f19e554]
+        - generic [ref=f19e556]:
+          - list [ref=f19e557]:
+            - listitem [ref=f19e558]:
+              - link "Hospitality & Tourism" [ref=f19e559] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/hospitality-tourism/
+            - listitem [ref=f19e560]:
+              - link "Productivity" [ref=f19e561] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/productivity/
+            - listitem [ref=f19e562]:
+              - link "Finance" [ref=f19e563] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/finance/
+            - listitem [ref=f19e564]:
+              - link "Soft Skills & Emotional Intelligence" [ref=f19e565] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/soft-skills-emotional-intelligence/
+            - listitem [ref=f19e566]:
+              - link "Project Management" [ref=f19e567] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/project-management/
+            - listitem [ref=f19e568]:
+              - link "Education" [ref=f19e569] [cursor=pointer]:
+                - /url: https://www.linkedin.com/top-content/education/
+          - button "Show more" [ref=f19e570] [cursor=pointer]
+  - contentinfo [ref=f19e572]:
+    - list [ref=f19e573]:
+      - generic [ref=f19e574]: LinkedIn
+      - generic [ref=f19e576]: © 2026
+      - listitem [ref=f19e577]:
+        - link "About" [ref=f19e578] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_klp_shoulder_topic_footer-about
+      - listitem [ref=f19e579]:
+        - link "Accessibility" [ref=f19e580] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_klp_shoulder_topic_footer-accessibility
+      - listitem [ref=f19e581]:
+        - link "User Agreement" [ref=f19e582] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_klp_shoulder_topic_footer-user-agreement
+      - listitem [ref=f19e583]:
+        - link "Privacy Policy" [ref=f19e584] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_klp_shoulder_topic_footer-privacy-policy
+      - listitem [ref=f19e585]:
+        - link "Cookie Policy" [ref=f19e586] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_klp_shoulder_topic_footer-cookie-policy
+      - listitem [ref=f19e587]:
+        - link "Copyright Policy" [ref=f19e588] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_klp_shoulder_topic_footer-copyright-policy
+      - listitem [ref=f19e589]:
+        - link "Brand Policy" [ref=f19e590] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_klp_shoulder_topic_footer-brand-policy
+      - listitem [ref=f19e591]:
+        - link "Guest Controls" [ref=f19e592] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_klp_shoulder_topic_footer-guest-controls
+      - listitem [ref=f19e593]:
+        - link "Community Guidelines" [ref=f19e594] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_klp_shoulder_topic_footer-community-guide
+      - listitem [ref=f19e595]:
+        - button "Language" [ref=f19e597]

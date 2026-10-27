@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=816, height=1056"><title>QA Page 3</title>
+<style>
+  :root{--ink:#0F172A;--paper:#FFFFFF;--ivory:#F8F5F0;--accent:#059669;--border:#E2E8F0;--muted:#64748B;--font-display:Georgia,'Times New Roman',serif;--font-body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;--font-mono:'SF Mono','Cascadia Code','Courier New',monospace;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:816px;margin:0;background:var(--paper);color:#263238;font-family:var(--font-body);font-size:9.8pt;}
+  .pad{padding:50.4px 50.4px 0 50.4px;}
+  .eyebrow{font-family:var(--font-mono);font-size:8pt;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:var(--accent);margin-bottom:5px;}
+  h1{font-family:var(--font-display);font-size:19pt;font-weight:700;letter-spacing:-0.01em;line-height:1.18;color:var(--ink);margin-bottom:6px;}
+  .rule{height:3px;background:var(--accent);border-radius:2px;width:44px;margin:7px 0 14px;}
+  p{margin-bottom:7px;font-size:9.4pt;line-height:1.5;}
+  h2{font-family:var(--font-display);font-size:11.5pt;font-weight:700;letter-spacing:-0.01em;color:var(--ink);margin:12px 0 5px;}
+  ul.causes{list-style:none;margin-bottom:8px;}
+  ul.causes li{margin-bottom:4px;padding-left:18px;position:relative;font-size:9.2pt;}
+  ul.causes li::before{content:'\25B8';position:absolute;left:0;top:1px;color:var(--accent);font-weight:800;font-size:8.5pt;}
+  .tag{font-family:var(--font-mono);font-size:7.6pt;color:var(--muted);}
+  .mono{font-family:var(--font-mono);font-size:8.2pt;}
+  table.meta{border-collapse:collapse;width:100%;margin-bottom:10px;font-size:8.2pt;}
+  table.meta td{border:1px solid var(--border);padding:5px 7px;vertical-align:top;}
+  table.meta td.k{width:34%;background:var(--ivory);font-family:var(--font-mono);font-weight:700;font-size:7.4pt;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;}
+  .honesty{background:var(--ivory);border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:14px;font-size:8.4pt;color:#334155;}
+  .honesty b{color:var(--ink);}
+  .foot{margin-top:22px;font-family:var(--font-mono);font-size:7.2pt;color:var(--muted);letter-spacing:0.12em;text-transform:uppercase;border-top:1px solid var(--border);padding-top:7px;}
+</style></head>
+<body><div class="pad">
+<div class="eyebrow">Case Study &middot; Page 3 of 3</div>
+<h1>Execution and Handover</h1>
+<div class="rule"></div>
+<h2>Outputs produced</h2>
+<ul class="causes">
+<li><span class="tag">Upload link</span> Tokenised, mobile-friendly client upload link per case &mdash; no app installation required.</li>
+<li><span class="tag">Tracker record</span> Chase record in Google Sheets: client, policy, missing fields, stage, last contact, consent.</li>
+<li><span class="tag">Party notification</span> Insurer and loss adjuster notified via webhook; shared milestone status per role.</li>
+<li><span class="tag">Exception queue</span> Cases &gt;7 days routed to senior review with 24-hour SLA and recommended action.</li>
+</ul>
+<h2>Testing approach</h2>
+<p>The workflow runs against bundled synthetic demo data (8 customer requests, 6 leads, 7 policies, 7 M-Pesa transactions, 5 insurer statements, including deliberate edge cases such as an unmatched payment and an expired policy). No real client data is used, no live webhook is executed during the demo, and no credentials are hard-coded &mdash; secrets go through n8n&rsquo;s credential system.</p>
+<h2>Error handling</h2>
+<ul class="causes">
+<li><span class="tag">Gmail sends</span> Use <span class="mono">continueErrorOutput</span> &mdash; a failed send is logged to the tracker rather than halting the chase.</li>
+<li><span class="tag">Dashboard fallback</span> The broker dashboard falls back to localStorage-only mode when the n8n webhook is unavailable &mdash; the UI keeps working offline.</li>
+<li><span class="tag">Send errors</span> Logged to the tracker sheet with the failed client and channel for manual follow-up.</li>
+</ul>
+<h2>Deliverables included</h2>
+<ul class="causes">
+<li><span class="tag">Workflow</span> WB-08 Document Chasing Escalation (n8n workflow definition, importable).</li>
+<li><span class="tag">Dashboard</span> BrokerFlow document-chase dashboard (case create, case list, multi-party milestone tracker, communication history).</li>
+<li><span class="tag">Client upload</span> Tokenised, mobile-friendly upload page.</li>
+</ul>
+<table class="meta">
+<tr><td class="k">Verified functionality</td><td>Workflow node configuration and connections; Day 0 / +2 / +4 / +7 cadence; conditional escalation routing; tracker read/write; ODPC consent logging; dashboard UI with stats, case table and milestone tracker.</td></tr>
+<tr><td class="k">Planned improvements</td><td>Live n8n deployment wired to the buyer&rsquo;s own Gmail and Google Sheets credentials; AI document verification of uploads; production exception-queue review UI; SLA reporting.</td></tr>
+</table>
+<div class="honesty"><b>Honesty statement.</b> This case study demonstrates a workflow built and specified in the project. It has not been delivered to a paying client, no client results or metrics are claimed, and no revenue outcome is implied. Buyers should treat this as a capability reference, not a guarantee.</div>
+<div class="foot">Automation case study &middot; Document Chasing Escalation &middot; synthetic demo data &middot; no live credentials &middot; not a paid-client deployment</div>
+</div></body></html>

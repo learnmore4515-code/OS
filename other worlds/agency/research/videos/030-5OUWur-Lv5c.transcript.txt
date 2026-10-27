@@ -1,0 +1,741 @@
+# Transcript: 5OUWur-Lv5c
+Language: en
+
+[0.0s - 1.4s] All right, so if you just closed your
+[1.4s - 1.4s] All right, so if you just closed your
+[1.4s - 3.1s] All right, so if you just closed your first AI consulting client,
+[3.1s - 3.1s] first AI consulting client,
+[3.1s - 5.3s] first AI consulting client, congratulations. Seriously, that's the
+[5.3s - 5.4s] congratulations. Seriously, that's the
+[5.4s - 7.8s] congratulations. Seriously, that's the hardest part. But please do me a favor.
+[7.8s - 7.8s] hardest part. But please do me a favor.
+[7.8s - 9.8s] hardest part. But please do me a favor. Don't open anything yet. Don't open
+[9.8s - 9.8s] Don't open anything yet. Don't open
+[9.8s - 11.6s] Don't open anything yet. Don't open Claude code. Don't start building
+[11.6s - 11.6s] Claude code. Don't start building
+[11.6s - 13.2s] Claude code. Don't start building anything. Because here's the thing that
+[13.2s - 13.2s] anything. Because here's the thing that
+[13.2s - 15.2s] anything. Because here's the thing that nobody tells you. Most first projects
+[15.2s - 15.2s] nobody tells you. Most first projects
+[15.2s - 16.9s] nobody tells you. Most first projects don't fall apart because of bad
+[16.9s - 16.9s] don't fall apart because of bad
+[16.9s - 18.8s] don't fall apart because of bad automation. They fall apart before you
+[18.8s - 18.8s] automation. They fall apart before you
+[18.8s - 21.1s] automation. They fall apart before you even write a single line in Claude code.
+[21.1s - 21.1s] even write a single line in Claude code.
+[21.1s - 22.8s] even write a single line in Claude code. And there's one specific moment in every
+[22.8s - 22.8s] And there's one specific moment in every
+[22.8s - 24.8s] And there's one specific moment in every project where either goes smooth or
+[24.8s - 24.8s] project where either goes smooth or
+[24.8s - 26.5s] project where either goes smooth or turns into a nightmare. And I'll tell
+[26.5s - 26.5s] turns into a nightmare. And I'll tell
+[26.5s - 28.3s] turns into a nightmare. And I'll tell you exactly where this moment is later
+[28.3s - 28.3s] you exactly where this moment is later
+[28.3s - 30.2s] you exactly where this moment is later in the video and how to handle it when
+[30.2s - 30.2s] in the video and how to handle it when
+[30.2s - 32.4s] in the video and how to handle it when you get there. Now, I am not trying to
+[32.4s - 32.4s] you get there. Now, I am not trying to
+[32.4s - 34.3s] you get there. Now, I am not trying to scare you, but I've watched a lot of new
+[34.3s - 34.3s] scare you, but I've watched a lot of new
+[34.3s - 36.4s] scare you, but I've watched a lot of new consultants close their first deal, get
+[36.4s - 36.4s] consultants close their first deal, get
+[36.4s - 38.4s] consultants close their first deal, get all excited, dive straight into
+[38.4s - 38.4s] all excited, dive straight into
+[38.4s - 40.0s] all excited, dive straight into building, and then 3 weeks later [music]
+[40.0s - 40.0s] building, and then 3 weeks later [music]
+[40.0s - 41.5s] building, and then 3 weeks later [music] they're stressed out, the client's
+[41.5s - 41.5s] they're stressed out, the client's
+[41.5s - 43.0s] they're stressed out, the client's frustrated, and they're working at
+[43.0s - 43.0s] frustrated, and they're working at
+[43.0s - 44.7s] frustrated, and they're working at midnight trying to figure out why things
+[44.7s - 44.7s] midnight trying to figure out why things
+[44.7s - 46.4s] midnight trying to figure out why things don't connect the way that they should.
+[46.4s - 46.4s] don't connect the way that they should.
+[46.4s - 48.1s] don't connect the way that they should. I help builders and freelancers turn
+[48.1s - 48.2s] I help builders and freelancers turn
+[48.2s - 50.1s] I help builders and freelancers turn what they already know into an AI
+[50.1s - 50.1s] what they already know into an AI
+[50.1s - 52.5s] what they already know into an AI consulting business. And in this video,
+[52.5s - 52.5s] consulting business. And in this video,
+[52.5s - 53.7s] consulting business. And in this video, I'm going to walk you through the five
+[53.7s - 53.7s] I'm going to walk you through the five
+[53.7s - 55.4s] I'm going to walk you through the five things that you need to lock in before
+[55.4s - 55.4s] things that you need to lock in before
+[55.4s - 57.3s] things that you need to lock in before you start building anything so that your
+[57.3s - 57.3s] you start building anything so that your
+[57.3s - 59.2s] you start building anything so that your project actually runs the way that it's
+[59.2s - 59.2s] project actually runs the way that it's
+[59.2s - 60.7s] project actually runs the way that it's supposed to. And if you want to land
+[60.7s - 60.7s] supposed to. And if you want to land
+[60.7s - 62.6s] supposed to. And if you want to land your first or next [music] AI client,
+[62.6s - 62.6s] your first or next [music] AI client,
+[62.6s - 63.8s] your first or next [music] AI client, you can take part in the 4-week
+[63.8s - 63.8s] you can take part in the 4-week
+[63.8s - 65.2s] you can take part in the 4-week challenge inside my free school
+[65.2s - 65.2s] challenge inside my free school
+[65.2s - 67.3s] challenge inside my free school community of like-minded people, where
+[67.3s - 67.3s] community of like-minded people, where
+[67.3s - 68.5s] community of like-minded people, where you'll find a free course that's
+[68.5s - 68.5s] you'll find a free course that's
+[68.5s - 70.2s] you'll find a free course that's honestly better than most paid courses
+[70.2s - 70.2s] honestly better than most paid courses
+[70.2s - 71.8s] honestly better than most paid courses out there, and you'll get direct
+[71.8s - 71.8s] out there, and you'll get direct
+[71.8s - 73.1s] out there, and you'll get direct one-on-one access [music] to me for
+[73.1s - 73.1s] one-on-one access [music] to me for
+[73.1s - 74.7s] one-on-one access [music] to me for whatever questions you might have. The
+[74.7s - 74.7s] whatever questions you might have. The
+[74.7s - 76.6s] whatever questions you might have. The link is down below. All right, now let's
+[76.6s - 76.6s] link is down below. All right, now let's
+[76.6s - 78.3s] link is down below. All right, now let's dive in. So here's what I see happen
+[78.3s - 78.4s] dive in. So here's what I see happen
+[78.4s - 80.4s] dive in. So here's what I see happen over and over again. A new consultant
+[80.4s - 80.4s] over and over again. A new consultant
+[80.4s - 82.4s] over and over again. A new consultant closes the deal. They're pumped. They
+[82.4s - 82.4s] closes the deal. They're pumped. They
+[82.4s - 84.2s] closes the deal. They're pumped. They send the invoice, the money hits their
+[84.2s - 84.2s] send the invoice, the money hits their
+[84.2s - 85.8s] send the invoice, the money hits their account, and the very next thing that
+[85.8s - 85.8s] account, and the very next thing that
+[85.8s - 87.5s] account, and the very next thing that they do is open their automation tool
+[87.5s - 87.5s] they do is open their automation tool
+[87.5s - 89.8s] they do is open their automation tool and start building. And they build based
+[89.8s - 89.8s] and start building. And they build based
+[89.8s - 91.7s] and start building. And they build based on how the client explained the process
+[91.7s - 91.7s] on how the client explained the process
+[91.7s - 93.8s] on how the client explained the process on the sales call, which sounds totally
+[93.8s - 93.8s] on the sales call, which sounds totally
+[93.8s - 95.7s] on the sales call, which sounds totally reasonable, right? The client just spent
+[95.7s - 95.7s] reasonable, right? The client just spent
+[95.7s - 97.8s] reasonable, right? The client just spent 45 minutes telling you exactly how their
+[97.8s - 97.8s] 45 minutes telling you exactly how their
+[97.8s - 99.7s] 45 minutes telling you exactly how their business works. Why wouldn't you just go
+[99.7s - 99.7s] business works. Why wouldn't you just go
+[99.7s - 101.5s] business works. Why wouldn't you just go build it? Here's why. What the client
+[101.5s - 101.6s] build it? Here's why. What the client
+[101.6s - 103.2s] build it? Here's why. What the client thinks happens in their business and
+[103.2s - 103.2s] thinks happens in their business and
+[103.2s - 105.3s] thinks happens in their business and what actually happens in their business
+[105.3s - 105.3s] what actually happens in their business
+[105.3s - 107.4s] what actually happens in their business are almost never the same thing. And you
+[107.4s - 107.4s] are almost never the same thing. And you
+[107.4s - 108.5s] are almost never the same thing. And you don't [music] find that out until
+[108.5s - 108.6s] don't [music] find that out until
+[108.6s - 110.4s] don't [music] find that out until halfway through the build, and suddenly
+[110.4s - 110.4s] halfway through the build, and suddenly
+[110.4s - 112.0s] halfway through the build, and suddenly nothing connects, and you're sitting
+[112.0s - 112.0s] nothing connects, and you're sitting
+[112.0s - 113.8s] nothing connects, and you're sitting there at 11:00 p.m. trying to figure out
+[113.8s - 113.8s] there at 11:00 p.m. trying to figure out
+[113.8s - 115.9s] there at 11:00 p.m. trying to figure out why the lead from their CRM isn't
+[115.9s - 115.9s] why the lead from their CRM isn't
+[115.9s - 117.8s] why the lead from their CRM isn't matching up to the calendar booking
+[117.8s - 117.8s] matching up to the calendar booking
+[117.8s - 119.8s] matching up to the calendar booking because surprise, there's a step that
+[119.8s - 119.8s] because surprise, there's a step that
+[119.8s - 121.5s] because surprise, there's a step that nobody mentioned where somebody manually
+[121.5s - 121.6s] nobody mentioned where somebody manually
+[121.6s - 123.7s] nobody mentioned where somebody manually copies the address into the spreadsheet.
+[123.7s - 123.7s] copies the address into the spreadsheet.
+[123.7s - 125.7s] copies the address into the spreadsheet. So, you build it once and then you build
+[125.7s - 125.7s] So, you build it once and then you build
+[125.7s - 127.7s] So, you build it once and then you build it again and maybe again after that.
+[127.7s - 127.7s] it again and maybe again after that.
+[127.7s - 129.4s] it again and maybe again after that. [music] And honestly, if you think you
+[129.4s - 129.4s] [music] And honestly, if you think you
+[129.4s - 131.2s] [music] And honestly, if you think you already understand their process from
+[131.2s - 131.2s] already understand their process from
+[131.2s - 133.5s] already understand their process from one sales call, that's usually exactly
+[133.5s - 133.5s] one sales call, that's usually exactly
+[133.5s - 135.0s] one sales call, that's usually exactly where things start going wrong. So,
+[135.0s - 135.0s] where things start going wrong. So,
+[135.0s - 136.9s] where things start going wrong. So, before you touch anything, you need
+[136.9s - 136.9s] before you touch anything, you need
+[136.9s - 139.0s] before you touch anything, you need these five things locked in. Let me walk
+[139.0s - 139.0s] these five things locked in. Let me walk
+[139.0s - 140.9s] these five things locked in. Let me walk you through them. Number one, before you
+[140.9s - 141.0s] you through them. Number one, before you
+[141.0s - 142.9s] you through them. Number one, before you build anything, get the client to walk
+[142.9s - 143.0s] build anything, get the client to walk
+[143.0s - 145.5s] build anything, get the client to walk through the process with you live. Step
+[145.5s - 145.5s] through the process with you live. Step
+[145.5s - 148.1s] through the process with you live. Step by step, screen share, the whole thing.
+[148.1s - 148.1s] by step, screen share, the whole thing.
+[148.1s - 150.3s] by step, screen share, the whole thing. Not a summary, not a loom they recorded
+[150.3s - 150.4s] Not a summary, not a loom they recorded
+[150.4s - 153.0s] Not a summary, not a loom they recorded last month, the actual real flow. You
+[153.0s - 153.0s] last month, the actual real flow. You
+[153.0s - 154.7s] last month, the actual real flow. You want to sit there and say, "Okay, a lead
+[154.7s - 154.7s] want to sit there and say, "Okay, a lead
+[154.7s - 157.2s] want to sit there and say, "Okay, a lead comes in. Show me. Where does it land?
+[157.2s - 157.2s] comes in. Show me. Where does it land?
+[157.2s - 159.3s] comes in. Show me. Where does it land? Who sees it first? What do they do with
+[159.3s - 159.3s] Who sees it first? What do they do with
+[159.3s - 161.5s] Who sees it first? What do they do with it? And then what? And then what?" And
+[161.5s - 161.5s] it? And then what? And then what?" And
+[161.5s - 162.7s] it? And then what? And then what?" And what you're going to find when you do
+[162.7s - 162.7s] what you're going to find when you do
+[162.7s - 164.8s] what you're going to find when you do this is wild. You're going to see steps
+[164.8s - 164.8s] this is wild. You're going to see steps
+[164.8s - 167.0s] this is wild. You're going to see steps that never came up on the sales call,
+[167.0s - 167.0s] that never came up on the sales call,
+[167.0s - 168.8s] that never came up on the sales call, choices that depend on whether a lead
+[168.8s - 168.8s] choices that depend on whether a lead
+[168.8s - 171.3s] choices that depend on whether a lead came in on a Tuesday versus a Saturday,
+[171.3s - 171.3s] came in on a Tuesday versus a Saturday,
+[171.3s - 172.9s] came in on a Tuesday versus a Saturday, tools that they completely forgot that
+[172.9s - 172.9s] tools that they completely forgot that
+[172.9s - 174.6s] tools that they completely forgot that they were even using. There's almost
+[174.6s - 174.6s] they were even using. There's almost
+[174.6s - 176.6s] they were even using. There's almost always some little spreadsheet or some
+[176.6s - 176.6s] always some little spreadsheet or some
+[176.6s - 178.4s] always some little spreadsheet or some random Slack channel that's somehow
+[178.4s - 178.4s] random Slack channel that's somehow
+[178.4s - 180.6s] random Slack channel that's somehow load-bearing for the entire operation.
+[180.6s - 180.6s] load-bearing for the entire operation.
+[180.6s - 182.5s] load-bearing for the entire operation. And that's where builds break, not in
+[182.5s - 182.5s] And that's where builds break, not in
+[182.5s - 184.6s] And that's where builds break, not in the automation logic, in the assumptions
+[184.6s - 184.6s] the automation logic, in the assumptions
+[184.6s - 186.0s] the automation logic, in the assumptions that you made because nobody told you
+[186.0s - 186.0s] that you made because nobody told you
+[186.0s - 187.8s] that you made because nobody told you the full story. And listen, I learned
+[187.8s - 187.8s] the full story. And listen, I learned
+[187.8s - 189.5s] the full story. And listen, I learned this one the hard way. Back when I was
+[189.5s - 189.5s] this one the hard way. Back when I was
+[189.5s - 191.2s] this one the hard way. Back when I was working in marketing for an insulation
+[191.2s - 191.2s] working in marketing for an insulation
+[191.2s - 193.3s] working in marketing for an insulation company, I built an email automation. I
+[193.3s - 193.3s] company, I built an email automation. I
+[193.3s - 195.1s] company, I built an email automation. I thought I understood the workflow. I'd
+[195.1s - 195.1s] thought I understood the workflow. I'd
+[195.1s - 196.7s] thought I understood the workflow. I'd been at the company for a while. I'd
+[196.7s - 196.7s] been at the company for a while. I'd
+[196.7s - 198.7s] been at the company for a while. I'd seen how the leads came in, how they got
+[198.7s - 198.7s] seen how the leads came in, how they got
+[198.7s - 200.8s] seen how the leads came in, how they got followed up with. I knew the process.
+[200.8s - 200.8s] followed up with. I knew the process.
+[200.8s - 203.2s] followed up with. I knew the process. So, I sent a campaign to 200 insulation
+[203.2s - 203.2s] So, I sent a campaign to 200 insulation
+[203.2s - 205.3s] So, I sent a campaign to 200 insulation companies using the system that I built
+[205.3s - 205.4s] companies using the system that I built
+[205.4s - 207.9s] companies using the system that I built and it just failed across the board
+[207.9s - 207.9s] and it just failed across the board
+[207.9s - 209.0s] and it just failed across the board because there were pieces of the
+[209.0s - 209.0s] because there were pieces of the
+[209.0s - 210.5s] because there were pieces of the workflow happening in the background
+[210.5s - 210.5s] workflow happening in the background
+[210.5s - 212.5s] workflow happening in the background that I had no visibility into, stuff
+[212.5s - 212.5s] that I had no visibility into, stuff
+[212.5s - 213.9s] that I had no visibility into, stuff that people were doing manually that I
+[213.9s - 213.9s] that people were doing manually that I
+[213.9s - 215.6s] that people were doing manually that I didn't even know existed. And when my
+[215.6s - 215.6s] didn't even know existed. And when my
+[215.6s - 217.6s] didn't even know existed. And when my automation hit, it didn't fit into the
+[217.6s - 217.6s] automation hit, it didn't fit into the
+[217.6s - 219.8s] automation hit, it didn't fit into the actual process. It fit into the version
+[219.8s - 219.8s] actual process. It fit into the version
+[219.8s - 221.8s] actual process. It fit into the version of the process that I had in my head and
+[221.8s - 221.8s] of the process that I had in my head and
+[221.8s - 224.8s] of the process that I had in my head and that caused me 200 prospects. So, please
+[224.8s - 224.8s] that caused me 200 prospects. So, please
+[224.8s - 227.0s] that caused me 200 prospects. So, please learn from my expensive mistake. Live
+[227.0s - 227.0s] learn from my expensive mistake. Live
+[227.0s - 229.3s] learn from my expensive mistake. Live walk-through before anything else. Okay,
+[229.3s - 229.4s] walk-through before anything else. Okay,
+[229.4s - 231.6s] walk-through before anything else. Okay, number two, and this one's huge. Before
+[231.6s - 231.6s] number two, and this one's huge. Before
+[231.6s - 233.1s] number two, and this one's huge. Before you start, you ask the client one
+[233.1s - 233.1s] you start, you ask the client one
+[233.1s - 235.5s] you start, you ask the client one question and then you stop talking. And
+[235.5s - 235.5s] question and then you stop talking. And
+[235.5s - 237.2s] question and then you stop talking. And that question [music] is, finish this
+[237.2s - 237.2s] that question [music] is, finish this
+[237.2s - 239.6s] that question [music] is, finish this sentence for me. The project is complete
+[239.6s - 239.6s] sentence for me. The project is complete
+[239.6s - 241.9s] sentence for me. The project is complete when blank. Then you shut up. You let
+[241.9s - 241.9s] when blank. Then you shut up. You let
+[241.9s - 243.3s] when blank. Then you shut up. You let them answer. You don't fill in the
+[243.3s - 243.3s] them answer. You don't fill in the
+[243.3s - 245.7s] them answer. You don't fill in the silence. You don't help them along. You
+[245.7s - 245.7s] silence. You don't help them along. You
+[245.7s - 247.4s] silence. You don't help them along. You wait. Whatever they say is what they're
+[247.4s - 247.4s] wait. Whatever they say is what they're
+[247.4s - 248.8s] wait. Whatever they say is what they're going to expect at the end of the
+[248.8s - 248.8s] going to expect at the end of the
+[248.8s - 249.5s] going to expect at the end of the project.
+[249.5s - 249.6s] project.
+[249.6s - 249.6s] >> [music]
+[249.6s - 250.7s] >> [music] >> So you want it coming out of their
+[250.7s - 250.7s] >> So you want it coming out of their
+[250.7s - 252.8s] >> So you want it coming out of their mouth, not yours. Because here's what
+[252.8s - 252.8s] mouth, not yours. Because here's what
+[252.8s - 255.6s] mouth, not yours. Because here's what happens if you define done yourself. The
+[255.6s - 255.6s] happens if you define done yourself. The
+[255.6s - 257.9s] happens if you define done yourself. The client smiles and nods and agrees with
+[257.9s - 257.9s] client smiles and nods and agrees with
+[257.9s - 260.0s] client smiles and nods and agrees with you on the call and then 3 weeks later
+[260.0s - 260.0s] you on the call and then 3 weeks later
+[260.0s - 261.8s] you on the call and then 3 weeks later when you deliver, suddenly there are all
+[261.8s - 261.8s] when you deliver, suddenly there are all
+[261.8s - 263.1s] when you deliver, suddenly there are all these other things that they thought
+[263.1s - 263.1s] these other things that they thought
+[263.1s - 265.3s] these other things that they thought were included and now you're stuck. You
+[265.3s - 265.3s] were included and now you're stuck. You
+[265.3s - 267.1s] were included and now you're stuck. You either do the extra work for free and
+[267.1s - 267.1s] either do the extra work for free and
+[267.1s - 269.4s] either do the extra work for free and feel resentful about it or you push back
+[269.4s - 269.4s] feel resentful about it or you push back
+[269.4s - 271.2s] feel resentful about it or you push back and risk your first testimonial. [music]
+[271.2s - 271.2s] and risk your first testimonial. [music]
+[271.2s - 273.1s] and risk your first testimonial. [music] Neither one feels good. Here's what you
+[273.1s - 273.1s] Neither one feels good. Here's what you
+[273.1s - 275.7s] Neither one feels good. Here's what you do instead. You ask them to define done.
+[275.7s - 275.8s] do instead. You ask them to define done.
+[275.8s - 277.6s] do instead. You ask them to define done. [music] They give you the answer. You
+[277.6s - 277.6s] [music] They give you the answer. You
+[277.6s - 279.4s] [music] They give you the answer. You write it down word for word and then you
+[279.4s - 279.4s] write it down word for word and then you
+[279.4s - 281.5s] write it down word for word and then you send it back to them in writing in an
+[281.5s - 281.5s] send it back to them in writing in an
+[281.5s - 283.6s] send it back to them in writing in an email and you say something like, hey
+[283.6s - 283.6s] email and you say something like, hey
+[283.6s - 285.5s] email and you say something like, hey just confirming what we discussed. The
+[285.5s - 285.5s] just confirming what we discussed. The
+[285.5s - 288.3s] just confirming what we discussed. The project is complete when X, Y, and Z.
+[288.3s - 288.3s] project is complete when X, Y, and Z.
+[288.3s - 290.4s] project is complete when X, Y, and Z. Sound right? Now you have it on paper.
+[290.4s - 290.4s] Sound right? Now you have it on paper.
+[290.4s - 291.7s] Sound right? Now you have it on paper. Now you both know what you're building
+[291.7s - 291.7s] Now you both know what you're building
+[291.7s - 293.6s] Now you both know what you're building toward and anything outside of that is a
+[293.6s - 293.6s] toward and anything outside of that is a
+[293.6s - 295.8s] toward and anything outside of that is a separate project with a separate scope
+[295.8s - 295.8s] separate project with a separate scope
+[295.8s - 297.7s] separate project with a separate scope and probably a separate invoice. That
+[297.7s - 297.7s] and probably a separate invoice. That
+[297.7s - 299.7s] and probably a separate invoice. That alone will save you so many headaches.
+[299.7s - 299.7s] alone will save you so many headaches.
+[299.7s - 301.1s] alone will save you so many headaches. But there's something else that catches
+[301.1s - 301.2s] But there's something else that catches
+[301.2s - 303.3s] But there's something else that catches new consultants completely off guard and
+[303.3s - 303.3s] new consultants completely off guard and
+[303.3s - 305.5s] new consultants completely off guard and I see it derail projects all the time.
+[305.5s - 305.5s] I see it derail projects all the time.
+[305.5s - 307.1s] I see it derail projects all the time. So number three, before you write a
+[307.1s - 307.1s] So number three, before you write a
+[307.1s - 309.0s] So number three, before you write a single line of automation, you need to
+[309.0s - 309.0s] single line of automation, you need to
+[309.0s - 310.4s] single line of automation, you need to make a list of every tool that's
+[310.4s - 310.4s] make a list of every tool that's
+[310.4s - 313.0s] make a list of every tool that's involved in the workflow. CRM, email
+[313.0s - 313.0s] involved in the workflow. CRM, email
+[313.0s - 315.8s] involved in the workflow. CRM, email platform, calendar, website, payment
+[315.8s - 315.8s] platform, calendar, website, payment
+[315.8s - 318.4s] platform, calendar, website, payment processor, phone system, every single
+[318.4s - 318.4s] processor, phone system, every single
+[318.4s - 320.0s] processor, phone system, every single thing connected to what you're building.
+[320.0s - 320.0s] thing connected to what you're building.
+[320.0s - 321.8s] thing connected to what you're building. And then for each one you ask, do you
+[321.8s - 321.8s] And then for each one you ask, do you
+[321.8s - 324.1s] And then for each one you ask, do you have full admin access for this? Not
+[324.1s - 324.2s] have full admin access for this? Not
+[324.2s - 327.1s] have full admin access for this? Not partial access, not kind of access, full
+[327.1s - 327.2s] partial access, not kind of access, full
+[327.2s - 329.6s] partial access, not kind of access, full admin access. Because I'm telling you, a
+[329.6s - 329.6s] admin access. Because I'm telling you, a
+[329.6s - 331.4s] admin access. Because I'm telling you, a lot of the time they don't and they
+[331.4s - 331.4s] lot of the time they don't and they
+[331.4s - 332.8s] lot of the time they don't and they don't even know that they don't. The
+[332.8s - 332.8s] don't even know that they don't. The
+[332.8s - 334.7s] don't even know that they don't. The login's missing. The account was set up
+[334.7s - 334.7s] login's missing. The account was set up
+[334.7s - 336.8s] login's missing. The account was set up 5 years ago by an old employee who's no
+[336.8s - 336.8s] 5 years ago by an old employee who's no
+[336.8s - 339.2s] 5 years ago by an old employee who's no longer there. The previous agency owns
+[339.2s - 339.2s] longer there. The previous agency owns
+[339.2s - 341.7s] longer there. The previous agency owns the domain. Someone's husband's cousin
+[341.7s - 341.7s] the domain. Someone's husband's cousin
+[341.7s - 344.4s] the domain. Someone's husband's cousin set up the CRM and only he has the API
+[344.4s - 344.4s] set up the CRM and only he has the API
+[344.4s - 346.7s] set up the CRM and only he has the API keys. I have seen all of this and the
+[346.7s - 346.7s] keys. I have seen all of this and the
+[346.7s - 348.5s] keys. I have seen all of this and the absolute worst time to find out about
+[348.5s - 348.5s] absolute worst time to find out about
+[348.5s - 350.2s] absolute worst time to find out about this is when you're halfway through the
+[350.2s - 350.2s] this is when you're halfway through the
+[350.2s - 352.3s] this is when you're halfway through the build and suddenly you need access.
+[352.3s - 352.3s] build and suddenly you need access.
+[352.3s - 353.8s] build and suddenly you need access. Because once you hit that wall,
+[353.8s - 353.8s] Because once you hit that wall,
+[353.8s - 356.3s] Because once you hit that wall, everything stops. Your build pauses. The
+[356.3s - 356.3s] everything stops. Your build pauses. The
+[356.3s - 358.1s] everything stops. Your build pauses. The client has to go figure out who has the
+[358.1s - 358.2s] client has to go figure out who has the
+[358.2s - 360.3s] client has to go figure out who has the password, send emails, and wait for
+[360.3s - 360.3s] password, send emails, and wait for
+[360.3s - 362.6s] password, send emails, and wait for responses. And meanwhile, you're just
+[362.6s - 362.6s] responses. And meanwhile, you're just
+[362.6s - 364.8s] responses. And meanwhile, you're just sitting there, not making progress, and
+[364.8s - 364.8s] sitting there, not making progress, and
+[364.8s - 366.2s] sitting there, not making progress, and the timeline that you promised is
+[366.2s - 366.2s] the timeline that you promised is
+[366.2s - 367.9s] the timeline that you promised is slipping. So, you handle this on day
+[367.9s - 367.9s] slipping. So, you handle this on day
+[367.9s - 369.3s] slipping. So, you handle this on day one. Right after they sign the
+[369.3s - 369.3s] one. Right after they sign the
+[369.3s - 371.0s] one. Right after they sign the agreement, before you even kick off the
+[371.0s - 371.0s] agreement, before you even kick off the
+[371.0s - 373.3s] agreement, before you even kick off the project, you send a checklist. Here's
+[373.3s - 373.3s] project, you send a checklist. Here's
+[373.3s - 375.4s] project, you send a checklist. Here's every tool. Here's what kind of access I
+[375.4s - 375.4s] every tool. Here's what kind of access I
+[375.4s - 377.3s] every tool. Here's what kind of access I need. Here's what I need you to verify
+[377.3s - 377.3s] need. Here's what I need you to verify
+[377.3s - 379.2s] need. Here's what I need you to verify before our first build session. I'll
+[379.2s - 379.2s] before our first build session. I'll
+[379.2s - 380.8s] before our first build session. I'll even tell you what I do. I have a Google
+[380.8s - 380.8s] even tell you what I do. I have a Google
+[380.8s - 382.4s] even tell you what I do. I have a Google Doc that lists every [music] common
+[382.4s - 382.4s] Doc that lists every [music] common
+[382.4s - 384.6s] Doc that lists every [music] common tool, what level of access I need, and a
+[384.6s - 384.6s] tool, what level of access I need, and a
+[384.6s - 386.7s] tool, what level of access I need, and a checkbox next to each one. The client
+[386.7s - 386.7s] checkbox next to each one. The client
+[386.7s - 388.6s] checkbox next to each one. The client fills it out. If something's missing, we
+[388.6s - 388.6s] fills it out. If something's missing, we
+[388.6s - 390.6s] fills it out. If something's missing, we find out now, while the project hasn't
+[390.6s - 390.6s] find out now, while the project hasn't
+[390.6s - 393.1s] find out now, while the project hasn't even started yet, instead of 3 weeks in.
+[393.1s - 393.1s] even started yet, instead of 3 weeks in.
+[393.1s - 395.0s] even started yet, instead of 3 weeks in. Once that's done, it really does feel
+[395.0s - 395.0s] Once that's done, it really does feel
+[395.0s - 396.1s] Once that's done, it really does feel like everything should be running
+[396.1s - 396.2s] like everything should be running
+[396.2s - 397.9s] like everything should be running smoothly from there. But, this is
+[397.9s - 397.9s] smoothly from there. But, this is
+[397.9s - 399.7s] smoothly from there. But, this is exactly where most people get caught off
+[399.7s - 399.7s] exactly where most people get caught off
+[399.7s - 401.1s] exactly where most people get caught off guard. And this is the moment that I
+[401.1s - 401.2s] guard. And this is the moment that I
+[401.2s - 403.2s] guard. And this is the moment that I mentioned at the start of the video.
+[403.2s - 403.2s] mentioned at the start of the video.
+[403.2s - 405.4s] mentioned at the start of the video. Projects either go smooth or turn into a
+[405.4s - 405.4s] Projects either go smooth or turn into a
+[405.4s - 407.4s] Projects either go smooth or turn into a nightmare. Number four, and this is the
+[407.4s - 407.4s] nightmare. Number four, and this is the
+[407.4s - 409.1s] nightmare. Number four, and this is the one. This is the moment I was talking
+[409.1s - 409.1s] one. This is the moment I was talking
+[409.1s - 410.7s] one. This is the moment I was talking about at the beginning. Before you plan
+[410.7s - 410.7s] about at the beginning. Before you plan
+[410.7s - 412.9s] about at the beginning. Before you plan anything, you have to ask, "What happens
+[412.9s - 412.9s] anything, you have to ask, "What happens
+[412.9s - 414.6s] anything, you have to ask, "What happens after my automation [music] runs?"
+[414.6s - 414.6s] after my automation [music] runs?"
+[414.6s - 416.6s] after my automation [music] runs?" Because here's the thing, your system
+[416.6s - 416.6s] Because here's the thing, your system
+[416.6s - 418.7s] Because here's the thing, your system doesn't end the process. It passes
+[418.7s - 418.7s] doesn't end the process. It passes
+[418.7s - 420.8s] doesn't end the process. It passes something forward, something to a human,
+[420.8s - 420.8s] something forward, something to a human,
+[420.8s - 423.3s] something forward, something to a human, or another tool, or another team. After
+[423.3s - 423.3s] or another tool, or another team. After
+[423.3s - 425.4s] or another tool, or another team. After the lead comes in, what happens? [music]
+[425.4s - 425.4s] the lead comes in, what happens? [music]
+[425.4s - 426.9s] the lead comes in, what happens? [music] After the appointment gets booked, who
+[426.9s - 426.9s] After the appointment gets booked, who
+[426.9s - 429.0s] After the appointment gets booked, who confirms it? After the message goes out,
+[429.0s - 429.0s] confirms it? After the message goes out,
+[429.0s - 430.9s] confirms it? After the message goes out, who's checking the replies? Let me give
+[430.9s - 430.9s] who's checking the replies? Let me give
+[430.9s - 432.8s] who's checking the replies? Let me give you a real example. Let's say you build
+[432.8s - 432.8s] you a real example. Let's say you build
+[432.8s - 434.6s] you a real example. Let's say you build a beautiful AI voice agent that
+[434.6s - 434.6s] a beautiful AI voice agent that
+[434.6s - 436.2s] a beautiful AI voice agent that qualifies leads and books appointments
+[436.2s - 436.2s] qualifies leads and books appointments
+[436.2s - 437.6s] qualifies leads and books appointments directly on the business owner's
+[437.6s - 437.6s] directly on the business owner's
+[437.6s - 439.9s] directly on the business owner's calendar. Perfect, works flawlessly.
+[439.9s - 439.9s] calendar. Perfect, works flawlessly.
+[439.9s - 441.8s] calendar. Perfect, works flawlessly. But, nobody actually told the owner that
+[441.8s - 441.8s] But, nobody actually told the owner that
+[441.8s - 443.2s] But, nobody actually told the owner that he needs to look at his calendar in the
+[443.2s - 443.2s] he needs to look at his calendar in the
+[443.2s - 444.9s] he needs to look at his calendar in the morning. So, leads are showing up,
+[444.9s - 444.9s] morning. So, leads are showing up,
+[444.9s - 446.3s] morning. So, leads are showing up, getting booked, and then nobody's there
+[446.3s - 446.3s] getting booked, and then nobody's there
+[446.3s - 447.9s] getting booked, and then nobody's there to take the call. From the client's
+[447.9s - 447.9s] to take the call. From the client's
+[447.9s - 450.4s] to take the call. From the client's perspective, your system is broken, even
+[450.4s - 450.4s] perspective, your system is broken, even
+[450.4s - 452.6s] perspective, your system is broken, even though your system worked perfectly. Or,
+[452.6s - 452.6s] though your system worked perfectly. Or,
+[452.6s - 453.9s] though your system worked perfectly. Or, your [music] system sends a really nice
+[453.9s - 454.0s] your [music] system sends a really nice
+[454.0s - 456.0s] your [music] system sends a really nice email asking the prospect to confirm
+[456.0s - 456.0s] email asking the prospect to confirm
+[456.0s - 457.8s] email asking the prospect to confirm their appointment time, and the prospect
+[457.8s - 457.8s] their appointment time, and the prospect
+[457.8s - 459.8s] their appointment time, and the prospect replies, and nobody's checking that
+[459.8s - 459.8s] replies, and nobody's checking that
+[459.8s - 462.4s] replies, and nobody's checking that inbox. 2 days later, that lead's gone
+[462.4s - 462.4s] inbox. 2 days later, that lead's gone
+[462.4s - 464.7s] inbox. 2 days later, that lead's gone cold. Your system did its job, the
+[464.7s - 464.7s] cold. Your system did its job, the
+[464.7s - 466.2s] cold. Your system did its job, the business did it. This is where new
+[466.2s - 466.2s] business did it. This is where new
+[466.2s - 468.4s] business did it. This is where new consultants get blindsided. You did
+[468.4s - 468.4s] consultants get blindsided. You did
+[468.4s - 470.2s] consultants get blindsided. You did everything right, the automation runs
+[470.2s - 470.2s] everything right, the automation runs
+[470.2s - 471.9s] everything right, the automation runs perfectly, and yet the client is
+[471.9s - 472.0s] perfectly, and yet the client is
+[472.0s - 473.6s] perfectly, and yet the client is unhappy. So, you [music] have to map the
+[473.6s - 473.6s] unhappy. So, you [music] have to map the
+[473.6s - 475.8s] unhappy. So, you [music] have to map the whole chain, not just your part. You
+[475.8s - 475.8s] whole chain, not just your part. You
+[475.8s - 477.5s] whole chain, not just your part. You ask, "What does somebody do with this
+[477.5s - 477.5s] ask, "What does somebody do with this
+[477.5s - 479.8s] ask, "What does somebody do with this output? Who's responsible? When are they
+[479.8s - 479.8s] output? Who's responsible? When are they
+[479.8s - 481.7s] output? Who's responsible? When are they checking it?" And if there's a gap, if
+[481.7s - 481.7s] checking it?" And if there's a gap, if
+[481.7s - 483.7s] checking it?" And if there's a gap, if no one is owning what happens after the
+[483.7s - 483.7s] no one is owning what happens after the
+[483.7s - 486.1s] no one is owning what happens after the automation, you flag it. You either fix
+[486.1s - 486.1s] automation, you flag it. You either fix
+[486.1s - 487.9s] automation, you flag it. You either fix it inside the scope, or you tell the
+[487.9s - 487.9s] it inside the scope, or you tell the
+[487.9s - 490.1s] it inside the scope, or you tell the client clearly, "Hey, my system stops
+[490.1s - 490.2s] client clearly, "Hey, my system stops
+[490.2s - 491.9s] client clearly, "Hey, my system stops here. For this to work end-to-end,
+[491.9s - 491.9s] here. For this to work end-to-end,
+[491.9s - 493.5s] here. For this to work end-to-end, [music] here's what someone on your team
+[493.5s - 493.5s] [music] here's what someone on your team
+[493.5s - 495.6s] [music] here's what someone on your team needs to be doing." That conversation
+[495.6s - 495.6s] needs to be doing." That conversation
+[495.6s - 497.4s] needs to be doing." That conversation before you build will save your
+[497.4s - 497.4s] before you build will save your
+[497.4s - 499.2s] before you build will save your reputation. Honestly, this is one of the
+[499.2s - 499.2s] reputation. Honestly, this is one of the
+[499.2s - 501.1s] reputation. Honestly, this is one of the hardest lessons I learned in my first
+[501.1s - 501.1s] hardest lessons I learned in my first
+[501.1s - 503.4s] hardest lessons I learned in my first year of consulting, that the build is
+[503.4s - 503.4s] year of consulting, that the build is
+[503.4s - 505.7s] year of consulting, that the build is only one piece of what makes the project
+[505.7s - 505.7s] only one piece of what makes the project
+[505.7s - 507.1s] only one piece of what makes the project successful to the business [music]
+[507.1s - 507.1s] successful to the business [music]
+[507.1s - 508.5s] successful to the business [music] owner. And once you've got all this
+[508.5s - 508.5s] owner. And once you've got all this
+[508.5s - 510.2s] owner. And once you've got all this nailed down, there's one more thing you
+[510.2s - 510.2s] nailed down, there's one more thing you
+[510.2s - 511.8s] nailed down, there's one more thing you can do that takes the project from
+[511.8s - 511.8s] can do that takes the project from
+[511.8s - 514.1s] can do that takes the project from one-and-done into something much bigger.
+[514.1s - 514.1s] one-and-done into something much bigger.
+[514.1s - 515.9s] one-and-done into something much bigger. Okay, number five, and this is the one
+[515.9s - 515.9s] Okay, number five, and this is the one
+[515.9s - 517.5s] Okay, number five, and this is the one that most people skip, but this is
+[517.5s - 517.5s] that most people skip, but this is
+[517.5s - 518.9s] that most people skip, but this is probably the easiest money that you'll
+[518.9s - 518.9s] probably the easiest money that you'll
+[518.9s - 520.8s] probably the easiest money that you'll ever make in your business. Near the end
+[520.8s - 520.8s] ever make in your business. Near the end
+[520.8s - 523.1s] ever make in your business. Near the end of the project, not at the end, near the
+[523.1s - 523.1s] of the project, not at the end, near the
+[523.1s - 525.0s] of the project, not at the end, near the end, while you're still in the build,
+[525.0s - 525.0s] end, while you're still in the build,
+[525.0s - 526.2s] end, while you're still in the build, while everything's working and the
+[526.2s - 526.2s] while everything's working and the
+[526.2s - 527.9s] while everything's working and the client's happy, you bring this up
+[527.9s - 527.9s] client's happy, you bring this up
+[527.9s - 530.0s] client's happy, you bring this up casually. You say something like, "Hey,
+[530.0s - 530.0s] casually. You say something like, "Hey,
+[530.0s - 531.8s] casually. You say something like, "Hey, now that this is running, the next thing
+[531.8s - 531.8s] now that this is running, the next thing
+[531.8s - 533.8s] now that this is running, the next thing that I see most businesses like yours
+[533.8s - 533.8s] that I see most businesses like yours
+[533.8s - 536.0s] that I see most businesses like yours look at is X. [music] Is that something
+[536.0s - 536.0s] look at is X. [music] Is that something
+[536.0s - 537.7s] look at is X. [music] Is that something you'd want to explore later?" And then
+[537.7s - 537.7s] you'd want to explore later?" And then
+[537.7s - 539.7s] you'd want to explore later?" And then you leave it there. You don't pitch, you
+[539.7s - 539.7s] you leave it there. You don't pitch, you
+[539.7s - 541.8s] you leave it there. You don't pitch, you don't push, you just plant the seed. And
+[541.8s - 541.8s] don't push, you just plant the seed. And
+[541.8s - 543.4s] don't push, you just plant the seed. And I'm telling you, a huge percentage of
+[543.4s - 543.4s] I'm telling you, a huge percentage of
+[543.4s - 545.6s] I'm telling you, a huge percentage of clients will say yes, because they trust
+[545.6s - 545.6s] clients will say yes, because they trust
+[545.6s - 547.8s] clients will say yes, because they trust you now. You delivered, you showed up,
+[547.8s - 547.8s] you now. You delivered, you showed up,
+[547.8s - 549.4s] you now. You delivered, you showed up, you did what you said you would do.
+[549.4s - 549.4s] you did what you said you would do.
+[549.4s - 551.5s] you did what you said you would do. They'd keep working with you than start
+[551.5s - 551.5s] They'd keep working with you than start
+[551.5s - 553.0s] They'd keep working with you than start over with somebody brand new. So, now
+[553.0s - 553.0s] over with somebody brand new. So, now
+[553.0s - 555.0s] over with somebody brand new. So, now your next project is already lined up
+[555.0s - 555.0s] your next project is already lined up
+[555.0s - 557.6s] your next project is already lined up before this one even closes. No proposal
+[557.6s - 557.6s] before this one even closes. No proposal
+[557.6s - 559.9s] before this one even closes. No proposal to write from scratch, no discovery call
+[559.9s - 559.9s] to write from scratch, no discovery call
+[559.9s - 561.5s] to write from scratch, no discovery call to redo, you already know their
+[561.5s - 561.5s] to redo, you already know their
+[561.5s - 563.7s] to redo, you already know their business, you already know their team,
+[563.7s - 563.7s] business, you already know their team,
+[563.7s - 565.8s] business, you already know their team, and you already have the access. You can
+[565.8s - 565.8s] and you already have the access. You can
+[565.8s - 567.8s] and you already have the access. You can just keep going. And this is how you
+[567.8s - 567.8s] just keep going. And this is how you
+[567.8s - 569.7s] just keep going. And this is how you stop being stuck on the hamster wheel of
+[569.7s - 569.7s] stop being stuck on the hamster wheel of
+[569.7s - 572.0s] stop being stuck on the hamster wheel of constantly chasing new clients. Most new
+[572.0s - 572.0s] constantly chasing new clients. Most new
+[572.0s - 574.7s] constantly chasing new clients. Most new consultants land a project, finish it,
+[574.7s - 574.7s] consultants land a project, finish it,
+[574.7s - 576.4s] consultants land a project, finish it, and then they're back at zero, back to
+[576.4s - 576.4s] and then they're back at zero, back to
+[576.4s - 578.3s] and then they're back at zero, back to cold outreach, back to wondering where
+[578.3s - 578.3s] cold outreach, back to wondering where
+[578.3s - 580.1s] cold outreach, back to wondering where their next client is coming from. That's
+[580.1s - 580.1s] their next client is coming from. That's
+[580.1s - 581.7s] their next client is coming from. That's the cycle that keeps people stuck at
+[581.7s - 581.7s] the cycle that keeps people stuck at
+[581.7s - 584.2s] the cycle that keeps people stuck at $1,500 projects forever, and you don't
+[584.2s - 584.2s] $1,500 projects forever, and you don't
+[584.2s - 586.0s] $1,500 projects forever, and you don't have to do that. One good project
+[586.0s - 586.0s] have to do that. One good project
+[586.0s - 587.8s] have to do that. One good project handled the right way can turn into two
+[587.8s - 587.8s] handled the right way can turn into two
+[587.8s - 589.4s] handled the right way can turn into two or three, [music] and eventually into a
+[589.4s - 589.4s] or three, [music] and eventually into a
+[589.4s - 591.4s] or three, [music] and eventually into a recurring retainer. Now, I know some of
+[591.4s - 591.4s] recurring retainer. Now, I know some of
+[591.4s - 592.9s] recurring retainer. Now, I know some of you are thinking, "Lindsey, this all
+[592.9s - 592.9s] you are thinking, "Lindsey, this all
+[592.9s - 594.4s] you are thinking, "Lindsey, this all sounds great, but I haven't even landed
+[594.4s - 594.4s] sounds great, but I haven't even landed
+[594.4s - 596.2s] sounds great, but I haven't even landed that first client yet. I'm watching this
+[596.2s - 596.2s] that first client yet. I'm watching this
+[596.2s - 597.5s] that first client yet. I'm watching this video trying to figure out how to get
+[597.5s - 597.5s] video trying to figure out how to get
+[597.5s - 599.4s] video trying to figure out how to get one." And I hear you, cuz honestly, that
+[599.4s - 599.4s] one." And I hear you, cuz honestly, that
+[599.4s - 601.4s] one." And I hear you, cuz honestly, that was me a year ago. I was making 50 grand
+[601.4s - 601.4s] was me a year ago. I was making 50 grand
+[601.4s - 603.4s] was me a year ago. I was making 50 grand a year doing marketing for an insulation
+[603.4s - 603.4s] a year doing marketing for an insulation
+[603.4s - 605.5s] a year doing marketing for an insulation company. My boss mentioned chat GPT, and
+[605.5s - 605.5s] company. My boss mentioned chat GPT, and
+[605.5s - 607.3s] company. My boss mentioned chat GPT, and I had never used it before, which is
+[607.3s - 607.3s] I had never used it before, which is
+[607.3s - 609.0s] I had never used it before, which is cringe, I [music] know, but I went down
+[609.0s - 609.0s] cringe, I [music] know, but I went down
+[609.0s - 611.0s] cringe, I [music] know, but I went down the rabbit hole, I found mentors,
+[611.0s - 611.0s] the rabbit hole, I found mentors,
+[611.0s - 612.8s] the rabbit hole, I found mentors, learned the technical stuff, and more
+[612.8s - 612.8s] learned the technical stuff, and more
+[612.8s - 614.1s] learned the technical stuff, and more importantly, learned how to actually
+[614.1s - 614.2s] importantly, learned how to actually
+[614.2s - 616.4s] importantly, learned how to actually turn it into income. And in 9 months, I
+[616.4s - 616.4s] turn it into income. And in 9 months, I
+[616.4s - 620.1s] turn it into income. And in 9 months, I had made over $100,000. $6,000
+[620.1s - 620.2s] had made over $100,000. $6,000
+[620.2s - 622.5s] had made over $100,000. $6,000 and $5,000 monthly retainers. But here's
+[622.5s - 622.6s] and $5,000 monthly retainers. But here's
+[622.6s - 624.3s] and $5,000 monthly retainers. But here's the thing, even if you haven't landed a
+[624.3s - 624.3s] the thing, even if you haven't landed a
+[624.3s - 626.0s] the thing, even if you haven't landed a client yet, watching this video is
+[626.0s - 626.0s] client yet, watching this video is
+[626.0s - 627.5s] client yet, watching this video is exactly what you should be doing,
+[627.5s - 627.5s] exactly what you should be doing,
+[627.5s - 629.0s] exactly what you should be doing, because the consultants who succeed
+[629.0s - 629.0s] because the consultants who succeed
+[629.0s - 630.7s] because the consultants who succeed long-term are the ones who start
+[630.7s - 630.7s] long-term are the ones who start
+[630.7s - 631.8s] long-term are the ones who start thinking about what they should be
+[631.8s - 631.8s] thinking about what they should be
+[631.8s - 633.6s] thinking about what they should be delivering before they're delivering it.
+[633.6s - 633.6s] delivering before they're delivering it.
+[633.6s - 635.1s] delivering before they're delivering it. The ones who just chase the close and
+[635.1s - 635.2s] The ones who just chase the close and
+[635.2s - 636.8s] The ones who just chase the close and then figure out the rest later, they
+[636.8s - 636.8s] then figure out the rest later, they
+[636.8s - 639.0s] then figure out the rest later, they land one client, mess it up, lose the
+[639.0s - 639.0s] land one client, mess it up, lose the
+[639.0s - 640.8s] land one client, mess it up, lose the testimonial, and end up worse than
+[640.8s - 640.8s] testimonial, and end up worse than
+[640.8s - 643.2s] testimonial, and end up worse than before they started. So, save this, take
+[643.2s - 643.2s] before they started. So, save this, take
+[643.2s - 645.3s] before they started. So, save this, take notes. When you do land that first one,
+[645.3s - 645.3s] notes. When you do land that first one,
+[645.3s - 647.1s] notes. When you do land that first one, and you will, come back to this list.
+[647.1s - 647.1s] and you will, come back to this list.
+[647.1s - 648.6s] and you will, come back to this list. [music] Okay, so real quick, let's
+[648.6s - 648.6s] [music] Okay, so real quick, let's
+[648.6s - 650.4s] [music] Okay, so real quick, let's recap. Before you start any AI
+[650.4s - 650.4s] recap. Before you start any AI
+[650.4s - 652.5s] recap. Before you start any AI consulting project, one, get a live
+[652.5s - 652.6s] consulting project, one, get a live
+[652.6s - 654.5s] consulting project, one, get a live walk-through of the actual process.
+[654.5s - 654.5s] walk-through of the actual process.
+[654.5s - 656.8s] walk-through of the actual process. Don't trust the sales call summary. Two,
+[656.8s - 656.8s] Don't trust the sales call summary. Two,
+[656.8s - 658.6s] Don't trust the sales call summary. Two, make them define what done looks like,
+[658.6s - 658.6s] make them define what done looks like,
+[658.6s - 660.2s] make them define what done looks like, then put that in writing. Three, get
+[660.2s - 660.2s] then put that in writing. Three, get
+[660.2s - 662.1s] then put that in writing. Three, get [music] full admin access to every tool
+[662.1s - 662.1s] [music] full admin access to every tool
+[662.1s - 664.2s] [music] full admin access to every tool you'll need on day one. Four, ask what
+[664.2s - 664.2s] you'll need on day one. Four, ask what
+[664.2s - 666.4s] you'll need on day one. Four, ask what happens after the automation runs,
+[666.4s - 666.4s] happens after the automation runs,
+[666.4s - 667.7s] happens after the automation runs, because that's the moment when most
+[667.7s - 667.7s] because that's the moment when most
+[667.7s - 669.5s] because that's the moment when most projects get marked as broken, even
+[669.5s - 669.5s] projects get marked as broken, even
+[669.5s - 671.5s] projects get marked as broken, even though they're not. Five, bring up what
+[671.5s - 671.5s] though they're not. Five, bring up what
+[671.5s - 673.7s] though they're not. Five, bring up what comes next before the project ends.
+[673.7s - 673.7s] comes next before the project ends.
+[673.7s - 675.7s] comes next before the project ends. Plant the seed for the next engagement.
+[675.7s - 675.7s] Plant the seed for the next engagement.
+[675.7s - 677.5s] Plant the seed for the next engagement. Most people skip these. That's why their
+[677.5s - 677.5s] Most people skip these. That's why their
+[677.5s - 679.1s] Most people skip these. That's why their first project gets messy, the
+[679.1s - 679.2s] first project gets messy, the
+[679.2s - 681.0s] first project gets messy, the testimonial doesn't come through, and
+[681.0s - 681.0s] testimonial doesn't come through, and
+[681.0s - 682.2s] testimonial doesn't come through, and they end up doubting whether or not
+[682.2s - 682.2s] they end up doubting whether or not
+[682.2s - 683.8s] they end up doubting whether or not they're cut out for this. You don't have
+[683.8s - 683.8s] they're cut out for this. You don't have
+[683.8s - 685.3s] they're cut out for this. You don't have to be one of those people. And if you
+[685.3s - 685.3s] to be one of those people. And if you
+[685.3s - 686.9s] to be one of those people. And if you want to land your first or next AI
+[686.9s - 686.9s] want to land your first or next AI
+[686.9s - 688.1s] want to land your first or next AI client, you can take part in the
+[688.1s - 688.2s] client, you can take part in the
+[688.2s - 689.6s] client, you can take part in the four-week challenge inside my free
+[689.6s - 689.6s] four-week challenge inside my free
+[689.6s - 691.6s] four-week challenge inside my free school community of like-minded people,
+[691.6s - 691.6s] school community of like-minded people,
+[691.6s - 693.1s] school community of like-minded people, where you'll find a free course that's
+[693.1s - 693.1s] where you'll find a free course that's
+[693.1s - 694.7s] where you'll find a free course that's honestly better than most paid courses
+[694.7s - 694.7s] honestly better than most paid courses
+[694.7s - 696.1s] honestly better than most paid courses out there and you'll get direct
+[696.1s - 696.2s] out there and you'll get direct
+[696.2s - 697.8s] out there and you'll get direct one-on-one access to me for whatever
+[697.8s - 697.8s] one-on-one access to me for whatever
+[697.8s - 699.6s] one-on-one access to me for whatever questions you might have. The link is
+[699.6s - 699.6s] questions you might have. The link is
+[699.6s - 701.4s] questions you might have. The link is down below. Thanks for watching and I
+[701.4s - 701.4s] down below. Thanks for watching and I
+[701.4s - 705.0s] down below. Thanks for watching and I will see you in the next video.

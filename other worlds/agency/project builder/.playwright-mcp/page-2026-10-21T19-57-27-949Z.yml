@@ -1,0 +1,897 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - heading "Medical Insurance Quote Comparison" [level=1] [ref=e4]
+    - paragraph [ref=e5]: Built for Kevin Osiga — Insurance Broker, Kenya (EAT / UTC+3) • Client-ready comparative proposal in minutes, not hours
+  - generic [ref=e6]: "Time saved: Manual quotation comparison takes 2–3 hours. With this tool, under 30 minutes."
+  - generic [ref=e7]:
+    - heading "Client details" [level=2] [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Client name
+        - textbox "Client name" [ref=e12]:
+          - /placeholder: e.g. Jane Wanjiku
+      - generic [ref=e13]:
+        - generic [ref=e14]: Age
+        - spinbutton "Age" [ref=e15]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Sum insured (KSh)
+        - spinbutton "Sum insured (KSh)" [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]: Location
+        - textbox "Location" [ref=e21]:
+          - /placeholder: e.g. Nairobi, Kenya
+      - generic [ref=e22]:
+        - generic [ref=e23]: Pre-existing conditions (PEC)
+        - textbox "Pre-existing conditions (PEC)" [ref=e24]:
+          - /placeholder: e.g. Hypertension, diagnosed 2022
+        - generic [ref=e25]: Declared pre-existing conditions — affects waiting periods & terms.
+    - generic [ref=e26]:
+      - button "Load Jubilee vs Britam example" [ref=e27] [cursor=pointer]
+      - button "Load saved quotation" [ref=e28] [cursor=pointer]
+      - button "Clear all" [ref=e29] [cursor=pointer]
+  - generic [ref=e30]:
+    - heading "Underwriter quotes (add up to 4)" [level=2] [ref=e31]
+    - paragraph [ref=e32]: Add one block per underwriter. Enter the premium and benefits from their quote documents. The comparison updates as you type.
+    - generic [ref=e33]:
+      - button "Jubilee" [ref=e34] [cursor=pointer]
+      - button "Britam" [ref=e35] [cursor=pointer]
+      - button "Sanlam" [ref=e36] [cursor=pointer]
+      - button "APA Insurance" [ref=e37] [cursor=pointer]
+      - button "ICEA Lion" [ref=e38] [cursor=pointer]
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e44]: Jubilee
+          - generic [ref=e45]:
+            - generic [ref=e46]: Premium type
+            - combobox [ref=e47]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e48]:
+            - generic [ref=e49]: Premium amount (KSh)
+            - spinbutton "0" [ref=e50]: "185000"
+          - button "Remove" [ref=e52] [cursor=pointer]
+        - generic [ref=e53]:
+          - generic [ref=e54]: Benefits
+          - generic [ref=e55]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e56]:
+          - rowgroup [ref=e57]:
+            - row [ref=e58]:
+              - columnheader "Benefit" [ref=e59]
+              - columnheader "Sub-limit (KSh)" [ref=e60]
+              - columnheader "Waiting period" [ref=e61]
+              - columnheader "Exclusions" [ref=e62]
+              - columnheader [ref=e63]
+          - rowgroup [ref=e64]:
+            - row [ref=e65]:
+              - cell "Mental health" [ref=e66]:
+                - combobox [ref=e67]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health" [selected]
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e68]:
+                - spinbutton "0" [ref=e69]: "10000000"
+              - cell [ref=e70]:
+                - textbox "e.g. 12 months" [ref=e71]: —
+              - cell [ref=e72]:
+                - textbox "e.g. PEC waiting applies" [ref=e73]: None
+              - cell [ref=e74]:
+                - button "×" [ref=e75] [cursor=pointer]
+            - row [ref=e76]:
+              - cell "Outpatient" [ref=e77]:
+                - combobox [ref=e78]:
+                  - option "Inpatient"
+                  - option "Outpatient" [selected]
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e79]:
+                - spinbutton "0" [ref=e80]: "300000"
+              - cell [ref=e81]:
+                - textbox "e.g. 12 months" [ref=e82]: —
+              - cell [ref=e83]:
+                - textbox "e.g. PEC waiting applies" [ref=e84]: —
+              - cell [ref=e85]:
+                - button "×" [ref=e86] [cursor=pointer]
+            - row [ref=e87]:
+              - cell "Maternity" [ref=e88]:
+                - combobox [ref=e89]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity" [selected]
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e90]:
+                - spinbutton "0" [ref=e91]: "150000"
+              - cell [ref=e92]:
+                - textbox "e.g. 12 months" [ref=e93]: 12 months
+              - cell [ref=e94]:
+                - textbox "e.g. PEC waiting applies" [ref=e95]: Optional benefit; PEC waiting applies
+              - cell [ref=e96]:
+                - button "×" [ref=e97] [cursor=pointer]
+            - row [ref=e98]:
+              - cell "Dental" [ref=e99]:
+                - combobox [ref=e100]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental" [selected]
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e101]:
+                - spinbutton "0" [ref=e102]: "50000"
+              - cell [ref=e103]:
+                - textbox "e.g. 12 months" [ref=e104]: 6 months
+              - cell [ref=e105]:
+                - textbox "e.g. PEC waiting applies" [ref=e106]: —
+              - cell [ref=e107]:
+                - button "×" [ref=e108] [cursor=pointer]
+            - row [ref=e109]:
+              - cell "Optical" [ref=e110]:
+                - combobox [ref=e111]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical" [selected]
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e112]:
+                - spinbutton "0" [ref=e113]: "40000"
+              - cell [ref=e114]:
+                - textbox "e.g. 12 months" [ref=e115]: 6 months
+              - cell [ref=e116]:
+                - textbox "e.g. PEC waiting applies" [ref=e117]: —
+              - cell [ref=e118]:
+                - button "×" [ref=e119] [cursor=pointer]
+            - row [ref=e120]:
+              - cell "Cancer" [ref=e121]:
+                - combobox [ref=e122]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer" [selected]
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e123]:
+                - spinbutton "0" [ref=e124]
+              - cell [ref=e125]:
+                - textbox "e.g. 12 months" [ref=e126]: —
+              - cell [ref=e127]:
+                - textbox "e.g. PEC waiting applies" [ref=e128]: Within inpatient limit
+              - cell [ref=e129]:
+                - button "×" [ref=e130] [cursor=pointer]
+            - row [ref=e131]:
+              - cell "Chronic conditions" [ref=e132]:
+                - combobox [ref=e133]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions" [selected]
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e134]:
+                - spinbutton "0" [ref=e135]
+              - cell [ref=e136]:
+                - textbox "e.g. 12 months" [ref=e137]: 12 months
+              - cell [ref=e138]:
+                - textbox "e.g. PEC waiting applies" [ref=e139]: Hypertension waiting applies
+              - cell [ref=e140]:
+                - button "×" [ref=e141] [cursor=pointer]
+            - row [ref=e142]:
+              - cell "Mental health" [ref=e143]:
+                - combobox [ref=e144]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health" [selected]
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e145]:
+                - spinbutton "0" [ref=e146]
+              - cell [ref=e147]:
+                - textbox "e.g. 12 months" [ref=e148]: —
+              - cell [ref=e149]:
+                - textbox "e.g. PEC waiting applies" [ref=e150]: —
+              - cell [ref=e151]:
+                - button "×" [ref=e152] [cursor=pointer]
+            - row [ref=e153]:
+              - cell "HIV" [ref=e154]:
+                - combobox [ref=e155]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV" [selected]
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e156]:
+                - spinbutton "0" [ref=e157]
+              - cell [ref=e158]:
+                - textbox "e.g. 12 months" [ref=e159]: —
+              - cell [ref=e160]:
+                - textbox "e.g. PEC waiting applies" [ref=e161]: —
+              - cell [ref=e162]:
+                - button "×" [ref=e163] [cursor=pointer]
+            - row [ref=e164]:
+              - cell "Wellness checks" [ref=e165]:
+                - combobox [ref=e166]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks" [selected]
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e167]:
+                - spinbutton "0" [ref=e168]
+              - cell [ref=e169]:
+                - textbox "e.g. 12 months" [ref=e170]: —
+              - cell [ref=e171]:
+                - textbox "e.g. PEC waiting applies" [ref=e172]: Annual checkups & vaccinations
+              - cell [ref=e173]:
+                - button "×" [ref=e174] [cursor=pointer]
+            - row [ref=e175]:
+              - cell "Telemedicine" [ref=e176]:
+                - combobox [ref=e177]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine" [selected]
+                  - option "Other"
+              - cell [ref=e178]:
+                - spinbutton "0" [ref=e179]
+              - cell [ref=e180]:
+                - textbox "e.g. 12 months" [ref=e181]: —
+              - cell [ref=e182]:
+                - textbox "e.g. PEC waiting applies" [ref=e183]: —
+              - cell [ref=e184]:
+                - button "×" [ref=e185] [cursor=pointer]
+        - button "+ Add benefit" [ref=e187] [cursor=pointer]
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - generic [ref=e190]:
+            - generic [ref=e191]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e192]: Britam
+          - generic [ref=e193]:
+            - generic [ref=e194]: Premium type
+            - combobox [ref=e195]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e196]:
+            - generic [ref=e197]: Premium amount (KSh)
+            - spinbutton "0" [ref=e198]: "210000"
+          - button "Remove" [ref=e200] [cursor=pointer]
+        - generic [ref=e201]:
+          - generic [ref=e202]: Benefits
+          - generic [ref=e203]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e204]:
+          - rowgroup [ref=e205]:
+            - row [ref=e206]:
+              - columnheader "Benefit" [ref=e207]
+              - columnheader "Sub-limit (KSh)" [ref=e208]
+              - columnheader "Waiting period" [ref=e209]
+              - columnheader "Exclusions" [ref=e210]
+              - columnheader [ref=e211]
+          - rowgroup [ref=e212]:
+            - row [ref=e213]:
+              - cell "Inpatient" [ref=e214]:
+                - combobox [ref=e215]:
+                  - option "Inpatient" [selected]
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e216]:
+                - spinbutton "0" [ref=e217]: "10000000"
+              - cell [ref=e218]:
+                - textbox "e.g. 12 months" [ref=e219]: —
+              - cell [ref=e220]:
+                - textbox "e.g. PEC waiting applies" [ref=e221]: None
+              - cell [ref=e222]:
+                - button "×" [ref=e223] [cursor=pointer]
+            - row [ref=e224]:
+              - cell "Outpatient" [ref=e225]:
+                - combobox [ref=e226]:
+                  - option "Inpatient"
+                  - option "Outpatient" [selected]
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e227]:
+                - spinbutton "0" [ref=e228]
+              - cell [ref=e229]:
+                - textbox "e.g. 12 months" [ref=e230]: —
+              - cell [ref=e231]:
+                - textbox "e.g. PEC waiting applies" [ref=e232]: Seamless, no approvals
+              - cell [ref=e233]:
+                - button "×" [ref=e234] [cursor=pointer]
+            - row [ref=e235]:
+              - cell "Other" [ref=e236]:
+                - combobox [ref=e237]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other" [selected]
+                - textbox "Custom benefit name" [ref=e238]
+              - cell [ref=e239]:
+                - spinbutton "0" [ref=e240]
+              - cell [ref=e241]:
+                - textbox "e.g. 12 months" [ref=e242]: Tier-dependent
+              - cell [ref=e243]:
+                - textbox "e.g. PEC waiting applies" [ref=e244]: —
+              - cell [ref=e245]:
+                - button "×" [ref=e246] [cursor=pointer]
+            - row [ref=e247]:
+              - cell "Dental" [ref=e248]:
+                - combobox [ref=e249]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental" [selected]
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e250]:
+                - spinbutton "0" [ref=e251]: "75000"
+              - cell [ref=e252]:
+                - textbox "e.g. 12 months" [ref=e253]: 6 months
+              - cell [ref=e254]:
+                - textbox "e.g. PEC waiting applies" [ref=e255]: —
+              - cell [ref=e256]:
+                - button "×" [ref=e257] [cursor=pointer]
+            - row [ref=e258]:
+              - cell "Optical" [ref=e259]:
+                - combobox [ref=e260]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical" [selected]
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e261]:
+                - spinbutton "0" [ref=e262]: "60000"
+              - cell [ref=e263]:
+                - textbox "e.g. 12 months" [ref=e264]: 6 months
+              - cell [ref=e265]:
+                - textbox "e.g. PEC waiting applies" [ref=e266]: —
+              - cell [ref=e267]:
+                - button "×" [ref=e268] [cursor=pointer]
+            - row [ref=e269]:
+              - cell "Cancer" [ref=e270]:
+                - combobox [ref=e271]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer" [selected]
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e272]:
+                - spinbutton "0" [ref=e273]
+              - cell [ref=e274]:
+                - textbox "e.g. 12 months" [ref=e275]: —
+              - cell [ref=e276]:
+                - textbox "e.g. PEC waiting applies" [ref=e277]: —
+              - cell [ref=e278]:
+                - button "×" [ref=e279] [cursor=pointer]
+            - row [ref=e280]:
+              - cell "Chronic conditions" [ref=e281]:
+                - combobox [ref=e282]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions" [selected]
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e283]:
+                - spinbutton "0" [ref=e284]
+              - cell [ref=e285]:
+                - textbox "e.g. 12 months" [ref=e286]: 12 months
+              - cell [ref=e287]:
+                - textbox "e.g. PEC waiting applies" [ref=e288]: Hypertension waiting applies
+              - cell [ref=e289]:
+                - button "×" [ref=e290] [cursor=pointer]
+            - row [ref=e291]:
+              - cell "Mental health" [ref=e292]:
+                - combobox [ref=e293]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health" [selected]
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e294]:
+                - spinbutton "0" [ref=e295]
+              - cell [ref=e296]:
+                - textbox "e.g. 12 months" [ref=e297]: —
+              - cell [ref=e298]:
+                - textbox "e.g. PEC waiting applies" [ref=e299]: Platinum tier
+              - cell [ref=e300]:
+                - button "×" [ref=e301] [cursor=pointer]
+            - row [ref=e302]:
+              - cell "HIV" [ref=e303]:
+                - combobox [ref=e304]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV" [selected]
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e305]:
+                - spinbutton "0" [ref=e306]
+              - cell [ref=e307]:
+                - textbox "e.g. 12 months" [ref=e308]: —
+              - cell [ref=e309]:
+                - textbox "e.g. PEC waiting applies" [ref=e310]: —
+              - cell [ref=e311]:
+                - button "×" [ref=e312] [cursor=pointer]
+            - row [ref=e313]:
+              - cell "Wellness checks" [ref=e314]:
+                - combobox [ref=e315]:
+                  - option "Inpatient"
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks" [selected]
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e316]:
+                - spinbutton "0" [ref=e317]
+              - cell [ref=e318]:
+                - textbox "e.g. 12 months" [ref=e319]: —
+              - cell [ref=e320]:
+                - textbox "e.g. PEC waiting applies" [ref=e321]: Annual wellness checks
+              - cell [ref=e322]:
+                - button "×" [ref=e323] [cursor=pointer]
+            - row [ref=e324]:
+              - cell "Inpatient" [ref=e325]:
+                - combobox [ref=e326]:
+                  - option "Inpatient" [selected]
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e327]:
+                - spinbutton "0" [ref=e328]
+              - cell [ref=e329]:
+                - textbox "e.g. 12 months" [ref=e330]
+              - cell [ref=e331]:
+                - textbox "e.g. PEC waiting applies" [ref=e332]
+              - cell [ref=e333]:
+                - button "×" [ref=e334] [cursor=pointer]
+        - button "+ Add benefit" [ref=e336] [cursor=pointer]
+      - generic [ref=e337]:
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - generic [ref=e340]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e341]: Jubilee
+          - generic [ref=e342]:
+            - generic [ref=e343]: Premium type
+            - combobox [ref=e344]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e345]:
+            - generic [ref=e346]: Premium amount (KSh)
+            - spinbutton "0" [ref=e347]
+          - button "Remove" [ref=e349] [cursor=pointer]
+        - generic [ref=e350]:
+          - generic [ref=e351]: Benefits
+          - generic [ref=e352]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e353]:
+          - rowgroup [ref=e354]:
+            - row [ref=e355]:
+              - columnheader "Benefit" [ref=e356]
+              - columnheader "Sub-limit (KSh)" [ref=e357]
+              - columnheader "Waiting period" [ref=e358]
+              - columnheader "Exclusions" [ref=e359]
+              - columnheader [ref=e360]
+          - rowgroup
+        - button "+ Add benefit" [ref=e362] [cursor=pointer]
+      - generic [ref=e363]:
+        - generic [ref=e364]:
+          - generic [ref=e365]:
+            - generic [ref=e366]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e367]: Britam
+          - generic [ref=e368]:
+            - generic [ref=e369]: Premium type
+            - combobox [ref=e370]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e371]:
+            - generic [ref=e372]: Premium amount (KSh)
+            - spinbutton "0" [ref=e373]
+          - button "Remove" [ref=e375] [cursor=pointer]
+        - generic [ref=e376]:
+          - generic [ref=e377]: Benefits
+          - generic [ref=e378]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e379]:
+          - rowgroup [ref=e380]:
+            - row [ref=e381]:
+              - columnheader "Benefit" [ref=e382]
+              - columnheader "Sub-limit (KSh)" [ref=e383]
+              - columnheader "Waiting period" [ref=e384]
+              - columnheader "Exclusions" [ref=e385]
+              - columnheader [ref=e386]
+          - rowgroup [ref=e387]:
+            - row [ref=e388]:
+              - cell "Inpatient" [ref=e389]:
+                - combobox [ref=e390]:
+                  - option "Inpatient" [selected]
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e391]:
+                - spinbutton "0" [ref=e392]
+              - cell [ref=e393]:
+                - textbox "e.g. 12 months" [ref=e394]
+              - cell [ref=e395]:
+                - textbox "e.g. PEC waiting applies" [ref=e396]
+              - cell [ref=e397]:
+                - button "×" [ref=e398] [cursor=pointer]
+            - row [ref=e399]:
+              - cell "Inpatient" [ref=e400]:
+                - combobox [ref=e401]:
+                  - option "Inpatient" [selected]
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e402]:
+                - spinbutton "0" [ref=e403]
+              - cell [ref=e404]:
+                - textbox "e.g. 12 months" [ref=e405]
+              - cell [ref=e406]:
+                - textbox "e.g. PEC waiting applies" [ref=e407]
+              - cell [ref=e408]:
+                - button "×" [ref=e409] [cursor=pointer]
+        - button "+ Add benefit" [ref=e411] [cursor=pointer]
+    - button "+ Add underwriter" [disabled] [ref=e413] [cursor=pointer]
+  - generic [ref=e414]:
+    - heading "Comparative quotation — Jane Wanjiku" [level=2] [ref=e415]
+    - generic [ref=e416]:
+      - heading "Premium comparison" [level=3] [ref=e417]
+      - generic [ref=e418]:
+        - generic [ref=e419]:
+          - generic [ref=e420]: Jubilee
+          - generic [ref=e421]: KSh 185,000 /annual Lowest
+        - generic [ref=e422]:
+          - generic [ref=e423]: Britam
+          - generic [ref=e424]: KSh 210,000 /annual
+        - generic [ref=e425]:
+          - generic [ref=e426]: Jubilee
+          - generic [ref=e427]: — /annual
+        - generic [ref=e428]:
+          - generic [ref=e429]: Britam
+          - generic [ref=e430]: — /annual
+      - generic [ref=e431]: Cheapest saves KSh 25,000 vs most expensive.
+    - table [ref=e432]:
+      - rowgroup [ref=e433]:
+        - row [ref=e434]:
+          - columnheader "Benefit" [ref=e435]
+          - columnheader "Jubilee" [ref=e436]
+          - columnheader "Britam" [ref=e437]
+          - columnheader "Jubilee" [ref=e438]
+          - columnheader "Britam" [ref=e439]
+      - rowgroup [ref=e440]:
+        - row [ref=e441]:
+          - cell "Mental health" [ref=e442]
+          - 'cell "KSh 10,000,000 Waiting: — Excl: None" [ref=e443]':
+            - generic [ref=e444]: KSh 10,000,000
+            - generic [ref=e445]: "Waiting: —"
+            - generic [ref=e446]: "Excl: None"
+          - 'cell "Covered Waiting: — Excl: Platinum tier" [ref=e447]':
+            - generic [ref=e448]: Covered
+            - generic [ref=e449]: "Waiting: —"
+            - generic [ref=e450]: "Excl: Platinum tier"
+          - cell "—" [ref=e451]
+          - cell "—" [ref=e452]
+        - row [ref=e453]:
+          - cell "Outpatient" [ref=e454]
+          - 'cell "KSh 300,000 Waiting: — Excl: —" [ref=e455]':
+            - generic [ref=e456]: KSh 300,000
+            - generic [ref=e457]: "Waiting: —"
+            - generic [ref=e458]: "Excl: —"
+          - 'cell "Covered Waiting: — Excl: Seamless, no approvals" [ref=e459]':
+            - generic [ref=e460]: Covered
+            - generic [ref=e461]: "Waiting: —"
+            - generic [ref=e462]: "Excl: Seamless, no approvals"
+          - cell "—" [ref=e463]
+          - cell "—" [ref=e464]
+        - row [ref=e465]:
+          - cell "Maternity" [ref=e466]
+          - 'cell "KSh 150,000 Waiting: 12 months Excl: Optional benefit; PEC waiting applies" [ref=e467]':
+            - generic [ref=e468]: KSh 150,000
+            - generic [ref=e469]: "Waiting: 12 months"
+            - generic [ref=e470]: "Excl: Optional benefit; PEC waiting applies"
+          - cell "—" [ref=e471]
+          - cell "—" [ref=e472]
+          - cell "—" [ref=e473]
+        - row [ref=e474]:
+          - cell "Dental" [ref=e475]
+          - 'cell "KSh 50,000 Waiting: 6 months Excl: —" [ref=e476]':
+            - generic [ref=e477]: KSh 50,000
+            - generic [ref=e478]: "Waiting: 6 months"
+            - generic [ref=e479]: "Excl: —"
+          - 'cell "KSh 75,000 Waiting: 6 months Excl: —" [ref=e480]':
+            - generic [ref=e481]: KSh 75,000
+            - generic [ref=e482]: "Waiting: 6 months"
+            - generic [ref=e483]: "Excl: —"
+          - cell "—" [ref=e484]
+          - cell "—" [ref=e485]
+        - row [ref=e486]:
+          - cell "Optical" [ref=e487]
+          - 'cell "KSh 40,000 Waiting: 6 months Excl: —" [ref=e488]':
+            - generic [ref=e489]: KSh 40,000
+            - generic [ref=e490]: "Waiting: 6 months"
+            - generic [ref=e491]: "Excl: —"
+          - 'cell "KSh 60,000 Waiting: 6 months Excl: —" [ref=e492]':
+            - generic [ref=e493]: KSh 60,000
+            - generic [ref=e494]: "Waiting: 6 months"
+            - generic [ref=e495]: "Excl: —"
+          - cell "—" [ref=e496]
+          - cell "—" [ref=e497]
+        - row [ref=e498]:
+          - cell "Cancer" [ref=e499]
+          - 'cell "Covered Waiting: — Excl: Within inpatient limit" [ref=e500]':
+            - generic [ref=e501]: Covered
+            - generic [ref=e502]: "Waiting: —"
+            - generic [ref=e503]: "Excl: Within inpatient limit"
+          - 'cell "Covered Waiting: — Excl: —" [ref=e504]':
+            - generic [ref=e505]: Covered
+            - generic [ref=e506]: "Waiting: —"
+            - generic [ref=e507]: "Excl: —"
+          - cell "—" [ref=e508]
+          - cell "—" [ref=e509]
+        - row [ref=e510]:
+          - cell "Chronic conditions" [ref=e511]
+          - 'cell "Covered Waiting: 12 months Excl: Hypertension waiting applies" [ref=e512]':
+            - generic [ref=e513]: Covered
+            - generic [ref=e514]: "Waiting: 12 months"
+            - generic [ref=e515]: "Excl: Hypertension waiting applies"
+          - 'cell "Covered Waiting: 12 months Excl: Hypertension waiting applies" [ref=e516]':
+            - generic [ref=e517]: Covered
+            - generic [ref=e518]: "Waiting: 12 months"
+            - generic [ref=e519]: "Excl: Hypertension waiting applies"
+          - cell "—" [ref=e520]
+          - cell "—" [ref=e521]
+        - row [ref=e522]:
+          - cell "HIV" [ref=e523]
+          - 'cell "Covered Waiting: — Excl: —" [ref=e524]':
+            - generic [ref=e525]: Covered
+            - generic [ref=e526]: "Waiting: —"
+            - generic [ref=e527]: "Excl: —"
+          - 'cell "Covered Waiting: — Excl: —" [ref=e528]':
+            - generic [ref=e529]: Covered
+            - generic [ref=e530]: "Waiting: —"
+            - generic [ref=e531]: "Excl: —"
+          - cell "—" [ref=e532]
+          - cell "—" [ref=e533]
+        - row [ref=e534]:
+          - cell "Wellness checks" [ref=e535]
+          - 'cell "Covered Waiting: — Excl: Annual checkups & vaccinations" [ref=e536]':
+            - generic [ref=e537]: Covered
+            - generic [ref=e538]: "Waiting: —"
+            - generic [ref=e539]: "Excl: Annual checkups & vaccinations"
+          - 'cell "Covered Waiting: — Excl: Annual wellness checks" [ref=e540]':
+            - generic [ref=e541]: Covered
+            - generic [ref=e542]: "Waiting: —"
+            - generic [ref=e543]: "Excl: Annual wellness checks"
+          - cell "—" [ref=e544]
+          - cell "—" [ref=e545]
+        - row [ref=e546]:
+          - cell "Telemedicine" [ref=e547]
+          - 'cell "Covered Waiting: — Excl: —" [ref=e548]':
+            - generic [ref=e549]: Covered
+            - generic [ref=e550]: "Waiting: —"
+            - generic [ref=e551]: "Excl: —"
+          - cell "—" [ref=e552]
+          - cell "—" [ref=e553]
+          - cell "—" [ref=e554]
+        - row [ref=e555]:
+          - cell "Inpatient" [ref=e556]
+          - cell "—" [ref=e557]
+          - 'cell "KSh 10,000,000 Waiting: — Excl: None" [ref=e558]':
+            - generic [ref=e559]: KSh 10,000,000
+            - generic [ref=e560]: "Waiting: —"
+            - generic [ref=e561]: "Excl: None"
+          - cell "—" [ref=e562]
+          - 'cell "Covered Waiting: Excl:" [ref=e563]':
+            - generic [ref=e564]: Covered
+            - generic [ref=e565]: "Waiting:"
+            - generic [ref=e566]: "Excl:"
+        - row [ref=e567]:
+          - cell "Other" [ref=e568]
+          - cell "—" [ref=e569]
+          - 'cell "Covered Waiting: Tier-dependent Excl: —" [ref=e570]':
+            - generic [ref=e571]: Covered
+            - generic [ref=e572]: "Waiting: Tier-dependent"
+            - generic [ref=e573]: "Excl: —"
+          - cell "—" [ref=e574]
+          - cell "—" [ref=e575]
+    - generic [ref=e576]:
+      - generic [ref=e577]: Broker recommendation / notes (optional)
+      - textbox "e.g. Recommend Jubilee — lowest premium with comprehensive inpatient cover." [ref=e578]
+    - generic [ref=e579]: "Disclaimer: For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter's policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice."
+    - generic [ref=e580]:
+      - button "Print client proposal / Save as PDF →" [ref=e581] [cursor=pointer]
+      - button "Copy comparison text →" [ref=e582] [cursor=pointer]
+  - generic [ref=e583]: MVP v1 · Medical insurance only · Zero installation — open this HTML file in any browser · No database, no backend, no account needed

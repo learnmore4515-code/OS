@@ -1,0 +1,905 @@
+- generic [active] [ref=f25e1]:
+  - generic [ref=f25e2]:
+    - generic [ref=f25e3]: Beauty delivered to all 47 counties across Kenya
+    - banner [ref=f25e5]:
+      - generic [ref=f25e7]:
+        - link "Jamwas Beauty & Cosmetics home" [ref=f25e9] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f25e10]: Jamwas Beauty & Cosmetics
+        - generic [ref=f25e11]:
+          - button "Search" [ref=f25e12] [cursor=pointer]
+          - link "Wholesale Login" [ref=f25e16] [cursor=pointer]:
+            - /url: /account/login
+          - link [ref=f25e20] [cursor=pointer]:
+            - /url: /wishlist
+          - link [ref=f25e23] [cursor=pointer]:
+            - /url: /cart
+          - button [ref=f25e27] [cursor=pointer]
+    - main [ref=f25e29]:
+      - 'heading "Jamwas Beauty & Cosmetics: Original Makeup, Skincare, Hair & Perfume Shop in Nairobi, Kenya" [level=1] [ref=f25e30]'
+      - generic [ref=f25e32]:
+        - generic [ref=f25e33]:
+          - img "Spring Radiance Collection" [ref=f25e34]
+          - generic [ref=f25e36]:
+            - heading "Spring Radiance Collection" [level=2] [ref=f25e37]
+            - paragraph [ref=f25e38]: Discover fresh, luminous skin with our latest skincare innovations
+            - link "Shop Skincare" [ref=f25e39] [cursor=pointer]:
+              - /url: /shop?category=skincare
+        - generic:
+          - img "Stronger. Healthier. Fuller Hair."
+          - generic:
+            - heading "Stronger. Healthier. Fuller Hair." [level=2]
+            - paragraph: Premium hair care designed for growth, shine, and protection
+            - link "Shop New Arrivals":
+              - /url: /shop?sort=new
+        - generic:
+          - img "Luxe Lip Experience"
+          - generic:
+            - heading "Luxe Lip Experience" [level=2]
+            - paragraph: Achieve the perfect pout with our premium lipstick collection
+            - link "Shop Lips":
+              - /url: /shop?category=makeup-lips
+        - button "Previous slide" [ref=f25e40] [cursor=pointer]
+        - button "Next slide" [ref=f25e43] [cursor=pointer]
+        - generic [ref=f25e46]:
+          - button "Go to slide 1" [ref=f25e47] [cursor=pointer]
+          - button "Go to slide 2" [ref=f25e48] [cursor=pointer]
+          - button "Go to slide 3" [ref=f25e49] [cursor=pointer]
+      - generic [ref=f25e50]:
+        - generic [ref=f25e51]:
+          - generic [ref=f25e52]:
+            - paragraph [ref=f25e53]: Collections
+            - heading "Shop by Category" [level=2] [ref=f25e54]
+          - link "View all" [ref=f25e56] [cursor=pointer]:
+            - /url: /shop
+        - generic [ref=f25e59]:
+          - generic [ref=f25e60]:
+            - link [ref=f25e62] [cursor=pointer]:
+              - /url: /shop?category=skincare
+              - img "Skincare" [ref=f25e63]
+              - generic [ref=f25e66]:
+                - heading "Skincare" [level=3] [ref=f25e68]
+                - paragraph [ref=f25e69]: Explore →
+            - generic [ref=f25e70]:
+              - link [ref=f25e71] [cursor=pointer]:
+                - /url: /shop?category=makeup
+                - img "Makeup" [ref=f25e72]
+                - generic [ref=f25e75]:
+                  - heading "Makeup" [level=3] [ref=f25e77]
+                  - paragraph [ref=f25e78]: Explore →
+              - link [ref=f25e79] [cursor=pointer]:
+                - /url: /shop?category=body
+                - img "Body" [ref=f25e80]
+                - generic [ref=f25e83]:
+                  - heading "Body" [level=3] [ref=f25e85]
+                  - paragraph [ref=f25e86]: Explore →
+              - link [ref=f25e87] [cursor=pointer]:
+                - /url: /shop?category=hair
+                - img "Hair" [ref=f25e88]
+                - generic [ref=f25e91]:
+                  - heading "Hair" [level=3] [ref=f25e93]
+                  - paragraph [ref=f25e94]: Explore →
+              - link [ref=f25e95] [cursor=pointer]:
+                - /url: /shop?category=fragrance
+                - img "Fragrance" [ref=f25e96]
+                - generic [ref=f25e99]:
+                  - heading "Fragrance" [level=3] [ref=f25e101]
+                  - paragraph [ref=f25e102]: Explore →
+              - link [ref=f25e103] [cursor=pointer]:
+                - /url: /shop?category=nails
+                - img "Nails" [ref=f25e104]
+                - generic [ref=f25e107]:
+                  - heading "Nails" [level=3] [ref=f25e109]
+                  - paragraph [ref=f25e110]: Explore →
+              - link [ref=f25e111] [cursor=pointer]:
+                - /url: /shop?category=natural-oils
+                - img "Natural Oils" [ref=f25e112]
+                - generic [ref=f25e115]:
+                  - heading "Natural Oils" [level=3] [ref=f25e117]
+                  - paragraph [ref=f25e118]: Explore →
+          - link [ref=f25e119] [cursor=pointer]:
+            - /url: /shop?category=tools
+            - img "Tools" [ref=f25e120]
+            - generic [ref=f25e122]:
+              - generic [ref=f25e123]:
+                - paragraph [ref=f25e124]: Tools & Application
+                - heading "Brushes & Tools" [level=3] [ref=f25e125]
+              - generic [ref=f25e126]: Shop Now
+      - generic [ref=f25e129]:
+        - generic [ref=f25e131]:
+          - generic [ref=f25e132]:
+            - heading "Featured" [level=2] [ref=f25e134]
+            - link "View All →" [ref=f25e136] [cursor=pointer]:
+              - /url: /shop?featured=true
+          - generic [ref=f25e137]:
+            - generic [ref=f25e138]:
+              - 'link "Medix 5.5 Vitamin C + Turmeric Lotion 444ml ★ Best Seller View product to wishlist Medix 5.5 Medix 5.5 Vitamin C + Turmeric Lotion 444ml vitamin c+ turmeric: yellow ferulonic: pink Ksh 550 Wholesale: Ksh 330 from 6 units" [ref=f25e140] [cursor=pointer]':
+                - /url: /product/medix-55-vitamin-c-turmeric-lotion-444ml
+                - generic [ref=f25e141]:
+                  - generic [ref=f25e142]:
+                    - img "Medix 5.5 Vitamin C + Turmeric Lotion 444ml" [ref=f25e143]
+                    - generic [ref=f25e144]: ★ Best Seller
+                    - button "View product to wishlist" [ref=f25e146]
+                  - generic [ref=f25e149]:
+                    - paragraph [ref=f25e150]: Medix 5.5
+                    - heading "Medix 5.5 Vitamin C + Turmeric Lotion 444ml" [level=3] [ref=f25e151]
+                    - generic [ref=f25e152]:
+                      - paragraph [ref=f25e153]:
+                        - generic [ref=f25e154]: "vitamin c+ turmeric:"
+                        - text: yellow
+                      - paragraph [ref=f25e155]:
+                        - generic [ref=f25e156]: "ferulonic:"
+                        - text: pink
+                    - generic [ref=f25e157]:
+                      - generic [ref=f25e158]: Ksh 550
+                      - generic [ref=f25e160]: "Wholesale: Ksh 330 from 6 units"
+              - 'link "Kiss Beauty Fit Mat Foundation SPF 30 ★ Best Seller Add to wishlist Kiss Beauty Kiss Beauty Fit Mat Foundation SPF 30 Ksh 350 Wholesale: Ksh 180 from 6 units" [ref=f25e162] [cursor=pointer]':
+                - /url: /product/kiss-beauty-fit-mat-foundation-spf-30
+                - generic [ref=f25e163]:
+                  - generic [ref=f25e164]:
+                    - img "Kiss Beauty Fit Mat Foundation SPF 30" [ref=f25e165]
+                    - generic [ref=f25e166]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e168]
+                  - generic [ref=f25e171]:
+                    - paragraph [ref=f25e172]: Kiss Beauty
+                    - heading "Kiss Beauty Fit Mat Foundation SPF 30" [level=3] [ref=f25e173]
+                    - generic [ref=f25e174]:
+                      - generic [ref=f25e175]: Ksh 350
+                      - generic [ref=f25e177]: "Wholesale: Ksh 180 from 6 units"
+              - 'link "Luodais Shine Styling Spray 200ml ★ Best Seller View product to wishlist Luodais Luodais Shine Styling Spray 200ml luodais: pink luodais: black Ksh 500 Wholesale: Ksh 150 from 6 units" [ref=f25e179] [cursor=pointer]':
+                - /url: /product/luodais-shine-styling-spray-200ml
+                - generic [ref=f25e180]:
+                  - generic [ref=f25e181]:
+                    - img "Luodais Shine Styling Spray 200ml" [ref=f25e182]
+                    - generic [ref=f25e183]: ★ Best Seller
+                    - button "View product to wishlist" [ref=f25e185]
+                  - generic [ref=f25e188]:
+                    - paragraph [ref=f25e189]: Luodais
+                    - heading "Luodais Shine Styling Spray 200ml" [level=3] [ref=f25e190]
+                    - generic [ref=f25e191]:
+                      - paragraph [ref=f25e192]:
+                        - generic [ref=f25e193]: "luodais:"
+                        - text: pink
+                      - paragraph [ref=f25e194]:
+                        - generic [ref=f25e195]: "luodais:"
+                        - text: black
+                    - generic [ref=f25e196]:
+                      - generic [ref=f25e197]: Ksh 500
+                      - generic [ref=f25e199]: "Wholesale: Ksh 150 from 6 units"
+              - 'link "Roniki UV LED Gel Top and Base Coat ★ Best Seller Add to wishlist Roniki Roniki UV LED Gel Top and Base Coat Ksh 500 Wholesale: Ksh 320 from 3 units" [ref=f25e201] [cursor=pointer]':
+                - /url: /product/roniki-uv-led-gel-top-and-base-coat
+                - generic [ref=f25e202]:
+                  - generic [ref=f25e203]:
+                    - img "Roniki UV LED Gel Top and Base Coat" [ref=f25e204]
+                    - generic [ref=f25e205]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e207]
+                  - generic [ref=f25e210]:
+                    - paragraph [ref=f25e211]: Roniki
+                    - heading "Roniki UV LED Gel Top and Base Coat" [level=3] [ref=f25e212]
+                    - generic [ref=f25e213]:
+                      - generic [ref=f25e214]: Ksh 500
+                      - generic [ref=f25e216]: "Wholesale: Ksh 320 from 3 units"
+              - 'link "American dream cream 500ml Add to wishlist American Dream American dream cream 500ml Ksh 1,200 Wholesale: Ksh 700 from 3 units" [ref=f25e218] [cursor=pointer]':
+                - /url: /product/american-dream-cream-500ml
+                - generic [ref=f25e219]:
+                  - generic [ref=f25e220]:
+                    - img "American dream cream 500ml" [ref=f25e221]
+                    - button "Add to wishlist" [ref=f25e222]
+                  - generic [ref=f25e225]:
+                    - paragraph [ref=f25e226]: American Dream
+                    - heading "American dream cream 500ml" [level=3] [ref=f25e227]
+                    - generic [ref=f25e228]:
+                      - generic [ref=f25e229]: Ksh 1,200
+                      - generic [ref=f25e231]: "Wholesale: Ksh 700 from 3 units"
+              - 'link "Khamrah 100ml Add to wishlist Lattafa Khamrah 100ml Ksh 2,000 Wholesale: Ksh 1,300 from 3 units" [ref=f25e233] [cursor=pointer]':
+                - /url: /product/khamrah-100ml
+                - generic [ref=f25e234]:
+                  - generic [ref=f25e235]:
+                    - img "Khamrah 100ml" [ref=f25e236]
+                    - button "Add to wishlist" [ref=f25e237]
+                  - generic [ref=f25e240]:
+                    - paragraph [ref=f25e241]: Lattafa
+                    - heading "Khamrah 100ml" [level=3] [ref=f25e242]
+                    - generic [ref=f25e243]:
+                      - generic [ref=f25e244]: Ksh 2,000
+                      - generic [ref=f25e246]: "Wholesale: Ksh 1,300 from 3 units"
+            - button "Scroll left"
+            - button "Scroll right"
+        - generic [ref=f25e248]:
+          - generic [ref=f25e249]:
+            - heading "Best Sellers" [level=2] [ref=f25e251]
+            - link "View All →" [ref=f25e253] [cursor=pointer]:
+              - /url: /shop?sort=best-sellers
+          - generic [ref=f25e254]:
+            - generic [ref=f25e255]:
+              - 'link "Meilisoon Summer Fan New ★ Best Seller Add to wishlist Meilisoon Meilisoon Summer Fan Ksh 350 Wholesale: Ksh 300 from 6 units" [ref=f25e257] [cursor=pointer]':
+                - /url: /product/meilisoon-summer-fan
+                - generic [ref=f25e258]:
+                  - generic [ref=f25e259]:
+                    - img "Meilisoon Summer Fan" [ref=f25e260]
+                    - generic [ref=f25e262]:
+                      - generic [ref=f25e263]: New
+                      - generic [ref=f25e264]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e265]
+                  - generic [ref=f25e268]:
+                    - paragraph [ref=f25e269]: Meilisoon
+                    - heading "Meilisoon Summer Fan" [level=3] [ref=f25e270]
+                    - generic [ref=f25e271]:
+                      - generic [ref=f25e272]: Ksh 350
+                      - generic [ref=f25e274]: "Wholesale: Ksh 300 from 6 units"
+              - 'link "Crown Queue Eau de Parfum Spray 30ml ★ Best Seller New View product to wishlist Crown Queue Crown Queue Eau de Parfum Spray 30ml 9PM: BLACK, PINK, WHITE, GREY ISLAND BLISS: GREEN Ksh 200 Wholesale: Ksh 130 from 6 units" [ref=f25e276] [cursor=pointer]':
+                - /url: /product/crown-queue-eau-de-parfum-vaporisateue-spray-30ml
+                - generic [ref=f25e277]:
+                  - generic [ref=f25e278]:
+                    - img "Crown Queue Eau de Parfum Spray 30ml" [ref=f25e279]
+                    - generic [ref=f25e280]:
+                      - generic [ref=f25e281]: ★ Best Seller
+                      - generic [ref=f25e282]: New
+                    - button "View product to wishlist" [ref=f25e283]
+                  - generic [ref=f25e286]:
+                    - paragraph [ref=f25e287]: Crown Queue
+                    - heading "Crown Queue Eau de Parfum Spray 30ml" [level=3] [ref=f25e288]
+                    - generic [ref=f25e289]:
+                      - paragraph [ref=f25e290]:
+                        - generic [ref=f25e291]: "9PM:"
+                        - text: BLACK, PINK, WHITE, GREY
+                      - paragraph [ref=f25e292]:
+                        - generic [ref=f25e293]: "ISLAND BLISS:"
+                        - text: GREEN
+                    - generic [ref=f25e294]:
+                      - generic [ref=f25e295]: Ksh 200
+                      - generic [ref=f25e297]: "Wholesale: Ksh 130 from 6 units"
+              - 'link "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml New ★ Best Seller Add to wishlist Flawless Ivy Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml Ksh 500 Wholesale: Ksh 400 from 6 units" [ref=f25e299] [cursor=pointer]':
+                - /url: /product/flawless-ivy-seal-it-waterproof-makeup-locking-mist-350ml
+                - generic [ref=f25e300]:
+                  - generic [ref=f25e301]:
+                    - img "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml" [ref=f25e302]
+                    - generic [ref=f25e303]:
+                      - generic [ref=f25e304]: New
+                      - generic [ref=f25e305]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e306]
+                  - generic [ref=f25e309]:
+                    - paragraph [ref=f25e310]: Flawless Ivy
+                    - heading "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml" [level=3] [ref=f25e311]
+                    - generic [ref=f25e312]:
+                      - generic [ref=f25e313]: Ksh 500
+                      - generic [ref=f25e315]: "Wholesale: Ksh 400 from 6 units"
+              - 'link "Medix 5.5 Vitamin C + Turmeric Lotion 444ml ★ Best Seller View product to wishlist Medix 5.5 Medix 5.5 Vitamin C + Turmeric Lotion 444ml vitamin c+ turmeric: yellow ferulonic: pink Ksh 550 Wholesale: Ksh 330 from 6 units" [ref=f25e317] [cursor=pointer]':
+                - /url: /product/medix-55-vitamin-c-turmeric-lotion-444ml
+                - generic [ref=f25e318]:
+                  - generic [ref=f25e319]:
+                    - img "Medix 5.5 Vitamin C + Turmeric Lotion 444ml" [ref=f25e320]
+                    - generic [ref=f25e321]: ★ Best Seller
+                    - button "View product to wishlist" [ref=f25e323]
+                  - generic [ref=f25e326]:
+                    - paragraph [ref=f25e327]: Medix 5.5
+                    - heading "Medix 5.5 Vitamin C + Turmeric Lotion 444ml" [level=3] [ref=f25e328]
+                    - generic [ref=f25e329]:
+                      - paragraph [ref=f25e330]:
+                        - generic [ref=f25e331]: "vitamin c+ turmeric:"
+                        - text: yellow
+                      - paragraph [ref=f25e332]:
+                        - generic [ref=f25e333]: "ferulonic:"
+                        - text: pink
+                    - generic [ref=f25e334]:
+                      - generic [ref=f25e335]: Ksh 550
+                      - generic [ref=f25e337]: "Wholesale: Ksh 330 from 6 units"
+              - 'link "Maison Asrar Vanilla Voyage Eau de Parfum 100ml New ★ Best Seller Add to wishlist Maison Asrar Maison Asrar Vanilla Voyage Eau de Parfum 100ml Ksh 2,000 Wholesale: Ksh 1,300 from 6 units" [ref=f25e339] [cursor=pointer]':
+                - /url: /product/maison-asrar-vanilla-voyage-eau-de-parfum-100ml
+                - generic [ref=f25e340]:
+                  - generic [ref=f25e341]:
+                    - img "Maison Asrar Vanilla Voyage Eau de Parfum 100ml" [ref=f25e342]
+                    - generic [ref=f25e343]:
+                      - generic [ref=f25e344]: New
+                      - generic [ref=f25e345]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e346]
+                  - generic [ref=f25e349]:
+                    - paragraph [ref=f25e350]: Maison Asrar
+                    - heading "Maison Asrar Vanilla Voyage Eau de Parfum 100ml" [level=3] [ref=f25e351]
+                    - generic [ref=f25e352]:
+                      - generic [ref=f25e353]: Ksh 2,000
+                      - generic [ref=f25e355]: "Wholesale: Ksh 1,300 from 6 units"
+              - 'link "Kiss Beauty Fit Mat Foundation SPF 30 ★ Best Seller Add to wishlist Kiss Beauty Kiss Beauty Fit Mat Foundation SPF 30 Ksh 350 Wholesale: Ksh 180 from 6 units" [ref=f25e357] [cursor=pointer]':
+                - /url: /product/kiss-beauty-fit-mat-foundation-spf-30
+                - generic [ref=f25e358]:
+                  - generic [ref=f25e359]:
+                    - img "Kiss Beauty Fit Mat Foundation SPF 30" [ref=f25e360]
+                    - generic [ref=f25e361]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e363]
+                  - generic [ref=f25e366]:
+                    - paragraph [ref=f25e367]: Kiss Beauty
+                    - heading "Kiss Beauty Fit Mat Foundation SPF 30" [level=3] [ref=f25e368]
+                    - generic [ref=f25e369]:
+                      - generic [ref=f25e370]: Ksh 350
+                      - generic [ref=f25e372]: "Wholesale: Ksh 180 from 6 units"
+              - 'link "Luodais Shine Styling Lotion 200ml ★ Best Seller Limited View product to wishlist Luodais Luodais Shine Styling Lotion 200ml luodais: pink luodais: black Ksh 500 Wholesale: Ksh 150 from 6 units" [ref=f25e374] [cursor=pointer]':
+                - /url: /product/luodais-shine-styling-lotion-200ml
+                - generic [ref=f25e375]:
+                  - generic [ref=f25e376]:
+                    - img "Luodais Shine Styling Lotion 200ml" [ref=f25e377]
+                    - generic [ref=f25e378]:
+                      - generic [ref=f25e379]: ★ Best Seller
+                      - generic [ref=f25e380]: Limited
+                    - button "View product to wishlist" [ref=f25e381]
+                  - generic [ref=f25e384]:
+                    - paragraph [ref=f25e385]: Luodais
+                    - heading "Luodais Shine Styling Lotion 200ml" [level=3] [ref=f25e386]
+                    - generic [ref=f25e387]:
+                      - paragraph [ref=f25e388]:
+                        - generic [ref=f25e389]: "luodais:"
+                        - text: pink
+                      - paragraph [ref=f25e390]:
+                        - generic [ref=f25e391]: "luodais:"
+                        - text: black
+                    - generic [ref=f25e392]:
+                      - generic [ref=f25e393]: Ksh 500
+                      - generic [ref=f25e395]: "Wholesale: Ksh 150 from 6 units"
+              - 'link "Luodais Shine Styling Spray 200ml ★ Best Seller View product to wishlist Luodais Luodais Shine Styling Spray 200ml luodais: pink luodais: black Ksh 500 Wholesale: Ksh 150 from 6 units" [ref=f25e397] [cursor=pointer]':
+                - /url: /product/luodais-shine-styling-spray-200ml
+                - generic [ref=f25e398]:
+                  - generic [ref=f25e399]:
+                    - img "Luodais Shine Styling Spray 200ml" [ref=f25e400]
+                    - generic [ref=f25e401]: ★ Best Seller
+                    - button "View product to wishlist" [ref=f25e403]
+                  - generic [ref=f25e406]:
+                    - paragraph [ref=f25e407]: Luodais
+                    - heading "Luodais Shine Styling Spray 200ml" [level=3] [ref=f25e408]
+                    - generic [ref=f25e409]:
+                      - paragraph [ref=f25e410]:
+                        - generic [ref=f25e411]: "luodais:"
+                        - text: pink
+                      - paragraph [ref=f25e412]:
+                        - generic [ref=f25e413]: "luodais:"
+                        - text: black
+                    - generic [ref=f25e414]:
+                      - generic [ref=f25e415]: Ksh 500
+                      - generic [ref=f25e417]: "Wholesale: Ksh 150 from 6 units"
+              - 'link "Ocarly Turmeric Vitamin C Whitening Body Cream 500g ★ Best Seller Add to wishlist Ocarly Ocarly Turmeric Vitamin C Whitening Body Cream 500g Ksh 400 Wholesale: Ksh 350 from 6 units" [ref=f25e419] [cursor=pointer]':
+                - /url: /product/ocarly-turmeric-vitamin-c-whitening-body-cream-500g
+                - generic [ref=f25e420]:
+                  - generic [ref=f25e421]:
+                    - img "Ocarly Turmeric Vitamin C Whitening Body Cream 500g" [ref=f25e422]
+                    - generic [ref=f25e423]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e425]
+                  - generic [ref=f25e428]:
+                    - paragraph [ref=f25e429]: Ocarly
+                    - heading "Ocarly Turmeric Vitamin C Whitening Body Cream 500g" [level=3] [ref=f25e430]
+                    - generic [ref=f25e431]:
+                      - generic [ref=f25e432]: Ksh 400
+                      - generic [ref=f25e434]: "Wholesale: Ksh 350 from 6 units"
+              - 'link "Omni Gold Whitening Lotion 500ml ★ Best Seller Add to wishlist Omni Gold Omni Gold Whitening Lotion 500ml Ksh 400 Wholesale: Ksh 300 from 6 units" [ref=f25e436] [cursor=pointer]':
+                - /url: /product/omni-gold-whitening-lotion-500ml
+                - generic [ref=f25e437]:
+                  - generic [ref=f25e438]:
+                    - img "Omni Gold Whitening Lotion 500ml" [ref=f25e439]
+                    - generic [ref=f25e440]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e442]
+                  - generic [ref=f25e445]:
+                    - paragraph [ref=f25e446]: Omni Gold
+                    - heading "Omni Gold Whitening Lotion 500ml" [level=3] [ref=f25e447]
+                    - generic [ref=f25e448]:
+                      - generic [ref=f25e449]: Ksh 400
+                      - generic [ref=f25e451]: "Wholesale: Ksh 300 from 6 units"
+              - 'link "Pure Indian White Whitening Lotion 500ml ★ Best Seller Add to wishlist Pure Indian White Pure Indian White Whitening Lotion 500ml Ksh 400 Wholesale: Ksh 300 from 6 units" [ref=f25e453] [cursor=pointer]':
+                - /url: /product/pure-indian-white-whitening-lotion-500ml
+                - generic [ref=f25e454]:
+                  - generic [ref=f25e455]:
+                    - img "Pure Indian White Whitening Lotion 500ml" [ref=f25e456]
+                    - generic [ref=f25e457]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e459]
+                  - generic [ref=f25e462]:
+                    - paragraph [ref=f25e463]: Pure Indian White
+                    - heading "Pure Indian White Whitening Lotion 500ml" [level=3] [ref=f25e464]
+                    - generic [ref=f25e465]:
+                      - generic [ref=f25e466]: Ksh 400
+                      - generic [ref=f25e468]: "Wholesale: Ksh 300 from 6 units"
+              - 'link "Rasasi Elixir Eau de Parfum 90ml New ★ Best Seller Add to wishlist Rasasi Rasasi Elixir Eau de Parfum 90ml Ksh 1,300 Wholesale: Ksh 1,000 from 6 units" [ref=f25e470] [cursor=pointer]':
+                - /url: /product/elixir-rasasi-parfum-90ml
+                - generic [ref=f25e471]:
+                  - generic [ref=f25e472]:
+                    - img "Rasasi Elixir Eau de Parfum 90ml" [ref=f25e473]
+                    - generic [ref=f25e474]:
+                      - generic [ref=f25e475]: New
+                      - generic [ref=f25e476]: ★ Best Seller
+                    - button "Add to wishlist" [ref=f25e477]
+                  - generic [ref=f25e480]:
+                    - paragraph [ref=f25e481]: Rasasi
+                    - heading "Rasasi Elixir Eau de Parfum 90ml" [level=3] [ref=f25e482]
+                    - generic [ref=f25e483]:
+                      - generic [ref=f25e484]: Ksh 1,300
+                      - generic [ref=f25e486]: "Wholesale: Ksh 1,000 from 6 units"
+            - button "Scroll left"
+            - button "Scroll right"
+      - generic [ref=f25e489]:
+        - generic [ref=f25e491]:
+          - paragraph [ref=f25e492]: Super Glow
+          - heading "Super Glow Makeup Remover & Facial Cleanser 170g" [level=3] [ref=f25e493]
+          - paragraph [ref=f25e494]: Super Glow Makeup Remover & Facial Cleanser gently removes makeup and cleanses the skin in one step. Mineral oil and lanolin oil melt away foundation and everyday grime without harsh scrubbing. Rinse with warm water or wipe away with a washcloth.
+          - generic [ref=f25e495]: KES 250
+          - link "Shop Now" [ref=f25e497] [cursor=pointer]:
+            - /url: /product/super-glow-makeup-remover-facial-cleanser-170g
+            - text: Shop Now
+            - generic [aria-hidden] [ref=f25e498]: →
+        - generic [ref=f25e499]:
+          - generic: "01"
+          - img "Super Glow Makeup Remover & Facial Cleanser 170g" [ref=f25e503]
+      - generic [ref=f25e504]:
+        - generic [ref=f25e505]:
+          - heading "Shop by Concern" [level=2] [ref=f25e506]
+          - paragraph [ref=f25e507]: Find products tailored to your skin needs
+        - generic [ref=f25e509]:
+          - link [ref=f25e510] [cursor=pointer]:
+            - /url: /shop?concern=hydration
+            - generic [ref=f25e511]:
+              - heading "Hydration" [level=3] [ref=f25e515]
+              - paragraph [ref=f25e516]: Quench your skin's thirst
+          - link [ref=f25e517] [cursor=pointer]:
+            - /url: /shop?concern=anti-aging
+            - generic [ref=f25e518]:
+              - heading "Anti-Aging" [level=3] [ref=f25e522]
+              - paragraph [ref=f25e523]: Timeless beauty solutions
+          - link [ref=f25e524] [cursor=pointer]:
+            - /url: /shop?concern=brightening
+            - generic [ref=f25e525]:
+              - heading "Brightening" [level=3] [ref=f25e533]
+              - paragraph [ref=f25e534]: Glow from within
+          - link [ref=f25e535] [cursor=pointer]:
+            - /url: /shop?concern=acne
+            - generic [ref=f25e536]:
+              - heading "Acne-Prone" [level=3] [ref=f25e540]
+              - paragraph [ref=f25e541]: Clear, confident skin
+          - link [ref=f25e542] [cursor=pointer]:
+            - /url: /shop?concern=sensitive
+            - generic [ref=f25e543]:
+              - heading "Sensitive Skin" [level=3] [ref=f25e547]
+              - paragraph [ref=f25e548]: Gentle & caring formulas
+          - link [ref=f25e549] [cursor=pointer]:
+            - /url: /shop?concern=dark-spots
+            - generic [ref=f25e550]:
+              - heading "Dark Spots" [level=3] [ref=f25e555]
+              - paragraph [ref=f25e556]: Fade & even your tone
+          - link [ref=f25e557] [cursor=pointer]:
+            - /url: /shop?concern=oily-skin
+            - generic [ref=f25e558]:
+              - heading "Oily Skin" [level=3] [ref=f25e563]
+              - paragraph [ref=f25e564]: Shine control, all day
+      - generic [ref=f25e567]:
+        - generic [ref=f25e568]:
+          - heading "New Arrivals" [level=2] [ref=f25e570]
+          - link "View All →" [ref=f25e572] [cursor=pointer]:
+            - /url: /shop?sort=new
+        - generic [ref=f25e573]:
+          - generic [ref=f25e574]:
+            - 'link "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book) New Limited Add to wishlist Generic Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book) Ksh 1,000 Wholesale: Ksh 800 from 6 units" [ref=f25e576] [cursor=pointer]':
+              - /url: /product/ultimate-all-10-one-fashion-palette-make-up-kit-beauty-magic-book
+              - generic [ref=f25e577]:
+                - generic [ref=f25e578]:
+                  - img "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [ref=f25e579]
+                  - generic [ref=f25e580]:
+                    - generic [ref=f25e581]: New
+                    - generic [ref=f25e582]: Limited
+                  - button "Add to wishlist" [ref=f25e583]
+                - generic [ref=f25e586]:
+                  - paragraph [ref=f25e587]: Generic
+                  - heading "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [level=3] [ref=f25e588]
+                  - generic [ref=f25e589]:
+                    - generic [ref=f25e590]: Ksh 1,000
+                    - generic [ref=f25e592]: "Wholesale: Ksh 800 from 6 units"
+            - 'link "Meilisoon Summer Fan New ★ Best Seller Add to wishlist Meilisoon Meilisoon Summer Fan Ksh 350 Wholesale: Ksh 300 from 6 units" [ref=f25e594] [cursor=pointer]':
+              - /url: /product/meilisoon-summer-fan
+              - generic [ref=f25e595]:
+                - generic [ref=f25e596]:
+                  - img "Meilisoon Summer Fan" [ref=f25e597]
+                  - generic [ref=f25e599]:
+                    - generic [ref=f25e600]: New
+                    - generic [ref=f25e601]: ★ Best Seller
+                  - button "Add to wishlist" [ref=f25e602]
+                - generic [ref=f25e605]:
+                  - paragraph [ref=f25e606]: Meilisoon
+                  - heading "Meilisoon Summer Fan" [level=3] [ref=f25e607]
+                  - generic [ref=f25e608]:
+                    - generic [ref=f25e609]: Ksh 350
+                    - generic [ref=f25e611]: "Wholesale: Ksh 300 from 6 units"
+            - 'link "Crown Queue Eau de Parfum Spray 30ml ★ Best Seller New View product to wishlist Crown Queue Crown Queue Eau de Parfum Spray 30ml 9PM: BLACK, PINK, WHITE, GREY ISLAND BLISS: GREEN Ksh 200 Wholesale: Ksh 130 from 6 units" [ref=f25e613] [cursor=pointer]':
+              - /url: /product/crown-queue-eau-de-parfum-vaporisateue-spray-30ml
+              - generic [ref=f25e614]:
+                - generic [ref=f25e615]:
+                  - img "Crown Queue Eau de Parfum Spray 30ml" [ref=f25e616]
+                  - generic [ref=f25e617]:
+                    - generic [ref=f25e618]: ★ Best Seller
+                    - generic [ref=f25e619]: New
+                  - button "View product to wishlist" [ref=f25e620]
+                - generic [ref=f25e623]:
+                  - paragraph [ref=f25e624]: Crown Queue
+                  - heading "Crown Queue Eau de Parfum Spray 30ml" [level=3] [ref=f25e625]
+                  - generic [ref=f25e626]:
+                    - paragraph [ref=f25e627]:
+                      - generic [ref=f25e628]: "9PM:"
+                      - text: BLACK, PINK, WHITE, GREY
+                    - paragraph [ref=f25e629]:
+                      - generic [ref=f25e630]: "ISLAND BLISS:"
+                      - text: GREEN
+                  - generic [ref=f25e631]:
+                    - generic [ref=f25e632]: Ksh 200
+                    - generic [ref=f25e634]: "Wholesale: Ksh 130 from 6 units"
+            - 'link "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml New ★ Best Seller Add to wishlist Flawless Ivy Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml Ksh 500 Wholesale: Ksh 400 from 6 units" [ref=f25e636] [cursor=pointer]':
+              - /url: /product/flawless-ivy-seal-it-waterproof-makeup-locking-mist-350ml
+              - generic [ref=f25e637]:
+                - generic [ref=f25e638]:
+                  - img "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml" [ref=f25e639]
+                  - generic [ref=f25e640]:
+                    - generic [ref=f25e641]: New
+                    - generic [ref=f25e642]: ★ Best Seller
+                  - button "Add to wishlist" [ref=f25e643]
+                - generic [ref=f25e646]:
+                  - paragraph [ref=f25e647]: Flawless Ivy
+                  - heading "Flawless Ivy Seal It Waterproof Makeup Locking Mist 350ml" [level=3] [ref=f25e648]
+                  - generic [ref=f25e649]:
+                    - generic [ref=f25e650]: Ksh 500
+                    - generic [ref=f25e652]: "Wholesale: Ksh 400 from 6 units"
+            - 'link "Maison Asrar Vanilla Voyage Eau de Parfum 100ml New ★ Best Seller Add to wishlist Maison Asrar Maison Asrar Vanilla Voyage Eau de Parfum 100ml Ksh 2,000 Wholesale: Ksh 1,300 from 6 units" [ref=f25e654] [cursor=pointer]':
+              - /url: /product/maison-asrar-vanilla-voyage-eau-de-parfum-100ml
+              - generic [ref=f25e655]:
+                - generic [ref=f25e656]:
+                  - img "Maison Asrar Vanilla Voyage Eau de Parfum 100ml" [ref=f25e657]
+                  - generic [ref=f25e658]:
+                    - generic [ref=f25e659]: New
+                    - generic [ref=f25e660]: ★ Best Seller
+                  - button "Add to wishlist" [ref=f25e661]
+                - generic [ref=f25e664]:
+                  - paragraph [ref=f25e665]: Maison Asrar
+                  - heading "Maison Asrar Vanilla Voyage Eau de Parfum 100ml" [level=3] [ref=f25e666]
+                  - generic [ref=f25e667]:
+                    - generic [ref=f25e668]: Ksh 2,000
+                    - generic [ref=f25e670]: "Wholesale: Ksh 1,300 from 6 units"
+            - 'link "Final Glow Half Cast Carrot Whitening Body Cream 500ml New Add to wishlist Final Glow Final Glow Half Cast Carrot Whitening Body Cream 500ml Ksh 600 Wholesale: Ksh 450 from 6 units" [ref=f25e672] [cursor=pointer]':
+              - /url: /product/final-glow-half-cast-carrot-whitening-body-cream-500ml
+              - generic [ref=f25e673]:
+                - generic [ref=f25e674]:
+                  - img "Final Glow Half Cast Carrot Whitening Body Cream 500ml" [ref=f25e675]
+                  - generic [ref=f25e676]: New
+                  - button "Add to wishlist" [ref=f25e678]
+                - generic [ref=f25e681]:
+                  - paragraph [ref=f25e682]: Final Glow
+                  - heading "Final Glow Half Cast Carrot Whitening Body Cream 500ml" [level=3] [ref=f25e683]
+                  - generic [ref=f25e684]:
+                    - generic [ref=f25e685]: Ksh 600
+                    - generic [ref=f25e687]: "Wholesale: Ksh 450 from 6 units"
+            - 'link "Rasasi Elixir Eau de Parfum 90ml New ★ Best Seller Add to wishlist Rasasi Rasasi Elixir Eau de Parfum 90ml Ksh 1,300 Wholesale: Ksh 1,000 from 6 units" [ref=f25e689] [cursor=pointer]':
+              - /url: /product/elixir-rasasi-parfum-90ml
+              - generic [ref=f25e690]:
+                - generic [ref=f25e691]:
+                  - img "Rasasi Elixir Eau de Parfum 90ml" [ref=f25e692]
+                  - generic [ref=f25e693]:
+                    - generic [ref=f25e694]: New
+                    - generic [ref=f25e695]: ★ Best Seller
+                  - button "Add to wishlist" [ref=f25e696]
+                - generic [ref=f25e699]:
+                  - paragraph [ref=f25e700]: Rasasi
+                  - heading "Rasasi Elixir Eau de Parfum 90ml" [level=3] [ref=f25e701]
+                  - generic [ref=f25e702]:
+                    - generic [ref=f25e703]: Ksh 1,300
+                    - generic [ref=f25e705]: "Wholesale: Ksh 1,000 from 6 units"
+            - 'link "Lattafa Badee Al Oud Eau de Parfum 100ml New Add to wishlist Lattafa Lattafa Badee Al Oud Eau de Parfum 100ml Ksh 1,500 Wholesale: Ksh 1,000 from 6 units" [ref=f25e707] [cursor=pointer]':
+              - /url: /product/badee-al-oud-lattafa-100ml
+              - generic [ref=f25e708]:
+                - generic [ref=f25e709]:
+                  - img "Lattafa Badee Al Oud Eau de Parfum 100ml" [ref=f25e710]
+                  - generic [ref=f25e711]: New
+                  - button "Add to wishlist" [ref=f25e713]
+                - generic [ref=f25e716]:
+                  - paragraph [ref=f25e717]: Lattafa
+                  - heading "Lattafa Badee Al Oud Eau de Parfum 100ml" [level=3] [ref=f25e718]
+                  - generic [ref=f25e719]:
+                    - generic [ref=f25e720]: Ksh 1,500
+                    - generic [ref=f25e722]: "Wholesale: Ksh 1,000 from 6 units"
+            - 'link "Infinity Eau de Parfum 105ml New Add to wishlist Generic Infinity Eau de Parfum 105ml Ksh 2,000 Wholesale: Ksh 1,500 from 6 units" [ref=f25e724] [cursor=pointer]':
+              - /url: /product/infinity-eau-de-parfum-105ml
+              - generic [ref=f25e725]:
+                - generic [ref=f25e726]:
+                  - img "Infinity Eau de Parfum 105ml" [ref=f25e727]
+                  - generic [ref=f25e728]: New
+                  - button "Add to wishlist" [ref=f25e730]
+                - generic [ref=f25e733]:
+                  - paragraph [ref=f25e734]: Generic
+                  - heading "Infinity Eau de Parfum 105ml" [level=3] [ref=f25e735]
+                  - generic [ref=f25e736]:
+                    - generic [ref=f25e737]: Ksh 2,000
+                    - generic [ref=f25e739]: "Wholesale: Ksh 1,500 from 6 units"
+            - 'link "Khadlaj Shiyaaka Snow Eau de Parfum 100ml New Add to wishlist Khadlaj Khadlaj Shiyaaka Snow Eau de Parfum 100ml Ksh 2,000 Wholesale: Ksh 1,500 from 6 units" [ref=f25e741] [cursor=pointer]':
+              - /url: /product/shiyaaka-snow-khadlaj-parfum-100ml
+              - generic [ref=f25e742]:
+                - generic [ref=f25e743]:
+                  - img "Khadlaj Shiyaaka Snow Eau de Parfum 100ml" [ref=f25e744]
+                  - generic [ref=f25e745]: New
+                  - button "Add to wishlist" [ref=f25e747]
+                - generic [ref=f25e750]:
+                  - paragraph [ref=f25e751]: Khadlaj
+                  - heading "Khadlaj Shiyaaka Snow Eau de Parfum 100ml" [level=3] [ref=f25e752]
+                  - generic [ref=f25e753]:
+                    - generic [ref=f25e754]: Ksh 2,000
+                    - generic [ref=f25e756]: "Wholesale: Ksh 1,500 from 6 units"
+            - 'link "Lattafa Qaed Al Fursan Eau de Parfum 90ml New Add to wishlist Lattafa Lattafa Qaed Al Fursan Eau de Parfum 90ml Ksh 1,500 Wholesale: Ksh 1,000 from 6 units" [ref=f25e758] [cursor=pointer]':
+              - /url: /product/qaed-al-fursan-lattafa-90ml
+              - generic [ref=f25e759]:
+                - generic [ref=f25e760]:
+                  - img "Lattafa Qaed Al Fursan Eau de Parfum 90ml" [ref=f25e761]
+                  - generic [ref=f25e762]: New
+                  - button "Add to wishlist" [ref=f25e764]
+                - generic [ref=f25e767]:
+                  - paragraph [ref=f25e768]: Lattafa
+                  - heading "Lattafa Qaed Al Fursan Eau de Parfum 90ml" [level=3] [ref=f25e769]
+                  - generic [ref=f25e770]:
+                    - generic [ref=f25e771]: Ksh 1,500
+                    - generic [ref=f25e773]: "Wholesale: Ksh 1,000 from 6 units"
+            - 'link "Marshmallow Blush Parfum Set 4 x 30ml New Add to wishlist Generic Marshmallow Blush Parfum Set 4 x 30ml Ksh 1,500 Wholesale: Ksh 1,000 from 6 units" [ref=f25e775] [cursor=pointer]':
+              - /url: /product/mashmallow-blush-set-parfum-30ml-x-4pcs
+              - generic [ref=f25e776]:
+                - generic [ref=f25e777]:
+                  - img "Marshmallow Blush Parfum Set 4 x 30ml" [ref=f25e778]
+                  - generic [ref=f25e779]: New
+                  - button "Add to wishlist" [ref=f25e781]
+                - generic [ref=f25e784]:
+                  - paragraph [ref=f25e785]: Generic
+                  - heading "Marshmallow Blush Parfum Set 4 x 30ml" [level=3] [ref=f25e786]
+                  - generic [ref=f25e787]:
+                    - generic [ref=f25e788]: Ksh 1,500
+                    - generic [ref=f25e790]: "Wholesale: Ksh 1,000 from 6 units"
+          - button "Scroll left"
+          - button "Scroll right"
+      - generic [ref=f25e793]:
+        - generic [ref=f25e795]:
+          - generic [ref=f25e796]: ★ Best Seller
+          - paragraph [ref=f25e797]: Dr Rashel
+          - heading "Dr Rashel Black Soap with Bamboo Charcoal 100g" [level=3] [ref=f25e798]
+          - paragraph [ref=f25e799]: Dr Rashel Black Soap is a deep-cleansing face bar made with bamboo charcoal, which draws dirt and excess oil out of the pores. It is a popular choice for oily and acne-prone skin, helping keep breakouts and shine under control while glycerin stops skin feeling stripped. Regular use leaves the complexion looking clearer and brighter.
+          - generic [ref=f25e800]: KES 250
+          - link "Shop Now" [ref=f25e802] [cursor=pointer]:
+            - /url: /product/dr-rashel-black-soap-100g
+            - text: Shop Now
+            - generic [aria-hidden] [ref=f25e803]: →
+        - generic [ref=f25e804]:
+          - generic: "02"
+          - img "Dr Rashel Black Soap with Bamboo Charcoal 100g" [ref=f25e808]
+      - generic [ref=f25e811]:
+        - generic [ref=f25e812]:
+          - heading "Limited Edition" [level=2] [ref=f25e814]
+          - link "View All →" [ref=f25e816] [cursor=pointer]:
+            - /url: /shop?badge=limited-edition
+        - generic [ref=f25e817]:
+          - generic [ref=f25e818]:
+            - 'link "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book) New Limited Add to wishlist Generic Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book) Ksh 1,000 Wholesale: Ksh 800 from 6 units" [ref=f25e820] [cursor=pointer]':
+              - /url: /product/ultimate-all-10-one-fashion-palette-make-up-kit-beauty-magic-book
+              - generic [ref=f25e821]:
+                - generic [ref=f25e822]:
+                  - img "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [ref=f25e823]
+                  - generic [ref=f25e824]:
+                    - generic [ref=f25e825]: New
+                    - generic [ref=f25e826]: Limited
+                  - button "Add to wishlist" [ref=f25e827]
+                - generic [ref=f25e830]:
+                  - paragraph [ref=f25e831]: Generic
+                  - heading "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [level=3] [ref=f25e832]
+                  - generic [ref=f25e833]:
+                    - generic [ref=f25e834]: Ksh 1,000
+                    - generic [ref=f25e836]: "Wholesale: Ksh 800 from 6 units"
+            - 'link "Luodais Shine Styling Lotion 200ml ★ Best Seller Limited View product to wishlist Luodais Luodais Shine Styling Lotion 200ml luodais: pink luodais: black Ksh 500 Wholesale: Ksh 150 from 6 units" [ref=f25e838] [cursor=pointer]':
+              - /url: /product/luodais-shine-styling-lotion-200ml
+              - generic [ref=f25e839]:
+                - generic [ref=f25e840]:
+                  - img "Luodais Shine Styling Lotion 200ml" [ref=f25e841]
+                  - generic [ref=f25e842]:
+                    - generic [ref=f25e843]: ★ Best Seller
+                    - generic [ref=f25e844]: Limited
+                  - button "View product to wishlist" [ref=f25e845]
+                - generic [ref=f25e848]:
+                  - paragraph [ref=f25e849]: Luodais
+                  - heading "Luodais Shine Styling Lotion 200ml" [level=3] [ref=f25e850]
+                  - generic [ref=f25e851]:
+                    - paragraph [ref=f25e852]:
+                      - generic [ref=f25e853]: "luodais:"
+                      - text: pink
+                    - paragraph [ref=f25e854]:
+                      - generic [ref=f25e855]: "luodais:"
+                      - text: black
+                  - generic [ref=f25e856]:
+                    - generic [ref=f25e857]: Ksh 500
+                    - generic [ref=f25e859]: "Wholesale: Ksh 150 from 6 units"
+            - 'link "Rave Now White Eau de Parfum 100ml ★ Best Seller Limited Add to wishlist Rave Rave Now White Eau de Parfum 100ml Ksh 1,200 Wholesale: Ksh 900 from 6 units" [ref=f25e861] [cursor=pointer]':
+              - /url: /product/now-white-rave-parfum-100ml
+              - generic [ref=f25e862]:
+                - generic [ref=f25e863]:
+                  - img "Rave Now White Eau de Parfum 100ml" [ref=f25e864]
+                  - generic [ref=f25e865]:
+                    - generic [ref=f25e866]: ★ Best Seller
+                    - generic [ref=f25e867]: Limited
+                  - button "Add to wishlist" [ref=f25e868]
+                - generic [ref=f25e871]:
+                  - paragraph [ref=f25e872]: Rave
+                  - heading "Rave Now White Eau de Parfum 100ml" [level=3] [ref=f25e873]
+                  - generic [ref=f25e874]:
+                    - generic [ref=f25e875]: Ksh 1,200
+                    - generic [ref=f25e877]: "Wholesale: Ksh 900 from 6 units"
+            - 'link "Sol de Janeiro Perfume Mist Discovery Set Limited Add to wishlist Sol de Janeiro Sol de Janeiro Perfume Mist Discovery Set Ksh 900 Wholesale: Ksh 750 from 6 units" [ref=f25e879] [cursor=pointer]':
+              - /url: /product/sol-de-janeiro-perfume-mist-discovery-set
+              - generic [ref=f25e880]:
+                - generic [ref=f25e881]:
+                  - img "Sol de Janeiro Perfume Mist Discovery Set" [ref=f25e882]
+                  - generic [ref=f25e883]: Limited
+                  - button "Add to wishlist" [ref=f25e885]
+                - generic [ref=f25e888]:
+                  - paragraph [ref=f25e889]: Sol de Janeiro
+                  - heading "Sol de Janeiro Perfume Mist Discovery Set" [level=3] [ref=f25e890]
+                  - generic [ref=f25e891]:
+                    - generic [ref=f25e892]: Ksh 900
+                    - generic [ref=f25e894]: "Wholesale: Ksh 750 from 6 units"
+          - button "Scroll left"
+          - button "Scroll right"
+      - generic [ref=f25e897]:
+        - generic [ref=f25e899]:
+          - generic [ref=f25e900]: New
+          - paragraph [ref=f25e901]: Generic
+          - heading "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [level=3] [ref=f25e902]
+          - paragraph [ref=f25e903]: The Ultimate All-in-One Fashion Palette is a complete makeup kit in a book-style case, often called the Beauty Magic Book. It combines a large assortment of eyeshadows, blushes, highlighters, contour powders, foundation bases and lip colours. Ideal for makeup beginners and as a gift.
+          - generic [ref=f25e904]: KES 1,000
+          - link "Shop Now" [ref=f25e906] [cursor=pointer]:
+            - /url: /product/ultimate-all-10-one-fashion-palette-make-up-kit-beauty-magic-book
+            - text: Shop Now
+            - generic [aria-hidden] [ref=f25e907]: →
+        - generic [ref=f25e908]:
+          - generic: "03"
+          - img "Ultimate All-in-One Fashion Palette Makeup Kit (Beauty Magic Book)" [ref=f25e912]
+      - generic [ref=f25e915]:
+        - generic [ref=f25e916]:
+          - heading "Morning Glow Routine" [level=2] [ref=f25e917]
+          - paragraph [ref=f25e918]: Start your day with radiant skin. Our curated morning routine combines lightweight hydration with SPF protection to keep your skin glowing throughout the day.
+          - list [ref=f25e919]:
+            - listitem [ref=f25e920]:
+              - generic [ref=f25e921]: ✓
+              - generic [ref=f25e922]: "Cleansing Micellar Water: Gentle morning cleanse"
+            - listitem [ref=f25e923]:
+              - generic [ref=f25e924]: ✓
+              - generic [ref=f25e925]: "Hydration Essence Serum: Lightweight hydration boost"
+            - listitem [ref=f25e926]:
+              - generic [ref=f25e927]: ✓
+              - generic [ref=f25e928]: "Rose Petal Moisturizer: Lock in moisture"
+            - listitem [ref=f25e929]:
+              - generic [ref=f25e930]: ✓
+              - generic [ref=f25e931]: "SPF Protection: Daily sun defense"
+          - link "Shop the Routine" [ref=f25e932] [cursor=pointer]:
+            - /url: /shop
+        - img "Morning Glow Routine" [ref=f25e933]
+      - generic [ref=f25e935]:
+        - generic [ref=f25e936]:
+          - paragraph [ref=f25e937]: Delivery
+          - heading "We Deliver All Over Kenya" [level=2] [ref=f25e938]
+          - paragraph [ref=f25e939]: Via reputable courier services. Select your town at checkout, and we ship your order there and alert you the moment it arrives for collection.
+        - generic [ref=f25e940]:
+          - generic [ref=f25e941]:
+            - paragraph [ref=f25e946]: Step 1
+            - heading "Place Your Order" [level=3] [ref=f25e947]
+            - paragraph [ref=f25e948]: Browse and order online. Select your nearest town at checkout.
+          - generic [ref=f25e949]:
+            - paragraph [ref=f25e956]: Step 2
+            - heading "We Ship It" [level=3] [ref=f25e957]
+            - paragraph [ref=f25e958]: Your order is dispatched via trusted, reputable courier services.
+          - generic [ref=f25e959]:
+            - paragraph [ref=f25e964]: Step 3
+            - heading "You Get Notified" [level=3] [ref=f25e965]
+            - paragraph [ref=f25e966]: We alert you the moment your parcel arrives in your town.
+          - generic [ref=f25e967]:
+            - paragraph [ref=f25e972]: Step 4
+            - heading "Pick It Up" [level=3] [ref=f25e973]
+            - paragraph [ref=f25e974]: Collect your order from the pick-up point in your selected town.
+        - generic [ref=f25e976]:
+          - generic [ref=f25e982]:
+            - paragraph [ref=f25e983]: Nationwide Coverage
+            - paragraph [ref=f25e984]: All 47 counties · Every major town across Kenya
+          - link "Shop Now" [ref=f25e985] [cursor=pointer]:
+            - /url: /shop
+      - generic [ref=f25e986]:
+        - heading "Complete Your Routine" [level=2] [ref=f25e987]
+        - paragraph [ref=f25e988]: Discover our expertly curated collections designed to work together for your most radiant skin.
+        - link "Shop All Products" [ref=f25e989] [cursor=pointer]:
+          - /url: /shop
+    - contentinfo [ref=f25e990]:
+      - generic [ref=f25e991]:
+        - generic [ref=f25e992]:
+          - heading "Join Our Beauty Community" [level=3] [ref=f25e993]
+          - paragraph [ref=f25e994]: Subscribe to get exclusive offers and beauty tips delivered to your inbox.
+          - generic [ref=f25e995]:
+            - textbox "Enter your email" [ref=f25e996]
+            - button "Subscribe" [ref=f25e997] [cursor=pointer]
+        - generic [ref=f25e998]:
+          - generic [ref=f25e999]:
+            - heading "Customer Service" [level=4] [ref=f25e1000]
+            - list [ref=f25e1001]:
+              - listitem [ref=f25e1002]:
+                - link "Contact Us" [ref=f25e1003] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=f25e1004]:
+                - link "Shipping Info" [ref=f25e1005] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f25e1006]:
+                - link "Returns & Exchange" [ref=f25e1007] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f25e1008]:
+                - link "FAQ" [ref=f25e1009] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f25e1010]:
+                - link "Size Guide" [ref=f25e1011] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=f25e1012]:
+            - heading "About" [level=4] [ref=f25e1013]
+            - list [ref=f25e1014]:
+              - listitem [ref=f25e1015]:
+                - link "Our Story" [ref=f25e1016] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f25e1017]:
+                - link "Sustainability" [ref=f25e1018] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f25e1019]:
+                - link "Careers" [ref=f25e1020] [cursor=pointer]:
+                  - /url: /careers
+              - listitem [ref=f25e1021]:
+                - link "Press" [ref=f25e1022] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=f25e1023]:
+                - link "Blog" [ref=f25e1024] [cursor=pointer]:
+                  - /url: /blog
+          - generic [ref=f25e1025]:
+            - heading "Quick Links" [level=4] [ref=f25e1026]
+            - list [ref=f25e1027]:
+              - listitem [ref=f25e1028]:
+                - link "Store Locator" [ref=f25e1029] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=f25e1030]:
+                - link "Best Sellers" [ref=f25e1031] [cursor=pointer]:
+                  - /url: /shop?sort=best-sellers
+              - listitem [ref=f25e1032]:
+                - link "New Arrivals" [ref=f25e1033] [cursor=pointer]:
+                  - /url: /shop?sort=new
+              - listitem [ref=f25e1034]:
+                - link "Beauty Tips" [ref=f25e1035] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f25e1036]:
+                - link "FAQ" [ref=f25e1037] [cursor=pointer]:
+                  - /url: /faq
+          - generic [ref=f25e1038]:
+            - heading "Connect" [level=4] [ref=f25e1039]
+            - generic [ref=f25e1040]:
+              - link "Jamwas on TikTok" [ref=f25e1041] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@jamwasbeautycosmetics
+              - link "Jamwas on Facebook" [ref=f25e1044] [cursor=pointer]:
+                - /url: https://www.facebook.com/61572614313246
+              - link [ref=f25e1047] [cursor=pointer]:
+                - /url: mailto:info@jamwasbeauty.com
+            - list [ref=f25e1051]:
+              - listitem [ref=f25e1052]:
+                - link "+254 703 956 502" [ref=f25e1053] [cursor=pointer]:
+                  - /url: tel:+254703956502
+              - listitem [ref=f25e1056]:
+                - link "WhatsApp us" [ref=f25e1057] [cursor=pointer]:
+                  - /url: https://wa.me/254703956502?text=Hi%20Jamwas!%20I'd%20like%20to%20ask%20about%20a%20product.
+        - generic [ref=f25e1061]:
+          - paragraph [ref=f25e1062]: Secure Payments
+          - generic [ref=f25e1063]:
+            - generic [ref=f25e1064]:
+              - generic [ref=f25e1065]:
+                - img "M-Pesa"
+              - generic [ref=f25e1066]: M-Pesa
+            - generic [ref=f25e1067]: SSL Encrypted
+            - generic [ref=f25e1071]: 100% Authentic
+        - generic [ref=f25e1076]:
+          - paragraph [ref=f25e1078]: © 2026 Jamwas Beauty and Cosmetics. All rights reserved.
+          - generic [ref=f25e1079]:
+            - link "Privacy Policy" [ref=f25e1080] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms of Service" [ref=f25e1081] [cursor=pointer]:
+              - /url: /terms
+            - link "Accessibility" [ref=f25e1082] [cursor=pointer]:
+              - /url: /contact
+  - link "Chat with us on WhatsApp" [ref=f25e1083] [cursor=pointer]:
+    - /url: https://wa.me/254703956502?text=Hi!%20I'd%20like%20to%20ask%20about%20a%20product%20on%20Jamwas%20Beauty%20%26%20Cosmetics.
+  - button "Open chat" [ref=f25e1086] [cursor=pointer]:
+    - generic [ref=f25e1089]: Chat with us

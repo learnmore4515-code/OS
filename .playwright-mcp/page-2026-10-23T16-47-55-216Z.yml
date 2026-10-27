@@ -1,0 +1,1013 @@
+- generic [active] [ref=f11e1]:
+  - link "Skip to main content" [ref=f11e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f11e6]:
+    - generic:
+      - generic: "how to compare insurance quotes without pulling hair out?? : r/Insurance"
+      - banner [ref=f11e10]:
+        - navigation [ref=f11e11]:
+          - generic [ref=f11e12]:
+            - button "Open menu" [ref=f11e16] [cursor=pointer]
+            - link "Home" [ref=f11e24] [cursor=pointer]:
+              - /url: https://www.reddit.com/
+          - search [ref=f11e43]:
+            - generic [ref=f11e45]:
+              - generic "Remove r/Insurance filter and expand search to all of Reddit" [ref=f11e51] [cursor=pointer]:
+                - button [pressed] [ref=f11e52]:
+                  - generic [aria-hidden] [ref=f11e56]: r/Insurance
+              - textbox "Remove r/Insurance filter and expand search to all of Reddit" [ref=f11e62]:
+                - /placeholder: Search in ⁨r/Insurance⁩
+          - generic [ref=f11e63]:
+            - link "Log In" [ref=f11e67] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+            - button "Expand user menu" [ref=f11e74] [cursor=pointer]
+      - generic [ref=f11e83]:
+        - main [ref=f11e84]:
+          - 'generic "how to compare insurance quotes without pulling hair out?? : r/Insurance"'
+          - generic [ref=f11e85]:
+            - generic [ref=f11e86]:
+              - generic [ref=f11e87]:
+                - button "Back" [ref=f11e89] [cursor=pointer]
+                - link "Go to Insurance" [ref=f11e97] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/Insurance/
+                - group [ref=f11e102]:
+                  - generic [ref=f11e103]:
+                    - link "r/Insurance" [ref=f11e107] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/Insurance/
+                    - generic [aria-hidden] [ref=f11e108]: •
+                    - time [ref=f11e110]: 3y ago
+                  - 'link "Author: crofootn" [ref=f11e116] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/crofootn/
+                    - generic [ref=f11e117]: u/crofootn
+              - generic [ref=f11e119]:
+                - generic [ref=f11e121]:
+                  - generic:
+                    - img "Locked post" [ref=f11e123]
+                    - img "Archived post" [ref=f11e126]
+                - button "Open user actions" [ref=f11e130] [cursor=pointer]
+            - generic [ref=f11e136]:
+              - 'heading "Post Title: how to compare insurance quotes without pulling hair out??" [level=1] [ref=f11e137]': how to compare insurance quotes without pulling hair out??
+              - 'link "Flair: Auto Insurance" [ref=f11e140] [cursor=pointer]':
+                - /url: /r/Insurance/?f=flair_name%3A%22Auto%20Insurance%22
+                - 'generic "Flair: Auto Insurance" [ref=f11e142]': Auto Insurance
+            - generic [ref=f11e146]:
+              - paragraph [ref=f11e147]: We bundle everything, have had zero accidents, zero claims, no late payments, etc. YET our premiums keep going up. I've been trying to shop for better/cheaper insurance but have found it virtually impossible. I've tried a number of comparison sites but at the end, it just makes me go to the official insurance site and re-enter just about everything. Even after that, it wants me to contact them to complete the quote. I've spent hours messing with this and have gotten absolutely nowhere.
+              - paragraph [ref=f11e148]: Any good and reliable comparison tools or recommendations?
+            - generic: Locked post. New comments cannot be posted.
+            - generic: Archived post. New comments cannot be posted and votes cannot be cast.
+            - generic "Actions available for this post" [ref=f11e161]:
+              - generic [ref=f11e164]:
+                - button "Upvote" [disabled]
+                - generic [ref=f11e165]: "11"
+                - button "Downvote" [disabled]
+              - button "31 Go to comments" [ref=f11e167] [cursor=pointer]:
+                - generic [ref=f11e168]: "31"
+                - generic [ref=f11e174]: Go to comments
+              - button "Share" [ref=f11e178] [cursor=pointer]
+          - generic "TFW you realise you can spend the weekend in your own private tree house (or yurt, or houseboat, or cabin...)" [ref=f11e185]:
+            - generic [ref=f11e186]:
+              - 'link "Advertisement: TFW you realise you can spend the weekend in your own private tree house (or yurt, or houseboat, or cabin...)" [ref=f11e187] [cursor=pointer]':
+                - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+              - generic [ref=f11e188]:
+                - generic [ref=f11e189]:
+                  - link "airbnb" [ref=f11e192] [cursor=pointer]:
+                    - /url: /user/airbnb/
+                    - img "u/airbnb avatar" [ref=f11e195]
+                  - generic [ref=f11e197]: •
+                  - link "Ad" [ref=f11e199] [cursor=pointer]:
+                    - /url: /user/airbnb/
+                  - link [ref=f11e201] [cursor=pointer]:
+                    - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                - button "Open user actions" [ref=f11e207] [cursor=pointer]
+              - generic [ref=f11e213]:
+                - generic [ref=f11e214]:
+                  - link "TFW you realise you can spend the weekend in your own private tree house (or yurt, or houseboat, or cabin...)" [ref=f11e216] [cursor=pointer]:
+                    - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                  - generic [ref=f11e217]:
+                    - link [ref=f11e218] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                    - generic [ref=f11e219]:
+                      - link "Book Now" [ref=f11e220] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                      - link "airbnb.com" [ref=f11e224] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                - link [ref=f11e227] [cursor=pointer]:
+                  - /url: https://alb.reddit.com/cr?za=Q-f6z0E0q9a7f7nv3ecUywiK4v13UnFFGMQEWFnUercuMRr2WFI8EnCkzEEvT0UbqzPiNG942Xvg5p6Arjt8WpEM1p1TQeILdFjO5eC9UNxAUMJa2ldLaECCzzMmkEjo3H5p1AggjA_w6HmU6l7H2ML5McfDMpSpj5hDkp1yI89LZkzvc-JEQFcIZjRjRc9yEPZUd-nuXJfsyR8gbfpVwondu0BnosUD5NmuVZkk6ANqNPF8DtaoL2zrOyOO7QQppfaCSVqb0u86NHQXAOrJdO8kqVzpFN8AYjCUJ4SIrOe7RXbCVXm-GkNQer8e2-gWsUW2IeUMN6xzeP8SisYcWXHacy2dOGHzksd332o_8IYtEP0UCZjZYt0IGf15PC8wV3oEkwZn8HVGbxHYxZ8BEgFDWxrC1g337larLke0o0quGExw-9QxPkQr8hu9XcsKsCuQ-mbZ_iIidkKN4NmQvorrsBXb9_BFb7D1rOIkVvxsWGjQHJanuBcH5SqFVp6FDSPeCYharpEKGvRuuYXuzKINsPkVcFBWbWvcpaoKNPU7Qy1C9XsIrXUwYzM1DlaaDxjS8KBsLLKHZxW1boWZ9rvHnhV01SMyFyhdSkBkoK9DjrunK98gmtw25sXwKtSbDgCDLXLzki4hzcVHy-MIEDO8aQaJGGyhNWyyVJwLrtkdQXn-NQBjT1ROGt8eBdYwB5cKMGoOOjvaOJd-56rOC2xBtJKFKkrUxUb2BUpDb8z9KmqKRkXak4mH6ZaHo7uPJzB6jljFQvSRQwdHH4ev8t0dyUymAtXWwl7-wxX2dws-4vO7ynLetFEpbBvPeh2OMJf1mClLDZskKqOLrw_n7pPSzF7FrAZM6x-fAucwPPYFma4AlrtgAaqnh_L8vm9oBvC9eAlU-dQgi4tXJi1CIncYp4LdRq2v4xnXx7jLtvpsiK87pC5buYoAZmkUHtcBXkoQU-aZeeQaI1lYn7B4nueKDtttRvtbtwDvmVsnVmByOLPSJtiSrfCAL1vSC4XvxixKrt4GeF7iRc-p8HXNOgZSDTGFeSIJSkvoWkXD1Fsr1RnPUO1f1K6nxSXLVufbesqg4WzV0hMLKiRm25MscoGpbkpNdZQGdLqzD0BLAzOp5T0_wOGzggSPamVBUKlTkOhGucD_wTKWcT3_1Y9sfSeRCyfZWgWvTlWutqslOjR6Rto6h0lX2InXsMb60wIKlkdeGCzmPfzcFZ6TlnzDKJ-sSJjY4Ya1m6rsXWOh6Hdi__wba9yn4zZrajTjE7N-43mZb6HcDayHsdN3-vHpnT22gxi9d-vqJYymnTsKJaZunGJDVErk6RunMQaph2rQ-cv5SFDKRczFQfo-6Yai2SpEVVTMAMcjPJA9uONMaW0sx4x977zTzCbCBW9fDzyGn1DkBmw_mRwcoLqtgJwjQSL4YoVohnd2kvUiWkTDUJbhotCeN-0QGXt4vLGcDiO6JCEPLbd708Xo5dQnQ9mhnIWZ15WISKPK3X7u6uWSfxOTM5R2DtTTIUpVxm34&zp=D-q6Esc-gVAgRYl3wb2_CWBkqkf89d5NgvZ9CjB2LCMC7LNNjGm0i_3KC4cWTX8xraBIEY6osYbKWZGa-N9RmEc9tbeQEGiG9KK7wOwO9jfMGAl6QQ9AjG9yMOyLQV9qZxW5GRxLHibxrPprsR19Zqf8hhb0btVXNvwHoLMF1hoNstY2DY5tQ1DBn6CDRsEZbsnvxMjPDT6P974vBAlcIqWU8zrsV01QZmpr32QVzgMZDlKeBgew5Id3LnzH0HzyQMiUvpEK6Myp3wvtQrmnTzS4IRrHt5A0iZGpm_nyFXaXPp0xJgGPEnvtXCuiLx3PjvtXD65mjs9KB9g5dPSUQFy9MPbHqA
+                  - 'img "Thumbnail image: TFW you realise you can spend the weekend in your own private tree house (or yurt, or houseboat, or cabin...)" [ref=f11e228]'
+          - generic [ref=f11e235]:
+            - generic [ref=f11e237]:
+              - generic [aria-hidden] [ref=f11e238]: "Sort by:"
+              - button "Sort by Best" [ref=f11e243] [cursor=pointer]:
+                - generic [ref=f11e244]: Best
+            - button "Search Comments Expand comment search" [ref=f11e252] [cursor=pointer]:
+              - generic [ref=f11e253]: Search Comments
+              - generic [ref=f11e260]: Expand comment search
+          - region "Comments" [ref=f11e263]:
+            - heading "Comments Section" [level=1] [ref=f11e264]
+            - article "Comment from SnooStrawberries729 3 years ago" [ref=f11e266]:
+              - generic [ref=f11e267] [cursor=pointer]:
+                - link "SnooStrawberries729's profile --- avatar" [ref=f11e273]:
+                  - /url: https://www.reddit.com/user/SnooStrawberries729/
+                - generic [ref=f11e283]:
+                  - link "SnooStrawberries729's profile" [ref=f11e287]:
+                    - /url: https://www.reddit.com/user/SnooStrawberries729/
+                    - generic [ref=f11e288]: SnooStrawberries729
+                  - generic [aria-hidden] [ref=f11e290]: •
+                  - link [ref=f11e292]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke6tag9/
+                    - time [ref=f11e294]: 3y ago
+              - generic [ref=f11e296]:
+                - generic [ref=f11e299]:
+                  - paragraph [ref=f11e300]:
+                    - text: Call an
+                    - link "independent insurance agent" [ref=f11e303] [cursor=pointer]:
+                      - /url: /search/?q=independent+insurance+agent&cId=d4e69bc8-428f-46ec-9a7b-6215d7cc6160&iId=e1d1f8c5-a49e-4c80-9881-2afdf5220136
+                    - text: . You give them your info once and they do the shopping for you.
+                  - paragraph [ref=f11e307]: It’s a legit life hack
+                - 'article "Comment thread level 1: Reply from shortypants808 2 years ago" [ref=f11e312]':
+                  - generic [ref=f11e313] [cursor=pointer]:
+                    - link "shortypants808's profile --- avatar" [ref=f11e319]:
+                      - /url: https://www.reddit.com/user/shortypants808/
+                      - img "u/shortypants808 avatar" [ref=f11e322]
+                    - generic [ref=f11e326]:
+                      - link "shortypants808's profile" [ref=f11e330]:
+                        - /url: https://www.reddit.com/user/shortypants808/
+                        - generic [ref=f11e331]: shortypants808
+                      - generic [aria-hidden] [ref=f11e333]: •
+                      - link [ref=f11e335]:
+                        - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ls9v5bz/
+                        - time [ref=f11e337]: 2y ago
+                  - generic [ref=f11e339]:
+                    - paragraph [ref=f11e343]: Sorry if this is a dumb question ... but should your insurance agent be someone local? Like I get that they should be in the same state as you, but should they be in your local area?
+                    - 'article "Comment thread level 2: Reply from SnooStrawberries729 2 years ago" [ref=f11e348]':
+                      - generic [ref=f11e349] [cursor=pointer]:
+                        - link "SnooStrawberries729's profile --- avatar" [ref=f11e355]:
+                          - /url: https://www.reddit.com/user/SnooStrawberries729/
+                        - generic [ref=f11e365]:
+                          - link "SnooStrawberries729's profile" [ref=f11e369]:
+                            - /url: https://www.reddit.com/user/SnooStrawberries729/
+                            - generic [ref=f11e370]: SnooStrawberries729
+                          - generic [aria-hidden] [ref=f11e372]: •
+                          - link [ref=f11e374]:
+                            - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ls9z238/
+                            - time [ref=f11e376]: 2y ago
+                      - generic [ref=f11e378]:
+                        - generic [ref=f11e381]:
+                          - paragraph [ref=f11e382]:
+                            - text: It’s probably going to be better that they’re relatively local, just because they will be more familiar with your local market, but there wouldn’t be anything I would say is
+                            - emphasis [ref=f11e383]: wrong
+                            - text: with having an agent somewhere else in the state if you like one you found and don’t want to switch.
+                          - paragraph [ref=f11e384]: Like if you’re just moving across town or even a town or two over, there’s probably no need to switch agents. But if you permanently moved completely across the state or into a completely different metro area, I would suggest looking into finding a new agent.
+                        - button "9 more replies" [ref=f11e391] [cursor=pointer]:
+                          - generic [ref=f11e396]:
+                            - generic [ref=f11e397]: "9"
+                            - text: more replies
+            - article "Comment from eye_lowball 3 years ago" [ref=f11e399]:
+              - generic [ref=f11e400] [cursor=pointer]:
+                - link "eye_lowball's profile --- avatar" [ref=f11e406]:
+                  - /url: https://www.reddit.com/user/eye_lowball/
+                - generic [ref=f11e422]:
+                  - link "eye_lowball's profile" [ref=f11e426]:
+                    - /url: https://www.reddit.com/user/eye_lowball/
+                    - generic [ref=f11e427]: eye_lowball
+                  - generic [aria-hidden] [ref=f11e429]: •
+                  - link [ref=f11e431]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke6uolg/
+                    - time [ref=f11e433]: 3y ago
+              - generic [ref=f11e438]:
+                - paragraph [ref=f11e439]: Just to add on, premiums are going up for everyone.
+                - paragraph [ref=f11e440]: People with accidents.
+                - paragraph [ref=f11e441]: People without accidents.
+                - paragraph [ref=f11e442]: New drivers
+                - paragraph [ref=f11e443]: Old drivers.
+                - paragraph [ref=f11e444]: Young Drivers
+                - paragraph [ref=f11e445]: Everyone.
+            - article "Comment from jessper17 3 years ago" [ref=f11e449]:
+              - generic [ref=f11e450] [cursor=pointer]:
+                - link "jessper17's profile --- avatar" [ref=f11e456]:
+                  - /url: https://www.reddit.com/user/jessper17/
+                  - img "u/jessper17 avatar" [ref=f11e459]
+                - generic [ref=f11e463]:
+                  - link "jessper17's profile" [ref=f11e467]:
+                    - /url: https://www.reddit.com/user/jessper17/
+                    - generic [ref=f11e468]: jessper17
+                  - generic [aria-hidden] [ref=f11e470]: •
+                  - link [ref=f11e472]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke6tc9r/
+                    - time [ref=f11e474]: 3y ago
+              - generic [ref=f11e476]:
+                - paragraph [ref=f11e480]: Google “independent insurance agent” and your zip code. Choose one of those people. Have them get you quotes from the multiple carriers that they have access to.
+                - 'article "Comment thread level 1: Reply from DIYCenturyGoaler 2 years ago" [ref=f11e485]':
+                  - generic [ref=f11e486] [cursor=pointer]:
+                    - link "DIYCenturyGoaler's profile --- avatar" [ref=f11e492]:
+                      - /url: https://www.reddit.com/user/DIYCenturyGoaler/
+                    - generic [ref=f11e502]:
+                      - link "DIYCenturyGoaler's profile" [ref=f11e506]:
+                        - /url: https://www.reddit.com/user/DIYCenturyGoaler/
+                        - generic [ref=f11e507]: DIYCenturyGoaler
+                      - generic [aria-hidden] [ref=f11e509]: •
+                      - link [ref=f11e511]:
+                        - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/lsoo0u7/
+                        - time [ref=f11e513]: 2y ago
+                  - paragraph [ref=f11e519]: Do independent insurance agents have "relationships" with certain providers that might sway them? Just trying to gauge impartiality.
+            - article "Comment from nineteenlights 3 years ago" [ref=f11e523]:
+              - generic [ref=f11e524] [cursor=pointer]:
+                - link "nineteenlights's profile --- avatar" [ref=f11e530]:
+                  - /url: https://www.reddit.com/user/nineteenlights/
+                - generic [ref=f11e540]:
+                  - link "nineteenlights's profile" [ref=f11e544]:
+                    - /url: https://www.reddit.com/user/nineteenlights/
+                    - generic [ref=f11e545]: nineteenlights
+                  - generic [aria-hidden] [ref=f11e547]: •
+                  - link [ref=f11e549]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke6zmh7/
+                    - time [ref=f11e551]: 3y ago
+              - paragraph [ref=f11e557]: Gonna echo what's already been said - independent insurance agent. The sites you are using are putting you in a pool of leads to be sold to agencies so they can call you and try to close out a policy. With an independent agent you're getting someone who isn't loyal to any specific carrier and will generally try to get you the best policy/price they can.
+            - generic "It’s GO time." [ref=f11e561]:
+              - generic [ref=f11e562]:
+                - 'link "Advertisement: It’s GO time." [ref=f11e563] [cursor=pointer]':
+                  - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                - generic [ref=f11e564]:
+                  - generic [ref=f11e565]:
+                    - link "u/wago_corporation" [ref=f11e568] [cursor=pointer]:
+                      - /url: /user/wago_corporation/
+                      - img "u/wago_corporation avatar" [ref=f11e571]
+                    - generic [ref=f11e573]: •
+                    - link "Ad" [ref=f11e575] [cursor=pointer]:
+                      - /url: /user/wago_corporation/
+                    - link [ref=f11e577] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                  - button "Open user actions" [ref=f11e583] [cursor=pointer]
+                - generic [ref=f11e589]:
+                  - generic [ref=f11e590]:
+                    - link "It’s GO time." [ref=f11e592] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                    - generic [ref=f11e593]:
+                      - link [ref=f11e594] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                      - generic [ref=f11e595]:
+                        - link "Learn More" [ref=f11e596] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                        - link "gowagowiring.wago.com" [ref=f11e600] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=Tl6m73ve3MoDsR9-N9NuZG6stcxeZxo_CiAiS02zbKMv0dn-vnPQCy0oj5Eyji0IGvU3Y0RVR_n2x3OQUhYXQDq2j6xRk7w0H5jqYpKithUBuZ5OaQO1pYazCN-3S-2iWmiXZRPRWxnSluPwGoduo0WUmylOhu8EFE1VJniXOxBpaNErpOXLCl3Q_Fif7TskAXoB_q8l_VO4X350Ae6OB8pYBBZ14Lu3cam3AhuIzm3gLabU8XkmCdxXebh_yd5vqDu2kfoytNKTSYnBeQvY9fF31tZhNOFf7-ESdmJG8IQ7NwZNyfiN7Wvdm-DsuDVDw1C9umu5w-Cf-Z665CQ7XhKnVfQsHqIr2WUpDyDF_7aSKvtUg6Zh4w7S2QMon8cwOTuS74Uk8okKgZzaf7doNuOzztmn5wLrQ4ZSrs4i41y5zGbm8w_jX9Lhq4pDqGvv2r3gf7UzKXPoWrnUzZkq5wbarSvU_NxudZ6sh43ocansvHDekVIZhp5_ZImTENKUvON11ELsoPxySJAEJZCAQP0NHv2UyMRBqsgbe6e7DRaHVj1bwniSV6GY-PjPQYWrWECEag2sNDRtJk--MdqU46QLOZnTX0UHbIV2_sq2h3CDo1K6dT3iE4-ciiHRPmT12C_HxzEtr9kUtP4x8-b2V0XkQP69cwHYsw2iCDnP7VcftssjT4tkB-kWhTPFHOvvQ_tE&zp=cLW1V3HCS9Qqy_KN5lI5T1c_WlejDxC8Msk0gzp7byRvOFhrj712p49maQNLNqPofEEE762kUNwbglvL8_e-KcS_5MpNpdmXVfQQyp5qTxD_l0eCOfbeq7PZxUkgMJIYVDk2wPetyv4DoCGIZqDkXmiM4QlUTnOJ7R993ZlKO2yTBaYacIDpYstU2ZxIKu7qqf-ogvIG7YF8ISWVOt9zBIZTn1HzMZ7hGeqV59hPA23Bht1MZW4bjBsgqGvNYd6gU1V7-Rj3MtpbGeiJTmcXSGgX4ou5QIH_hRPx533l4IeSCAj8OagV8JE_DM_0AnaBVDopYB7R24uLHx2qC8-ndLuE5aAiGF-rVyNtzQ
+                  - generic [ref=f11e601] [cursor=pointer]:
+                    - 'img "Clickable image which will reveal the video player: It’s GO time." [ref=f11e602]'
+                    - button "Play video" [ref=f11e603]
+                - generic:
+                  - generic:
+                    - button "Collapse video player" [ref=f11e606] [cursor=pointer]
+                    - generic [ref=f11e615]:
+                      - generic [ref=f11e616]:
+                        - button "Toggle playback" [ref=f11e617] [cursor=pointer]
+                        - generic "Media time" [ref=f11e620]:
+                          - generic [ref=f11e622] [cursor=pointer]
+                        - generic [ref=f11e625]:
+                          - generic [ref=f11e626]: 0:00
+                          - generic [ref=f11e627]: / 0:00
+                        - button "Toggle captions" [ref=f11e628] [cursor=pointer]
+                        - button "Settings" [ref=f11e633] [cursor=pointer]
+                        - button "Toggle fullscreen" [ref=f11e636] [cursor=pointer]
+                      - button "Toggle volume" [ref=f11e642] [cursor=pointer]
+            - article "Comment from Crafty-Sundae6351 3 years ago" [ref=f11e647]:
+              - generic [ref=f11e648] [cursor=pointer]:
+                - link "Crafty-Sundae6351's profile --- avatar" [ref=f11e654]:
+                  - /url: https://www.reddit.com/user/Crafty-Sundae6351/
+                  - img "u/Crafty-Sundae6351 avatar" [ref=f11e657]
+                - generic [ref=f11e661]:
+                  - link "Crafty-Sundae6351's profile" [ref=f11e665]:
+                    - /url: https://www.reddit.com/user/Crafty-Sundae6351/
+                    - generic [ref=f11e666]: Crafty-Sundae6351
+                  - generic [aria-hidden] [ref=f11e668]: •
+                  - link [ref=f11e670]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke77qny/
+                    - time [ref=f11e672]: 3y ago
+              - generic [ref=f11e677]:
+                - paragraph [ref=f11e678]: I just completed the process of going through an independent agent. We told the guy we're going to move forward with him. Paperwork hasn't been finalized yet.
+                - paragraph [ref=f11e679]: I didn't find the right fit (both agent wise and quote wise) until the 3rd agent I talked to. The first two independents I talked to had various issues with their knowledge, attention to detail, and/or follow-up. Plus their quotes didn't save us very much.
+                - paragraph [ref=f11e680]: This guy I decided to go with didn't have any of those issues. Any question or request was responded with "OK - we can solve that." With others I got some "I don't knows." or "I'll have to let you now.".
+                - paragraph [ref=f11e681]: The net result is we're going to save roughly 25% going with a regional/niche company (Auto Owners) as compared to a mainstream/captive company (Farmer's).
+            - article "Comment from bigbamboo12345 3 years ago" [ref=f11e685]:
+              - generic [ref=f11e686] [cursor=pointer]:
+                - link "bigbamboo12345's profile --- avatar" [ref=f11e692]:
+                  - /url: https://www.reddit.com/user/bigbamboo12345/
+                  - img "u/bigbamboo12345 avatar" [ref=f11e695]
+                - generic [ref=f11e699]:
+                  - link "bigbamboo12345's profile" [ref=f11e703]:
+                    - /url: https://www.reddit.com/user/bigbamboo12345/
+                    - generic [ref=f11e704]: bigbamboo12345
+                  - generic [aria-hidden] [ref=f11e706]: •
+                  - link [ref=f11e708]:
+                    - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke74yev/
+                    - time [ref=f11e710]: 3y ago
+              - generic [ref=f11e712]:
+                - generic [ref=f11e715]:
+                  - blockquote [ref=f11e716]:
+                    - paragraph [ref=f11e717]: from multiple previous replies to this question
+                  - blockquote [ref=f11e718]:
+                    - paragraph [ref=f11e719]: any app (or agent for that matter) will only get you access to some portion of the market; there is no way to put your info into a single location and have it spit out quotes for every insurer that exists
+                  - blockquote [ref=f11e720]:
+                    - paragraph [ref=f11e721]: the best way to shop comprehensively is to get online quotes from all of the major carriers that you see tv commercials for, and then contact an independent agent to shop your policy with all the carriers that don't advertise and only sell via independent agents (which is the vast majority of carriers, btw)
+                  - blockquote [ref=f11e722]:
+                    - paragraph [ref=f11e723]: make sure the coverages you select are identical between all of the quotes and be truthful and accurate about the questions asked to ensure the quotes are all directly comparable and the prices are correct
+                  - blockquote [ref=f11e724]:
+                    - paragraph [ref=f11e725]: done right, it's about a 2 hr process so nbd to do it once every year or two to make sure your premium is still competitive (wouldn't change to save 1%, would consider changing to save 20%, would absolutely change to save 50%, etc)
+                  - blockquote [ref=f11e726]:
+                    - paragraph [ref=f11e727]: "you'll get some phone calls from agents after the fact so feel free to use a google voice # to screen them if you want"
+                - generic [ref=f11e730]:
+                  - 'article "Comment thread level 1: Reply from Admirable-Box5200 3 years ago" [ref=f11e732]':
+                    - generic [ref=f11e733] [cursor=pointer]:
+                      - link "Admirable-Box5200's profile --- avatar" [ref=f11e739]:
+                        - /url: https://www.reddit.com/user/Admirable-Box5200/
+                        - img "u/Admirable-Box5200 avatar" [ref=f11e742]
+                      - generic [ref=f11e746]:
+                        - link "Admirable-Box5200's profile" [ref=f11e750]:
+                          - /url: https://www.reddit.com/user/Admirable-Box5200/
+                          - generic [ref=f11e751]: Admirable-Box5200
+                        - generic [aria-hidden] [ref=f11e753]: •
+                        - link [ref=f11e755]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke7v4we/
+                          - time [ref=f11e757]: 3y ago
+                    - generic [ref=f11e759]:
+                      - paragraph [ref=f11e763]: Get quotes from all carriers you see on TV and then call an independent, total time about 2 hours, ROFL.
+                      - 'article "Comment thread level 2: Reply from bigbamboo12345 3 years ago" [ref=f11e768]':
+                        - generic [ref=f11e769] [cursor=pointer]:
+                          - link "bigbamboo12345's profile --- avatar" [ref=f11e775]:
+                            - /url: https://www.reddit.com/user/bigbamboo12345/
+                            - img "u/bigbamboo12345 avatar" [ref=f11e778]
+                          - generic [ref=f11e782]:
+                            - link "bigbamboo12345's profile" [ref=f11e786]:
+                              - /url: https://www.reddit.com/user/bigbamboo12345/
+                              - generic [ref=f11e787]: bigbamboo12345
+                            - generic [aria-hidden] [ref=f11e789]: •
+                            - link [ref=f11e791]:
+                              - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke7vnua/
+                              - time [ref=f11e793]: 3y ago
+                        - generic [ref=f11e798]:
+                          - paragraph [ref=f11e799]: i do it once every couple years, including last month, rofl
+                          - paragraph [ref=f11e800]: it's about 10 minutes per online form and 10 minutes to write an email to my indy, and then about an hour over the next week responding to emails
+                  - 'article "Comment thread level 1: Reply from [deleted] 3 years ago" [ref=f11e804]':
+                    - generic "[deleted] 3y ago" [ref=f11e805] [cursor=pointer]:
+                      - generic [ref=f11e819]:
+                        - generic [ref=f11e820]: "[deleted]"
+                        - generic [aria-hidden] [ref=f11e823]: •
+                        - link [ref=f11e825]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke79z9r/
+                          - time [ref=f11e827]: 3y ago
+                    - generic [ref=f11e829]:
+                      - paragraph [ref=f11e833]: I disagree. Just get an independent agent that is willing to take some time comparing multiple quotes. An agent provides expertise. There is no reasonable reward for trying to hit every insurance company in the country for a quote.
+                      - 'article "Comment thread level 2: Reply from bigbamboo12345 3 years ago" [ref=f11e838]':
+                        - generic [ref=f11e839] [cursor=pointer]:
+                          - link "bigbamboo12345's profile --- avatar" [ref=f11e845]:
+                            - /url: https://www.reddit.com/user/bigbamboo12345/
+                            - img "u/bigbamboo12345 avatar" [ref=f11e848]
+                          - generic [ref=f11e852]:
+                            - link "bigbamboo12345's profile" [ref=f11e856]:
+                              - /url: https://www.reddit.com/user/bigbamboo12345/
+                              - generic [ref=f11e857]: bigbamboo12345
+                            - generic [aria-hidden] [ref=f11e859]: •
+                            - link [ref=f11e861]:
+                              - /url: https://www.reddit.com/r/Insurance/comments/18mx2gs/comment/ke7bv8y/
+                              - time [ref=f11e863]: 3y ago
+                        - generic [ref=f11e865]:
+                          - generic [ref=f11e868]:
+                            - paragraph [ref=f11e869]: an independent agent can't touch five of the top ten p&c insurers by premiums written in this country lol, plus flo direct is almost always better priced than any of the flo underwriters that indies can touch
+                            - paragraph [ref=f11e870]: it's a severe disservice to a consumer to tell them they should not consider pricing from companies representing like 30+% of the market
+                          - button "7 more replies" [ref=f11e877] [cursor=pointer]:
+                            - generic [ref=f11e882]:
+                              - generic [ref=f11e883]: "7"
+                              - text: more replies
+            - article "Comment from [deleted] 3 years ago" [ref=f11e885]:
+              - generic "[deleted] 3y ago" [ref=f11e886] [cursor=pointer]:
+                - generic [ref=f11e893]:
+                  - generic [ref=f11e894]: "[deleted]"
+                  - generic [aria-hidden] [ref=f11e897]: •
+                  - time [ref=f11e899]: 3y ago
+        - generic [ref=f11e901]:
+          - generic [ref=f11e902]:
+            - complementary "People also ask about section" [ref=f11e903]:
+              - heading "People also ask about section" [level=1] [ref=f11e904]
+              - generic [ref=f11e905]: People also ask about
+              - generic [ref=f11e910]:
+                - link "How to find better car insurance rates" [ref=f11e912] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/40cd072a-5ddd-487d-9dc2-635e01ee9c45/?q=How+to+find+better+car+insurance+rates&source=PDP&ep=pdp_unit&relatedPostId=t3_18mx2gs
+                - link "Common insurance myths debunked by experts" [ref=f11e921] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/710f564f-4aa1-4d96-a5d3-405bdd763d34/?q=Common+insurance+myths+debunked+by+experts&source=PDP&ep=pdp_unit&relatedPostId=t3_18mx2gs
+                - link "How to save money on your insurance premiums" [ref=f11e930] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/cd40e694-5ed9-440d-a239-ea0dc8ff4fe7/?q=How+to+save+money+on+your+insurance+premiums&source=PDP&ep=pdp_unit&relatedPostId=t3_18mx2gs
+                - link "Best practices for filing an insurance claim" [ref=f11e939] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/57cf2eac-e3a1-4381-8535-573e75e5c02c/?q=Best+practices+for+filing+an+insurance+claim&source=PDP&ep=pdp_unit&relatedPostId=t3_18mx2gs
+                - link "Insurance coverage options for freelancers" [ref=f11e948] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/3d5c0017-5d47-40aa-91c9-f8e4b46a0306/?q=Insurance+coverage+options+for+freelancers&source=PDP&ep=pdp_unit&relatedPostId=t3_18mx2gs
+            - generic [ref=f11e956]:
+              - complementary "Related Posts Section" [ref=f11e957]:
+                - heading "Related Posts Section" [level=1] [ref=f11e958]: More posts you may like
+                - generic [ref=f11e959]: Related posts
+                - list [ref=f11e965]:
+                  - listitem [ref=f11e966]:
+                    - generic [ref=f11e967]:
+                      - generic [ref=f11e968]:
+                        - link "Finally figured out how to compare auto insurance quotes without losing my mind" [ref=f11e969] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Car_Insurance_Help/comments/1r16qel/finally_figured_out_how_to_compare_auto_insurance/
+                        - generic [ref=f11e972]:
+                          - generic [ref=f11e975]:
+                            - link "r/Car_Insurance_Help" [ref=f11e976] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Car_Insurance_Help/
+                            - generic [aria-hidden] [ref=f11e983]: •
+                            - time [ref=f11e985]: 8mo ago
+                          - link [ref=f11e987] [cursor=pointer]:
+                            - /url: /r/Car_Insurance_Help/comments/1r16qel/finally_figured_out_how_to_compare_auto_insurance/
+                            - heading "List item post - Finally figured out how to compare auto insurance quotes wi..." [level=3] [ref=f11e990]: Finally figured out how to compare auto insurance quotes without losing my mind
+                        - generic [ref=f11e992]:
+                          - generic [ref=f11e993]: "28"
+                          - text: comments
+                      - separator [ref=f11e994]
+                  - listitem [ref=f11e995]:
+                    - generic [ref=f11e997]:
+                      - generic:
+                        - 'link "Advertisement: Follow Canadian stock news & data" [ref=f11e998] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                        - generic [ref=f11e999]:
+                          - generic [ref=f11e1000]:
+                            - generic [ref=f11e1001]:
+                              - generic [ref=f11e1002]:
+                                - generic [ref=f11e1003]:
+                                  - link "u/EarthlabsMedia avatar EarthlabsMedia" [ref=f11e1006] [cursor=pointer]:
+                                    - /url: /user/EarthlabsMedia/
+                                    - img "u/EarthlabsMedia avatar" [ref=f11e1009]
+                                    - generic [ref=f11e1010]: EarthlabsMedia
+                                  - generic [ref=f11e1011]: •
+                                  - link "Ad" [ref=f11e1013] [cursor=pointer]:
+                                    - /url: /user/EarthlabsMedia/
+                                  - link [ref=f11e1015] [cursor=pointer]:
+                                    - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                                - button "Open user actions" [ref=f11e1021] [cursor=pointer]
+                              - link "Follow Canadian stock news & data" [ref=f11e1028] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                                - generic "Follow Canadian stock news & data" [ref=f11e1029]
+                            - link [ref=f11e1032] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                              - 'img "Thumbnail image: Follow Canadian stock news & data" [ref=f11e1034]'
+                          - generic [ref=f11e1035]:
+                            - link [ref=f11e1036] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                            - generic [ref=f11e1037]:
+                              - link "ceo.ca" [ref=f11e1039] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                              - link "View More" [ref=f11e1040] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=6Cr6dSHvQHH3a3NOPf_1rqziC7wu7k8MEuz77O9Zh2ZvGGVDTy3sY_EQzEo8LUvO3ukUYTpR6VeAjz6y0mfP_AuOymmPZFw_XahhCNfLZ0WLN7lSBEMfdPVqVv_fpi4CI99PH5qFzpdXv9W4e4dYmFzBrrpy8vVOqKPcfogTd6fehvpd0gJRxGgCJPEcGRs-nqzdyMnwnjDrlAfdyV5lHkalAkO7VxEGvProBaMGHizn0aMfKT1pf86ZVOhxaiHHKOuDZKZ8qADSXWujFRz5I27iR84KZwvtK5GC3SMWc9_Krf7LIJApl2ZR4exhv3gNoqX8RB7nhbaPLFQszVBYN1eWDxADbx-_iXLQGR9ig_dMhQ2Ngrwv3d_VCE5n09zza3cE5NhOpuJyWT5R4-y5ryFpqL7PXF_I10lWw44ZQhwEzKW_heitLTtvFq1WsIrvumUl6C5vyxf_QdlkKZMbzCRBXi8t005_tEMONZ2cHN6uVT-0Zo213ibQc8AHuoAKOXiDTDXTfJ8nkZYS2i1srgWTOOhQVQIUPOjxg99tbaj8L2z3wDxg6hlf-dJx8KOAlcAWgiIMrf8P1t_lqZlbixJ4hnmRIhoUb_g9aUASt972ttbkUGO2X5SOpvFl5t2DAWn7IuhIF0GE_PPofyZbpT0FrQs0FEoMznAGpQuS1vMNC26GJI_cjNovpvmFnIt5Hmn66aY&zp=XfwPvoJN4s2pYdD9iKSq6RW_Sva0LyqciwSgW6FKgHgM-rB3kjjsml5cmdP45IwBaHVdU0_pZR2NFyF5wVkQPsTi_UhDbKURwGspfytB8WKv-9mhiEh33mfgjdhJnwzbt_TOFfrjSXthvQ4jY566Sudmo1eCzam_25z4_jdiW9JZty3QWzNwxean2VbJumD1W7bGBVHns2eC_UaL-dnRyoTPcYcpNp2I7CG5Cq7umzUUdpPf1-ZLCPvnHWs
+                    - separator [ref=f11e1043]
+                  - listitem [ref=f11e1044]:
+                    - generic [ref=f11e1045]:
+                      - generic [ref=f11e1046]:
+                        - link "Absurd new driver insurance quote - is this normal?" [ref=f11e1047] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1wcnvts/absurd_new_driver_insurance_quote_is_this_normal/
+                        - generic [ref=f11e1050]:
+                          - generic [ref=f11e1053]:
+                            - link "r/CarTalkUK" [ref=f11e1054] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1059]: •
+                            - time [ref=f11e1061]: 1mo ago
+                          - link [ref=f11e1063] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1wcnvts/absurd_new_driver_insurance_quote_is_this_normal/
+                            - heading "List item post - Absurd new driver insurance quote - is this normal?" [level=3] [ref=f11e1066]: Absurd new driver insurance quote - is this normal?
+                        - generic [ref=f11e1068]:
+                          - generic [ref=f11e1069]: "51"
+                          - text: comments
+                      - separator [ref=f11e1070]
+                  - listitem [ref=f11e1071]:
+                    - generic [ref=f11e1072]:
+                      - generic [ref=f11e1073]:
+                        - link "Insurance Getting Cancelled For Running Multiple Quotes On Comparison Site?" [ref=f11e1074] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1x46qup/insurance_getting_cancelled_for_running_multiple/
+                        - generic [ref=f11e1077]:
+                          - generic [ref=f11e1080]:
+                            - link "r/CarTalkUK" [ref=f11e1081] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1086]: •
+                            - time [ref=f11e1088]: 11d ago
+                          - link [ref=f11e1090] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1x46qup/insurance_getting_cancelled_for_running_multiple/
+                            - heading "List item post - Insurance Getting Cancelled For Running Multiple Quotes On ..." [level=3] [ref=f11e1093]: Insurance Getting Cancelled For Running Multiple Quotes On Comparison Site?
+                        - generic [ref=f11e1095]:
+                          - generic [ref=f11e1096]: "84"
+                          - text: upvotes ·
+                          - generic [ref=f11e1097]: "111"
+                          - text: comments
+                      - separator [ref=f11e1098]
+                  - listitem
+                  - listitem [ref=f11e1099]:
+                    - generic [ref=f11e1100]:
+                      - generic [ref=f11e1101]:
+                        - link "Why is there no app/website that compares auto insurance quotes on MAJOR insurance companies?" [ref=f11e1102] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/u7wugk/why_is_there_no_appwebsite_that_compares_auto/
+                        - generic [ref=f11e1105]:
+                          - generic [ref=f11e1108]:
+                            - link "r/Insurance" [ref=f11e1109] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Insurance/
+                            - generic [aria-hidden] [ref=f11e1114]: •
+                            - time [ref=f11e1116]: 5y ago
+                          - link [ref=f11e1118] [cursor=pointer]:
+                            - /url: /r/Insurance/comments/u7wugk/why_is_there_no_appwebsite_that_compares_auto/
+                            - heading "List item post - Why is there no app/website that compares auto insurance qu..." [level=3] [ref=f11e1121]: Why is there no app/website that compares auto insurance quotes on MAJOR insurance companies?
+                        - generic [ref=f11e1123]:
+                          - generic [ref=f11e1124]: "4"
+                          - text: upvotes ·
+                          - generic [ref=f11e1125]: "26"
+                          - text: comments
+                      - separator [ref=f11e1126]
+                  - listitem [ref=f11e1127]:
+                    - generic [ref=f11e1128]:
+                      - generic [ref=f11e1129]:
+                        - link "Unresolved insurance claim causing insane quotes." [ref=f11e1130] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1vyxyyv/unresolved_insurance_claim_causing_insane_quotes/
+                        - generic [ref=f11e1133]:
+                          - generic [ref=f11e1136]:
+                            - link "r/CarTalkUK" [ref=f11e1137] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1142]: •
+                            - time [ref=f11e1144]: 2mo ago
+                          - link [ref=f11e1146] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1vyxyyv/unresolved_insurance_claim_causing_insane_quotes/
+                            - heading "List item post - Unresolved insurance claim causing insane quotes." [level=3] [ref=f11e1149]: Unresolved insurance claim causing insane quotes.
+                        - generic [ref=f11e1151]:
+                          - generic [ref=f11e1152]: "6"
+                          - text: upvotes ·
+                          - generic [ref=f11e1153]: "28"
+                          - text: comments
+                      - separator [ref=f11e1154]
+                  - listitem [ref=f11e1155]:
+                    - generic [ref=f11e1156]:
+                      - generic [ref=f11e1157]:
+                        - link "I got a new quote for health insurance. Is $2750 a month normal?" [ref=f11e1158] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/HealthInsurance/comments/1rkosxo/i_got_a_new_quote_for_health_insurance_is_2750_a/
+                        - generic [ref=f11e1161]:
+                          - generic [ref=f11e1164]:
+                            - link "r/HealthInsurance" [ref=f11e1165] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/HealthInsurance/
+                            - generic [aria-hidden] [ref=f11e1170]: •
+                            - time [ref=f11e1172]: 8mo ago
+                          - link [ref=f11e1174] [cursor=pointer]:
+                            - /url: /r/HealthInsurance/comments/1rkosxo/i_got_a_new_quote_for_health_insurance_is_2750_a/
+                            - heading "List item post - I got a new quote for health insurance. Is $2750 a month no..." [level=3] [ref=f11e1177]: I got a new quote for health insurance. Is $2750 a month normal?
+                        - generic [ref=f11e1179]:
+                          - generic [ref=f11e1180]: "108"
+                          - text: upvotes ·
+                          - generic [ref=f11e1181]: "182"
+                          - text: comments
+                      - separator [ref=f11e1182]
+                  - listitem [ref=f11e1183]:
+                    - generic [ref=f11e1184]:
+                      - generic [ref=f11e1185]:
+                        - link "Insurance quotes went up by a grand when doing then at different times of the day. Is there a \"best\" time to do quotes or do you just have to keep trying?" [ref=f11e1186] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1r1r4bj/insurance_quotes_went_up_by_a_grand_when_doing/
+                        - generic [ref=f11e1188]:
+                          - generic [ref=f11e1189]:
+                            - generic [ref=f11e1192]:
+                              - link "r/CarTalkUK" [ref=f11e1193] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/CarTalkUK/
+                              - generic [aria-hidden] [ref=f11e1198]: •
+                              - time [ref=f11e1200]: 8mo ago
+                            - link [ref=f11e1202] [cursor=pointer]:
+                              - /url: /r/CarTalkUK/comments/1r1r4bj/insurance_quotes_went_up_by_a_grand_when_doing/
+                              - heading "List item post - Insurance quotes went up by a grand when doing then at diff..." [level=3] [ref=f11e1205]: Insurance quotes went up by a grand when doing then at different times of the day. Is there a "best" time to do quotes or do you just have to keep trying?
+                          - link "r/CarTalkUK - Insurance quotes went up by a grand when doing then at different times of the day. Is there a \"best\" time to do quotes or do you just have to keep trying?" [ref=f11e1208] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/CarTalkUK/comments/1r1r4bj/insurance_quotes_went_up_by_a_grand_when_doing/
+                            - img "r/CarTalkUK - Insurance quotes went up by a grand when doing then at different times of the day. Is there a \"best\" time to do quotes or do you just have to keep trying?" [ref=f11e1209]
+                        - generic [ref=f11e1211]:
+                          - generic [ref=f11e1212]: "43"
+                          - text: upvotes ·
+                          - generic [ref=f11e1213]: "89"
+                          - text: comments
+                      - separator [ref=f11e1214]
+                  - listitem [ref=f11e1215]:
+                    - generic [ref=f11e1216]:
+                      - generic [ref=f11e1217]:
+                        - link "Best website to get and compare auto insurance quotes? (Ontario)" [ref=f11e1218] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/PersonalFinanceCanada/comments/b8jzx1/best_website_to_get_and_compare_auto_insurance/
+                        - generic [ref=f11e1221]:
+                          - generic [ref=f11e1224]:
+                            - link "r/PersonalFinanceCanada" [ref=f11e1225] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/PersonalFinanceCanada/
+                            - generic [aria-hidden] [ref=f11e1230]: •
+                            - time [ref=f11e1232]: 8y ago
+                          - link [ref=f11e1234] [cursor=pointer]:
+                            - /url: /r/PersonalFinanceCanada/comments/b8jzx1/best_website_to_get_and_compare_auto_insurance/
+                            - heading "List item post - Best website to get and compare auto insurance quotes? (Ont..." [level=3] [ref=f11e1237]: Best website to get and compare auto insurance quotes? (Ontario)
+                        - generic [ref=f11e1239]:
+                          - generic [ref=f11e1240]: "11"
+                          - text: upvotes ·
+                          - generic [ref=f11e1241]: "17"
+                          - text: comments
+                      - separator [ref=f11e1242]
+                  - listitem
+                  - listitem [ref=f11e1243]:
+                    - generic [ref=f11e1244]:
+                      - generic [ref=f11e1245]:
+                        - link "Why are Life Insurance companies the worst to get quotes from?" [ref=f11e1246] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/LifeInsurance/comments/18d37md/why_are_life_insurance_companies_the_worst_to_get/
+                        - generic [ref=f11e1249]:
+                          - generic [ref=f11e1252]:
+                            - link "r/LifeInsurance" [ref=f11e1253] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/LifeInsurance/
+                            - generic [aria-hidden] [ref=f11e1258]: •
+                            - time [ref=f11e1260]: 3y ago
+                          - link [ref=f11e1262] [cursor=pointer]:
+                            - /url: /r/LifeInsurance/comments/18d37md/why_are_life_insurance_companies_the_worst_to_get/
+                            - heading "List item post - Why are Life Insurance companies the worst to get quotes fr..." [level=3] [ref=f11e1265]: Why are Life Insurance companies the worst to get quotes from?
+                        - generic [ref=f11e1267]:
+                          - generic [ref=f11e1268]: "4"
+                          - text: upvotes ·
+                          - generic [ref=f11e1269]: "16"
+                          - text: comments
+                      - separator [ref=f11e1270]
+                  - listitem [ref=f11e1271]:
+                    - generic [ref=f11e1272]:
+                      - generic [ref=f11e1273]:
+                        - link "What insurers would you recommend? And how do you pick yours?" [ref=f11e1274] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/udq7ng/what_insurers_would_you_recommend_and_how_do_you/
+                        - generic [ref=f11e1277]:
+                          - generic [ref=f11e1280]:
+                            - link "r/CarTalkUK" [ref=f11e1281] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1286]: •
+                            - time [ref=f11e1288]: 5y ago
+                          - link [ref=f11e1290] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/udq7ng/what_insurers_would_you_recommend_and_how_do_you/
+                            - heading "List item post - What insurers would you recommend? And how do you pick your..." [level=3] [ref=f11e1293]: What insurers would you recommend? And how do you pick yours?
+                        - generic [ref=f11e1295]:
+                          - generic [ref=f11e1296]: "14"
+                          - text: upvotes ·
+                          - generic [ref=f11e1297]: "55"
+                          - text: comments
+                      - separator [ref=f11e1298]
+                  - listitem [ref=f11e1299]:
+                    - generic [ref=f11e1300]:
+                      - generic [ref=f11e1301]:
+                        - link "Any sites to compare insurance price on potential car purchases?" [ref=f11e1302] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1hespkj/any_sites_to_compare_insurance_price_on_potential/
+                        - generic [ref=f11e1305]:
+                          - generic [ref=f11e1308]:
+                            - link "r/CarTalkUK" [ref=f11e1309] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1314]: •
+                            - time [ref=f11e1316]: 2y ago
+                          - link [ref=f11e1318] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1hespkj/any_sites_to_compare_insurance_price_on_potential/
+                            - heading "List item post - Any sites to compare insurance price on potential car purch..." [level=3] [ref=f11e1321]: Any sites to compare insurance price on potential car purchases?
+                        - generic [ref=f11e1323]:
+                          - generic [ref=f11e1324]: "3"
+                          - text: comments
+                      - separator [ref=f11e1325]
+                  - listitem [ref=f11e1326]:
+                    - generic [ref=f11e1327]:
+                      - generic [ref=f11e1328]:
+                        - link "Car Insurance Companies Not On Comparison Websites?" [ref=f11e1329] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/oh1ogl/car_insurance_companies_not_on_comparison_websites/
+                        - generic [ref=f11e1332]:
+                          - generic [ref=f11e1335]:
+                            - link "r/CarTalkUK" [ref=f11e1336] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1341]: •
+                            - time [ref=f11e1343]: 5y ago
+                          - link [ref=f11e1345] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/oh1ogl/car_insurance_companies_not_on_comparison_websites/
+                            - heading "List item post - Car Insurance Companies Not On Comparison Websites?" [level=3] [ref=f11e1348]: Car Insurance Companies Not On Comparison Websites?
+                        - generic [ref=f11e1350]:
+                          - generic [ref=f11e1351]: "3"
+                          - text: upvotes ·
+                          - generic [ref=f11e1352]: "6"
+                          - text: comments
+                      - separator [ref=f11e1353]
+                  - listitem [ref=f11e1354]:
+                    - generic [ref=f11e1355]:
+                      - generic [ref=f11e1356]:
+                        - link "Car insurance quotes unbelievably high?" [ref=f11e1357] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AskLosAngeles/comments/1taq5a5/car_insurance_quotes_unbelievably_high/
+                        - generic [ref=f11e1360]:
+                          - generic [ref=f11e1363]:
+                            - link "r/AskLosAngeles" [ref=f11e1364] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AskLosAngeles/
+                            - generic [aria-hidden] [ref=f11e1369]: •
+                            - time [ref=f11e1371]: 5mo ago
+                          - link [ref=f11e1373] [cursor=pointer]:
+                            - /url: /r/AskLosAngeles/comments/1taq5a5/car_insurance_quotes_unbelievably_high/
+                            - heading "List item post - Car insurance quotes unbelievably high?" [level=3] [ref=f11e1376]: Car insurance quotes unbelievably high?
+                        - generic [ref=f11e1378]:
+                          - generic [ref=f11e1379]: "27"
+                          - text: upvotes ·
+                          - generic [ref=f11e1380]: "123"
+                          - text: comments
+                      - separator [ref=f11e1381]
+                  - listitem [ref=f11e1382]:
+                    - generic [ref=f11e1383]:
+                      - generic [ref=f11e1384]:
+                        - link "Does a no bs auto quote comparison actually exist online?" [ref=f11e1385] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/1kkqyp6/does_a_no_bs_auto_quote_comparison_actually_exist/
+                        - generic [ref=f11e1388]:
+                          - generic [ref=f11e1391]:
+                            - link "r/Insurance" [ref=f11e1392] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Insurance/
+                            - generic [aria-hidden] [ref=f11e1397]: •
+                            - time [ref=f11e1399]: 1y ago
+                          - link [ref=f11e1401] [cursor=pointer]:
+                            - /url: /r/Insurance/comments/1kkqyp6/does_a_no_bs_auto_quote_comparison_actually_exist/
+                            - heading "List item post - Does a no bs auto quote comparison actually exist online?" [level=3] [ref=f11e1404]: Does a no bs auto quote comparison actually exist online?
+                        - generic [ref=f11e1406]:
+                          - generic [ref=f11e1407]: "5"
+                          - text: comments
+                      - separator [ref=f11e1408]
+                  - listitem [ref=f11e1409]:
+                    - generic [ref=f11e1410]:
+                      - generic [ref=f11e1411]:
+                        - link "Can't get a car insurance quote below $900/month with a clean record" [ref=f11e1412] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/1vvgexg/cant_get_a_car_insurance_quote_below_900month/
+                        - generic [ref=f11e1415]:
+                          - generic [ref=f11e1418]:
+                            - link "r/Insurance" [ref=f11e1419] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Insurance/
+                            - generic [aria-hidden] [ref=f11e1424]: •
+                            - time [ref=f11e1426]: 2mo ago
+                          - link [ref=f11e1428] [cursor=pointer]:
+                            - /url: /r/Insurance/comments/1vvgexg/cant_get_a_car_insurance_quote_below_900month/
+                            - heading "List item post - Can't get a car insurance quote below $900/month with a cle..." [level=3] [ref=f11e1431]: Can't get a car insurance quote below $900/month with a clean record
+                        - generic [ref=f11e1433]:
+                          - generic [ref=f11e1434]: "18"
+                          - text: upvotes ·
+                          - generic [ref=f11e1435]: "147"
+                          - text: comments
+                      - separator [ref=f11e1436]
+                  - listitem [ref=f11e1437]:
+                    - generic [ref=f11e1438]:
+                      - generic [ref=f11e1439]:
+                        - link "is there any insurance comparison website in NZ? i'm tired of doing quotes at several insurance companies and want something that shows several quotes at once" [ref=f11e1440] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/newzealand/comments/u9rh18/is_there_any_insurance_comparison_website_in_nz/
+                        - generic [ref=f11e1443]:
+                          - generic [ref=f11e1446]:
+                            - link "r/newzealand" [ref=f11e1447] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/newzealand/
+                            - generic [aria-hidden] [ref=f11e1452]: •
+                            - time [ref=f11e1454]: 5y ago
+                          - link [ref=f11e1456] [cursor=pointer]:
+                            - /url: /r/newzealand/comments/u9rh18/is_there_any_insurance_comparison_website_in_nz/
+                            - heading "List item post - is there any insurance comparison website in NZ? i'm tired ..." [level=3] [ref=f11e1459]: is there any insurance comparison website in NZ? i'm tired of doing quotes at several insurance companies and want something that shows several quotes at once
+                        - generic [ref=f11e1461]:
+                          - generic [ref=f11e1462]: "20"
+                          - text: upvotes ·
+                          - generic [ref=f11e1463]: "18"
+                          - text: comments
+                      - separator [ref=f11e1464]
+                  - listitem [ref=f11e1465]:
+                    - generic [ref=f11e1466]:
+                      - generic [ref=f11e1467]:
+                        - link "Advice to find cheapest car insurance" [ref=f11e1468] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1lkawjv/advice_to_find_cheapest_car_insurance/
+                        - generic [ref=f11e1471]:
+                          - generic [ref=f11e1474]:
+                            - link "r/CarTalkUK" [ref=f11e1475] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1480]: •
+                            - time [ref=f11e1482]: 1y ago
+                          - link [ref=f11e1484] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1lkawjv/advice_to_find_cheapest_car_insurance/
+                            - heading "List item post - Advice to find cheapest car insurance" [level=3] [ref=f11e1487]: Advice to find cheapest car insurance
+                        - generic [ref=f11e1489]:
+                          - generic [ref=f11e1490]: "2"
+                          - text: upvotes ·
+                          - generic [ref=f11e1491]: "15"
+                          - text: comments
+                      - separator [ref=f11e1492]
+                  - listitem [ref=f11e1493]:
+                    - generic [ref=f11e1494]:
+                      - generic [ref=f11e1495]:
+                        - link "Looking for a credible website to compare auto insurance rates" [ref=f11e1496] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/personalfinance/comments/7iy8b6/looking_for_a_credible_website_to_compare_auto/
+                        - generic [ref=f11e1499]:
+                          - generic [ref=f11e1502]:
+                            - link "r/personalfinance" [ref=f11e1503] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/personalfinance/
+                            - generic [aria-hidden] [ref=f11e1510]: •
+                            - time [ref=f11e1512]: 9y ago
+                          - link [ref=f11e1514] [cursor=pointer]:
+                            - /url: /r/personalfinance/comments/7iy8b6/looking_for_a_credible_website_to_compare_auto/
+                            - heading "List item post - Looking for a credible website to compare auto insurance ra..." [level=3] [ref=f11e1517]: Looking for a credible website to compare auto insurance rates
+                        - generic [ref=f11e1519]:
+                          - generic [ref=f11e1520]: "12"
+                          - text: upvotes ·
+                          - generic [ref=f11e1521]: "17"
+                          - text: comments
+                      - separator [ref=f11e1522]
+                  - listitem [ref=f11e1523]:
+                    - generic [ref=f11e1524]:
+                      - generic [ref=f11e1525]:
+                        - link "What's an efficient and transparent way to compare home and auto insurance plans?" [ref=f11e1526] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/personalfinance/comments/l3d7i6/whats_an_efficient_and_transparent_way_to_compare/
+                        - generic [ref=f11e1529]:
+                          - generic [ref=f11e1532]:
+                            - link "r/personalfinance" [ref=f11e1533] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/personalfinance/
+                            - generic [aria-hidden] [ref=f11e1540]: •
+                            - time [ref=f11e1542]: 6y ago
+                          - link [ref=f11e1544] [cursor=pointer]:
+                            - /url: /r/personalfinance/comments/l3d7i6/whats_an_efficient_and_transparent_way_to_compare/
+                            - heading "List item post - What's an efficient and transparent way to compare home and..." [level=3] [ref=f11e1547]: What's an efficient and transparent way to compare home and auto insurance plans?
+                        - generic [ref=f11e1549]:
+                          - generic [ref=f11e1550]: "9"
+                          - text: upvotes ·
+                          - generic [ref=f11e1551]: "12"
+                          - text: comments
+                      - separator [ref=f11e1552]
+                  - listitem [ref=f11e1553]:
+                    - generic [ref=f11e1554]:
+                      - generic [ref=f11e1555]:
+                        - link "Any suggestions on sites to compare auto insurance rates that won’t spam me to death?" [ref=f11e1556] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/yau7m8/any_suggestions_on_sites_to_compare_auto/
+                        - generic [ref=f11e1559]:
+                          - generic [ref=f11e1562]:
+                            - link "r/Insurance" [ref=f11e1563] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Insurance/
+                            - generic [aria-hidden] [ref=f11e1568]: •
+                            - time [ref=f11e1570]: 4y ago
+                          - link [ref=f11e1572] [cursor=pointer]:
+                            - /url: /r/Insurance/comments/yau7m8/any_suggestions_on_sites_to_compare_auto/
+                            - heading "List item post - Any suggestions on sites to compare auto insurance rates th..." [level=3] [ref=f11e1575]: Any suggestions on sites to compare auto insurance rates that won’t spam me to death?
+                        - generic [ref=f11e1577]:
+                          - generic [ref=f11e1578]: "92"
+                          - text: upvotes ·
+                          - generic [ref=f11e1579]: "76"
+                          - text: comments
+                      - separator [ref=f11e1580]
+                  - listitem [ref=f11e1581]:
+                    - generic [ref=f11e1582]:
+                      - generic [ref=f11e1583]:
+                        - link "Vastly different insurance quotes on cars with different colour but same specs" [ref=f11e1584] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1tavmzr/vastly_different_insurance_quotes_on_cars_with/
+                        - generic [ref=f11e1587]:
+                          - generic [ref=f11e1590]:
+                            - link "r/CarTalkUK" [ref=f11e1591] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1596]: •
+                            - time [ref=f11e1598]: 5mo ago
+                          - link [ref=f11e1600] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1tavmzr/vastly_different_insurance_quotes_on_cars_with/
+                            - heading "List item post - Vastly different insurance quotes on cars with different co..." [level=3] [ref=f11e1603]: Vastly different insurance quotes on cars with different colour but same specs
+                        - generic [ref=f11e1605]:
+                          - generic [ref=f11e1606]: "2"
+                          - text: upvotes ·
+                          - generic [ref=f11e1607]: "25"
+                          - text: comments
+                      - separator [ref=f11e1608]
+                  - listitem [ref=f11e1609]:
+                    - generic [ref=f11e1610]:
+                      - generic [ref=f11e1611]:
+                        - link "Auto Insurance Quotes - Is There a Easy Button?" [ref=f11e1612] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Insurance/comments/1ra71vg/auto_insurance_quotes_is_there_a_easy_button/
+                        - generic [ref=f11e1615]:
+                          - generic [ref=f11e1618]:
+                            - link "r/Insurance" [ref=f11e1619] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Insurance/
+                            - generic [aria-hidden] [ref=f11e1624]: •
+                            - time [ref=f11e1626]: 8mo ago
+                          - link [ref=f11e1628] [cursor=pointer]:
+                            - /url: /r/Insurance/comments/1ra71vg/auto_insurance_quotes_is_there_a_easy_button/
+                            - heading "List item post - Auto Insurance Quotes - Is There a Easy Button?" [level=3] [ref=f11e1631]: Auto Insurance Quotes - Is There a Easy Button?
+                        - generic [ref=f11e1633]:
+                          - generic [ref=f11e1634]: "1"
+                          - text: upvote ·
+                          - generic [ref=f11e1635]: "102"
+                          - text: comments
+                      - separator [ref=f11e1636]
+                  - listitem [ref=f11e1637]:
+                    - generic [ref=f11e1638]:
+                      - generic [ref=f11e1639]:
+                        - link "Which platform is useful to quote auto insurance?" [ref=f11e1640] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Car_Insurance_Help/comments/1qtvkih/which_platform_is_useful_to_quote_auto_insurance/
+                        - generic [ref=f11e1643]:
+                          - generic [ref=f11e1646]:
+                            - link "r/Car_Insurance_Help" [ref=f11e1647] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Car_Insurance_Help/
+                            - generic [aria-hidden] [ref=f11e1654]: •
+                            - time [ref=f11e1656]: 9mo ago
+                          - link [ref=f11e1658] [cursor=pointer]:
+                            - /url: /r/Car_Insurance_Help/comments/1qtvkih/which_platform_is_useful_to_quote_auto_insurance/
+                            - heading "List item post - Which platform is useful to quote auto insurance?" [level=3] [ref=f11e1661]: Which platform is useful to quote auto insurance?
+                        - generic [ref=f11e1663]:
+                          - generic [ref=f11e1664]: "79"
+                          - text: upvotes ·
+                          - generic [ref=f11e1665]: "65"
+                          - text: comments
+                      - separator [ref=f11e1666]
+                  - listitem [ref=f11e1667]:
+                    - generic [ref=f11e1668]:
+                      - generic [ref=f11e1669]:
+                        - link "Getting multiple insurance quotes for different cars, will I get flagged for it?" [ref=f11e1670] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CarTalkUK/comments/1c5eusr/getting_multiple_insurance_quotes_for_different/
+                        - generic [ref=f11e1673]:
+                          - generic [ref=f11e1676]:
+                            - link "r/CarTalkUK" [ref=f11e1677] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CarTalkUK/
+                            - generic [aria-hidden] [ref=f11e1682]: •
+                            - time [ref=f11e1684]: 3y ago
+                          - link [ref=f11e1686] [cursor=pointer]:
+                            - /url: /r/CarTalkUK/comments/1c5eusr/getting_multiple_insurance_quotes_for_different/
+                            - heading "List item post - Getting multiple insurance quotes for different cars, will ..." [level=3] [ref=f11e1689]: Getting multiple insurance quotes for different cars, will I get flagged for it?
+                        - generic [ref=f11e1691]:
+                          - generic [ref=f11e1692]: "7"
+                          - text: upvotes ·
+                          - generic [ref=f11e1693]: "11"
+                          - text: comments
+                      - separator [ref=f11e1694]
+                  - listitem [ref=f11e1695]:
+                    - generic [ref=f11e1697]:
+                      - link "One call insurance quote" [ref=f11e1698] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/drivingUK/comments/1ojvhfv/one_call_insurance_quote/
+                      - generic [ref=f11e1700]:
+                        - generic [ref=f11e1701]:
+                          - generic [ref=f11e1704]:
+                            - link "r/drivingUK" [ref=f11e1705] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/drivingUK/
+                            - generic [aria-hidden] [ref=f11e1710]: •
+                            - time [ref=f11e1712]: 1y ago
+                          - link [ref=f11e1714] [cursor=pointer]:
+                            - /url: /r/drivingUK/comments/1ojvhfv/one_call_insurance_quote/
+                            - heading "List item post - One call insurance quote" [level=3] [ref=f11e1717]: One call insurance quote
+                        - link "r/drivingUK - One call insurance quote" [ref=f11e1720] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/drivingUK/comments/1ojvhfv/one_call_insurance_quote/
+                          - img "r/drivingUK - One call insurance quote" [ref=f11e1721]
+                      - generic [ref=f11e1723]:
+                        - generic [ref=f11e1724]: "184"
+                        - text: upvotes ·
+                        - generic [ref=f11e1725]: "98"
+                        - text: comments
+              - generic [ref=f11e1726]:
+                - heading "View Post in" [level=2] [ref=f11e1728]
+                - group [ref=f11e1731]:
+                  - generic "See more" [ref=f11e1732] [cursor=pointer]
+              - complementary "Community information" [ref=f11e1737]:
+                - generic [ref=f11e1739]:
+                  - heading "Community Info Section" [level=1] [ref=f11e1740]
+                  - generic [ref=f11e1741]:
+                    - link "r/Insurance" [ref=f11e1743] [cursor=pointer]:
+                      - /url: /r/Insurance/
+                    - button "Join" [ref=f11e1748] [cursor=pointer]
+                  - generic [ref=f11e1749]:
+                    - generic [ref=f11e1750]: All Things Insurance
+                    - generic [ref=f11e1752]: All Things Insurance!
+                    - generic: Public
+              - generic [ref=f11e1758]:
+                - heading "Top Posts" [level=2] [ref=f11e1759]
+                - list [ref=f11e1760]:
+                  - listitem [ref=f11e1761]:
+                    - 'link "Reddit reReddit: Top posts of December 20, 2023" [ref=f11e1762] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/december-20-1/global/
+                      - generic [ref=f11e1763]: Reddit
+                      - generic [ref=f11e1778]: "reReddit: Top posts of December 20, 2023"
+                      - separator [ref=f11e1779]
+                  - listitem [ref=f11e1780]:
+                    - 'link "Reddit reReddit: Top posts of December 2023" [ref=f11e1781] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/december/global/
+                      - generic [ref=f11e1782]: Reddit
+                      - generic [ref=f11e1797]: "reReddit: Top posts of December 2023"
+                      - separator [ref=f11e1798]
+                  - listitem [ref=f11e1799]:
+                    - 'link "Reddit reReddit: Top posts of 2023" [ref=f11e1800] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/global/
+                      - generic [ref=f11e1801]: Reddit
+                      - generic [ref=f11e1816]: "reReddit: Top posts of 2023"
+                      - separator [ref=f11e1817]
+          - list [ref=f11e1819]:
+            - listitem [ref=f11e1820]:
+              - link "Home" [ref=f11e1822] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=f11e1823]:
+              - link "Popular" [ref=f11e1825] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=f11e1826]:
+              - link "News" [ref=f11e1828] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=f11e1829]:
+              - link "Explore" [ref=f11e1831] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=f11e1832]:
+              - link "Best of Reddit" [ref=f11e1834] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=f11e1835]:
+              - link "Best of Reddit in Portuguese" [ref=f11e1837] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=f11e1838]:
+              - link "Best of Reddit in German" [ref=f11e1840] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=f11e1841]:
+              - link "Reddit Rules" [ref=f11e1843] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=f11e1844]:
+              - link "Privacy Policy" [ref=f11e1846] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=f11e1847]:
+              - link "User Agreement" [ref=f11e1849] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=f11e1850]:
+              - link "Accessibility" [ref=f11e1852] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=f11e1853]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=f11e1854] [cursor=pointer]:
+                - /url: https://redditinc.com

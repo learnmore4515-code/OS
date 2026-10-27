@@ -1,0 +1,275 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - navigation "Main navigation" [ref=e4]:
+        - generic [ref=e5]:
+          - link "Leo Pisha Home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Leo Pisha
+          - button "Open menu" [ref=e8]
+        - navigation "Mobile navigation":
+          - generic [ref=e11]:
+            - link "Focus areas" [ref=e12] [cursor=pointer]:
+              - /url: /#what-i-fix
+            - link "Delivery process" [ref=e13] [cursor=pointer]:
+              - /url: /#how-i-work
+            - link "Services" [ref=e14] [cursor=pointer]:
+              - /url: /services
+            - link "About" [ref=e15] [cursor=pointer]:
+              - /url: /about
+            - link [ref=e17] [cursor=pointer]:
+              - /url: https://calendly.com/leopishaagency/new-meeting
+              - button "Book a consultation" [ref=e18]
+    - main [ref=e20]:
+      - region [ref=e21]:
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]: Insurance workflow automation
+            - heading "Leo Pisha helps businesses improve operations through workflow automation." [level=1] [ref=e29]
+            - paragraph [ref=e30]: When claims are slow, underwriting takes too long, or follow-up slips, Leo Pisha helps businesses fix the workflow behind it and automate the steps that keep wasting time.
+            - generic [ref=e31]:
+              - link [ref=e32] [cursor=pointer]:
+                - /url: https://calendly.com/leopishaagency/new-meeting
+                - button "Book a consultation" [ref=e33]
+              - link "See how I work" [ref=e35] [cursor=pointer]:
+                - /url: "#how-i-work"
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - paragraph [ref=e38]: Claims and underwriting first
+                - paragraph [ref=e39]: That is usually where manual work costs the most time and creates the most friction.
+              - generic [ref=e40]:
+                - paragraph [ref=e41]: Built around your workflow
+                - paragraph [ref=e42]: I start with the part of the process that is breaking, then design the automation around that.
+              - generic [ref=e43]:
+                - paragraph [ref=e44]: Made to be used after launch
+                - paragraph [ref=e45]: The handover matters. Your team should know what is running, what it does, and why it is there.
+          - complementary [ref=e46]:
+            - paragraph [ref=e48]: Where Leo Pisha looks first
+            - heading "Where the work gets stuck, who is waiting on it, and what the client ends up feeling." [level=2] [ref=e49]
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - paragraph [ref=e52]: Claims that wait for the next step
+                - paragraph [ref=e53]: Documents move, teams wait, and response time stretches longer than it should.
+              - generic [ref=e54]:
+                - paragraph [ref=e55]: Underwriting that depends on back-and-forth
+                - paragraph [ref=e56]: The queue gets longer when too much of the work still depends on people chasing updates by hand.
+              - generic [ref=e57]:
+                - paragraph [ref=e58]: Client requests that fall through the cracks
+                - paragraph [ref=e59]: What looks like a service problem from the outside is often a workflow problem inside the business.
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Consultation focus
+              - paragraph [ref=e62]: In the first session, we map the delay, identify the repeated manual steps, and decide whether automation is the right fix.
+      - region [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - generic [ref=e66]:
+              - generic [ref=e67]: Where operations usually break
+              - heading "Insurance teams usually know the symptom first. The site should make the cause feel obvious." [level=2] [ref=e68]
+              - paragraph [ref=e69]: The strongest first signal is not hype. It is recognising the exact places where process drag turns into slower service, delayed response, and operational strain.
+            - generic [ref=e70]:
+              - article [ref=e71]:
+                - paragraph [ref=e72]: Bottleneck
+                - heading "Claims response" [level=3] [ref=e73]
+                - paragraph [ref=e74]: Files sit too long between teams, status updates slow down, and service quality drops long before anyone calls it a process problem.
+              - article [ref=e75]:
+                - paragraph [ref=e76]: Bottleneck
+                - heading "Underwriting turnaround" [level=3] [ref=e77]
+                - paragraph [ref=e78]: Quote and review cycles drag when too many decisions and follow-ups still rely on people chasing the next step manually.
+              - article [ref=e79]:
+                - paragraph [ref=e80]: Bottleneck
+                - heading "Client follow-through" [level=3] [ref=e81]
+                - paragraph [ref=e82]: The real issue is often not one task, but the chain of missed follow-ups that turns internal friction into a customer-facing delay.
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - paragraph [ref=e85]: Who this is for
+              - paragraph [ref=e86]: Leo Pisha is for insurance businesses already feeling the cost of manual workflow drag and looking for a serious operator to help clean up the process.
+            - generic [ref=e87]:
+              - generic [ref=e88]: Broker-led teams under pressure
+              - generic [ref=e89]: Owner-led firms with process drag
+              - generic [ref=e90]: Operations teams feeling manual load
+              - generic [ref=e91]: Insurance workflows ready for cleanup
+      - region [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - generic [ref=e95]:
+              - generic [ref=e96]: What I help fix
+              - heading "The work is not AI for insurance. It is fixing the workflows where manual drag is already hurting the business." [level=2] [ref=e97]
+              - paragraph [ref=e98]: The value is not in adding more software language. It is in identifying the broken operational chain and rebuilding it into something faster, cleaner, and easier to run.
+            - link [ref=e100] [cursor=pointer]:
+              - /url: https://calendly.com/leopishaagency/new-meeting
+              - button "Discuss your bottleneck" [ref=e101]
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic [ref=e105]:
+                - paragraph [ref=e106]: Focus area
+                - heading "Claims workflows" [level=3] [ref=e107]
+              - generic [ref=e108]:
+                - generic [ref=e109]:
+                  - paragraph [ref=e110]: Where it usually breaks
+                  - paragraph [ref=e111]: Too many handoffs, too much waiting, and not enough visibility into where the file actually stalled.
+                - generic [ref=e112]:
+                  - paragraph [ref=e113]: What better looks like
+                  - paragraph [ref=e114]: Faster movement, cleaner routing, and less manual chasing between teams.
+            - generic [ref=e115]:
+              - generic [ref=e116]:
+                - paragraph [ref=e117]: Focus area
+                - heading "Underwriting operations" [level=3] [ref=e118]
+              - generic [ref=e119]:
+                - generic [ref=e120]:
+                  - paragraph [ref=e121]: Where it usually breaks
+                  - paragraph [ref=e122]: Review queues grow when too many decisions and follow-ups still rely on manual coordination.
+                - generic [ref=e123]:
+                  - paragraph [ref=e124]: What better looks like
+                  - paragraph [ref=e125]: Sharper turnaround, better workflow discipline, and less drag on brokers and internal teams.
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - paragraph [ref=e128]: Focus area
+                - heading "Customer response" [level=3] [ref=e129]
+              - generic [ref=e130]:
+                - generic [ref=e131]:
+                  - paragraph [ref=e132]: Where it usually breaks
+                  - paragraph [ref=e133]: The client feels every delay when internal status, follow-up, and information flow are inconsistent.
+                - generic [ref=e134]:
+                  - paragraph [ref=e135]: What better looks like
+                  - paragraph [ref=e136]: Quicker answers, stronger follow-through, and a workflow that supports service instead of slowing it.
+      - region [ref=e137]:
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e140]: How I work
+            - heading "How I work." [level=2] [ref=e141]
+            - paragraph [ref=e142]: Leo Pisha starts by finding where the process is slowing down. The work is scoped around the part of the workflow that is actually causing the delay.
+          - generic [ref=e143]:
+            - article [ref=e144]:
+              - generic [ref=e145]:
+                - generic [ref=e146]: "01"
+                - generic [ref=e147]: Engagement step
+              - heading "Diagnose the drag" [level=3] [ref=e148]
+              - paragraph [ref=e149]: We look at the workflow as it actually runs and identify where the delay or friction is being created.
+              - generic [ref=e150]:
+                - generic [ref=e151]: Workflow diagnosis
+                - generic [ref=e152]: Operational notes
+                - generic [ref=e153]: Priority bottleneck
+            - article [ref=e154]:
+              - generic [ref=e155]:
+                - generic [ref=e156]: "02"
+                - generic [ref=e157]: Engagement step
+              - heading "Design the fix" [level=3] [ref=e158]
+              - paragraph [ref=e159]: The fix is scoped around the exact process problem, the practical workflow, and what your team will need to run it confidently.
+              - generic [ref=e160]:
+                - generic [ref=e161]: Solution design
+                - generic [ref=e162]: Scope outline
+                - generic [ref=e163]: Risk view
+            - article [ref=e164]:
+              - generic [ref=e165]:
+                - generic [ref=e166]: "03"
+                - generic [ref=e167]: Engagement step
+              - heading "Build and hand over" [level=3] [ref=e168]
+              - paragraph [ref=e169]: The finished system should move faster, feel cleaner, and be understood by the people who have to rely on it after launch.
+              - generic [ref=e170]:
+                - generic [ref=e171]: Working workflow
+                - generic [ref=e172]: Documentation
+                - generic [ref=e173]: Handover
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - paragraph [ref=e176]: The first conversation is about the workflow, not the tool.
+              - paragraph [ref=e177]: That keeps the work practical and tied to the real problem inside the business.
+            - link "Book a consultation" [ref=e178] [cursor=pointer]:
+              - /url: https://calendly.com/leopishaagency/new-meeting
+      - region [ref=e179]:
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - generic [ref=e183]: How I look at the problem
+            - heading "What I pay attention to when I look at an insurance workflow." [level=2] [ref=e184]
+            - paragraph [ref=e185]: I look for the repeated steps, handoffs, and delays that keep slowing the team down and making response harder than it should be.
+            - generic [ref=e186]:
+              - paragraph [ref=e187]: What that means
+              - paragraph [ref=e188]: Most workflow problems show up first as slow response, missed follow-up, or too much manual work. That is usually where I start.
+          - generic [ref=e189]:
+            - generic [ref=e191]:
+              - heading "Focus on the handoff, not just the delay" [level=3] [ref=e192]
+              - paragraph [ref=e193]: In insurance operations, the visible slowdown is often just the symptom. The real issue is usually in the handoff from one person, queue, or tool to the next.
+            - generic [ref=e195]:
+              - heading "Built for what your team can actually use" [level=3] [ref=e196]
+              - paragraph [ref=e197]: A workflow is only useful if your team can rely on it after launch. Handover, visibility, and clarity matter just as much as the build.
+            - generic [ref=e199]:
+              - heading "The work should remove friction, not add complexity" [level=3] [ref=e200]
+              - paragraph [ref=e201]: The goal is not more automation language. The goal is a process that moves faster, responds better, and is easier to trust internally.
+      - region [ref=e202]:
+        - generic [ref=e206]:
+          - generic [ref=e207]: Book a focused consultation
+          - heading "If manual workflow drag is already hurting response or service, this is where the conversation should start." [level=2] [ref=e208]
+          - paragraph [ref=e209]: The consultation is for brokers, insurance owners, and operators who want a clearer view of where the process is slowing down and what a practical automation intervention would actually change.
+          - link [ref=e211] [cursor=pointer]:
+            - /url: https://calendly.com/leopishaagency/new-meeting
+            - button "Book a consultation" [ref=e212]
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - paragraph [ref=e216]: Built for serious operators
+              - paragraph [ref=e217]: Best for teams already feeling the cost of process friction in live workflows.
+            - generic [ref=e218]:
+              - paragraph [ref=e219]: Focused on the bottleneck
+              - paragraph [ref=e220]: The first conversation is used to isolate where the slowdown sits and what the fix needs to achieve.
+            - generic [ref=e221]:
+              - paragraph [ref=e222]: No generic automation pitch
+              - paragraph [ref=e223]: The conversation stays close to the workflow, the response problem, and the operating reality.
+    - contentinfo [ref=e224]:
+      - generic [ref=e225]:
+        - generic [ref=e226]:
+          - generic [ref=e227]:
+            - link "Leo Pisha Home" [ref=e228] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e229]: Leo Pisha
+            - paragraph [ref=e231]: Leo Pisha is a workflow automation agency helping businesses improve operations through claims, underwriting, and client response automation.
+            - list "Social links" [ref=e232]:
+              - link "LinkedIn" [ref=e233] [cursor=pointer]:
+                - /url: "#"
+              - link "Twitter" [ref=e236] [cursor=pointer]:
+                - /url: "#"
+              - link "Email" [ref=e239] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+          - navigation "Company links" [ref=e242]:
+            - heading "Company" [level=3] [ref=e243]
+            - list [ref=e244]:
+              - listitem [ref=e245]:
+                - link "About" [ref=e246] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e247]:
+                - link "Case Studies" [ref=e248] [cursor=pointer]:
+                  - /url: /case-studies
+              - listitem [ref=e249]:
+                - link "Services" [ref=e250] [cursor=pointer]:
+                  - /url: /services
+          - navigation "Resources" [ref=e251]:
+            - heading "Resources" [level=3] [ref=e252]
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - link "Book a Call" [ref=e255] [cursor=pointer]:
+                  - /url: https://calendly.com/leopishaagency/new-meeting
+              - listitem [ref=e256]:
+                - link "About the Practice" [ref=e257] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e258]:
+                - link "Case Studies" [ref=e259] [cursor=pointer]:
+                  - /url: /case-studies
+          - navigation "Connect" [ref=e260]:
+            - heading "Connect" [level=3] [ref=e261]
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - link "Email" [ref=e264] [cursor=pointer]:
+                  - /url: mailto:hello@leopisha.com
+              - listitem [ref=e265]:
+                - link "Book a Session" [ref=e266] [cursor=pointer]:
+                  - /url: https://calendly.com/leopishaagency/new-meeting
+              - listitem [ref=e267]:
+                - link "Case Studies" [ref=e268] [cursor=pointer]:
+                  - /url: /case-studies
+        - generic [ref=e269]:
+          - paragraph [ref=e270]: © 2026 Leo Pisha. All rights reserved.
+          - generic [ref=e271]:
+            - link "About" [ref=e272] [cursor=pointer]:
+              - /url: /about
+            - link "Book" [ref=e273] [cursor=pointer]:
+              - /url: https://calendly.com/leopishaagency/new-meeting
+            - link "Case Studies" [ref=e274] [cursor=pointer]:
+              - /url: /case-studies
+  - alert [ref=e275]

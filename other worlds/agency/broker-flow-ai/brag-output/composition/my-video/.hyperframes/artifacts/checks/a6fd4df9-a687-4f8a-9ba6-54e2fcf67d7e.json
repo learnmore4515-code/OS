@@ -1,0 +1,443 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 5,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"s1\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#s1",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\profe\\Downloads\\OS\\other worlds\\agency\\broker-flow-ai\\brag-output\\composition\\my-video\\index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"s1\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"s2\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#s2",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\profe\\Downloads\\OS\\other worlds\\agency\\broker-flow-ai\\brag-output\\composition\\my-video\\index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"s2\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"s3\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#s3",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\profe\\Downloads\\OS\\other worlds\\agency\\broker-flow-ai\\brag-output\\composition\\my-video\\index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"s3\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"s4\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#s4",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\profe\\Downloads\\OS\\other worlds\\agency\\broker-flow-ai\\brag-output\\composition\\my-video\\index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"s4\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"s5\"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#s5",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\profe\\Downloads\\OS\\other worlds\\agency\\broker-flow-ai\\brag-output\\composition\\my-video\\index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"s5\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 20,
+    "samples": [
+      1.111,
+      3.333,
+      5.556,
+      7.778,
+      10,
+      12.222,
+      14.444,
+      16.667,
+      18.889
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      1.111,
+      5.556,
+      10,
+      14.444,
+      18.889
+    ],
+    "checked": 38,
+    "passed": 38
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 31 text elements stay under it for 0.5 s or more, the smallest \"Your case\" at 12 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "Your case",
+        "selector": "#s4-case > label:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 625,
+          "y": 479.44,
+          "width": 79.3,
+          "height": 14
+        },
+        "time": 12.875,
+        "times": [
+          0,
+          0,
+          0.25,
+          0.5,
+          0.875,
+          3,
+          3,
+          7,
+          7,
+          7.625,
+          8.5,
+          8.75,
+          9,
+          9.5,
+          12,
+          12,
+          12.625,
+          12.875,
+          12.875,
+          13.25,
+          13.25,
+          13.625,
+          15.125,
+          16,
+          16,
+          16.625,
+          16.875,
+          16.875,
+          17.25,
+          17.875,
+          17.875
+        ],
+        "fontPx": 12,
+        "floorPx": 28,
+        "seconds": 3.125,
+        "elements": [
+          {
+            "selector": "#s4-case > label:nth-of-type(1)",
+            "text": "Your case",
+            "fontPx": 12,
+            "time": 12.875,
+            "seconds": 3.125
+          },
+          {
+            "selector": "#s4-choose > label:nth-of-type(1)",
+            "text": "Choose files",
+            "fontPx": 12,
+            "time": 13.25,
+            "seconds": 2.75
+          },
+          {
+            "selector": "#s5-action > label:nth-of-type(1)",
+            "text": "Action",
+            "fontPx": 12,
+            "time": 16.875,
+            "seconds": 3.125
+          },
+          {
+            "selector": "#s1 > div:nth-of-type(1)",
+            "text": "scene 1 · hook",
+            "fontPx": 13,
+            "time": 0,
+            "seconds": 3
+          },
+          {
+            "selector": "#s1 > div:nth-of-type(5)",
+            "text": "brokerflow ai · document chase dashboard",
+            "fontPx": 13,
+            "time": 0,
+            "seconds": 3
+          },
+          {
+            "selector": "#s2 > div:nth-of-type(1)",
+            "text": "scene 2 · reveal",
+            "fontPx": 13,
+            "time": 3,
+            "seconds": 4
+          },
+          {
+            "selector": "#s2 > div:nth-of-type(5)",
+            "text": "brokerflow ai · document chase dashboard",
+            "fontPx": 13,
+            "time": 3,
+            "seconds": 4
+          },
+          {
+            "selector": "#s3 > div:nth-of-type(1)",
+            "text": "scene 3 · create case",
+            "fontPx": 13,
+            "time": 7,
+            "seconds": 5
+          },
+          {
+            "selector": "#s3 > div:nth-of-type(3)",
+            "text": "brokerflow ai · document chase dashboard",
+            "fontPx": 13,
+            "time": 7,
+            "seconds": 5
+          },
+          {
+            "selector": "#s4 > div:nth-of-type(1)",
+            "text": "scene 4 · client upload",
+            "fontPx": 13,
+            "time": 12,
+            "seconds": 4
+          },
+          {
+            "selector": "#s4 > div:nth-of-type(3)",
+            "text": "brokerflow ai · document chase dashboard",
+            "fontPx": 13,
+            "time": 12,
+            "seconds": 4
+          },
+          {
+            "selector": "#s5 > div:nth-of-type(1)",
+            "text": "scene 5 · outro",
+            "fontPx": 13,
+            "time": 16,
+            "seconds": 4
+          },
+          {
+            "selector": "#s5 > div:nth-of-type(5)",
+            "text": "brokerflow ai · document chase dashboard",
+            "fontPx": 13,
+            "time": 16,
+            "seconds": 4
+          },
+          {
+            "selector": "#s5-flip > div:nth-of-type(1) > b:nth-of-type(1)",
+            "text": "Awaiting docs",
+            "fontPx": 13,
+            "time": 17.875,
+            "seconds": 2.125
+          },
+          {
+            "selector": "#s5-flip > div:nth-of-type(2) > b:nth-of-type(1)",
+            "text": "Completed",
+            "fontPx": 13,
+            "time": 17.875,
+            "seconds": 2.125
+          },
+          {
+            "selector": "#s3-btn",
+            "text": "Create case & send request",
+            "fontPx": 13.5,
+            "time": 9.5,
+            "seconds": 2.5
+          },
+          {
+            "selector": "#s4-btn",
+            "text": "Upload documents",
+            "fontPx": 13.5,
+            "time": 13.625,
+            "seconds": 2.375
+          },
+          {
+            "selector": "#s5-btn",
+            "text": "Mark docs received",
+            "fontPx": 13.5,
+            "time": 17.25,
+            "seconds": 2.75
+          },
+          {
+            "selector": "#s1-zero",
+            "text": "0",
+            "fontPx": 15.1,
+            "time": 0.25,
+            "seconds": 2.75
+          },
+          {
+            "selector": "#s1-label",
+            "text": "Docs received",
+            "fontPx": 16,
+            "time": 0.5,
+            "seconds": 2.5
+          },
+          {
+            "selector": "#s3-title",
+            "text": "Create document-chase case",
+            "fontPx": 16,
+            "time": 7.625,
+            "seconds": 4.375
+          },
+          {
+            "selector": "#s4-title",
+            "text": "Upload your documents",
+            "fontPx": 16,
+            "time": 12.625,
+            "seconds": 3.375
+          },
+          {
+            "selector": "#s4-val",
+            "text": "Case opened · link sent to client",
+            "fontPx": 16,
+            "time": 12.875,
+            "seconds": 3.125
+          },
+          {
+            "selector": "#s4-choose-val",
+            "text": "kyc-id.pdf · proof-of-address.jpg",
+            "fontPx": 16,
+            "time": 13.25,
+            "seconds": 2.75
+          },
+          {
+            "selector": "#s5-title",
+            "text": "Case details",
+            "fontPx": 16,
+            "time": 16.625,
+            "seconds": 3.375
+          },
+          {
+            "selector": "#s5-val",
+            "text": "Mark docs received",
+            "fontPx": 16,
+            "time": 16.875,
+            "seconds": 3.125
+          },
+          {
+            "selector": "#s1-exc",
+            "text": "Exception queue: 3 · >7d",
+            "fontPx": 16.93,
+            "time": 0.875,
+            "seconds": 2.125
+          },
+          {
+            "selector": "#s3-v3",
+            "text": "WhatsApp",
+            "fontPx": 18,
+            "time": 8.5,
+            "seconds": 3.5
+          },
+          {
+            "selector": "#s3-v4",
+            "text": "Motor",
+            "fontPx": 18,
+            "time": 8.75,
+            "seconds": 3.25
+          },
+          {
+            "selector": "#s3-v5",
+            "text": "2026-12-01",
+            "fontPx": 18,
+            "time": 9,
+            "seconds": 3
+          },
+          {
+            "selector": "#s4-ok",
+            "text": "✓ Documents submitted",
+            "fontPx": 20.47,
+            "time": 15.125,
+            "seconds": 0.875
+          }
+        ]
+      }
+    ],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 160
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

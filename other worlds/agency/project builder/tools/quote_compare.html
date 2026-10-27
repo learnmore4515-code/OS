@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Medical Insurance Quote Comparison — Kevin Osiga</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 14px; background: #f8fafc; color: #0f172a; line-height: 1.5; font-size: 14px; }
+  .container { max-width: 1000px; margin: 0 auto; }
+
+  /* Header */
+  header { background: #0f172a; color: #fff; padding: 16px; border-radius: 8px; margin-bottom: 14px; }
+  header h1 { margin: 0 0 4px; font-size: 1.25rem; }
+  header p { margin: 0; color: #cbd5e1; font-size: 0.85rem; }
+
+  .saved-notice { background: #dcfce7; color: #166534; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; margin-bottom: 12px; display: none; }
+
+  .time-saved { background: #dbeafe; border: 1px solid #bfdbfe; border-radius: 6px; padding: 8px 12px; margin-bottom: 14px; font-size: 0.85rem; color: #1e40af; }
+
+  /* Cards */
+  .card { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .card h2 { margin: 0 0 12px; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em; color: #475569; border-bottom: 2px solid #f59e0b; padding-bottom: 6px; }
+
+  /* Forms */
+  .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; }
+  .field { display: flex; flex-direction: column; gap: 4px; }
+  .field label { font-size: 0.8rem; font-weight: 600; color: #475569; }
+  .field input, .field select, .field textarea { padding: 7px 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.9rem; background: #fff; color: #0f172a; }
+  .field input:focus, .field select:focus { outline: 2px solid #2563eb; border-color: #2563eb; }
+  .hint { font-size: 0.75rem; color: #64748b; margin-top: 2px; }
+
+  /* Buttons */
+  .btn { border: none; border-radius: 6px; padding: 8px 16px; font-size: 0.85rem; font-weight: 600; cursor: pointer; min-height: 40px; display: inline-flex; align-items: center; gap: 6px; }
+  .btn:focus { outline: 2px solid #2563eb; outline-offset: 2px; }
+  .btn-primary { background: #0f172a; color: #fff; }
+  .btn-primary:hover { background: #334155; }
+  .btn-outline { background: #fff; color: #0f172a; border: 1px solid #cbd5e1; }
+  .btn-outline:hover { background: #f8fafc; }
+  .btn-success { background: #10b981; color: #fff; }
+  .btn-success:hover { background: #059669; }
+  .btn-danger { background: #ef4444; color: #fff; }
+  .btn-danger:hover { background: #dc2626; }
+  .btn-sm { padding: 5px 10px; font-size: 0.8rem; }
+  .btn-group { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+
+  /* Underwriters */
+  .underwriter { border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; margin: 12px 0; background: #fafafa; }
+  .underwriter h3 { margin: 0 0 10px; font-size: 0.95rem; color: #0f172a; }
+  .uw-header { display: flex; gap: 8px; align-items: flex-end; margin-bottom: 10px; flex-wrap: wrap; }
+  .uw-actions { margin-left: auto; display: flex; gap: 6px; }
+  .presets { margin-bottom: 12px; }
+
+  .benefit-table { width: 100%; border-collapse: collapse; margin: 8px 0; font-size: 0.85rem; }
+  .benefit-table th, .benefit-table td { border: 1px solid #cbd5e1; padding: 6px 8px; text-align: left; }
+  .benefit-table th { background: #f1f5f9; color: #475569; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  .benefit-table td input, .benefit-table td select { width: 100%; padding: 5px 8px; border: 1px solid #cbd5e1; border-radius: 4px; background: #fff; font-size: 0.85rem; color: #0f172a; }
+
+  /* Comparison results */
+  .results { margin-top: 16px; }
+  .results h2 { margin: 0 0 12px; font-size: 1rem; color: #0f172a; }
+  .empty-state { color: #64748b; font-size: 0.85rem; text-align: center; padding: 30px; }
+
+  .premium-summary { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px 16px; margin-bottom: 14px; }
+  .premium-summary h3 { margin: 0 0 10px; font-size: 0.9rem; color: #475569; text-transform: uppercase; letter-spacing: 0.05em; }
+  .premium-row { display: flex; gap: 12px; flex-wrap: wrap; align-items: flex-end; }
+  .premium-col { flex: 1; min-width: 150px; }
+  .premium-col b { display: block; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; margin-bottom: 4px; }
+  .premium-amount { font-size: 1.2rem; font-weight: 700; color: #0f172a; }
+  .premium-type { font-size: 0.75rem; color: #64748b; }
+  .best-badge { background: #dcfce7; color: #166534; border: 1px solid #86efac; border-radius: 4px; padding: 1px 7px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; margin-left: 7px; }
+
+  .savings-badge { background: #fef3c7; color: #92400e; border: 1px solid #f59e0b; border-radius: 4px; padding: 1px 7px; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; margin-left: 7px; }
+
+  table.compare { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 0.85rem; }
+  table.compare th, table.compare td { border: 1px solid #cbd5e1; padding: 8px 10px; text-align: left; vertical-align: top; }
+  table.compare th { background: #0f172a; color: #fff; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  table.compare th.category { width: 200px; }
+  table.compare td.benefit { font-weight: 600; color: #0f172a; background: #f8fafc; }
+  table.compare td.empty { color: #94a3b8; font-style: italic; }
+  table.compare td.covered { color: #166534; }
+  table.compare td.not-covered { color: #94a3b8; font-style: italic; }
+
+  .disclaimer { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 6px; padding: 12px 16px; margin-top: 14px; font-size: 0.8rem; color: #92400e; }
+  .disclaimer b { color: #92400e; }
+
+  /* Broker recommendation */
+  .recommendation { background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 12px 16px; margin-top: 14px; }
+  .recommendation label { display: block; font-size: 0.8rem; font-weight: 600; color: #166534; margin-bottom: 6px; }
+  .recommendation textarea { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 0.9rem; font-family: inherit; }
+
+  /* Print proposal layout */
+  .proposal { display: none; }
+  .proposal-print { max-width: 800px; margin: 0 auto; padding: 20px; font-size: 13px; }
+  .proposal-print header { background: #0f172a; color: #fff; padding: 16px 20px; border-radius: 0; margin-bottom: 16px; }
+  .proposal-print header h1 { margin: 0 0 4px; font-size: 1.4rem; }
+  .proposal-print header p { margin: 0; color: #cbd5e1; font-size: 0.9rem; }
+  .proposal-print .client-meta { display: flex; gap: 20px; margin-bottom: 16px; font-size: 0.9rem; color: #475569; }
+  .proposal-print table.compare { font-size: 11px; margin-top: 12px; }
+  .proposal-print table.compare th, .proposal-print table.compare td { padding: 6px 8px; }
+  .proposal-print .savings-box { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 6px; padding: 12px 16px; margin-top: 14px; font-size: 0.9rem; }
+  .proposal-print .disclaimer { font-size: 0.75rem; padding: 10px 14px; margin-top: 14px; }
+
+  .no-print { }
+  .print-only { display: none !important; }
+  @media print {
+    body { background: #fff !important; }
+    .no-print, .card > .btn-group, .form-grid, .underwriter, .presets { display: none !important; }
+    .results { display: block !important; margin: 0; padding: 0; box-shadow: none; border: none; }
+    header { display: none !important; }
+    .saved-notice, .time-saved, .footer-note { display: none !important; }
+    .results h2 { font-size: 1.4rem; margin-bottom: 12px; }
+    .premium-summary { background: #f1f5f9 !important; }
+    table.compare { font-size: 12px; margin-top: 10px; }
+    table.compare th, table.compare td { padding: 6px 8px; }
+    .disclaimer { font-size: 0.75rem; padding: 10px 14px; margin-top: 14px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    a { color: inherit; text-decoration: none; }
+  }
+  @page { margin: 14mm 12mm; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Medical Insurance Quote Comparison</h1>
+    <p>Built for <b>Kevin Osiga</b> — Insurance Broker, Kenya (EAT / UTC+3) • Client-ready comparative proposal in minutes, not hours</p>
+  </header>
+
+  <div class="saved-notice" id="savedNotice">Saved automatically</div>
+
+  <div class="time-saved">
+    <b>Time saved:</b> Manual quotation comparison takes 2–3 hours. With this tool, under 30 minutes.
+  </div>
+
+  <!-- Client details -->
+  <div class="card">
+    <h2>Client details</h2>
+    <div class="form-grid">
+      <div class="field">
+        <label for="clientName">Client name</label>
+        <input type="text" id="clientName" placeholder="e.g. Jane Wanjiku">
+      </div>
+      <div class="field">
+        <label for="clientAge">Age</label>
+        <input type="number" id="clientAge" placeholder="e.g. 34" min="0" max="120">
+      </div>
+      <div class="field">
+        <label for="sumInsured">Sum insured (KSh)</label>
+        <input type="number" id="sumInsured" placeholder="e.g. 5000000" min="0">
+      </div>
+      <div class="field">
+        <label for="clientLocation">Location</label>
+        <input type="text" id="clientLocation" placeholder="e.g. Nairobi, Kenya">
+      </div>
+      <div class="field" style="grid-column: 1 / -1;">
+        <label for="clientPec">Pre-existing conditions (PEC)</label>
+        <textarea id="clientPec" rows="2" placeholder="e.g. Hypertension, diagnosed 2022"></textarea>
+        <span class="hint">Declared pre-existing conditions — affects waiting periods & terms.</span>
+      </div>
+    </div>
+    <div class="btn-group no-print" style="margin-top:10px;">
+      <button class="btn btn-outline btn-sm" id="loadExample" type="button">Load Jubilee vs Britam example</button>
+      <button class="btn btn-outline btn-sm" id="loadSaved" type="button">Load saved quotation</button>
+      <button class="btn btn-danger btn-sm" id="clearAll" type="button">Clear all</button>
+    </div>
+  </div>
+
+  <!-- Underwriter entries -->
+  <div class="card">
+    <h2>Underwriter quotes (add up to 4)</h2>
+    <p style="margin:0 0 10px; color:#64748b; font-size:0.85rem;">Add one block per underwriter. Enter the premium and benefits from their quote documents. The comparison updates as you type.</p>
+
+    <div class="presets no-print" style="margin-bottom:10px;">
+      <button class="btn btn-outline btn-sm" data-preset="Jubilee" type="button">Jubilee</button>
+      <button class="btn btn-outline btn-sm" data-preset="Britam" type="button">Britam</button>
+      <button class="btn btn-outline btn-sm" data-preset="Sanlam" type="button">Sanlam</button>
+      <button class="btn btn-outline btn-sm" data-preset="APA Insurance" type="button">APA Insurance</button>
+      <button class="btn btn-outline btn-sm" data-preset="ICEA Lion" type="button">ICEA Lion</button>
+    </div>
+
+    <div id="underwriters"></div>
+    <div class="btn-group no-print" style="margin-top:8px;">
+      <button class="btn btn-outline btn-sm" id="addUw" type="button">+ Add underwriter</button>
+    </div>
+  </div>
+
+  <!-- Live comparison results -->
+  <div class="results card" id="results">
+    <h2>Comparative quotation — <span id="resClientName"></span></h2>
+
+    <div class="premium-summary">
+      <h3>Premium comparison</h3>
+      <div id="resPremiumRows"></div>
+      <div id="resSavings" style="margin-top:8px; font-size:0.85rem; color:#166534; font-weight:600;"></div>
+    </div>
+
+    <table class="compare" id="compareTable">
+      <thead>
+        <tr>
+          <th class="category">Benefit</th>
+          <th id="thUw1">Underwriter 1</th>
+          <th id="thUw2">Underwriter 2</th>
+          <th id="thUw3">Underwriter 3</th>
+          <th id="thUw4">Underwriter 4</th>
+        </tr>
+      </thead>
+      <tbody id="resTableBody"></tbody>
+    </table>
+
+    <div class="recommendation no-print">
+      <label>Broker recommendation / notes (optional)</label>
+      <textarea id="brokerRecommendation" rows="2" placeholder="e.g. Recommend Jubilee — lowest premium with comprehensive inpatient cover."></textarea>
+    </div>
+
+    <div class="disclaimer">
+      <b>Disclaimer:</b> For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter's policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice.
+    </div>
+
+    <div class="btn-group no-print" style="margin-top:16px;">
+      <button class="btn btn-primary" id="printBtn" type="button">Print client proposal &rarr;</button>
+      <button class="btn btn-success" id="downloadBtn" type="button">Download comparison &rarr;</button>
+      <button class="btn btn-outline" id="copyBtn" type="button">Copy comparison text &rarr;</button>
+    </div>
+  </div>
+
+  <!-- Print-ready client proposal -->
+  <div class="proposal" id="proposal">
+    <div class="proposal-print" id="proposalPrint"></div>
+  </div>
+
+  <div class="no-print" style="margin-top:16px; color:#64748b; font-size:0.8rem; border-top:1px solid #e2e8f0; padding-top:12px;">
+    MVP v1 · Medical insurance only · Zero installation — open this HTML file in any browser · No database, no backend, no account needed
+  </div>
+</div>
+
+<script>
+(function() {
+  'use strict';
+
+  const MAX_UW = 4;
+  const CATEGORIES = [
+    'Inpatient', 'Outpatient', 'Dental', 'Maternity', 'Optical',
+    'Cancer', 'Chronic conditions', 'Mental health', 'HIV', 'Congenital',
+    'Wellness checks', 'Telemedicine', 'Other'
+  ];
+
+  const PRESETS = ['Jubilee', 'Britam', 'Sanlam', 'APA Insurance', 'ICEA Lion', 'CIC Insurance', 'Heritage Insurance', 'Kenindia', 'Old Mutual', 'Metropolitan Cannon', 'Resolution Health'];
+
+  let state = {
+    client: { name: '', age: '', sumInsured: '', location: '', pec: '' },
+    underwriters: [],
+    brokerRecommendation: ''
+  };
+
+  function formatMoney(v) {
+    const n = Number(v);
+    if (!Number.isFinite(n) || n === 0) return '—';
+    return 'KSh ' + n.toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+  }
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function $(id) { return document.getElementById(id); }
+
+  function newUnderwriter(name) {
+    return {
+      name: name || '',
+      premiumType: 'annual',
+      premiumAmount: '',
+      benefits: []
+    };
+  }
+
+  function newBenefit(category) {
+    return { category: category || 'Inpatient', customName: '', subLimit: '', waiting: '', exclusions: '' };
+  }
+
+  // Persistence
+  function saveState() {
+    try {
+      localStorage.setItem('quoteCompare_v1', JSON.stringify(state));
+      const notice = $('savedNotice');
+      notice.style.display = 'block';
+      setTimeout(() => { notice.style.display = 'none'; }, 1500);
+    } catch (e) {
+      // localStorage may be unavailable; ignore silently
+    }
+  }
+
+  function loadState() {
+    try {
+      const raw = localStorage.getItem('quoteCompare_v1');
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed.client && parsed.underwriters) {
+          state = parsed;
+          return true;
+        }
+      }
+    } catch (e) {
+      // ignore
+    }
+    return false;
+  }
+
+  // Rendering
+  function renderUnderwriters() {
+    const container = $('underwriters');
+    container.innerHTML = '';
+    const canAdd = state.underwriters.length < MAX_UW;
+    state.underwriters.forEach((uw, i) => {
+      const el = document.createElement('div');
+      el.className = 'underwriter';
+      el.innerHTML = buildUnderwriterHTML(uw, i, canAdd);
+      container.appendChild(el);
+      bindUnderwriterEvents(el, i);
+    });
+    const addBtn = $('addUw');
+    addBtn.disabled = !canAdd;
+  }
+
+  function buildUnderwriterHTML(uw, i, canAdd) {
+    let benefitRows = '';
+    uw.benefits.forEach((b, j) => {
+      benefitRows += buildBenefitRowHTML(b, i, j);
+    });
+    const showRemove = state.underwriters.length > 1;
+    return '' +
+      '<div class="uw-header">' +
+      '<div class="field" style="min-width:160px;">' +
+      '<label>Underwriter name</label>' +
+      '<input data-uw="' + i + '" data-field="name" value="' + esc(uw.name) + '" placeholder="e.g. Jubilee">' +
+      '</div>' +
+      '<div class="field" style="min-width:150px;">' +
+      '<label>Premium type</label>' +
+      '<select data-uw="' + i + '" data-field="premiumType">' +
+      '<option value="annual" ' + (uw.premiumType === 'annual' ? 'selected' : '') + '>Annual</option>' +
+      '<option value="monthly" ' + (uw.premiumType === 'monthly' ? 'selected' : '') + '>Monthly</option>' +
+      '</select>' +
+      '</div>' +
+      '<div class="field" style="min-width:170px;">' +
+      '<label>Premium amount (KSh)</label>' +
+      '<input data-uw="' + i + '" data-field="premiumAmount" type="number" min="0" value="' + esc(uw.premiumAmount) + '" placeholder="0">' +
+      '</div>' +
+      '<div class="uw-actions">' +
+      (showRemove ? '<button data-action="removeUw" data-uw="' + i + '" type="button" class="btn btn-danger btn-sm">Remove</button>' : '') +
+      '</div>' +
+      '</div>' +
+      '<div class="field" style="grid-column: 1 / -1; margin-bottom:8px;">' +
+      '<label>Benefits</label>' +
+      '<span class="hint">Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.</span>' +
+      '</div>' +
+      '<table class="benefit-table">' +
+      '<thead>' +
+      '<tr>' +
+      '<th style="width:22%">Benefit</th>' +
+      '<th style="width:17%">Sub-limit (KSh)</th>' +
+      '<th style="width:16%">Waiting period</th>' +
+      '<th>Exclusions</th>' +
+      '<th style="width:10%"> </th>' +
+      '</tr>' +
+      '</thead>' +
+      '<tbody>' + benefitRows + '</tbody>' +
+      '</table>' +
+      '<div class="btn-group" style="margin-top:6px;">' +
+      '<button data-action="addBenefit" data-uw="' + i + '" type="button" class="btn btn-outline btn-sm no-print">+ Add benefit</button>' +
+      '</div>';
+  }
+
+  function buildBenefitRowHTML(b, i, j) {
+    let categoryOpts = '';
+    for (let c = 0; c < CATEGORIES.length; c++) {
+      const cat = CATEGORIES[c];
+      categoryOpts += '<option value="' + esc(cat) + '" ' + (b.category === cat ? 'selected' : '') + '>' + esc(cat) + '</option>';
+    }
+    const customShow = b.category === 'Other' ? '' : ' style="display:none"';
+    return '' +
+      '<tr>' +
+      '<td>' +
+      '<select data-uw="' + i + '" data-benefit="' + j + '" data-field="category">' + categoryOpts + '</select>' +
+      '<input data-uw="' + i + '" data-benefit="' + j + '" data-field="customName" type="text" placeholder="Custom benefit name" ' + customShow + ' value="' + esc(b.customName) + '">' +
+      '</td>' +
+      '<td><input data-uw="' + i + '" data-benefit="' + j + '" data-field="subLimit" type="number" min="0" value="' + esc(b.subLimit) + '" placeholder="0"></td>' +
+      '<td><input data-uw="' + i + '" data-benefit="' + j + '" data-field="waiting" type="text" value="' + esc(b.waiting) + '" placeholder="e.g. 12 months"></td>' +
+      '<td><input data-uw="' + i + '" data-benefit="' + j + '" data-field="exclusions" type="text" value="' + esc(b.exclusions) + '" placeholder="e.g. PEC waiting applies"></td>' +
+      '<td><button data-action="removeBenefit" data-uw="' + i + '" data-benefit="' + j + '" type="button" class="btn btn-danger btn-sm">×</button></td>' +
+      '</tr>';
+  }
+
+  function bindUnderwriterEvents(el, i) {
+    el.querySelectorAll('[data-field], select[data-field]').forEach(function(input) {
+      input.addEventListener('input', function() {
+        const field = input.dataset.field;
+        const val = input.value;
+        if (field === 'name' || field === 'premiumType' || field === 'premiumAmount') {
+          state.underwriters[i][field] = val;
+        } else {
+          const j = input.dataset.benefit;
+          state.underwriters[i].benefits[j][field] = val;
+        }
+        saveState();
+        renderComparison();
+      });
+    });
+    el.querySelectorAll('[data-action="removeUw"]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        state.underwriters.splice(i, 1);
+        saveState();
+        renderAll();
+      });
+    });
+    el.querySelectorAll('[data-action="addBenefit"]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        state.underwriters[i].benefits.push(newBenefit('Inpatient'));
+        saveState();
+        renderAll();
+      });
+    });
+    el.querySelectorAll('[data-action="removeBenefit"]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        const j = Number(btn.dataset.benefit);
+        state.underwriters[i].benefits.splice(j, 1);
+        saveState();
+        renderAll();
+      });
+    });
+    el.querySelectorAll('select[data-field="category"]').forEach(function(select) {
+      select.addEventListener('change', function() {
+        const j = select.dataset.benefit;
+        const b = state.underwriters[i].benefits[j];
+        b.category = select.value;
+        if (select.value !== 'Other') b.customName = '';
+        const row = select.closest('tr');
+        const custom = row.querySelector('input[data-field="customName"]');
+        custom.style.display = select.value === 'Other' ? '' : 'none';
+        saveState();
+        renderComparison();
+      });
+    });
+  }
+
+  // Comparison + value features
+  function normalizeLabel(b) {
+    if (b.category === 'Other' && b.customName.trim()) return b.customName.trim();
+    return b.category;
+  }
+
+  function hasBenefit(uw, label) {
+    return uw.benefits.some(function(b) { return normalizeLabel(b) === label; });
+  }
+
+  function renderComparison() {
+    $('resClientName').textContent = state.client.name || '(client)';
+    $('brokerRecommendation').value = state.brokerRecommendation || '';
+
+    const wrap = $('resPremiumRows');
+    wrap.innerHTML = '';
+    let premiums = [];
+    state.underwriters.forEach(function(uw) {
+      const amt = Number(uw.premiumAmount);
+      if (Number.isFinite(amt) && amt > 0) premiums.push(amt);
+    });
+    let minPremium = premiums.length > 0 ? Math.min.apply(null, premiums) : Infinity;
+    let maxPremium = premiums.length > 0 ? Math.max.apply(null, premiums) : 0;
+    let savings = premiums.length > 1 ? maxPremium - minPremium : 0;
+
+    state.underwriters.forEach(function(uw, idx) {
+      const amt = Number(uw.premiumAmount);
+      const isBest = Number.isFinite(amt) && amt === minPremium && amt > 0;
+      const col = document.createElement('div');
+      col.className = 'premium-col';
+      col.innerHTML = '' +
+        '<b>' + esc(uw.name || 'Underwriter ' + (idx + 1)) + '</b>' +
+        '<div class="premium-amount">' + formatMoney(uw.premiumAmount) + ' <span class="premium-type">/' + uw.premiumType + '</span>' + (isBest ? ' <span class="best-badge">Lowest</span>' : '') + '</div>';
+      wrap.appendChild(col);
+    });
+
+    const savingsEl = $('resSavings');
+    if (savings > 0) {
+      savingsEl.innerHTML = 'Cheapest saves <b>' + formatMoney(savings) + '</b> vs most expensive.';
+    } else {
+      savingsEl.innerHTML = '';
+    }
+
+    const labelOrder = [];
+    const seen = new Set();
+    state.underwriters.forEach(function(uw) {
+      uw.benefits.forEach(function(b) {
+        const lab = normalizeLabel(b);
+        if (!seen.has(lab)) { seen.add(lab); labelOrder.push(lab); }
+      });
+    });
+
+    for (let k = 1; k <= 4; k++) {
+      const th = $('thUw' + k);
+      const uw = state.underwriters[k - 1];
+      th.textContent = (uw && uw.name) ? esc(uw.name) : 'Underwriter ' + k;
+      th.style.display = uw ? '' : 'none';
+    }
+
+    const tbody = $('resTableBody');
+    tbody.innerHTML = '';
+    labelOrder.forEach(function(label) {
+      const tr = document.createElement('tr');
+      let html = '<td class="benefit">' + esc(label) + '</td>';
+      state.underwriters.forEach(function(uw) {
+        const b = uw.benefits.find(function(ben) { return normalizeLabel(ben) === label; });
+        if (!b) { html += '<td class="empty">—</td>'; return; }
+        const sub = formatMoney(b.subLimit);
+        const hasSub = b.subLimit && Number(b.subLimit) > 0;
+        html += '<td>' +
+          '<div><b>' + (hasSub ? sub : 'Covered') + '</b></div>' +
+          '<div style="font-size:0.8rem; color:#64748b;">Waiting: ' + esc(b.waiting) + '</div>' +
+          '<div style="font-size:0.8rem; color:#64748b; margin-top:4px;">Excl: ' + esc(b.exclusions) + '</div>' +
+          '</td>';
+      });
+      tr.innerHTML = html;
+      tbody.appendChild(tr);
+    });
+  }
+
+  function renderAll() {
+    renderUnderwriters();
+    renderComparison();
+  }
+
+  // Client binding
+  function bindClient() {
+    const map = { name: 'clientName', age: 'clientAge', sumInsured: 'sumInsured', location: 'clientLocation', pec: 'clientPec' };
+    Object.entries(map).forEach(function(pair) {
+      const field = pair[0];
+      const id = pair[1];
+      const el = $(id);
+      el.addEventListener('input', function() {
+        state.client[field] = el.value;
+        saveState();
+        renderComparison();
+      });
+    });
+    $('brokerRecommendation').addEventListener('input', function() {
+      state.brokerRecommendation = this.value;
+      saveState();
+    });
+  }
+
+  // Actions
+  function addUnderwriter(name) {
+    if (state.underwriters.length >= MAX_UW) return;
+    state.underwriters.push(newUnderwriter(name));
+    saveState();
+    renderAll();
+  }
+
+  function loadExample() {
+    state = {
+      client: { name: 'Jane Wanjiku', age: '34', sumInsured: '5000000', location: 'Nairobi, Kenya', pec: 'Hypertension (diagnosed 2022)' },
+      underwriters: [
+        {
+          name: 'Jubilee',
+          premiumType: 'annual',
+          premiumAmount: '185000',
+          benefits: [
+            { category: 'Inpatient', customName: '', subLimit: '10000000', waiting: '—', exclusions: 'None' },
+            { category: 'Outpatient', customName: '', subLimit: '300000', waiting: '—', exclusions: '—' },
+            { category: 'Maternity', customName: '', subLimit: '150000', waiting: '12 months', exclusions: 'Optional benefit; PEC waiting applies' },
+            { category: 'Dental', customName: '', subLimit: '50000', waiting: '6 months', exclusions: '—' },
+            { category: 'Optical', customName: '', subLimit: '40000', waiting: '6 months', exclusions: '—' },
+            { category: 'Cancer', customName: '', subLimit: 'Covered', waiting: '—', exclusions: 'Within inpatient limit' },
+            { category: 'Chronic conditions', customName: '', subLimit: 'Covered', waiting: '12 months', exclusions: 'Hypertension waiting applies' },
+            { category: 'Mental health', customName: '', subLimit: 'Covered', waiting: '—', exclusions: '—' },
+            { category: 'HIV', customName: '', subLimit: 'Covered', waiting: '—', exclusions: '—' },
+            { category: 'Wellness checks', customName: '', subLimit: 'Included', waiting: '—', exclusions: 'Annual checkups & vaccinations' },
+            { category: 'Telemedicine', customName: '', subLimit: 'Included', waiting: '—', exclusions: '—' }
+          ]
+        },
+        {
+          name: 'Britam',
+          premiumType: 'annual',
+          premiumAmount: '210000',
+          benefits: [
+            { category: 'Inpatient', customName: '', subLimit: '10000000', waiting: '—', exclusions: 'None' },
+            { category: 'Outpatient', customName: '', subLimit: 'Covered', waiting: '—', exclusions: 'Seamless, no approvals' },
+            { category: 'Maternity', customName: '', subLimit: 'Not itemized', waiting: 'Tier-dependent', exclusions: '—' },
+            { category: 'Dental', customName: '', subLimit: '75000', waiting: '6 months', exclusions: '—' },
+            { category: 'Optical', customName: '', subLimit: '60000', waiting: '6 months', exclusions: '—' },
+            { category: 'Cancer', customName: '', subLimit: 'Covered', waiting: '—', exclusions: '—' },
+            { category: 'Chronic conditions', customName: '', subLimit: 'Tier-dependent', waiting: '12 months', exclusions: 'Hypertension waiting applies' },
+            { category: 'Mental health', customName: '', subLimit: 'Comprehensive', waiting: '—', exclusions: 'Platinum tier' },
+            { category: 'HIV', customName: '', subLimit: 'Covered', waiting: '—', exclusions: '—' },
+            { category: 'Wellness checks', customName: '', subLimit: 'Included', waiting: '—', exclusions: 'Annual wellness checks' }
+          ]
+        }
+      ],
+      brokerRecommendation: ''
+    };
+    saveState();
+    renderAll();
+  }
+
+  function clearAll() {
+    if (!confirm('Clear all entered data?')) return;
+    state = { client: { name: '', age: '', sumInsured: '', location: '', pec: '' }, underwriters: [], brokerRecommendation: '' };
+    saveState();
+    renderAll();
+  }
+
+  function printQuote() {
+    const results = $('results');
+    const body = document.body;
+    body.classList.add('print-mode');
+    window.print();
+    body.classList.remove('print-mode');
+  }
+
+  function downloadQuote() {
+    let lines = [];
+    lines.push('Medical Insurance Quotation Comparison — Kevin Osiga');
+    lines.push('Date: ' + new Date().toLocaleDateString());
+    lines.push('Client: ' + state.client.name);
+    lines.push('Age: ' + state.client.age);
+    lines.push('Sum insured: KSh ' + state.client.sumInsured);
+    lines.push('Location: ' + state.client.location);
+    lines.push('PEC: ' + state.client.pec);
+    lines.push('');
+    lines.push('PREMIUM COMPARISON:');
+    state.underwriters.forEach(function(uw) {
+      lines.push('  ' + (uw.name || 'Underwriter') + ' — ' + formatMoney(uw.premiumAmount) + '/' + uw.premiumType);
+    });
+    lines.push('');
+    let premiums = [];
+    state.underwriters.forEach(function(uw) {
+      const amt = Number(uw.premiumAmount);
+      if (Number.isFinite(amt) && amt > 0) premiums.push(amt);
+    });
+    let minPremium = premiums.length > 0 ? Math.min.apply(null, premiums) : 0;
+    let maxPremium = premiums.length > 0 ? Math.max.apply(null, premiums) : 0;
+    let savings = premiums.length > 1 ? maxPremium - minPremium : 0;
+    if (savings > 0) {
+      lines.push('Cheapest saves KSh ' + savings.toLocaleString() + ' vs most expensive.');
+    }
+    lines.push('');
+    lines.push('BENEFITS COMPARISON:');
+    const labelOrder = [];
+    const seen = new Set();
+    state.underwriters.forEach(function(uw) {
+      uw.benefits.forEach(function(b) {
+        const lab = normalizeLabel(b);
+        if (!seen.has(lab)) { seen.add(lab); labelOrder.push(lab); }
+      });
+    });
+    labelOrder.forEach(function(label) {
+      lines.push('  ' + label + ':');
+      state.underwriters.forEach(function(uw) {
+        const b = uw.benefits.find(function(ben) { return normalizeLabel(ben) === label; });
+        if (!b) { lines.push('    ' + (uw.name || 'Underwriter') + ': —'); return; }
+        const sub = b.subLimit && Number(b.subLimit) > 0 ? formatMoney(b.subLimit) : 'Covered';
+        lines.push('    ' + (uw.name || 'Underwriter') + ': ' + sub + ' | Waiting: ' + b.waiting + ' | Excl: ' + b.exclusions);
+      });
+    });
+    if (state.brokerRecommendation) {
+      lines.push('');
+      lines.push('Broker recommendation: ' + state.brokerRecommendation);
+    }
+    lines.push('');
+    lines.push('Disclaimer: For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter\'s policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice.');
+
+    const blob = new Blob([lines.join('\n')], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'insurance-quote-comparison-' + (state.client.name || 'client').replace(/\s+/g, '_') + '.txt';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function copyComparison() {
+    const lines = [];
+    lines.push('Medical Insurance Quotation Comparison — Kevin Osiga');
+    lines.push('Client: ' + state.client.name + ' | Age: ' + state.client.age + ' | Sum insured: KSh ' + state.client.sumInsured);
+    lines.push('Location: ' + state.client.location + ' | PEC: ' + state.client.pec);
+    lines.push('');
+    state.underwriters.forEach(function(uw) {
+      lines.push(uw.name + ' — ' + formatMoney(uw.premiumAmount) + '/' + uw.premiumType);
+      uw.benefits.forEach(function(b) {
+        lines.push('  ' + normalizeLabel(b) + ': ' + (b.subLimit ? formatMoney(b.subLimit) : 'Covered') + ' | Waiting: ' + b.waiting + ' | Excl: ' + b.exclusions);
+      });
+      lines.push('');
+    });
+    if (state.brokerRecommendation) {
+      lines.push('Broker recommendation: ' + state.brokerRecommendation);
+    }
+    navigator.clipboard.writeText(lines.join('\n')).then(function() {
+      alert('Comparison copied to clipboard. Paste into WhatsApp or email to send to your client.');
+    });
+  }
+
+  function buildProposalHTML() {
+    let premiums = [];
+    state.underwriters.forEach(function(uw) {
+      const amt = Number(uw.premiumAmount);
+      if (Number.isFinite(amt) && amt > 0) premiums.push(amt);
+    });
+    let minPremium = premiums.length > 0 ? Math.min.apply(null, premiums) : 0;
+    let maxPremium = premiums.length > 0 ? Math.max.apply(null, premiums) : 0;
+    let savings = premiums.length > 1 ? maxPremium - minPremium : 0;
+
+    let uwRows = '';
+    state.underwriters.forEach(function(uw, idx) {
+      const isBest = Number.isFinite(Number(uw.premiumAmount)) && Number(uw.premiumAmount) === minPremium && minPremium > 0;
+      uwRows += '' +
+        '<tr>' +
+        '<td><b>' + esc(uw.name || 'Underwriter ' + (idx + 1)) + '</b></td>' +
+        '<td>' + formatMoney(uw.premiumAmount) + '</td>' +
+        '<td>' + uw.premiumType + '</td>' +
+        '<td>' + (isBest ? '<span style="color:#166534;font-weight:700;">Lowest</span>' : '') + '</td>' +
+        '</tr>';
+    });
+
+    let benefitRows = '';
+    const labelOrder = [];
+    const seen = new Set();
+    state.underwriters.forEach(function(uw) {
+      uw.benefits.forEach(function(b) {
+        const lab = normalizeLabel(b);
+        if (!seen.has(lab)) { seen.add(lab); labelOrder.push(lab); }
+      });
+    });
+    labelOrder.forEach(function(label) {
+      benefitRows += '<tr><td><b>' + esc(label) + '</b></td>';
+      state.underwriters.forEach(function(uw) {
+        const b = uw.benefits.find(function(ben) { return normalizeLabel(ben) === label; });
+        if (!b) { benefitRows += '<td class="not-covered">—</td>'; return; }
+        const sub = b.subLimit && Number(b.subLimit) > 0 ? formatMoney(b.subLimit) : 'Covered';
+        benefitRows += '<td class="covered">' + esc(sub) + '</td>';
+      });
+      benefitRows += '</tr>';
+    });
+
+    return '' +
+      '<div class="proposal-print">' +
+      '<header>' +
+      '<h1>Medical Insurance Quotation Comparison</h1>' +
+      '<p>Prepared by <b>Kevin Osiga</b> — Insurance Broker, Kenya (EAT / UTC+3) &bull; For price comparison purposes only</p>' +
+      '</header>' +
+      '<div class="client-meta">' +
+      '<span><b>Client:</b> ' + esc(state.client.name) + '</span>' +
+      '<span><b>Age:</b> ' + esc(state.client.age) + '</span>' +
+      '<span><b>Sum insured:</b> KSh ' + esc(state.client.sumInsured) + '</span>' +
+      '<span><b>Location:</b> ' + esc(state.client.location) + '</span>' +
+      '<span><b>PEC:</b> ' + esc(state.client.pec) + '</span>' +
+      '</div>' +
+      '<table class="compare">' +
+      '<thead><tr><th style="width:200px">Underwriter</th><th>Annual premium</th><th>Type</th><th>Ranking</th></tr></thead>' +
+      '<tbody>' + uwRows + '</tbody>' +
+      '</table>' +
+      (savings > 0 ? '<div class="savings-box"><b>Best value:</b> ' + esc(state.underwriters[0] && state.underwriters.find(u => Number(u.premiumAmount) === minPremium) ? state.underwriters.find(u => Number(u.premiumAmount) === minPremium).name : '—') + ' offers the lowest premium, saving <b>KSh ' + savings.toLocaleString() + '</b> vs the most expensive option.</div>' : '') +
+      '<table class="compare" style="margin-top:16px;">' +
+      '<thead><tr><th style="width:200px">Benefit</th>' +
+      state.underwriters.map(function() { return '<th>Covered / Sub-limit</th>'; }).join('') +
+      '</thead>' +
+      '<tbody>' + benefitRows + '</tbody>' +
+      '</table>' +
+      (state.brokerRecommendation ? '<div style="margin-top:16px;"><b>Broker recommendation:</b><br>' + esc(state.brokerRecommendation) + '</div>' : '') +
+      '<div class="disclaimer"><b>Disclaimer:</b> For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter&rsquo;s policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice.</div>' +
+      '</div>';
+  }
+
+  function showProposal() {
+    const proposalWrap = $('proposalPrint');
+    proposalWrap.innerHTML = buildProposalHTML();
+    $('proposal').style.display = 'block';
+    $('proposal').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    window.print();
+  }
+
+  // Init
+  bindClient();
+  if (!loadState()) {
+    // no saved data; user can load example or start fresh
+  }
+  renderAll();
+  $('addUw').addEventListener('click', function() { addUnderwriter(''); });
+  $('printBtn').addEventListener('click', printQuote);
+  $('downloadBtn').addEventListener('click', downloadQuote);
+  $('copyBtn').addEventListener('click', copyComparison);
+  $('clearAll').addEventListener('click', clearAll);
+  $('loadExample').addEventListener('click', loadExample);
+
+  document.querySelectorAll('[data-preset]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      addUnderwriter(btn.dataset.preset);
+    });
+  });
+
+  // Load saved quotation
+  $('loadSaved').addEventListener('click', function() {
+    if (state.underwriters.length > 0 || state.client.name || state.client.age || state.client.sumInsured || state.client.location || state.client.pec) {
+      if (!confirm('Loading a saved quotation will replace your current entries. Continue?')) return;
+    }
+    if (!loadState()) {
+      alert('No saved quotation found.');
+      return;
+    }
+    renderAll();
+  });
+})();
+</script>
+</body>
+</html>

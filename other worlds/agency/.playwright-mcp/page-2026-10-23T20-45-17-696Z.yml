@@ -1,0 +1,51 @@
+- generic [ref=f6e2]:
+  - generic [ref=f6e4]: PROOF OF WORK · WB-08
+  - generic [ref=f6e5]: Document ChasingEscalation Workflow
+  - generic [ref=f6e6]: n8n · zero-touch document intake · multi-party alignment
+  - generic [ref=f6e8]:
+    - generic [ref=f6e9]:
+      - generic [ref=f6e10]: ENTRY
+      - generic:
+        - text: Document Chasing Trigger
+        - generic: executeWorkflowTrigger · passthrough
+      - generic:
+        - text: Schedule Trigger
+        - generic: scheduleTrigger · daily 09:00 scan
+    - generic [ref=f6e11]:
+      - generic [ref=f6e12]: DAY 0 · IMMEDIATE
+      - generic:
+        - text: Normalize New Chase
+        - generic: Set · consent & stage logged
+      - generic:
+        - text: Gmail — Secure Upload Link
+        - generic: send email w/ tokenised upload link
+      - generic:
+        - text: Notify Insurer
+        - generic: HTTP POST · party-notify
+      - generic:
+        - text: Notify Loss Adjuster
+        - generic: HTTP POST · party-notify
+      - generic:
+        - text: Log ODPC Consent
+        - generic: Set · consent channel + date
+      - generic:
+        - text: Update Tracker Sheet
+        - generic: Google Sheets · append record
+    - generic [ref=f6e13]:
+      - generic [ref=f6e14]: DAY +2 / +4 / +7
+      - generic:
+        - text: Nudge Day +2
+        - generic: Gmail · friendly reminder
+      - generic:
+        - text: Nudge Day +4
+        - generic: Gmail · formal reminder
+      - generic:
+        - text: Phone Task Day +7
+        - generic: Set · broker manual call
+      - generic:
+        - text: Exception Queue
+        - generic: Set · >7 days, senior review
+    - generic: ENTRY
+    - generic: DAY 0
+    - generic: DAYS +2/+4/+7
+  - generic [ref=f6e15]: "Real n8n workflow: WB-08 Document Chasing Escalation · Day 0/+2/+4/+7 cadence · demo data, no live credentials"

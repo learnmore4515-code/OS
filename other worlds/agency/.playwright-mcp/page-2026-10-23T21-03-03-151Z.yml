@@ -1,0 +1,110 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e3]: Case Study · Page 1 of 3
+    - heading "The Operational Challenge" [level=1] [ref=f1e4]
+    - paragraph [ref=f1e5]: "Insurance brokers in Kenya run on paperwork: KYC documents, claim forms, loss-adjuster reports and onboarding paperwork must be collected from clients before a policy can be bound or a claim paid. Today that chasing is manual — WhatsApp threads, SMS, email and spreadsheets held in separate places, with no single source of truth."
+    - paragraph [ref=f1e6]:
+      - strong [ref=f1e7]: The workflow's purpose.
+      - text: "Document chasing automation: a broker opens a case, the system sends the client a secure, tokenised upload link on their preferred channel, tracks every response, and flags anything still open after seven days to an exception queue for senior review. The broker decides; the system nudges, tracks and escalates."
+    - heading "Why manual chasing fails (verified causes)" [level=2] [ref=f1e8]
+    - paragraph [ref=f1e9]: "These failure modes come from discovery conversations with brokers (Deliverable C of the project), not assumptions:"
+    - list [ref=f1e10]:
+      - listitem [ref=f1e11]: ▸ Understanding Clients don’t understand what is needed — requests are incomplete or confusing.
+      - listitem [ref=f1e12]: ▸ Submission Documents are difficult to submit — no mobile-friendly upload path, no app installation acceptable.
+      - listitem [ref=f1e13]: ▸ Trust Clients distrust upload links and prefer WhatsApp or email as an alternative channel.
+      - listitem [ref=f1e14]: ▸ Tracking Brokers lose track of who owes what; follow-ups get forgotten across disconnected channels.
+      - listitem [ref=f1e15]: ▸ Parties Multiple parties are responsible — client, broker, insurer, loss adjuster — with no shared status view.
+      - listitem [ref=f1e16]: ▸ Escalation Cases overdue more than 7 days have no structured path to a senior broker for manual intervention.
+    - paragraph [ref=f1e17]: No revenue figures, conversion rates or client counts are claimed here — this is a capability demonstration built on the project's own research, not a delivered production deployment.
+    - generic [ref=f1e18]: Scope note. The workflow addresses document chasing only — not payment reconciliation, automated underwriting or policy issuance, which are explicitly out of scope (Deliverable F).
+    - generic [ref=f1e19]: Automation case study · Document Chasing Escalation · synthetic demo data · no live credentials shown
+  - generic [ref=f1e20]:
+    - generic [ref=f1e21]: Case Study · Page 2 of 3
+    - heading "The System Architecture" [level=1] [ref=f1e22]
+    - paragraph [ref=f1e23]:
+      - text: The system is n8n workflow
+      - strong [ref=f1e24]: WB-08 — Document Chasing Escalation
+      - text: ", a multi-step workflow with sub-workflow triggers, conditional routing by escalation day, and integrations across Gmail, Google Sheets and HTTP webhooks. Every step below is taken from the real workflow definition (synthetic demo data; no live credentials)."
+    - table [ref=f1e25]:
+      - rowgroup [ref=f1e26]:
+        - row [ref=f1e27]:
+          - columnheader [ref=f1e28]
+          - columnheader "Step" [ref=f1e29]
+          - columnheader "What happens" [ref=f1e30]
+      - rowgroup [ref=f1e31]:
+        - row [ref=f1e32]:
+          - cell "1" [ref=f1e33]
+          - cell "Document Chasing Trigger" [ref=f1e34]
+          - cell "Entry from Chain 4 operations hub when document verification is partial/invalid (Day 0). Also a daily 09:00 schedule trigger scans for overdue chases." [ref=f1e35]
+        - row [ref=f1e36]:
+          - cell "2" [ref=f1e37]
+          - cell "Normalize New Chase" [ref=f1e38]
+          - cell "Set node normalises client details, missing fields, chase start date, escalation stage (0), consent status and insurer / loss adjuster contacts." [ref=f1e39]
+        - row [ref=f1e40]:
+          - cell "3" [ref=f1e41]
+          - cell "Gmail — Day 0 Secure Upload Link" [ref=f1e42]
+          - cell "Sends the client a personalised, tokenised upload link listing exactly which documents are missing, why each is needed and the deadline. ODPC consent is logged at first touch." [ref=f1e43]
+        - row [ref=f1e44]:
+          - cell "4" [ref=f1e45]
+          - cell "Notify Insurer / Loss Adjuster" [ref=f1e46]
+          - cell "HTTP POST webhook notifies the insurer and loss adjuster of the document request (multi-party alignment — all parties see shared milestone status)." [ref=f1e47]
+        - row [ref=f1e48]:
+          - cell "5" [ref=f1e49]
+          - cell "Log ODPC Consent + Update Tracker" [ref=f1e50]
+          - cell "Logs consent channel and date; appends a chase record to the Google Sheets document tracker." [ref=f1e51]
+        - row [ref=f1e52]:
+          - cell "6" [ref=f1e53]
+          - cell "Daily Scan · Filter Pending" [ref=f1e54]
+          - cell "Reads the tracker; filters chases that are pending and not yet verified." [ref=f1e55]
+        - row [ref=f1e56]:
+          - cell "7" [ref=f1e57]
+          - cell "Switch — Escalation Day" [ref=f1e58]
+          - 'cell "Conditional router by days since chase: +2 friendly nudge, +4 formal reminder, +7 phone-call task, renewals at 60/30/7/3 days, nothing due otherwise." [ref=f1e59]'
+        - row [ref=f1e60]:
+          - cell "8" [ref=f1e61]
+          - cell "Phone Task + Exception Queue" [ref=f1e62]
+          - cell "Day +7 creates a broker phone-call task; >7 days with no response creates an exception queue entry (severity high, 24h SLA, recommended action)." [ref=f1e63]
+        - row [ref=f1e64]:
+          - cell "9" [ref=f1e65]
+          - cell "Update Tracker Stage" [ref=f1e66]
+          - cell "Writes escalation stage, last contact channel and status back to the tracker sheet; errors are logged rather than dropped." [ref=f1e67]
+    - paragraph [ref=f1e68]: Decision logic — conditional routing by escalation day
+    - list [ref=f1e69]:
+      - listitem [ref=f1e70]: ▸ Day +2 Gmail friendly reminder · stage advanced · tracker updated.
+      - listitem [ref=f1e71]: ▸ Day +4 Gmail formal reminder · stage advanced · tracker updated.
+      - listitem [ref=f1e72]: ▸ Day +7 Broker phone-call task created · exception queue entry with 24-hour SLA.
+      - listitem [ref=f1e73]: "▸ Renewals Separate cadence: 60 / 30 / 7 / 3 days before policy expiry, each with a tailored reminder."
+      - listitem [ref=f1e74]: ▸ Stop condition Escalation stops as soon as documents are verified — no chases after resolution.
+    - generic [ref=f1e75]: Architecture note. Integrations (Gmail, Google Sheets, insurer/adjuster webhooks) require the buyer’s own n8n instance and credentials — they are configured at handover, not pre-connected to any live account.
+    - generic [ref=f1e76]: "Real n8n workflow: WB-08 Document Chasing Escalation · demo data only · no live credentials"
+  - generic [ref=f1e77]:
+    - generic [ref=f1e78]: Case Study · Page 3 of 3
+    - heading "Execution and Handover" [level=1] [ref=f1e79]
+    - heading "Outputs produced" [level=2] [ref=f1e80]
+    - list [ref=f1e81]:
+      - listitem [ref=f1e82]: ▸ Upload link Tokenised, mobile-friendly client upload link per case — no app installation required.
+      - listitem [ref=f1e83]: "▸ Tracker record Chase record in Google Sheets: client, policy, missing fields, stage, last contact, consent."
+      - listitem [ref=f1e84]: ▸ Party notification Insurer and loss adjuster notified via webhook; shared milestone status per role.
+      - listitem [ref=f1e85]: ▸ Exception queue Cases >7 days routed to senior review with 24-hour SLA and recommended action.
+    - heading "Testing approach" [level=2] [ref=f1e86]
+    - paragraph [ref=f1e87]: The workflow runs against bundled synthetic demo data (8 customer requests, 6 leads, 7 policies, 7 M-Pesa transactions, 5 insurer statements, including deliberate edge cases such as an unmatched payment and an expired policy). No real client data is used, no live webhook is executed during the demo, and no credentials are hard-coded — secrets go through n8n's credential system.
+    - heading "Error handling" [level=2] [ref=f1e88]
+    - list [ref=f1e89]:
+      - listitem [ref=f1e90]: ▸ Gmail sends Use continueErrorOutput — a failed send is logged to the tracker rather than halting the chase.
+      - listitem [ref=f1e91]: ▸ Dashboard fallback The broker dashboard falls back to localStorage-only mode when the n8n webhook is unavailable — the UI keeps working offline.
+      - listitem [ref=f1e92]: ▸ Send errors Logged to the tracker sheet with the failed client and channel for manual follow-up.
+    - heading "Deliverables included" [level=2] [ref=f1e93]
+    - list [ref=f1e94]:
+      - listitem [ref=f1e95]: ▸ Workflow WB-08 Document Chasing Escalation (n8n workflow definition, importable).
+      - listitem [ref=f1e96]: ▸ Dashboard BrokerFlow document-chase dashboard (case create, case list, multi-party milestone tracker, communication history).
+      - listitem [ref=f1e97]: ▸ Client upload Tokenised, mobile-friendly upload page.
+    - table [ref=f1e98]:
+      - rowgroup [ref=f1e99]:
+        - row [ref=f1e100]:
+          - cell "Verified functionality" [ref=f1e101]
+          - cell "Workflow node configuration and connections; Day 0 / +2 / +4 / +7 cadence; conditional escalation routing; tracker read/write; ODPC consent logging; dashboard UI with stats, case table and milestone tracker." [ref=f1e102]
+        - row [ref=f1e103]:
+          - cell "Planned improvements" [ref=f1e104]
+          - cell "Live n8n deployment wired to the buyer’s own Gmail and Google Sheets credentials; AI document verification of uploads; production exception-queue review UI; SLA reporting." [ref=f1e105]
+    - generic [ref=f1e106]: Honesty statement. This case study demonstrates a workflow built and specified in the project. It has not been delivered to a paying client, no client results or metrics are claimed, and no revenue outcome is implied. Buyers should treat the figures as a capability reference, not a guarantee.
+    - generic [ref=f1e107]: Automation case study · Document Chasing Escalation · synthetic demo data · no live credentials · not a paid-client deployment

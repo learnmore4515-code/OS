@@ -1,0 +1,271 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - navigation "Main navigation" [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - link "Leo Pisha Home" [ref=f1e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f1e7]: Leo Pisha
+        - button "Open menu" [ref=f1e8]
+      - navigation "Mobile navigation":
+        - generic [ref=f1e11]:
+          - link "What I Fix" [ref=f1e12] [cursor=pointer]:
+            - /url: /#what-i-fix
+          - link "How I Work" [ref=f1e13] [cursor=pointer]:
+            - /url: /#how-i-work
+          - link "About" [ref=f1e14] [cursor=pointer]:
+            - /url: /about
+          - link [ref=f1e16] [cursor=pointer]:
+            - /url: /book
+            - button "Book a consultation" [ref=f1e17]
+  - main [ref=f1e19]:
+    - region [ref=f1e20]:
+      - generic [ref=f1e25]:
+        - generic [ref=f1e26]:
+          - generic [ref=f1e27]: Insurance workflow automation
+          - heading "I help insurance teams cut down the manual work slowing claims, underwriting, and client response." [level=1] [ref=f1e28]
+          - paragraph [ref=f1e29]: If claims are slow, underwriting takes too long, or follow-up keeps slipping, I help you fix the workflow behind it and automate the steps that keep wasting time.
+          - generic [ref=f1e30]:
+            - link [ref=f1e31] [cursor=pointer]:
+              - /url: /book
+              - button "Book a consultation" [ref=f1e32]
+            - link "See how I work" [ref=f1e34] [cursor=pointer]:
+              - /url: "#how-i-work"
+          - generic [ref=f1e35]:
+            - generic [ref=f1e36]:
+              - paragraph [ref=f1e37]: Claims and underwriting first
+              - paragraph [ref=f1e38]: That is usually where manual work costs the most time and creates the most friction.
+            - generic [ref=f1e39]:
+              - paragraph [ref=f1e40]: Built around your workflow
+              - paragraph [ref=f1e41]: I start with the part of the process that is breaking, then design the automation around that.
+            - generic [ref=f1e42]:
+              - paragraph [ref=f1e43]: Made to be used after launch
+              - paragraph [ref=f1e44]: The handover matters. Your team should know what is running, what it does, and why it is there.
+        - complementary [ref=f1e45]:
+          - paragraph [ref=f1e47]: What I look for first
+          - heading "Where the work gets stuck, who is waiting on it, and what the client ends up feeling." [level=2] [ref=f1e48]
+          - generic [ref=f1e49]:
+            - generic [ref=f1e50]:
+              - paragraph [ref=f1e51]: Claims that wait for the next step
+              - paragraph [ref=f1e52]: Documents move, teams wait, and response time stretches longer than it should.
+            - generic [ref=f1e53]:
+              - paragraph [ref=f1e54]: Underwriting that depends on back-and-forth
+              - paragraph [ref=f1e55]: The queue gets longer when too much of the work still depends on people chasing updates by hand.
+            - generic [ref=f1e56]:
+              - paragraph [ref=f1e57]: Client requests that fall through the cracks
+              - paragraph [ref=f1e58]: What looks like a service problem from the outside is often a workflow problem inside the business.
+          - generic [ref=f1e59]:
+            - paragraph [ref=f1e60]: Consultation focus
+            - paragraph [ref=f1e61]: In the first session, we map the delay, identify the repeated manual steps, and decide whether automation is the right fix.
+    - region [ref=f1e62]:
+      - generic [ref=f1e63]:
+        - generic [ref=f1e64]:
+          - generic [ref=f1e65]:
+            - generic [ref=f1e66]: Where operations usually break
+            - heading "Insurance teams usually know the symptom first. The site should make the cause feel obvious." [level=2] [ref=f1e67]
+            - paragraph [ref=f1e68]: The strongest first signal is not hype. It is recognising the exact places where process drag turns into slower service, delayed response, and operational strain.
+          - generic [ref=f1e69]:
+            - article [ref=f1e70]:
+              - paragraph [ref=f1e71]: Bottleneck
+              - heading "Claims response" [level=3] [ref=f1e72]
+              - paragraph [ref=f1e73]: Files sit too long between teams, status updates slow down, and service quality drops long before anyone calls it a process problem.
+            - article [ref=f1e74]:
+              - paragraph [ref=f1e75]: Bottleneck
+              - heading "Underwriting turnaround" [level=3] [ref=f1e76]
+              - paragraph [ref=f1e77]: Quote and review cycles drag when too many decisions and follow-ups still rely on people chasing the next step manually.
+            - article [ref=f1e78]:
+              - paragraph [ref=f1e79]: Bottleneck
+              - heading "Client follow-through" [level=3] [ref=f1e80]
+              - paragraph [ref=f1e81]: The real issue is often not one task, but the chain of missed follow-ups that turns internal friction into a customer-facing delay.
+        - generic [ref=f1e82]:
+          - generic [ref=f1e83]:
+            - paragraph [ref=f1e84]: Who this is for
+            - paragraph [ref=f1e85]: Leo Pisha is for insurance businesses already feeling the cost of manual workflow drag and looking for a serious operator to help clean up the process.
+          - generic [ref=f1e86]:
+            - generic [ref=f1e87]: Broker-led teams under pressure
+            - generic [ref=f1e88]: Owner-led firms with process drag
+            - generic [ref=f1e89]: Operations teams feeling manual load
+            - generic [ref=f1e90]: Insurance workflows ready for cleanup
+    - region [ref=f1e91]:
+      - generic [ref=f1e92]:
+        - generic [ref=f1e93]:
+          - generic [ref=f1e94]:
+            - generic [ref=f1e95]: What I help fix
+            - heading "The work is not AI for insurance. It is fixing the workflows where manual drag is already hurting the business." [level=2] [ref=f1e96]
+            - paragraph [ref=f1e97]: The value is not in adding more software language. It is in identifying the broken operational chain and rebuilding it into something faster, cleaner, and easier to run.
+          - link [ref=f1e99] [cursor=pointer]:
+            - /url: /book
+            - button "Discuss your bottleneck" [ref=f1e100]
+        - generic [ref=f1e102]:
+          - generic [ref=f1e103]:
+            - generic [ref=f1e104]:
+              - paragraph [ref=f1e105]: Focus area
+              - heading "Claims workflows" [level=3] [ref=f1e106]
+            - generic [ref=f1e107]:
+              - generic [ref=f1e108]:
+                - paragraph [ref=f1e109]: Where it usually breaks
+                - paragraph [ref=f1e110]: Too many handoffs, too much waiting, and not enough visibility into where the file actually stalled.
+              - generic [ref=f1e111]:
+                - paragraph [ref=f1e112]: What better looks like
+                - paragraph [ref=f1e113]: Faster movement, cleaner routing, and less manual chasing between teams.
+          - generic [ref=f1e114]:
+            - generic [ref=f1e115]:
+              - paragraph [ref=f1e116]: Focus area
+              - heading "Underwriting operations" [level=3] [ref=f1e117]
+            - generic [ref=f1e118]:
+              - generic [ref=f1e119]:
+                - paragraph [ref=f1e120]: Where it usually breaks
+                - paragraph [ref=f1e121]: Review queues grow when too many decisions and follow-ups still rely on manual coordination.
+              - generic [ref=f1e122]:
+                - paragraph [ref=f1e123]: What better looks like
+                - paragraph [ref=f1e124]: Sharper turnaround, better workflow discipline, and less drag on brokers and internal teams.
+          - generic [ref=f1e125]:
+            - generic [ref=f1e126]:
+              - paragraph [ref=f1e127]: Focus area
+              - heading "Customer response" [level=3] [ref=f1e128]
+            - generic [ref=f1e129]:
+              - generic [ref=f1e130]:
+                - paragraph [ref=f1e131]: Where it usually breaks
+                - paragraph [ref=f1e132]: The client feels every delay when internal status, follow-up, and information flow are inconsistent.
+              - generic [ref=f1e133]:
+                - paragraph [ref=f1e134]: What better looks like
+                - paragraph [ref=f1e135]: Quicker answers, stronger follow-through, and a workflow that supports service instead of slowing it.
+    - region [ref=f1e136]:
+      - generic [ref=f1e137]:
+        - generic [ref=f1e138]:
+          - generic [ref=f1e139]: How I work
+          - heading "How I work." [level=2] [ref=f1e140]
+          - paragraph [ref=f1e141]: I start by finding where the process is slowing down. Then I scope the work around the part of the workflow that is actually causing the delay.
+        - generic [ref=f1e142]:
+          - article [ref=f1e143]:
+            - generic [ref=f1e144]:
+              - generic [ref=f1e145]: "01"
+              - generic [ref=f1e146]: Engagement step
+            - heading "Diagnose the drag" [level=3] [ref=f1e147]
+            - paragraph [ref=f1e148]: We look at the workflow as it actually runs and identify where the delay or friction is being created.
+            - generic [ref=f1e149]:
+              - generic [ref=f1e150]: Workflow diagnosis
+              - generic [ref=f1e151]: Operational notes
+              - generic [ref=f1e152]: Priority bottleneck
+          - article [ref=f1e153]:
+            - generic [ref=f1e154]:
+              - generic [ref=f1e155]: "02"
+              - generic [ref=f1e156]: Engagement step
+            - heading "Design the fix" [level=3] [ref=f1e157]
+            - paragraph [ref=f1e158]: The fix is scoped around the exact process problem, the practical workflow, and what your team will need to run it confidently.
+            - generic [ref=f1e159]:
+              - generic [ref=f1e160]: Solution design
+              - generic [ref=f1e161]: Scope outline
+              - generic [ref=f1e162]: Risk view
+          - article [ref=f1e163]:
+            - generic [ref=f1e164]:
+              - generic [ref=f1e165]: "03"
+              - generic [ref=f1e166]: Engagement step
+            - heading "Build and hand over" [level=3] [ref=f1e167]
+            - paragraph [ref=f1e168]: The finished system should move faster, feel cleaner, and be understood by the people who have to rely on it after launch.
+            - generic [ref=f1e169]:
+              - generic [ref=f1e170]: Working workflow
+              - generic [ref=f1e171]: Documentation
+              - generic [ref=f1e172]: Handover
+        - generic [ref=f1e173]:
+          - generic [ref=f1e174]:
+            - paragraph [ref=f1e175]: The first conversation is about the workflow, not the tool.
+            - paragraph [ref=f1e176]: That keeps the work practical and tied to the real problem inside the business.
+          - link "Book a consultation" [ref=f1e177] [cursor=pointer]:
+            - /url: /book
+    - region [ref=f1e178]:
+      - generic [ref=f1e180]:
+        - generic [ref=f1e181]:
+          - generic [ref=f1e182]: How I look at the problem
+          - heading "What I pay attention to when I look at an insurance workflow." [level=2] [ref=f1e183]
+          - paragraph [ref=f1e184]: I look for the repeated steps, handoffs, and delays that keep slowing the team down and making response harder than it should be.
+          - generic [ref=f1e185]:
+            - paragraph [ref=f1e186]: What that means
+            - paragraph [ref=f1e187]: Most workflow problems show up first as slow response, missed follow-up, or too much manual work. That is usually where I start.
+        - generic [ref=f1e188]:
+          - generic [ref=f1e190]:
+            - heading "I look for the handoff, not just the delay" [level=3] [ref=f1e191]
+            - paragraph [ref=f1e192]: In insurance operations, the visible slowdown is often just the symptom. The real issue is usually in the handoff from one person, queue, or tool to the next.
+          - generic [ref=f1e194]:
+            - heading "I care about what your team can actually use" [level=3] [ref=f1e195]
+            - paragraph [ref=f1e196]: A workflow is only useful if your team can rely on it after launch. Handover, visibility, and clarity matter just as much as the build.
+          - generic [ref=f1e198]:
+            - heading "The work should remove friction, not add complexity" [level=3] [ref=f1e199]
+            - paragraph [ref=f1e200]: The goal is not more automation language. The goal is a process that moves faster, responds better, and is easier to trust internally.
+    - region [ref=f1e201]:
+      - generic [ref=f1e205]:
+        - generic [ref=f1e206]: Book a focused consultation
+        - heading "If manual workflow drag is already hurting response or service, this is where the conversation should start." [level=2] [ref=f1e207]
+        - paragraph [ref=f1e208]: The consultation is for brokers, insurance owners, and operators who want a clearer view of where the process is slowing down and what a practical automation intervention would actually change.
+        - link [ref=f1e210] [cursor=pointer]:
+          - /url: /book
+          - button "Book a consultation" [ref=f1e211]
+        - generic [ref=f1e213]:
+          - generic [ref=f1e214]:
+            - paragraph [ref=f1e215]: Built for serious operators
+            - paragraph [ref=f1e216]: Best for teams already feeling the cost of process friction in live workflows.
+          - generic [ref=f1e217]:
+            - paragraph [ref=f1e218]: Focused on the bottleneck
+            - paragraph [ref=f1e219]: The first conversation is used to isolate where the slowdown sits and what the fix needs to achieve.
+          - generic [ref=f1e220]:
+            - paragraph [ref=f1e221]: No generic automation pitch
+            - paragraph [ref=f1e222]: The conversation stays close to the workflow, the response problem, and the operating reality.
+  - contentinfo [ref=f1e223]:
+    - generic [ref=f1e224]:
+      - generic [ref=f1e225]:
+        - generic [ref=f1e226]:
+          - link "Leo Pisha Home" [ref=f1e227] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f1e228]: Leo Pisha
+          - paragraph [ref=f1e230]: Insurance operations specialist for firms that want sharper claims flow, underwriting response, and service follow-through.
+          - list "Social links" [ref=f1e231]:
+            - link "LinkedIn" [ref=f1e232] [cursor=pointer]:
+              - /url: "#"
+            - link "Twitter" [ref=f1e235] [cursor=pointer]:
+              - /url: "#"
+            - link "Email" [ref=f1e238] [cursor=pointer]:
+              - /url: mailto:hello@leopisha.com
+        - navigation "Company links" [ref=f1e241]:
+          - heading "Company" [level=3] [ref=f1e242]
+          - list [ref=f1e243]:
+            - listitem [ref=f1e244]:
+              - link "About" [ref=f1e245] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e246]:
+              - link "Case Studies" [ref=f1e247] [cursor=pointer]:
+                - /url: /case-studies
+            - listitem [ref=f1e248]:
+              - link "Services" [ref=f1e249] [cursor=pointer]:
+                - /url: /services
+        - navigation "Resources" [ref=f1e250]:
+          - heading "Resources" [level=3] [ref=f1e251]
+          - list [ref=f1e252]:
+            - listitem [ref=f1e253]:
+              - link "Book a Call" [ref=f1e254] [cursor=pointer]:
+                - /url: /book
+            - listitem [ref=f1e255]:
+              - link "About the Practice" [ref=f1e256] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e257]:
+              - link "Case Studies" [ref=f1e258] [cursor=pointer]:
+                - /url: /case-studies
+        - navigation "Connect" [ref=f1e259]:
+          - heading "Connect" [level=3] [ref=f1e260]
+          - list [ref=f1e261]:
+            - listitem [ref=f1e262]:
+              - link "Email" [ref=f1e263] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+            - listitem [ref=f1e264]:
+              - link "Book a Session" [ref=f1e265] [cursor=pointer]:
+                - /url: /book
+            - listitem [ref=f1e266]:
+              - link "Case Studies" [ref=f1e267] [cursor=pointer]:
+                - /url: /case-studies
+      - generic [ref=f1e268]:
+        - paragraph [ref=f1e269]: © 2026 Leo Pisha. All rights reserved.
+        - generic [ref=f1e270]:
+          - link "About" [ref=f1e271] [cursor=pointer]:
+            - /url: /about
+          - link "Book" [ref=f1e272] [cursor=pointer]:
+            - /url: /book
+          - link "Case Studies" [ref=f1e273] [cursor=pointer]:
+            - /url: /case-studies

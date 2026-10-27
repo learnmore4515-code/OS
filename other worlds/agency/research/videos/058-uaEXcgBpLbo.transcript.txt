@@ -1,0 +1,1618 @@
+# Transcript: uaEXcgBpLbo
+Language: en
+
+[0.0s - 2.8s] Most people spend hours every week doing
+[2.8s - 2.8s] Most people spend hours every week doing
+[2.8s - 5.1s] Most people spend hours every week doing repetitive work that could easily be
+[5.1s - 5.1s] repetitive work that could easily be
+[5.1s - 8.1s] repetitive work that could easily be done in minutes. So, checking emails,
+[8.1s - 8.1s] done in minutes. So, checking emails,
+[8.1s - 9.8s] done in minutes. So, checking emails, following up with leads, writing
+[9.8s - 9.8s] following up with leads, writing
+[9.8s - 12.7s] following up with leads, writing reports, and then copying data from one
+[12.7s - 12.7s] reports, and then copying data from one
+[12.7s - 15.2s] reports, and then copying data from one app to another might seem small on their
+[15.2s - 15.2s] app to another might seem small on their
+[15.2s - 18.2s] app to another might seem small on their own, but together they do take up a huge
+[18.2s - 18.2s] own, but together they do take up a huge
+[18.2s - 20.6s] own, but together they do take up a huge amount of time. And the surprising part
+[20.6s - 20.6s] amount of time. And the surprising part
+[20.6s - 23.7s] amount of time. And the surprising part is that most people already have access
+[23.7s - 23.7s] is that most people already have access
+[23.7s - 26.7s] is that most people already have access to AI, yet they're still using it like a
+[26.7s - 26.7s] to AI, yet they're still using it like a
+[26.7s - 29.1s] to AI, yet they're still using it like a simple tool instead of something that
+[29.1s - 29.2s] simple tool instead of something that
+[29.2s - 31.8s] simple tool instead of something that can actually work for them. So, in this
+[31.8s - 31.8s] can actually work for them. So, in this
+[31.8s - 33.6s] can actually work for them. So, in this video, you're going to change that.
+[33.6s - 33.6s] video, you're going to change that.
+[33.6s - 35.0s] video, you're going to change that. We're going to change that because we're
+[35.0s - 35.0s] We're going to change that because we're
+[35.0s - 37.5s] We're going to change that because we're going to build your first AI automation
+[37.5s - 37.5s] going to build your first AI automation
+[37.5s - 39.8s] going to build your first AI automation agent step-by-step. Not just something
+[39.8s - 39.8s] agent step-by-step. Not just something
+[39.8s - 43.3s] agent step-by-step. Not just something that gives you answers, but a system
+[43.3s - 43.3s] that gives you answers, but a system
+[43.3s - 45.0s] that gives you answers, but a system that can take real action in the
+[45.0s - 45.0s] that can take real action in the
+[45.0s - 46.9s] that can take real action in the background. So, that by the end, you're
+[46.9s - 46.9s] background. So, that by the end, you're
+[46.9s - 48.8s] background. So, that by the end, you're going to have an agent that can sort
+[48.8s - 48.8s] going to have an agent that can sort
+[48.8s - 51.5s] going to have an agent that can sort through emails, flag urgent messages,
+[51.5s - 51.6s] through emails, flag urgent messages,
+[51.6s - 54.6s] through emails, flag urgent messages, follow up with leads, and even generate
+[54.6s - 54.6s] follow up with leads, and even generate
+[54.6s - 57.2s] follow up with leads, and even generate reports automatically. So, this is the
+[57.2s - 57.2s] reports automatically. So, this is the
+[57.2s - 59.3s] reports automatically. So, this is the kind of setup that keeps working even
+[59.3s - 59.3s] kind of setup that keeps working even
+[59.3s - 61.1s] kind of setup that keeps working even when you're not. Everything here is
+[61.1s - 61.1s] when you're not. Everything here is
+[61.1s - 62.8s] when you're not. Everything here is designed for beginners. There's no
+[62.8s - 62.8s] designed for beginners. There's no
+[62.8s - 65.2s] designed for beginners. There's no coding, no complicated setup, and no
+[65.2s - 65.2s] coding, no complicated setup, and no
+[65.2s - 67.2s] coding, no complicated setup, and no technical background needed. You'll see
+[67.2s - 67.2s] technical background needed. You'll see
+[67.2s - 69.4s] technical background needed. You'll see exactly what to click, what to type, and
+[69.4s - 69.4s] exactly what to click, what to type, and
+[69.4s - 71.5s] exactly what to click, what to type, and how each step connects so you can follow
+[71.5s - 71.6s] how each step connects so you can follow
+[71.6s - 73.6s] how each step connects so you can follow along without getting lost. And once
+[73.6s - 73.6s] along without getting lost. And once
+[73.6s - 75.7s] along without getting lost. And once this is set up, it doesn't stop working.
+[75.7s - 75.7s] this is set up, it doesn't stop working.
+[75.7s - 77.9s] this is set up, it doesn't stop working. It runs in the background, it handles
+[77.9s - 77.9s] It runs in the background, it handles
+[77.9s - 79.7s] It runs in the background, it handles repetitive tasks, and it gives you back
+[79.7s - 79.7s] repetitive tasks, and it gives you back
+[79.7s - 82.2s] repetitive tasks, and it gives you back time every single day. The best AI
+[82.2s - 82.2s] time every single day. The best AI
+[82.2s - 83.6s] time every single day. The best AI automation tool at this moment is Base
+[83.6s - 83.6s] automation tool at this moment is Base
+[83.6s - 85.7s] automation tool at this moment is Base 44, and I added a special link in the
+[85.7s - 85.7s] 44, and I added a special link in the
+[85.7s - 87.0s] 44, and I added a special link in the description so you can check it out,
+[87.0s - 87.0s] description so you can check it out,
+[87.0s - 89.7s] description so you can check it out, too. Now, if you want to master Base 44
+[89.7s - 89.7s] too. Now, if you want to master Base 44
+[89.7s - 91.7s] too. Now, if you want to master Base 44 and learn how to build profitable AI
+[91.7s - 91.7s] and learn how to build profitable AI
+[91.7s - 93.7s] and learn how to build profitable AI automations, agents, websites, and
+[93.7s - 93.7s] automations, agents, websites, and
+[93.7s - 95.7s] automations, agents, websites, and mobile apps with AI, I've created a
+[95.7s - 95.7s] mobile apps with AI, I've created a
+[95.7s - 97.3s] mobile apps with AI, I've created a complete masterclass that shows you
+[97.3s - 97.3s] complete masterclass that shows you
+[97.3s - 100.0s] complete masterclass that shows you exactly how to do it all step-by-step.
+[100.0s - 100.0s] exactly how to do it all step-by-step.
+[100.0s - 102.8s] exactly how to do it all step-by-step. And this masterclass normally costs $299
+[102.8s - 102.8s] And this masterclass normally costs $299
+[102.8s - 104.2s] And this masterclass normally costs $299 to join, but since you are watching this
+[104.2s - 104.2s] to join, but since you are watching this
+[104.2s - 106.0s] to join, but since you are watching this video, thank you very much, you can join
+[106.0s - 106.0s] video, thank you very much, you can join
+[106.0s - 107.5s] video, thank you very much, you can join completely free. Just check out that
+[107.5s - 107.5s] completely free. Just check out that
+[107.5s - 109.0s] completely free. Just check out that link in the description down below to
+[109.0s - 109.0s] link in the description down below to
+[109.0s - 110.5s] link in the description down below to get free access to my Base 44
+[110.5s - 110.6s] get free access to my Base 44
+[110.6s - 112.3s] get free access to my Base 44 masterclass, and you can start building
+[112.3s - 112.3s] masterclass, and you can start building
+[112.3s - 115.0s] masterclass, and you can start building your own AI-powered business today. So,
+[115.0s - 115.0s] your own AI-powered business today. So,
+[115.0s - 117.4s] your own AI-powered business today. So, before we build anything, you do need to
+[117.4s - 117.4s] before we build anything, you do need to
+[117.4s - 119.4s] before we build anything, you do need to understand one key difference because
+[119.4s - 119.4s] understand one key difference because
+[119.4s - 122.0s] understand one key difference because this is what separates basic AI usage
+[122.0s - 122.0s] this is what separates basic AI usage
+[122.0s - 124.3s] this is what separates basic AI usage from real automation. Most people assume
+[124.3s - 124.3s] from real automation. Most people assume
+[124.3s - 126.1s] from real automation. Most people assume AI automation simply means chatting with
+[126.1s - 126.1s] AI automation simply means chatting with
+[126.1s - 128.0s] AI automation simply means chatting with a bot, typing a request, and getting a
+[128.0s - 128.0s] a bot, typing a request, and getting a
+[128.0s - 129.7s] a bot, typing a request, and getting a response back, and that's not what it
+[129.7s - 129.8s] response back, and that's not what it
+[129.8s - 132.3s] response back, and that's not what it actually is. A chatbot gives you answers
+[132.3s - 132.3s] actually is. A chatbot gives you answers
+[132.3s - 135.1s] actually is. A chatbot gives you answers while an AI agent takes action. And that
+[135.1s - 135.1s] while an AI agent takes action. And that
+[135.1s - 137.0s] while an AI agent takes action. And that difference completely changes how you
+[137.0s - 137.0s] difference completely changes how you
+[137.0s - 139.0s] difference completely changes how you use AI in your daily work. So, for
+[139.0s - 139.0s] use AI in your daily work. So, for
+[139.0s - 141.3s] use AI in your daily work. So, for example, if you ask a chatbot draft an
+[141.3s - 141.3s] example, if you ask a chatbot draft an
+[141.3s - 143.5s] example, if you ask a chatbot draft an email reply to follow up on my clients
+[143.5s - 143.5s] email reply to follow up on my clients
+[143.5s - 145.3s] email reply to follow up on my clients booking today, it will generate a
+[145.3s - 145.3s] booking today, it will generate a
+[145.3s - 147.3s] booking today, it will generate a well-written for you. And it sounds
+[147.3s - 147.3s] well-written for you. And it sounds
+[147.3s - 149.3s] well-written for you. And it sounds helpful, and it is, but your work isn't
+[149.3s - 149.4s] helpful, and it is, but your work isn't
+[149.4s - 151.5s] helpful, and it is, but your work isn't finished. You still have to open Gmail.
+[151.5s - 151.5s] finished. You still have to open Gmail.
+[151.5s - 152.6s] finished. You still have to open Gmail. You still have to go through each
+[152.6s - 152.6s] You still have to go through each
+[152.6s - 154.7s] You still have to go through each message and copy the response and paste
+[154.7s - 154.7s] message and copy the response and paste
+[154.7s - 156.2s] message and copy the response and paste it and then send it manually. Now,
+[156.2s - 156.2s] it and then send it manually. Now,
+[156.2s - 158.2s] it and then send it manually. Now, compare that to an AI agent. You give it
+[158.2s - 158.2s] compare that to an AI agent. You give it
+[158.2s - 160.1s] compare that to an AI agent. You give it one clear instruction, just something
+[160.1s - 160.1s] one clear instruction, just something
+[160.1s - 162.3s] one clear instruction, just something like send appointment confirmation to
+[162.3s - 162.3s] like send appointment confirmation to
+[162.3s - 163.8s] like send appointment confirmation to all the clients that we have on our
+[163.8s - 163.8s] all the clients that we have on our
+[163.8s - 165.9s] all the clients that we have on our sheet, and that actually completes the
+[165.9s - 165.9s] sheet, and that actually completes the
+[165.9s - 168.1s] sheet, and that actually completes the task. No copying, no switching between
+[168.1s - 168.1s] task. No copying, no switching between
+[168.1s - 170.2s] task. No copying, no switching between tabs, no repetitive sending. The whole
+[170.2s - 170.2s] tabs, no repetitive sending. The whole
+[170.2s - 172.0s] tabs, no repetitive sending. The whole system just handles everything for you.
+[172.0s - 172.0s] system just handles everything for you.
+[172.0s - 174.8s] system just handles everything for you. And this is what AI automation really
+[174.8s - 174.8s] And this is what AI automation really
+[174.8s - 177.1s] And this is what AI automation really means. It goes beyond generating ideas
+[177.1s - 177.1s] means. It goes beyond generating ideas
+[177.1s - 178.9s] means. It goes beyond generating ideas or tasks, and it moves into actually
+[178.9s - 179.0s] or tasks, and it moves into actually
+[179.0s - 181.2s] or tasks, and it moves into actually completing tasks on your behalf. And
+[181.2s - 181.2s] completing tasks on your behalf. And
+[181.2s - 183.0s] completing tasks on your behalf. And that shift is usually the moment when
+[183.0s - 183.0s] that shift is usually the moment when
+[183.0s - 185.4s] that shift is usually the moment when beginners start to see the real value. A
+[185.4s - 185.4s] beginners start to see the real value. A
+[185.4s - 187.2s] beginners start to see the real value. A chatbot helps you think faster, but an
+[187.2s - 187.2s] chatbot helps you think faster, but an
+[187.2s - 189.2s] chatbot helps you think faster, but an AI agent reduces the amount of work you
+[189.2s - 189.2s] AI agent reduces the amount of work you
+[189.2s - 191.3s] AI agent reduces the amount of work you have to do. That's the real advantage
+[191.3s - 191.4s] have to do. That's the real advantage
+[191.4s - 193.3s] have to do. That's the real advantage here. So, let me show you a quick
+[193.3s - 193.3s] here. So, let me show you a quick
+[193.3s - 195.5s] here. So, let me show you a quick side-by-side so you can clearly see
+[195.5s - 195.5s] side-by-side so you can clearly see
+[195.5s - 197.6s] side-by-side so you can clearly see what's happening here. On the left side,
+[197.6s - 197.6s] what's happening here. On the left side,
+[197.6s - 199.2s] what's happening here. On the left side, we have a normal chatbot, and let's
+[199.2s - 199.2s] we have a normal chatbot, and let's
+[199.2s - 201.0s] we have a normal chatbot, and let's type, "Can you help me follow up with
+[201.0s - 201.0s] type, "Can you help me follow up with
+[201.0s - 203.3s] type, "Can you help me follow up with leads for my salon business?" And it
+[203.3s - 203.3s] leads for my salon business?" And it
+[203.3s - 204.9s] leads for my salon business?" And it gives me a clean message template. It
+[204.9s - 204.9s] gives me a clean message template. It
+[204.9s - 206.3s] gives me a clean message template. It looks polished, and it's ready to use,
+[206.3s - 206.3s] looks polished, and it's ready to use,
+[206.3s - 208.6s] looks polished, and it's ready to use, but I still need to copy it to paste it
+[208.6s - 208.6s] but I still need to copy it to paste it
+[208.6s - 210.6s] but I still need to copy it to paste it into email and then send it one by one.
+[210.6s - 210.6s] into email and then send it one by one.
+[210.6s - 212.5s] into email and then send it one by one. Now, on the right side, I give the AI
+[212.5s - 212.5s] Now, on the right side, I give the AI
+[212.5s - 214.3s] Now, on the right side, I give the AI agent this instruction, "Send a
+[214.3s - 214.4s] agent this instruction, "Send a
+[214.4s - 216.6s] agent this instruction, "Send a personalized follow-up to all of our
+[216.6s - 216.6s] personalized follow-up to all of our
+[216.6s - 218.8s] personalized follow-up to all of our clients." And that's it. The agent sends
+[218.8s - 218.8s] clients." And that's it. The agent sends
+[218.8s - 220.5s] clients." And that's it. The agent sends everything automatically. There's no
+[220.5s - 220.5s] everything automatically. There's no
+[220.5s - 223.0s] everything automatically. There's no manual work, no waiting around, and no
+[223.0s - 223.0s] manual work, no waiting around, and no
+[223.0s - 225.6s] manual work, no waiting around, and no chance of forgetting someone. The task
+[225.6s - 225.6s] chance of forgetting someone. The task
+[225.6s - 227.6s] chance of forgetting someone. The task just gets done in the background. And
+[227.6s - 227.6s] just gets done in the background. And
+[227.6s - 229.4s] just gets done in the background. And this is why more businesses are moving
+[229.4s - 229.4s] this is why more businesses are moving
+[229.4s - 231.9s] this is why more businesses are moving towards automation. The difference in
+[231.9s - 231.9s] towards automation. The difference in
+[231.9s - 234.3s] towards automation. The difference in speed is massive. A person can forget, a
+[234.3s - 234.4s] speed is massive. A person can forget, a
+[234.4s - 236.6s] speed is massive. A person can forget, a chatbot waits for you to act, an AI
+[236.6s - 236.6s] chatbot waits for you to act, an AI
+[236.6s - 239.1s] chatbot waits for you to act, an AI agent just moves and finishes the job.
+[239.1s - 239.1s] agent just moves and finishes the job.
+[239.1s - 240.4s] agent just moves and finishes the job. So, now let's make this real. I'm going
+[240.4s - 240.4s] So, now let's make this real. I'm going
+[240.4s - 242.2s] So, now let's make this real. I'm going to show you an AI agent handling an
+[242.2s - 242.2s] to show you an AI agent handling an
+[242.2s - 244.3s] to show you an AI agent handling an actual task, so you can see exactly how
+[244.3s - 244.3s] actual task, so you can see exactly how
+[244.3s - 246.5s] actual task, so you can see exactly how it works before we build your own.
+[246.5s - 246.5s] it works before we build your own.
+[246.5s - 248.4s] it works before we build your own. So, now we're going to build your first
+[248.4s - 248.4s] So, now we're going to build your first
+[248.4s - 250.3s] So, now we're going to build your first real AI agent. And by the end of this
+[250.3s - 250.3s] real AI agent. And by the end of this
+[250.3s - 251.9s] real AI agent. And by the end of this part, you're going to have something
+[251.9s - 251.9s] part, you're going to have something
+[251.9s - 254.3s] part, you're going to have something that actually works in the background
+[254.3s - 254.3s] that actually works in the background
+[254.3s - 256.8s] that actually works in the background for you, not just something you test
+[256.8s - 256.8s] for you, not just something you test
+[256.8s - 258.9s] for you, not just something you test once and forget about. So, this one is
+[258.9s - 258.9s] once and forget about. So, this one is
+[258.9s - 260.6s] once and forget about. So, this one is going to handle your inbox while you
+[260.6s - 260.6s] going to handle your inbox while you
+[260.6s - 262.7s] going to handle your inbox while you sleep. So, when you wake up, a big chunk
+[262.7s - 262.7s] sleep. So, when you wake up, a big chunk
+[262.7s - 264.7s] sleep. So, when you wake up, a big chunk of your routine is already done. So,
+[264.7s - 264.7s] of your routine is already done. So,
+[264.7s - 266.3s] of your routine is already done. So, let's start by opening up your browser
+[266.3s - 266.3s] let's start by opening up your browser
+[266.3s - 268.3s] let's start by opening up your browser and going to Base 44. And once you land
+[268.3s - 268.3s] and going to Base 44. And once you land
+[268.3s - 270.1s] and going to Base 44. And once you land on the sign-up page here, click get
+[270.1s - 270.2s] on the sign-up page here, click get
+[270.2s - 272.1s] on the sign-up page here, click get started. You'll see a simple account
+[272.1s - 272.1s] started. You'll see a simple account
+[272.1s - 274.0s] started. You'll see a simple account creation screen, and you can either sign
+[274.0s - 274.0s] creation screen, and you can either sign
+[274.0s - 276.1s] creation screen, and you can either sign up with Google or use your email. It
+[276.1s - 276.1s] up with Google or use your email. It
+[276.1s - 277.9s] up with Google or use your email. It only takes about a minute or two, so
+[277.9s - 277.9s] only takes about a minute or two, so
+[277.9s - 279.8s] only takes about a minute or two, so don't overthink it here. And this step
+[279.8s - 279.8s] don't overthink it here. And this step
+[279.8s - 281.4s] don't overthink it here. And this step matters more than it seems because
+[281.4s - 281.4s] matters more than it seems because
+[281.4s - 282.9s] matters more than it seems because everything we're about to build will
+[282.9s - 283.0s] everything we're about to build will
+[283.0s - 285.5s] everything we're about to build will live inside this dashboard. And once you
+[285.5s - 285.5s] live inside this dashboard. And once you
+[285.5s - 286.9s] live inside this dashboard. And once you are in, you'll land on the main
+[286.9s - 287.0s] are in, you'll land on the main
+[287.0s - 288.6s] are in, you'll land on the main interface here, and it's pretty
+[288.6s - 288.6s] interface here, and it's pretty
+[288.6s - 290.5s] interface here, and it's pretty straightforward. So, just take a few
+[290.5s - 290.5s] straightforward. So, just take a few
+[290.5s - 292.2s] straightforward. So, just take a few seconds to, you know, look around and
+[292.2s - 292.2s] seconds to, you know, look around and
+[292.2s - 294.0s] seconds to, you know, look around and get comfortable. And on the left side
+[294.0s - 294.0s] get comfortable. And on the left side
+[294.0s - 295.6s] get comfortable. And on the left side here, you'll see your agents panel, and
+[295.6s - 295.6s] here, you'll see your agents panel, and
+[295.6s - 297.3s] here, you'll see your agents panel, and that's where all the agents you create
+[297.3s - 297.3s] that's where all the agents you create
+[297.3s - 299.1s] that's where all the agents you create will be listed. In the center here,
+[299.1s - 299.1s] will be listed. In the center here,
+[299.1s - 301.2s] will be listed. In the center here, you'll see the prompt workspace, and
+[301.2s - 301.2s] you'll see the prompt workspace, and
+[301.2s - 302.6s] you'll see the prompt workspace, and this is where everything happens. You
+[302.6s - 302.6s] this is where everything happens. You
+[302.6s - 304.5s] this is where everything happens. You don't drag blocks or write code here,
+[304.5s - 304.5s] don't drag blocks or write code here,
+[304.5s - 306.6s] don't drag blocks or write code here, you just describe what you want, and the
+[306.6s - 306.6s] you just describe what you want, and the
+[306.6s - 308.7s] you just describe what you want, and the system builds it for you. And that's
+[308.7s - 308.7s] system builds it for you. And that's
+[308.7s - 310.1s] system builds it for you. And that's really the key idea you need to
+[310.1s - 310.2s] really the key idea you need to
+[310.2s - 312.5s] really the key idea you need to understand before moving forward. You
+[312.5s - 312.5s] understand before moving forward. You
+[312.5s - 314.4s] understand before moving forward. You don't need to code anything. You're not
+[314.4s - 314.4s] don't need to code anything. You're not
+[314.4s - 317.0s] don't need to code anything. You're not setting up complicated logic. You're
+[317.0s - 317.0s] setting up complicated logic. You're
+[317.0s - 318.9s] setting up complicated logic. You're simply telling the system what job you
+[318.9s - 318.9s] simply telling the system what job you
+[318.9s - 320.6s] simply telling the system what job you want handled, and it translates that
+[320.6s - 320.6s] want handled, and it translates that
+[320.6s - 322.3s] want handled, and it translates that into a working process behind the
+[322.3s - 322.3s] into a working process behind the
+[322.3s - 324.7s] into a working process behind the scenes. Once it clicks, everything else
+[324.7s - 324.7s] scenes. Once it clicks, everything else
+[324.7s - 326.4s] scenes. Once it clicks, everything else becomes a lot easier. So, now let's go
+[326.4s - 326.4s] becomes a lot easier. So, now let's go
+[326.4s - 328.7s] becomes a lot easier. So, now let's go ahead and build your first one. So,
+[328.7s - 328.7s] ahead and build your first one. So,
+[328.7s - 330.8s] ahead and build your first one. So, let's start with a problem almost
+[330.8s - 330.8s] let's start with a problem almost
+[330.8s - 333.2s] let's start with a problem almost everyone already knows. You wake up, you
+[333.2s - 333.2s] everyone already knows. You wake up, you
+[333.2s - 335.8s] everyone already knows. You wake up, you open up your inbox, and immediately feel
+[335.8s - 335.8s] open up your inbox, and immediately feel
+[335.8s - 338.0s] open up your inbox, and immediately feel behind. Important emails are mixed in
+[338.0s - 338.0s] behind. Important emails are mixed in
+[338.0s - 339.9s] behind. Important emails are mixed in with spam, client messages are buried
+[339.9s - 340.0s] with spam, client messages are buried
+[340.0s - 342.3s] with spam, client messages are buried under promotions, and small replies that
+[342.3s - 342.3s] under promotions, and small replies that
+[342.3s - 344.7s] under promotions, and small replies that should take a minute somehow end up
+[344.7s - 344.7s] should take a minute somehow end up
+[344.7s - 347.4s] should take a minute somehow end up eating a a part of your morning. It's
+[347.4s - 347.4s] eating a a part of your morning. It's
+[347.4s - 349.2s] eating a a part of your morning. It's repetitive, it's annoying, and it's
+[349.2s - 349.2s] repetitive, it's annoying, and it's
+[349.2s - 351.3s] repetitive, it's annoying, and it's exactly the kind of work AI is good at
+[351.3s - 351.3s] exactly the kind of work AI is good at
+[351.3s - 353.9s] exactly the kind of work AI is good at handling. So now click create new agent,
+[353.9s - 354.0s] handling. So now click create new agent,
+[354.0s - 355.9s] handling. So now click create new agent, a prompt box will appear, and this is
+[355.9s - 356.0s] a prompt box will appear, and this is
+[356.0s - 358.4s] a prompt box will appear, and this is where we tell the agent what job we want
+[358.4s - 358.4s] where we tell the agent what job we want
+[358.4s - 360.2s] where we tell the agent what job we want it to handle. And we'll name this one
+[360.2s - 360.2s] it to handle. And we'll name this one
+[360.2s - 362.5s] it to handle. And we'll name this one email management agent. So now type in
+[362.5s - 362.5s] email management agent. So now type in
+[362.5s - 364.6s] email management agent. So now type in this exact prompt, scan my inbox
+[364.6s - 364.6s] this exact prompt, scan my inbox
+[364.6s - 366.6s] this exact prompt, scan my inbox overnight, flag urgent emails, and send
+[366.6s - 366.6s] overnight, flag urgent emails, and send
+[366.6s - 368.7s] overnight, flag urgent emails, and send responses to simple ones. So keep your
+[368.7s - 368.7s] responses to simple ones. So keep your
+[368.7s - 370.1s] responses to simple ones. So keep your prompt simple like that, you don't need
+[370.1s - 370.1s] prompt simple like that, you don't need
+[370.1s - 371.8s] prompt simple like that, you don't need to overexplain or make it sound
+[371.8s - 371.8s] to overexplain or make it sound
+[371.8s - 374.0s] to overexplain or make it sound technical. Just tell it the task and
+[374.0s - 374.0s] technical. Just tell it the task and
+[374.0s - 375.6s] technical. Just tell it the task and when it should happen and what outcome
+[375.6s - 375.6s] when it should happen and what outcome
+[375.6s - 377.6s] when it should happen and what outcome you want. And that's enough for the
+[377.6s - 377.6s] you want. And that's enough for the
+[377.6s - 380.4s] you want. And that's enough for the system to understand what you're trying
+[380.4s - 380.4s] system to understand what you're trying
+[380.4s - 381.9s] system to understand what you're trying to build, and you'll see it start
+[381.9s - 382.0s] to build, and you'll see it start
+[382.0s - 383.7s] to build, and you'll see it start putting the steps together all
+[383.7s - 383.7s] putting the steps together all
+[383.7s - 385.8s] putting the steps together all automatically. And after that, it asks
+[385.8s - 385.8s] automatically. And after that, it asks
+[385.8s - 387.6s] automatically. And after that, it asks which email provider we're using, and I
+[387.6s - 387.6s] which email provider we're using, and I
+[387.6s - 389.8s] which email provider we're using, and I respond with Gmail. And at this point it
+[389.8s - 389.8s] respond with Gmail. And at this point it
+[389.8s - 391.8s] respond with Gmail. And at this point it will ask for permission to connect to
+[391.8s - 391.8s] will ask for permission to connect to
+[391.8s - 393.9s] will ask for permission to connect to your Gmail. So go ahead and authorize
+[393.9s - 393.9s] your Gmail. So go ahead and authorize
+[393.9s - 395.7s] your Gmail. So go ahead and authorize it. And what's nice here is that you're
+[395.7s - 395.7s] it. And what's nice here is that you're
+[395.7s - 397.9s] it. And what's nice here is that you're not manually building some complicated
+[397.9s - 398.0s] not manually building some complicated
+[398.0s - 399.8s] not manually building some complicated workflow with logic blocks and
+[399.8s - 399.8s] workflow with logic blocks and
+[399.8s - 401.7s] workflow with logic blocks and conditions. You're giving one
+[401.7s - 401.7s] conditions. You're giving one
+[401.7s - 403.5s] conditions. You're giving one instruction, and then the platform
+[403.5s - 403.5s] instruction, and then the platform
+[403.5s - 405.6s] instruction, and then the platform translates that into a whole working
+[405.6s - 405.6s] translates that into a whole working
+[405.6s - 407.2s] translates that into a whole working process for you.
+[407.2s - 407.2s] process for you.
+[407.2s - 408.6s] process for you. And once that connection is done, the
+[408.6s - 408.6s] And once that connection is done, the
+[408.6s - 410.5s] And once that connection is done, the next step is giving your agent the right
+[410.5s - 410.5s] next step is giving your agent the right
+[410.5s - 412.1s] next step is giving your agent the right knowledge so that it can respond
+[412.1s - 412.2s] knowledge so that it can respond
+[412.2s - 414.5s] knowledge so that it can respond properly. So here, let's go to brain,
+[414.5s - 414.5s] properly. So here, let's go to brain,
+[414.5s - 416.4s] properly. So here, let's go to brain, then click upload knowledge, and this
+[416.4s - 416.4s] then click upload knowledge, and this
+[416.4s - 418.7s] then click upload knowledge, and this part is important because it gives your
+[418.7s - 418.7s] part is important because it gives your
+[418.7s - 420.6s] part is important because it gives your agent context. You can upload things
+[420.6s - 420.6s] agent context. You can upload things
+[420.6s - 423.1s] agent context. You can upload things like facts, SOPs, service menus, pricing
+[423.1s - 423.1s] like facts, SOPs, service menus, pricing
+[423.1s - 424.6s] like facts, SOPs, service menus, pricing sheets, client scripts, or company
+[424.6s - 424.6s] sheets, client scripts, or company
+[424.6s - 426.8s] sheets, client scripts, or company policies. And let's say this is for a
+[426.8s - 426.8s] policies. And let's say this is for a
+[426.8s - 428.4s] policies. And let's say this is for a salon booking business. And in that
+[428.4s - 428.4s] salon booking business. And in that
+[428.4s - 430.4s] salon booking business. And in that case, you'd upload your service list,
+[430.4s - 430.4s] case, you'd upload your service list,
+[430.4s - 432.3s] case, you'd upload your service list, your pricing, your opening hours, your
+[432.3s - 432.3s] your pricing, your opening hours, your
+[432.3s - 434.5s] your pricing, your opening hours, your cancellation policy, and common customer
+[434.5s - 434.5s] cancellation policy, and common customer
+[434.5s - 436.5s] cancellation policy, and common customer questions. And that way when the agent
+[436.5s - 436.5s] questions. And that way when the agent
+[436.5s - 438.4s] questions. And that way when the agent replies, it's not just guessing or
+[438.4s - 438.4s] replies, it's not just guessing or
+[438.4s - 440.7s] replies, it's not just guessing or giving some generic answer, it's using
+[440.7s - 440.7s] giving some generic answer, it's using
+[440.7s - 442.5s] giving some generic answer, it's using your actual business information to
+[442.5s - 442.5s] your actual business information to
+[442.5s - 444.6s] your actual business information to respond. And that leads to fewer
+[444.6s - 444.6s] respond. And that leads to fewer
+[444.6s - 446.6s] respond. And that leads to fewer mistakes and more accurate replies and a
+[446.6s - 446.6s] mistakes and more accurate replies and a
+[446.6s - 448.7s] mistakes and more accurate replies and a much more consistent tone. It stops
+[448.7s - 448.7s] much more consistent tone. It stops
+[448.7s - 450.6s] much more consistent tone. It stops sounding like a random AI tool and
+[450.6s - 450.6s] sounding like a random AI tool and
+[450.6s - 452.2s] sounding like a random AI tool and starts sounding like something that
+[452.2s - 452.2s] starts sounding like something that
+[452.2s - 454.6s] starts sounding like something that actually understands how your business
+[454.6s - 454.6s] actually understands how your business
+[454.6s - 455.9s] actually understands how your business works.
+[455.9s - 455.9s] works.
+[455.9s - 457.8s] works. So now let's test it. I'm going to send
+[457.8s - 457.8s] So now let's test it. I'm going to send
+[457.8s - 460.6s] So now let's test it. I'm going to send an email to my own inbox with a meeting
+[460.6s - 460.6s] an email to my own inbox with a meeting
+[460.6s - 462.8s] an email to my own inbox with a meeting confirmation request. And since the
+[462.8s - 462.8s] confirmation request. And since the
+[462.8s - 464.9s] confirmation request. And since the knowledge is already uploaded, the agent
+[464.9s - 464.9s] knowledge is already uploaded, the agent
+[464.9s - 466.9s] knowledge is already uploaded, the agent can use that information right away. So,
+[466.9s - 466.9s] can use that information right away. So,
+[466.9s - 469.3s] can use that information right away. So, if someone asks about, say, services,
+[469.3s - 469.3s] if someone asks about, say, services,
+[469.3s - 471.4s] if someone asks about, say, services, refund rules, availability, or business
+[471.4s - 471.4s] refund rules, availability, or business
+[471.4s - 473.7s] refund rules, availability, or business hours, it already has what it needs to
+[473.7s - 473.7s] hours, it already has what it needs to
+[473.7s - 475.9s] hours, it already has what it needs to respond properly. And now, watch what
+[475.9s - 476.0s] respond properly. And now, watch what
+[476.0s - 478.0s] respond properly. And now, watch what happens. The agent scans the unread
+[478.0s - 478.0s] happens. The agent scans the unread
+[478.0s - 480.1s] happens. The agent scans the unread email and then responds to the inquiry
+[480.1s - 480.1s] email and then responds to the inquiry
+[480.1s - 482.2s] email and then responds to the inquiry almost instantly. And this is usually
+[482.2s - 482.2s] almost instantly. And this is usually
+[482.2s - 484.0s] almost instantly. And this is usually the moment when people start to really
+[484.0s - 484.0s] the moment when people start to really
+[484.0s - 486.4s] the moment when people start to really get it because the value becomes obvious
+[486.4s - 486.4s] get it because the value becomes obvious
+[486.4s - 489.0s] get it because the value becomes obvious very quickly. A task that normally takes
+[489.0s - 489.0s] very quickly. A task that normally takes
+[489.0s - 491.4s] very quickly. A task that normally takes 20 to 30 minutes of sorting and reading
+[491.4s - 491.4s] 20 to 30 minutes of sorting and reading
+[491.4s - 493.8s] 20 to 30 minutes of sorting and reading and replying is already handled for you.
+[493.8s - 493.8s] and replying is already handled for you.
+[493.8s - 495.3s] and replying is already handled for you. And just like that, you've built your
+[495.3s - 495.3s] And just like that, you've built your
+[495.3s - 497.9s] And just like that, you've built your first working AI agent. It can now run
+[497.9s - 497.9s] first working AI agent. It can now run
+[497.9s - 499.8s] first working AI agent. It can now run automatically every night, which means
+[499.8s - 499.8s] automatically every night, which means
+[499.8s - 501.8s] automatically every night, which means tomorrow morning your inbox can already
+[501.8s - 501.8s] tomorrow morning your inbox can already
+[501.8s - 503.6s] tomorrow morning your inbox can already be organized before your day even
+[503.6s - 503.6s] be organized before your day even
+[503.6s - 505.6s] be organized before your day even starts. But here's the thing, as you've
+[505.6s - 505.6s] starts. But here's the thing, as you've
+[505.6s - 507.8s] starts. But here's the thing, as you've seen, Base 44 is incredibly powerful,
+[507.8s - 507.8s] seen, Base 44 is incredibly powerful,
+[507.8s - 509.3s] seen, Base 44 is incredibly powerful, but most people still don't know how to
+[509.3s - 509.3s] but most people still don't know how to
+[509.3s - 511.7s] but most people still don't know how to use it properly. They end up building
+[511.7s - 511.7s] use it properly. They end up building
+[511.7s - 513.8s] use it properly. They end up building basic apps that don't make money or
+[513.8s - 513.8s] basic apps that don't make money or
+[513.8s - 515.8s] basic apps that don't make money or websites that can't even convert. And
+[515.8s - 515.8s] websites that can't even convert. And
+[515.8s - 518.0s] websites that can't even convert. And that's exactly why I created my own
+[518.0s - 518.0s] that's exactly why I created my own
+[518.0s - 520.1s] that's exactly why I created my own complete Base 44 masterclass. Inside
+[520.1s - 520.2s] complete Base 44 masterclass. Inside
+[520.2s - 521.2s] complete Base 44 masterclass. Inside this course, I'm going to show you
+[521.2s - 521.2s] this course, I'm going to show you
+[521.2s - 523.4s] this course, I'm going to show you step-by-step how to build profitable
+[523.4s - 523.4s] step-by-step how to build profitable
+[523.4s - 525.0s] step-by-step how to build profitable SaaS businesses, high-converting
+[525.0s - 525.0s] SaaS businesses, high-converting
+[525.0s - 527.5s] SaaS businesses, high-converting websites, and mobile apps, all using AI
+[527.5s - 527.6s] websites, and mobile apps, all using AI
+[527.6s - 529.6s] websites, and mobile apps, all using AI with zero coding required, of course.
+[529.6s - 529.6s] with zero coding required, of course.
+[529.6s - 531.1s] with zero coding required, of course. You're going to learn how to build SaaS
+[531.1s - 531.1s] You're going to learn how to build SaaS
+[531.1s - 533.0s] You're going to learn how to build SaaS apps that solve real problems and
+[533.0s - 533.0s] apps that solve real problems and
+[533.0s - 535.0s] apps that solve real problems and generate recurring revenue. Also, the
+[535.0s - 535.0s] generate recurring revenue. Also, the
+[535.0s - 537.1s] generate recurring revenue. Also, the exact prompts and strategies that I use
+[537.1s - 537.2s] exact prompts and strategies that I use
+[537.2s - 538.6s] exact prompts and strategies that I use to create professional websites in
+[538.6s - 538.6s] to create professional websites in
+[538.6s - 540.5s] to create professional websites in minutes, along with how to clone
+[540.5s - 540.6s] minutes, along with how to clone
+[540.6s - 542.0s] minutes, along with how to clone successful apps and then add your own
+[542.0s - 542.0s] successful apps and then add your own
+[542.0s - 544.3s] successful apps and then add your own profitable twist, and my proven system
+[544.3s - 544.3s] profitable twist, and my proven system
+[544.3s - 546.7s] profitable twist, and my proven system for turning Base 44 projects into actual
+[546.7s - 546.7s] for turning Base 44 projects into actual
+[546.7s - 548.9s] for turning Base 44 projects into actual income streams. This is not just theory.
+[548.9s - 548.9s] income streams. This is not just theory.
+[548.9s - 550.1s] income streams. This is not just theory. I'm going to walk you through real
+[550.1s - 550.2s] I'm going to walk you through real
+[550.2s - 551.8s] I'm going to walk you through real builds. I'm going to show you my exact
+[551.8s - 551.8s] builds. I'm going to show you my exact
+[551.8s - 553.5s] builds. I'm going to show you my exact process, and of course, give you the
+[553.5s - 553.5s] process, and of course, give you the
+[553.5s - 555.0s] process, and of course, give you the templates and frameworks that have
+[555.0s - 555.0s] templates and frameworks that have
+[555.0s - 557.1s] templates and frameworks that have helped my students launch successful
+[557.1s - 557.1s] helped my students launch successful
+[557.1s - 559.0s] helped my students launch successful AI-powered businesses. So, if you're
+[559.0s - 559.0s] AI-powered businesses. So, if you're
+[559.0s - 560.9s] AI-powered businesses. So, if you're serious, serious about building
+[560.9s - 560.9s] serious, serious about building
+[560.9s - 563.6s] serious, serious about building something profitable with AI in 2026,
+[563.6s - 563.6s] something profitable with AI in 2026,
+[563.6s - 565.0s] something profitable with AI in 2026, you got to click the link in the
+[565.0s - 565.0s] you got to click the link in the
+[565.0s - 567.2s] you got to click the link in the description below to join my Base 44
+[567.2s - 567.2s] description below to join my Base 44
+[567.2s - 569.1s] description below to join my Base 44 masterclass. Your future self will thank
+[569.1s - 569.1s] masterclass. Your future self will thank
+[569.1s - 570.6s] masterclass. Your future self will thank you for taking action today instead of
+[570.6s - 570.6s] you for taking action today instead of
+[570.6s - 572.4s] you for taking action today instead of just watching another tutorial. All
+[572.4s - 572.4s] just watching another tutorial. All
+[572.4s - 574.2s] just watching another tutorial. All right, so this is only the first
+[574.2s - 574.2s] right, so this is only the first
+[574.2s - 575.6s] right, so this is only the first example. Let's go ahead and check out
+[575.6s - 575.6s] example. Let's go ahead and check out
+[575.6s - 577.5s] example. Let's go ahead and check out some others. So, we're going to build
+[577.5s - 577.5s] some others. So, we're going to build
+[577.5s - 580.1s] some others. So, we're going to build now an agent that can actually help
+[580.1s - 580.2s] now an agent that can actually help
+[580.2s - 582.7s] now an agent that can actually help generate revenue because missed leads
+[582.7s - 582.7s] generate revenue because missed leads
+[582.7s - 584.6s] generate revenue because missed leads are one of the biggest silent killers in
+[584.6s - 584.6s] are one of the biggest silent killers in
+[584.6s - 587.1s] are one of the biggest silent killers in any business. A lead comes in, you plan
+[587.1s - 587.1s] any business. A lead comes in, you plan
+[587.1s - 588.5s] any business. A lead comes in, you plan to respond, and something else takes
+[588.5s - 588.6s] to respond, and something else takes
+[588.6s - 591.2s] to respond, and something else takes your attention. 10 minutes turns into 2
+[591.2s - 591.2s] your attention. 10 minutes turns into 2
+[591.2s - 593.1s] your attention. 10 minutes turns into 2 hours, 2 hours turns into the next day,
+[593.1s - 593.1s] hours, 2 hours turns into the next day,
+[593.1s - 595.5s] hours, 2 hours turns into the next day, and by then the opportunity is gone. And
+[595.5s - 595.5s] and by then the opportunity is gone. And
+[595.5s - 597.4s] and by then the opportunity is gone. And that's the exact gap that this agent is
+[597.4s - 597.4s] that's the exact gap that this agent is
+[597.4s - 600.3s] that's the exact gap that this agent is designed to fix. So, here click super
+[600.3s - 600.3s] designed to fix. So, here click super
+[600.3s - 602.1s] designed to fix. So, here click super agent and give it a name. This time
+[602.1s - 602.1s] agent and give it a name. This time
+[602.1s - 604.1s] agent and give it a name. This time we're in creating a follow-up system, so
+[604.1s - 604.1s] we're in creating a follow-up system, so
+[604.1s - 606.8s] we're in creating a follow-up system, so the goal is simple. The moment a lead
+[606.8s - 606.8s] the goal is simple. The moment a lead
+[606.8s - 608.5s] the goal is simple. The moment a lead appears, a response is already in
+[608.5s - 608.5s] appears, a response is already in
+[608.5s - 610.7s] appears, a response is already in motion. In the prompt box, type in this
+[610.7s - 610.7s] motion. In the prompt box, type in this
+[610.7s - 613.8s] motion. In the prompt box, type in this exactly. You are a lead follow-up agent
+[613.8s - 613.8s] exactly. You are a lead follow-up agent
+[613.8s - 615.6s] exactly. You are a lead follow-up agent for my real estate property company.
+[615.6s - 615.6s] for my real estate property company.
+[615.6s - 617.6s] for my real estate property company. When a new lead comes in, send a
+[617.6s - 617.6s] When a new lead comes in, send a
+[617.6s - 620.3s] When a new lead comes in, send a personalized follow-up automatically.
+[620.3s - 620.3s] personalized follow-up automatically.
+[620.3s - 621.7s] personalized follow-up automatically. Let's keep the structure clear and
+[621.7s - 621.7s] Let's keep the structure clear and
+[621.7s - 623.5s] Let's keep the structure clear and direct. Start with the role, then the
+[623.5s - 623.5s] direct. Start with the role, then the
+[623.5s - 625.0s] direct. Start with the role, then the trigger, and then the action. And that
+[625.0s - 625.0s] trigger, and then the action. And that
+[625.0s - 627.4s] trigger, and then the action. And that format helps the platform understand
+[627.4s - 627.4s] format helps the platform understand
+[627.4s - 629.4s] format helps the platform understand what you want and build the workflow
+[629.4s - 629.4s] what you want and build the workflow
+[629.4s - 632.1s] what you want and build the workflow correctly without extra adjustments. So,
+[632.1s - 632.1s] correctly without extra adjustments. So,
+[632.1s - 633.8s] correctly without extra adjustments. So, to complete the setup, you'll answer a
+[633.8s - 633.8s] to complete the setup, you'll answer a
+[633.8s - 635.8s] to complete the setup, you'll answer a few questions from super agent, and
+[635.8s - 635.8s] few questions from super agent, and
+[635.8s - 638.0s] few questions from super agent, and these questions help define how the
+[638.0s - 638.0s] these questions help define how the
+[638.0s - 640.3s] these questions help define how the agent should behave and where it should
+[640.3s - 640.3s] agent should behave and where it should
+[640.3s - 642.4s] agent should behave and where it should get its data from. The next step is
+[642.4s - 642.4s] get its data from. The next step is
+[642.4s - 644.7s] get its data from. The next step is connecting your lead source. So, use
+[644.7s - 644.7s] connecting your lead source. So, use
+[644.7s - 646.5s] connecting your lead source. So, use Google Sheets for this example.
+[646.5s - 646.6s] Google Sheets for this example.
+[646.6s - 648.9s] Google Sheets for this example. Authorize access to your Google account,
+[648.9s - 648.9s] Authorize access to your Google account,
+[648.9s - 651.2s] Authorize access to your Google account, so the system can read your data. And
+[651.2s - 651.2s] so the system can read your data. And
+[651.2s - 653.3s] so the system can read your data. And this option just keeps things simple and
+[653.3s - 653.3s] this option just keeps things simple and
+[653.3s - 655.0s] this option just keeps things simple and easy to follow, especially if you're
+[655.0s - 655.0s] easy to follow, especially if you're
+[655.0s - 657.2s] easy to follow, especially if you're just getting started. And once it is
+[657.2s - 657.2s] just getting started. And once it is
+[657.2s - 659.2s] just getting started. And once it is connected, select the spreadsheet where
+[659.2s - 659.2s] connected, select the spreadsheet where
+[659.2s - 661.0s] connected, select the spreadsheet where your leads are stored. And for this
+[661.0s - 661.0s] your leads are stored. And for this
+[661.0s - 662.8s] your leads are stored. And for this demo, just keep it simple again with
+[662.8s - 662.8s] demo, just keep it simple again with
+[662.8s - 665.4s] demo, just keep it simple again with columns like name and email. And that's
+[665.4s - 665.4s] columns like name and email. And that's
+[665.4s - 667.6s] columns like name and email. And that's enough for the agent to personalize
+[667.6s - 667.6s] enough for the agent to personalize
+[667.6s - 670.2s] enough for the agent to personalize messages and know where to send them.
+[670.2s - 670.2s] messages and know where to send them.
+[670.2s - 672.1s] messages and know where to send them. And this step plays a big role in how
+[672.1s - 672.2s] And this step plays a big role in how
+[672.2s - 674.3s] And this step plays a big role in how natural the output feels because the
+[674.3s - 674.3s] natural the output feels because the
+[674.3s - 676.0s] natural the output feels because the cleaner your sheet is, the better the
+[676.0s - 676.0s] cleaner your sheet is, the better the
+[676.0s - 677.8s] cleaner your sheet is, the better the responses will sound. And if your data
+[677.8s - 677.8s] responses will sound. And if your data
+[677.8s - 679.4s] responses will sound. And if your data is organized, then the messages will
+[679.4s - 679.4s] is organized, then the messages will
+[679.4s - 682.0s] is organized, then the messages will feel intentional and relevant rather
+[682.0s - 682.0s] feel intentional and relevant rather
+[682.0s - 683.8s] feel intentional and relevant rather than generic. You're essentially giving
+[683.8s - 683.8s] than generic. You're essentially giving
+[683.8s - 686.2s] than generic. You're essentially giving the agent the context it needs before it
+[686.2s - 686.2s] the agent the context it needs before it
+[686.2s - 688.3s] the agent the context it needs before it begins working. And after connecting the
+[688.3s - 688.3s] begins working. And after connecting the
+[688.3s - 690.0s] begins working. And after connecting the Google Sheet, the AI agent begins
+[690.0s - 690.0s] Google Sheet, the AI agent begins
+[690.0s - 691.9s] Google Sheet, the AI agent begins sending customized follow-up emails
+[691.9s - 691.9s] sending customized follow-up emails
+[691.9s - 693.9s] sending customized follow-up emails automatically. And this is the point
+[693.9s - 693.9s] automatically. And this is the point
+[693.9s - 696.4s] automatically. And this is the point where businesses stop losing warm leads
+[696.4s - 696.4s] where businesses stop losing warm leads
+[696.4s - 698.8s] where businesses stop losing warm leads simply because of slow responses. And
+[698.8s - 698.8s] simply because of slow responses. And
+[698.8s - 701.3s] simply because of slow responses. And timing matters here. In many cases, the
+[701.3s - 701.3s] timing matters here. In many cases, the
+[701.3s - 703.4s] timing matters here. In many cases, the first helpful reply is the one that gets
+[703.4s - 703.4s] first helpful reply is the one that gets
+[703.4s - 705.2s] first helpful reply is the one that gets the conversion. And at this stage,
+[705.2s - 705.2s] the conversion. And at this stage,
+[705.2s - 707.1s] the conversion. And at this stage, you've built your second working AI
+[707.1s - 707.2s] you've built your second working AI
+[707.2s - 709.3s] you've built your second working AI agent. Responds faster than most teams,
+[709.3s - 709.3s] agent. Responds faster than most teams,
+[709.3s - 711.4s] agent. Responds faster than most teams, and it does it consistently. No missed
+[711.4s - 711.4s] and it does it consistently. No missed
+[711.4s - 713.5s] and it does it consistently. No missed follow-ups, no delays, and no reliance
+[713.5s - 713.5s] follow-ups, no delays, and no reliance
+[713.5s - 716.2s] follow-ups, no delays, and no reliance on someone remembering to reply. Not
+[716.2s - 716.2s] on someone remembering to reply. Not
+[716.2s - 718.3s] on someone remembering to reply. Not long ago, workflows like this required
+[718.3s - 718.3s] long ago, workflows like this required
+[718.3s - 720.6s] long ago, workflows like this required developers, custom scripts, and ongoing
+[720.6s - 720.6s] developers, custom scripts, and ongoing
+[720.6s - 722.9s] developers, custom scripts, and ongoing maintenance. Here, the same result comes
+[722.9s - 722.9s] maintenance. Here, the same result comes
+[722.9s - 725.0s] maintenance. Here, the same result comes from a few clear instructions and Mayb
+[725.0s - 725.0s] from a few clear instructions and Mayb
+[725.0s - 727.3s] from a few clear instructions and Mayb simple connection. And the next part
+[727.3s - 727.3s] simple connection. And the next part
+[727.3s - 729.1s] simple connection. And the next part will make this even clearer because
+[729.1s - 729.1s] will make this even clearer because
+[729.1s - 731.0s] will make this even clearer because there's a reason that this approach
+[731.0s - 731.0s] there's a reason that this approach
+[731.0s - 733.8s] there's a reason that this approach feels easier than traditional automation
+[733.8s - 733.8s] feels easier than traditional automation
+[733.8s - 735.7s] feels easier than traditional automation tools, and most people end up
+[735.7s - 735.7s] tools, and most people end up
+[735.7s - 737.8s] tools, and most people end up overcomplicating it without even
+[737.8s - 737.8s] overcomplicating it without even
+[737.8s - 739.4s] overcomplicating it without even realizing why.
+[739.4s - 739.4s] realizing why.
+[739.4s - 741.5s] realizing why. So, let's build an agent for reporting
+[741.5s - 741.5s] So, let's build an agent for reporting
+[741.5s - 743.6s] So, let's build an agent for reporting because this is one of those tasks that
+[743.6s - 743.6s] because this is one of those tasks that
+[743.6s - 745.5s] because this is one of those tasks that sound small until you realize how much
+[745.5s - 745.6s] sound small until you realize how much
+[745.6s - 748.0s] sound small until you realize how much time it quietly takes every single week.
+[748.0s - 748.0s] time it quietly takes every single week.
+[748.0s - 749.8s] time it quietly takes every single week. A lot of business owners still do this
+[749.8s - 749.8s] A lot of business owners still do this
+[749.8s - 751.8s] A lot of business owners still do this manually. They open up their sales
+[751.8s - 751.8s] manually. They open up their sales
+[751.8s - 753.5s] manually. They open up their sales dashboard, copy numbers into a
+[753.5s - 753.6s] dashboard, copy numbers into a
+[753.6s - 755.7s] dashboard, copy numbers into a spreadsheet, check what changed, look
+[755.7s - 755.7s] spreadsheet, check what changed, look
+[755.7s - 757.4s] spreadsheet, check what changed, look for patterns, write a summary, and then
+[757.4s - 757.4s] for patterns, write a summary, and then
+[757.4s - 759.5s] for patterns, write a summary, and then send it to the team. None of that sounds
+[759.5s - 759.6s] send it to the team. None of that sounds
+[759.6s - 762.0s] send it to the team. None of that sounds difficult on its own, but together, it
+[762.0s - 762.0s] difficult on its own, but together, it
+[762.0s - 764.4s] difficult on its own, but together, it adds up fast. And the frustrating part
+[764.4s - 764.4s] adds up fast. And the frustrating part
+[764.4s - 766.4s] adds up fast. And the frustrating part is that it's not a one-time task. You do
+[766.4s - 766.4s] is that it's not a one-time task. You do
+[766.4s - 768.0s] is that it's not a one-time task. You do it again next week, and then again after
+[768.0s - 768.0s] it again next week, and then again after
+[768.0s - 770.0s] it again next week, and then again after that. So, we're going to automate the
+[770.0s - 770.0s] that. So, we're going to automate the
+[770.0s - 772.2s] that. So, we're going to automate the whole thing. Let's go back to the Base44
+[772.2s - 772.2s] whole thing. Let's go back to the Base44
+[772.2s - 773.8s] whole thing. Let's go back to the Base44 dashboard here and click create new
+[773.8s - 773.8s] dashboard here and click create new
+[773.8s - 776.0s] dashboard here and click create new agent. As the setup begins, answer the
+[776.0s - 776.0s] agent. As the setup begins, answer the
+[776.0s - 777.8s] agent. As the setup begins, answer the questions it gives you so the platform
+[777.8s - 777.8s] questions it gives you so the platform
+[777.8s - 779.9s] questions it gives you so the platform can shape the agent around the tasks
+[779.9s - 779.9s] can shape the agent around the tasks
+[779.9s - 781.7s] can shape the agent around the tasks that you want it to handle. To connect
+[781.7s - 781.7s] that you want it to handle. To connect
+[781.7s - 783.6s] that you want it to handle. To connect the data source, choose the integration
+[783.6s - 783.6s] the data source, choose the integration
+[783.6s - 785.1s] the data source, choose the integration that you want to use. And for this
+[785.1s - 785.1s] that you want to use. And for this
+[785.1s - 786.8s] that you want to use. And for this example, I'm choosing Google Sheets
+[786.8s - 786.8s] example, I'm choosing Google Sheets
+[786.8s - 788.5s] example, I'm choosing Google Sheets because, again, it's simple, it's
+[788.5s - 788.6s] because, again, it's simple, it's
+[788.6s - 790.4s] because, again, it's simple, it's familiar, and easy to test with real
+[790.4s - 790.4s] familiar, and easy to test with real
+[790.4s - 792.4s] familiar, and easy to test with real business data. And for the prompt, type
+[792.4s - 792.4s] business data. And for the prompt, type
+[792.4s - 794.5s] business data. And for the prompt, type in this exactly: Use my Google Sheet
+[794.5s - 794.6s] in this exactly: Use my Google Sheet
+[794.6s - 797.0s] in this exactly: Use my Google Sheet called Weekly Sales Dashboard with one
+[797.0s - 797.0s] called Weekly Sales Dashboard with one
+[797.0s - 799.3s] called Weekly Sales Dashboard with one tab named Sales Data. Please create a
+[799.3s - 799.3s] tab named Sales Data. Please create a
+[799.3s - 801.1s] tab named Sales Data. Please create a report every Friday at 4:00 p.m. that
+[801.1s - 801.2s] report every Friday at 4:00 p.m. that
+[801.2s - 803.6s] report every Friday at 4:00 p.m. that summarizes weekly revenue, order volume,
+[803.6s - 803.6s] summarizes weekly revenue, order volume,
+[803.6s - 806.1s] summarizes weekly revenue, order volume, top product, refund trends, and
+[806.1s - 806.1s] top product, refund trends, and
+[806.1s - 808.4s] top product, refund trends, and best-performing sales channel. And then
+[808.4s - 808.4s] best-performing sales channel. And then
+[808.4s - 809.8s] best-performing sales channel. And then send the report to Telegram in
+[809.8s - 809.8s] send the report to Telegram in
+[809.8s - 811.5s] send the report to Telegram in #weekly-reports
+[811.5s - 811.5s] #weekly-reports
+[811.5s - 813.5s] #weekly-reports with a short business summary and key
+[813.5s - 813.5s] with a short business summary and key
+[813.5s - 816.0s] with a short business summary and key insights. So, that single prompt is
+[816.0s - 816.0s] insights. So, that single prompt is
+[816.0s - 817.9s] insights. So, that single prompt is doing a lot of work. It tells the agent
+[817.9s - 817.9s] doing a lot of work. It tells the agent
+[817.9s - 820.3s] doing a lot of work. It tells the agent where to get the data, what to look for,
+[820.3s - 820.3s] where to get the data, what to look for,
+[820.3s - 821.8s] where to get the data, what to look for, when to run the task, and where to send
+[821.8s - 821.8s] when to run the task, and where to send
+[821.8s - 823.7s] when to run the task, and where to send the final result. In other words, you're
+[823.7s - 823.7s] the final result. In other words, you're
+[823.7s - 825.9s] the final result. In other words, you're giving it three jobs in one instruction.
+[825.9s - 825.9s] giving it three jobs in one instruction.
+[825.9s - 827.8s] giving it three jobs in one instruction. Get the data, understand the data, and
+[827.8s - 827.8s] Get the data, understand the data, and
+[827.8s - 830.0s] Get the data, understand the data, and send the result. And after that, enter
+[830.0s - 830.0s] send the result. And after that, enter
+[830.0s - 831.8s] send the result. And after that, enter the specific Google Sheet URL so the
+[831.8s - 831.8s] the specific Google Sheet URL so the
+[831.8s - 834.5s] the specific Google Sheet URL so the agent knows exactly which file to use.
+[834.5s - 834.5s] agent knows exactly which file to use.
+[834.5s - 836.0s] agent knows exactly which file to use. And the next step is connecting
+[836.0s - 836.0s] And the next step is connecting
+[836.0s - 838.9s] And the next step is connecting Telegram, so the report has somewhere to
+[838.9s - 838.9s] Telegram, so the report has somewhere to
+[838.9s - 841.2s] Telegram, so the report has somewhere to go once it's generated. Set up the AI
+[841.2s - 841.2s] go once it's generated. Set up the AI
+[841.2s - 843.1s] go once it's generated. Set up the AI agent inside Telegram so I can send the
+[843.1s - 843.2s] agent inside Telegram so I can send the
+[843.2s - 845.0s] agent inside Telegram so I can send the final output directly into the right
+[845.0s - 845.0s] final output directly into the right
+[845.0s - 847.0s] final output directly into the right place. And once that's ready, let's go
+[847.0s - 847.0s] place. And once that's ready, let's go
+[847.0s - 849.4s] place. And once that's ready, let's go ahead and test it live inside Telegram.
+[849.4s - 849.4s] ahead and test it live inside Telegram.
+[849.4s - 850.8s] ahead and test it live inside Telegram. I'm going to ask the agent to generate
+[850.8s - 850.8s] I'm going to ask the agent to generate
+[850.8s - 852.7s] I'm going to ask the agent to generate this week's report right now so we can
+[852.7s - 852.7s] this week's report right now so we can
+[852.7s - 854.6s] this week's report right now so we can see the result before waiting for the
+[854.6s - 854.6s] see the result before waiting for the
+[854.6s - 857.4s] see the result before waiting for the scheduled Friday run. And perfect. The
+[857.4s - 857.4s] scheduled Friday run. And perfect. The
+[857.4s - 859.4s] scheduled Friday run. And perfect. The report comes in through Telegram, and
+[859.4s - 859.4s] report comes in through Telegram, and
+[859.4s - 861.7s] report comes in through Telegram, and that's exactly what we wanted here. The
+[861.7s - 861.7s] that's exactly what we wanted here. The
+[861.7s - 863.5s] that's exactly what we wanted here. The summary is there, the numbers are pulled
+[863.5s - 863.5s] summary is there, the numbers are pulled
+[863.5s - 865.5s] summary is there, the numbers are pulled in, and the key insights are already
+[865.5s - 865.5s] in, and the key insights are already
+[865.5s - 867.0s] in, and the key insights are already written out without needing to build the
+[867.0s - 867.0s] written out without needing to build the
+[867.0s - 869.4s] written out without needing to build the report manually. And that basic
+[869.4s - 869.4s] report manually. And that basic
+[869.4s - 871.5s] report manually. And that basic structure can power a lot of useful
+[871.5s - 871.6s] structure can power a lot of useful
+[871.6s - 873.8s] structure can power a lot of useful automations, but reporting is one of the
+[873.8s - 873.8s] automations, but reporting is one of the
+[873.8s - 876.1s] automations, but reporting is one of the best examples because it turns recurring
+[876.1s - 876.1s] best examples because it turns recurring
+[876.1s - 877.9s] best examples because it turns recurring admin work into something fully
+[877.9s - 877.9s] admin work into something fully
+[877.9s - 879.8s] admin work into something fully automatic. It keeps happening on
+[879.8s - 879.8s] automatic. It keeps happening on
+[879.8s - 881.8s] automatic. It keeps happening on schedule, the output stays consistent,
+[881.8s - 881.8s] schedule, the output stays consistent,
+[881.8s - 884.2s] schedule, the output stays consistent, and no one has to remember to do it. And
+[884.2s - 884.2s] and no one has to remember to do it. And
+[884.2s - 886.1s] and no one has to remember to do it. And once you see it working live, the bigger
+[886.1s - 886.2s] once you see it working live, the bigger
+[886.2s - 887.9s] once you see it working live, the bigger question then starts to come up
+[887.9s - 887.9s] question then starts to come up
+[887.9s - 889.8s] question then starts to come up naturally. If building something like
+[889.8s - 889.8s] naturally. If building something like
+[889.8s - 892.2s] naturally. If building something like this can be this straightforward, why do
+[892.2s - 892.2s] this can be this straightforward, why do
+[892.2s - 894.7s] this can be this straightforward, why do so many people still struggle with
+[894.7s - 894.7s] so many people still struggle with
+[894.7s - 896.6s] so many people still struggle with automation? And that's what I want to
+[896.6s - 896.6s] automation? And that's what I want to
+[896.6s - 898.4s] automation? And that's what I want to get into next because there's a reason
+[898.4s - 898.4s] get into next because there's a reason
+[898.4s - 900.2s] get into next because there's a reason this feels easier than traditional
+[900.2s - 900.2s] this feels easier than traditional
+[900.2s - 902.4s] this feels easier than traditional automation tools, and the old the way
+[902.4s - 902.4s] automation tools, and the old the way
+[902.4s - 904.3s] automation tools, and the old the way just tends to lose most beginners very
+[904.3s - 904.3s] just tends to lose most beginners very
+[904.3s - 906.5s] just tends to lose most beginners very quickly. So, let's talk about why this
+[906.5s - 906.6s] quickly. So, let's talk about why this
+[906.6s - 909.0s] quickly. So, let's talk about why this feels so much easier, especially if
+[909.0s - 909.0s] feels so much easier, especially if
+[909.0s - 910.8s] feels so much easier, especially if you've tried automation tools before,
+[910.8s - 910.8s] you've tried automation tools before,
+[910.8s - 912.9s] you've tried automation tools before, and it just didn't stick with you. So,
+[912.9s - 912.9s] and it just didn't stick with you. So,
+[912.9s - 914.8s] and it just didn't stick with you. So, most people hit a wall pretty quickly
+[914.8s - 914.8s] most people hit a wall pretty quickly
+[914.8s - 916.4s] most people hit a wall pretty quickly the traditional way. You open up a
+[916.4s - 916.4s] the traditional way. You open up a
+[916.4s - 918.6s] the traditional way. You open up a workflow builder, and suddenly you're
+[918.6s - 918.6s] workflow builder, and suddenly you're
+[918.6s - 920.8s] workflow builder, and suddenly you're dragging blocks across the the setting
+[920.8s - 920.8s] dragging blocks across the the setting
+[920.8s - 923.1s] dragging blocks across the the setting conditions, writing logic, testing if it
+[923.1s - 923.1s] conditions, writing logic, testing if it
+[923.1s - 924.9s] conditions, writing logic, testing if it works, fixing errors when it doesn't,
+[924.9s - 924.9s] works, fixing errors when it doesn't,
+[924.9s - 926.5s] works, fixing errors when it doesn't, and then repeating the whole process all
+[926.5s - 926.5s] and then repeating the whole process all
+[926.5s - 928.6s] and then repeating the whole process all over again. And it starts to feel less
+[928.6s - 928.6s] over again. And it starts to feel less
+[928.6s - 930.1s] over again. And it starts to feel less like solving a simple problem and more
+[930.1s - 930.2s] like solving a simple problem and more
+[930.2s - 932.4s] like solving a simple problem and more like trying to learn a new system from
+[932.4s - 932.4s] like trying to learn a new system from
+[932.4s - 934.8s] like trying to learn a new system from scratch. For beginners, it can feel like
+[934.8s - 934.8s] scratch. For beginners, it can feel like
+[934.8s - 937.0s] scratch. For beginners, it can feel like learning a second language. One small
+[937.0s - 937.0s] learning a second language. One small
+[937.0s - 938.9s] learning a second language. One small mistake, like a broken trigger or a
+[938.9s - 938.9s] mistake, like a broken trigger or a
+[938.9s - 941.4s] mistake, like a broken trigger or a missing condition, can stop the entire
+[941.4s - 941.4s] missing condition, can stop the entire
+[941.4s - 942.8s] missing condition, can stop the entire workflow from working, and then you're
+[942.8s - 942.8s] workflow from working, and then you're
+[942.8s - 944.4s] workflow from working, and then you're stuck trying to figure out what went
+[944.4s - 944.4s] stuck trying to figure out what went
+[944.4s - 946.8s] stuck trying to figure out what went wrong. Now, compare that to what we just
+[946.8s - 946.8s] wrong. Now, compare that to what we just
+[946.8s - 948.4s] wrong. Now, compare that to what we just did. We didn't touch any complex
+[948.4s - 948.4s] did. We didn't touch any complex
+[948.4s - 950.0s] did. We didn't touch any complex builders, we didn't set up logics
+[950.0s - 950.0s] builders, we didn't set up logics
+[950.0s - 952.5s] builders, we didn't set up logics step-by-step. We simply typed a prompt,
+[952.5s - 952.6s] step-by-step. We simply typed a prompt,
+[952.6s - 954.8s] step-by-step. We simply typed a prompt, described what we wanted, and the system
+[954.8s - 954.8s] described what we wanted, and the system
+[954.8s - 956.2s] described what we wanted, and the system handled the rest. And that's the
+[956.2s - 956.2s] handled the rest. And that's the
+[956.2s - 958.1s] handled the rest. And that's the difference here. The older approach
+[958.1s - 958.1s] difference here. The older approach
+[958.1s - 960.4s] difference here. The older approach forces you to think like a developer.
+[960.4s - 960.4s] forces you to think like a developer.
+[960.4s - 962.2s] forces you to think like a developer. You have to break everything down into
+[962.2s - 962.2s] You have to break everything down into
+[962.2s - 964.4s] You have to break everything down into steps and conditions and technical
+[964.4s - 964.4s] steps and conditions and technical
+[964.4s - 967.1s] steps and conditions and technical logic. Base 44 shifts that completely.
+[967.1s - 967.1s] logic. Base 44 shifts that completely.
+[967.1s - 969.2s] logic. Base 44 shifts that completely. It lets you think like an operator. You
+[969.2s - 969.2s] It lets you think like an operator. You
+[969.2s - 971.4s] It lets you think like an operator. You focus on the outcome, you describe the
+[971.4s - 971.4s] focus on the outcome, you describe the
+[971.4s - 973.4s] focus on the outcome, you describe the job, and the platform builds the process
+[973.4s - 973.4s] job, and the platform builds the process
+[973.4s - 975.4s] job, and the platform builds the process behind the scenes. And that change
+[975.4s - 975.4s] behind the scenes. And that change
+[975.4s - 977.4s] behind the scenes. And that change removes a lot of friction. There's less
+[977.4s - 977.4s] removes a lot of friction. There's less
+[977.4s - 979.0s] removes a lot of friction. There's less setup, fewer points where things can
+[979.0s - 979.0s] setup, fewer points where things can
+[979.0s - 980.9s] setup, fewer points where things can break, and more time spent actually
+[980.9s - 980.9s] break, and more time spent actually
+[980.9s - 983.1s] break, and more time spent actually getting results. And that speed matters
+[983.1s - 983.1s] getting results. And that speed matters
+[983.1s - 984.9s] getting results. And that speed matters more than people realize, because most
+[984.9s - 984.9s] more than people realize, because most
+[984.9s - 987.2s] more than people realize, because most people don't struggle because they lack
+[987.2s - 987.2s] people don't struggle because they lack
+[987.2s - 989.0s] people don't struggle because they lack ideas. No, they struggle because the
+[989.0s - 989.0s] ideas. No, they struggle because the
+[989.0s - 991.2s] ideas. No, they struggle because the setup takes too long, and they lose
+[991.2s - 991.2s] setup takes too long, and they lose
+[991.2s - 992.8s] setup takes too long, and they lose momentum before anything is even
+[992.8s - 992.8s] momentum before anything is even
+[992.8s - 994.0s] momentum before anything is even finished.
+[994.0s - 994.0s] finished.
+[994.0s - 995.7s] finished. So, let me show you where this starts to
+[995.7s - 995.7s] So, let me show you where this starts to
+[995.7s - 998.2s] So, let me show you where this starts to become really powerful, and it all comes
+[998.2s - 998.2s] become really powerful, and it all comes
+[998.2s - 1000.8s] become really powerful, and it all comes down to integrations. An AI agent on its
+[1000.8s - 1000.8s] down to integrations. An AI agent on its
+[1000.8s - 1002.8s] down to integrations. An AI agent on its own is useful, but once it can move
+[1002.8s - 1002.8s] own is useful, but once it can move
+[1002.8s - 1004.5s] own is useful, but once it can move between different apps and handle data
+[1004.5s - 1004.6s] between different apps and handle data
+[1004.6s - 1006.5s] between different apps and handle data across them, then that's when it starts
+[1006.5s - 1006.5s] across them, then that's when it starts
+[1006.5s - 1008.5s] across them, then that's when it starts to feel like a real system working for
+[1008.5s - 1008.5s] to feel like a real system working for
+[1008.5s - 1010.2s] to feel like a real system working for you. So, let's click on integrations
+[1010.2s - 1010.2s] you. So, let's click on integrations
+[1010.2s - 1012.1s] you. So, let's click on integrations here. We're going to connect a few tools
+[1012.1s - 1012.1s] here. We're going to connect a few tools
+[1012.1s - 1013.8s] here. We're going to connect a few tools live, so you can see how quickly this
+[1013.8s - 1013.8s] live, so you can see how quickly this
+[1013.8s - 1016.1s] live, so you can see how quickly this comes together. Start with Gmail, click
+[1016.1s - 1016.1s] comes together. Start with Gmail, click
+[1016.1s - 1018.0s] comes together. Start with Gmail, click connect, authorize access, and that's
+[1018.0s - 1018.0s] connect, authorize access, and that's
+[1018.0s - 1020.6s] connect, authorize access, and that's it. The setup is now done. Your AI agent
+[1020.6s - 1020.6s] it. The setup is now done. Your AI agent
+[1020.6s - 1022.5s] it. The setup is now done. Your AI agent can now send emails directly, which
+[1022.5s - 1022.5s] can now send emails directly, which
+[1022.5s - 1024.5s] can now send emails directly, which means things like reports and updates or
+[1024.5s - 1024.5s] means things like reports and updates or
+[1024.5s - 1026.6s] means things like reports and updates or follow-ups can go out automatically
+[1026.6s - 1026.6s] follow-ups can go out automatically
+[1026.6s - 1028.9s] follow-ups can go out automatically without you touching anything. So, next
+[1028.9s - 1028.9s] without you touching anything. So, next
+[1028.9s - 1031.2s] without you touching anything. So, next up, connect Google Calendar. Authorize
+[1031.2s - 1031.2s] up, connect Google Calendar. Authorize
+[1031.2s - 1033.6s] up, connect Google Calendar. Authorize access the same way. Once that's done,
+[1033.6s - 1033.6s] access the same way. Once that's done,
+[1033.6s - 1035.3s] access the same way. Once that's done, your agent can now check your schedule
+[1035.3s - 1035.4s] your agent can now check your schedule
+[1035.4s - 1037.2s] your agent can now check your schedule before sending anything, and that means
+[1037.2s - 1037.2s] before sending anything, and that means
+[1037.2s - 1039.4s] before sending anything, and that means it won't send reports at the wrong time
+[1039.4s - 1039.4s] it won't send reports at the wrong time
+[1039.4s - 1041.8s] it won't send reports at the wrong time or conflict with your workflow. It can
+[1041.8s - 1041.8s] or conflict with your workflow. It can
+[1041.8s - 1044.3s] or conflict with your workflow. It can actually work around your day. So, now
+[1044.3s - 1044.3s] actually work around your day. So, now
+[1044.3s - 1046.3s] actually work around your day. So, now connect Google Analytics and go through
+[1046.3s - 1046.3s] connect Google Analytics and go through
+[1046.3s - 1048.5s] connect Google Analytics and go through again the same process and authorize
+[1048.5s - 1048.5s] again the same process and authorize
+[1048.5s - 1050.6s] again the same process and authorize access. And once it's connected, your
+[1050.6s - 1050.6s] access. And once it's connected, your
+[1050.6s - 1053.0s] access. And once it's connected, your agent can now pull in data like website
+[1053.0s - 1053.0s] agent can now pull in data like website
+[1053.0s - 1055.0s] agent can now pull in data like website traffic and sessions and bounce rate and
+[1055.0s - 1055.0s] traffic and sessions and bounce rate and
+[1055.0s - 1057.0s] traffic and sessions and bounce rate and conversions and combine that with your
+[1057.0s - 1057.0s] conversions and combine that with your
+[1057.0s - 1059.3s] conversions and combine that with your existing data. And at this point, you've
+[1059.3s - 1059.3s] existing data. And at this point, you've
+[1059.3s - 1061.3s] existing data. And at this point, you've connected three tools in just a few
+[1061.3s - 1061.3s] connected three tools in just a few
+[1061.3s - 1063.2s] connected three tools in just a few minutes. And if you include the Google
+[1063.2s - 1063.2s] minutes. And if you include the Google
+[1063.2s - 1064.6s] minutes. And if you include the Google Sheet we connected earlier, that's
+[1064.6s - 1064.6s] Sheet we connected earlier, that's
+[1064.6s - 1066.6s] Sheet we connected earlier, that's already four integrations working
+[1066.6s - 1066.6s] already four integrations working
+[1066.6s - 1069.0s] already four integrations working together inside one system. And that
+[1069.0s - 1069.0s] together inside one system. And that
+[1069.0s - 1070.5s] together inside one system. And that speed is what makes this different.
+[1070.5s - 1070.6s] speed is what makes this different.
+[1070.6s - 1072.3s] speed is what makes this different. Older automation setups usually involve
+[1072.3s - 1072.3s] Older automation setups usually involve
+[1072.3s - 1074.8s] Older automation setups usually involve going through API documentation and
+[1074.8s - 1074.8s] going through API documentation and
+[1074.8s - 1076.5s] going through API documentation and generating tokens, mapping fields
+[1076.5s - 1076.6s] generating tokens, mapping fields
+[1076.6s - 1078.3s] generating tokens, mapping fields manually, and then testing everything
+[1078.3s - 1078.3s] manually, and then testing everything
+[1078.3s - 1080.4s] manually, and then testing everything step-by-step. And that process can take
+[1080.4s - 1080.4s] step-by-step. And that process can take
+[1080.4s - 1082.1s] step-by-step. And that process can take hours or even days if you're not
+[1082.1s - 1082.1s] hours or even days if you're not
+[1082.1s - 1084.0s] hours or even days if you're not familiar with it. Here, it's just point
+[1084.0s - 1084.0s] familiar with it. Here, it's just point
+[1084.0s - 1085.4s] familiar with it. Here, it's just point and click. You connect what you need and
+[1085.4s - 1085.4s] and click. You connect what you need and
+[1085.4s - 1087.5s] and click. You connect what you need and the system handles the rest. And so, the
+[1087.5s - 1087.5s] the system handles the rest. And so, the
+[1087.5s - 1090.0s] the system handles the rest. And so, the focus isn't on making things technically
+[1090.0s - 1090.0s] focus isn't on making things technically
+[1090.0s - 1092.8s] focus isn't on making things technically complex. The focus is getting something
+[1092.8s - 1092.8s] complex. The focus is getting something
+[1092.8s - 1094.8s] complex. The focus is getting something working as quickly as possible so you
+[1094.8s - 1094.8s] working as quickly as possible so you
+[1094.8s - 1097.1s] working as quickly as possible so you can actually use it. So, now that we've
+[1097.1s - 1097.1s] can actually use it. So, now that we've
+[1097.1s - 1099.3s] can actually use it. So, now that we've seen how the workflow actually comes
+[1099.3s - 1099.3s] seen how the workflow actually comes
+[1099.3s - 1101.1s] seen how the workflow actually comes together, it does help to look at a
+[1101.1s - 1101.1s] together, it does help to look at a
+[1101.1s - 1103.3s] together, it does help to look at a couple of simple use cases that you can
+[1103.3s - 1103.3s] couple of simple use cases that you can
+[1103.3s - 1105.0s] couple of simple use cases that you can apply right away. And these aren't
+[1105.0s - 1105.0s] apply right away. And these aren't
+[1105.0s - 1106.7s] apply right away. And these aren't complicated builds, but they do solve
+[1106.7s - 1106.7s] complicated builds, but they do solve
+[1106.7s - 1108.5s] complicated builds, but they do solve real problems and save time almost
+[1108.5s - 1108.5s] real problems and save time almost
+[1108.5s - 1110.3s] real problems and save time almost immediately once they're set up. What
+[1110.3s - 1110.4s] immediately once they're set up. What
+[1110.4s - 1112.7s] immediately once they're set up. What matters here is not how advanced the
+[1112.7s - 1112.7s] matters here is not how advanced the
+[1112.7s - 1115.2s] matters here is not how advanced the setup looks, but how practical it is.
+[1115.2s - 1115.2s] setup looks, but how practical it is.
+[1115.2s - 1117.1s] setup looks, but how practical it is. And these examples show how flexible AI
+[1117.1s - 1117.1s] And these examples show how flexible AI
+[1117.1s - 1118.9s] And these examples show how flexible AI automation can be even with very simple
+[1118.9s - 1118.9s] automation can be even with very simple
+[1118.9s - 1120.8s] automation can be even with very simple instructions. So, once you understand
+[1120.8s - 1120.8s] instructions. So, once you understand
+[1120.8s - 1123.0s] instructions. So, once you understand the pattern, you can take the same idea
+[1123.0s - 1123.0s] the pattern, you can take the same idea
+[1123.0s - 1124.9s] the pattern, you can take the same idea and then apply it to almost any
+[1124.9s - 1124.9s] and then apply it to almost any
+[1124.9s - 1127.4s] and then apply it to almost any repetitive task that you deal with.
+[1127.4s - 1127.4s] repetitive task that you deal with.
+[1127.4s - 1128.8s] repetitive task that you deal with. So, for example, let's start with
+[1128.8s - 1128.8s] So, for example, let's start with
+[1128.8s - 1131.2s] So, for example, let's start with something more personal so you can see
+[1131.2s - 1131.2s] something more personal so you can see
+[1131.2s - 1133.3s] something more personal so you can see that this isn't only useful for business
+[1133.3s - 1133.3s] that this isn't only useful for business
+[1133.3s - 1135.7s] that this isn't only useful for business tasks. A travel planning agent is one of
+[1135.7s - 1135.7s] tasks. A travel planning agent is one of
+[1135.7s - 1137.5s] tasks. A travel planning agent is one of the easiest automations to build, and
+[1137.5s - 1137.5s] the easiest automations to build, and
+[1137.5s - 1139.8s] the easiest automations to build, and it's also one of the most practical
+[1139.8s - 1139.8s] it's also one of the most practical
+[1139.8s - 1141.6s] it's also one of the most practical because it saves you from doing the kind
+[1141.6s - 1141.6s] because it saves you from doing the kind
+[1141.6s - 1143.5s] because it saves you from doing the kind of research that usually takes way
+[1143.5s - 1143.6s] of research that usually takes way
+[1143.6s - 1145.4s] of research that usually takes way longer than it should. So, go back to
+[1145.4s - 1145.4s] longer than it should. So, go back to
+[1145.4s - 1147.0s] longer than it should. So, go back to the dashboard here, and then let's go
+[1147.0s - 1147.0s] the dashboard here, and then let's go
+[1147.0s - 1148.6s] the dashboard here, and then let's go ahead and click create new agent. And
+[1148.6s - 1148.6s] ahead and click create new agent. And
+[1148.6s - 1150.4s] ahead and click create new agent. And when the prompt box appears, type this
+[1150.4s - 1150.4s] when the prompt box appears, type this
+[1150.4s - 1152.8s] when the prompt box appears, type this exactly. You're going to find the best
+[1152.8s - 1152.8s] exactly. You're going to find the best
+[1152.8s - 1154.8s] exactly. You're going to find the best flight and hotel deals. That's it.
+[1154.8s - 1154.8s] flight and hotel deals. That's it.
+[1154.8s - 1156.0s] flight and hotel deals. That's it. That's enough to get the workflow
+[1156.0s - 1156.0s] That's enough to get the workflow
+[1156.0s - 1157.7s] That's enough to get the workflow moving. And once you enter it, the
+[1157.7s - 1157.7s] moving. And once you enter it, the
+[1157.7s - 1159.6s] moving. And once you enter it, the platform begins building the process for
+[1159.6s - 1159.6s] platform begins building the process for
+[1159.6s - 1161.3s] platform begins building the process for you. It starts by searching for flight
+[1161.3s - 1161.4s] you. It starts by searching for flight
+[1161.4s - 1163.6s] you. It starts by searching for flight options, and it compares hotel prices.
+[1163.6s - 1163.6s] options, and it compares hotel prices.
+[1163.6s - 1165.3s] options, and it compares hotel prices. And after that, it ranks the best
+[1165.3s - 1165.3s] And after that, it ranks the best
+[1165.3s - 1167.2s] And after that, it ranks the best choices based on things like price and
+[1167.2s - 1167.2s] choices based on things like price and
+[1167.2s - 1169.1s] choices based on things like price and convenience. And once everything is
+[1169.1s - 1169.1s] convenience. And once everything is
+[1169.1s - 1171.0s] convenience. And once everything is processed, it sends you a summary within
+[1171.0s - 1171.0s] processed, it sends you a summary within
+[1171.0s - 1173.2s] processed, it sends you a summary within seconds. And this is the point where AI
+[1173.2s - 1173.2s] seconds. And this is the point where AI
+[1173.2s - 1174.9s] seconds. And this is the point where AI starts to feel genuinely useful in
+[1174.9s - 1174.9s] starts to feel genuinely useful in
+[1174.9s - 1176.8s] starts to feel genuinely useful in everyday life. You're no longer opening
+[1176.8s - 1176.8s] everyday life. You're no longer opening
+[1176.8s - 1179.5s] everyday life. You're no longer opening 10 tabs, checking different websites,
+[1179.5s - 1179.5s] 10 tabs, checking different websites,
+[1179.5s - 1181.3s] 10 tabs, checking different websites, comparing prices manually, and trying to
+[1181.3s - 1181.3s] comparing prices manually, and trying to
+[1181.3s - 1183.0s] comparing prices manually, and trying to remember which option was actually the
+[1183.0s - 1183.0s] remember which option was actually the
+[1183.0s - 1185.2s] remember which option was actually the best. The work is already done for you
+[1185.2s - 1185.2s] best. The work is already done for you
+[1185.2s - 1186.8s] best. The work is already done for you here, and you get a cleaner decision
+[1186.8s - 1186.8s] here, and you get a cleaner decision
+[1186.8s - 1189.1s] here, and you get a cleaner decision much faster. And what you end up with is
+[1189.1s - 1189.1s] much faster. And what you end up with is
+[1189.1s - 1191.5s] much faster. And what you end up with is simple but valuable. Faster decisions,
+[1191.5s - 1191.5s] simple but valuable. Faster decisions,
+[1191.5s - 1192.9s] simple but valuable. Faster decisions, less stress, and often better deals
+[1192.9s - 1192.9s] less stress, and often better deals
+[1192.9s - 1194.5s] less stress, and often better deals because the comparison happens so
+[1194.5s - 1194.5s] because the comparison happens so
+[1194.5s - 1196.4s] because the comparison happens so quickly. And once you understand the
+[1196.4s - 1196.4s] quickly. And once you understand the
+[1196.4s - 1198.7s] quickly. And once you understand the pattern, you can use the same structure
+[1198.7s - 1198.7s] pattern, you can use the same structure
+[1198.7s - 1201.2s] pattern, you can use the same structure for other personal tasks, too. You can
+[1201.2s - 1201.2s] for other personal tasks, too. You can
+[1201.2s - 1203.0s] for other personal tasks, too. You can apply it to meal planning, daily
+[1203.0s - 1203.0s] apply it to meal planning, daily
+[1203.0s - 1204.9s] apply it to meal planning, daily scheduling, budget tracking, or even
+[1204.9s - 1204.9s] scheduling, budget tracking, or even
+[1204.9s - 1206.9s] scheduling, budget tracking, or even study reminders. The logic stays the
+[1206.9s - 1206.9s] study reminders. The logic stays the
+[1206.9s - 1209.2s] study reminders. The logic stays the same, only the outcome changes. Let's
+[1209.2s - 1209.2s] same, only the outcome changes. Let's
+[1209.2s - 1211.0s] same, only the outcome changes. Let's switch things up to a business use case,
+[1211.0s - 1211.0s] switch things up to a business use case,
+[1211.0s - 1212.5s] switch things up to a business use case, because customer support is one of the
+[1212.5s - 1212.5s] because customer support is one of the
+[1212.5s - 1214.2s] because customer support is one of the highest value automations that you can
+[1214.2s - 1214.2s] highest value automations that you can
+[1214.2s - 1216.5s] highest value automations that you can build. Because slow support creates
+[1216.5s - 1216.5s] build. Because slow support creates
+[1216.5s - 1218.6s] build. Because slow support creates problems very quickly. So, when
+[1218.6s - 1218.6s] problems very quickly. So, when
+[1218.6s - 1220.9s] problems very quickly. So, when customers ask a simple question and then
+[1220.9s - 1220.9s] customers ask a simple question and then
+[1220.9s - 1223.0s] customers ask a simple question and then don't get a response fast enough, then
+[1223.0s - 1223.0s] don't get a response fast enough, then
+[1223.0s - 1225.3s] don't get a response fast enough, then confidence drops almost immediately.
+[1225.3s - 1225.4s] confidence drops almost immediately.
+[1225.4s - 1227.5s] confidence drops almost immediately. Even when the issue was small, the delay
+[1227.5s - 1227.6s] Even when the issue was small, the delay
+[1227.6s - 1230.0s] Even when the issue was small, the delay makes the business feel disorganized.
+[1230.0s - 1230.0s] makes the business feel disorganized.
+[1230.0s - 1231.8s] makes the business feel disorganized. So, now click create new agent, and in
+[1231.8s - 1231.8s] So, now click create new agent, and in
+[1231.8s - 1234.1s] So, now click create new agent, and in the prompt box, type this exactly. When
+[1234.1s - 1234.1s] the prompt box, type this exactly. When
+[1234.1s - 1235.9s] the prompt box, type this exactly. When a customer asks about order status,
+[1235.9s - 1235.9s] a customer asks about order status,
+[1235.9s - 1237.5s] a customer asks about order status, check the tracking sheet and send the
+[1237.5s - 1237.5s] check the tracking sheet and send the
+[1237.5s - 1239.4s] check the tracking sheet and send the latest update. And as soon as you enter
+[1239.4s - 1239.4s] latest update. And as soon as you enter
+[1239.4s - 1241.2s] latest update. And as soon as you enter that, the workflow starts building right
+[1241.2s - 1241.2s] that, the workflow starts building right
+[1241.2s - 1243.9s] that, the workflow starts building right away. And the next step is connecting
+[1243.9s - 1243.9s] away. And the next step is connecting
+[1243.9s - 1246.2s] away. And the next step is connecting the order sheet. So, integrate Google
+[1246.2s - 1246.2s] the order sheet. So, integrate Google
+[1246.2s - 1248.3s] the order sheet. So, integrate Google Sheets. And once that's connected, your
+[1248.3s - 1248.4s] Sheets. And once that's connected, your
+[1248.4s - 1250.6s] Sheets. And once that's connected, your AI agent can look up order status using
+[1250.6s - 1250.6s] AI agent can look up order status using
+[1250.6s - 1253.0s] AI agent can look up order status using an order ID or customer name, pull the
+[1253.0s - 1253.0s] an order ID or customer name, pull the
+[1253.0s - 1255.0s] an order ID or customer name, pull the latest tracking details from the sheet,
+[1255.0s - 1255.0s] latest tracking details from the sheet,
+[1255.0s - 1257.0s] latest tracking details from the sheet, and then send those details directly to
+[1257.0s - 1257.0s] and then send those details directly to
+[1257.0s - 1258.7s] and then send those details directly to the customer, and keep a record of what
+[1258.7s - 1258.7s] the customer, and keep a record of what
+[1258.7s - 1261.4s] the customer, and keep a record of what happened after the support interaction.
+[1261.4s - 1261.4s] happened after the support interaction.
+[1261.4s - 1262.8s] happened after the support interaction. After that, connect Gmail as well,
+[1262.8s - 1262.8s] After that, connect Gmail as well,
+[1262.8s - 1264.5s] After that, connect Gmail as well, because that gives the agent a way to
+[1264.5s - 1264.5s] because that gives the agent a way to
+[1264.5s - 1266.7s] because that gives the agent a way to monitor incoming emails for order status
+[1266.7s - 1266.7s] monitor incoming emails for order status
+[1266.7s - 1269.0s] monitor incoming emails for order status questions, and reply using the latest
+[1269.0s - 1269.0s] questions, and reply using the latest
+[1269.0s - 1270.9s] questions, and reply using the latest information from your tracking sheet.
+[1270.9s - 1270.9s] information from your tracking sheet.
+[1270.9s - 1273.2s] information from your tracking sheet. Send more personalized updates and log
+[1273.2s - 1273.2s] Send more personalized updates and log
+[1273.2s - 1275.8s] Send more personalized updates and log which emails have already been handled.
+[1275.8s - 1275.8s] which emails have already been handled.
+[1275.8s - 1277.5s] which emails have already been handled. From there, let's go ahead and enter the
+[1277.5s - 1277.5s] From there, let's go ahead and enter the
+[1277.5s - 1279.8s] From there, let's go ahead and enter the specific Google Sheet URL into Super
+[1279.8s - 1279.8s] specific Google Sheet URL into Super
+[1279.8s - 1281.3s] specific Google Sheet URL into Super Agent and then answer the remaining
+[1281.3s - 1281.3s] Agent and then answer the remaining
+[1281.3s - 1283.4s] Agent and then answer the remaining setup questions so it knows exactly
+[1283.4s - 1283.4s] setup questions so it knows exactly
+[1283.4s - 1285.8s] setup questions so it knows exactly where to pull the tracking data from and
+[1285.8s - 1285.8s] where to pull the tracking data from and
+[1285.8s - 1287.8s] where to pull the tracking data from and how it should respond. And once
+[1287.8s - 1287.8s] how it should respond. And once
+[1287.8s - 1289.1s] how it should respond. And once everything is connected, let's go ahead
+[1289.1s - 1289.1s] everything is connected, let's go ahead
+[1289.1s - 1291.5s] everything is connected, let's go ahead and test it with a real example. Ask the
+[1291.5s - 1291.5s] and test it with a real example. Ask the
+[1291.5s - 1293.4s] and test it with a real example. Ask the AI agent to look up the customer's order
+[1293.4s - 1293.4s] AI agent to look up the customer's order
+[1293.4s - 1295.2s] AI agent to look up the customer's order in your Google Sheet and send their
+[1295.2s - 1295.2s] in your Google Sheet and send their
+[1295.2s - 1297.5s] in your Google Sheet and send their shipping status, courier, and estimated
+[1297.5s - 1297.6s] shipping status, courier, and estimated
+[1297.6s - 1299.9s] shipping status, courier, and estimated delivery date. And as you can see, there
+[1299.9s - 1299.9s] delivery date. And as you can see, there
+[1299.9s - 1301.7s] delivery date. And as you can see, there it goes. The AI agent sends the email
+[1301.7s - 1301.7s] it goes. The AI agent sends the email
+[1301.7s - 1303.8s] it goes. The AI agent sends the email directly to the customer. It pulls in
+[1303.8s - 1303.8s] directly to the customer. It pulls in
+[1303.8s - 1306.0s] directly to the customer. It pulls in the shipping status, and estimated
+[1306.0s - 1306.0s] the shipping status, and estimated
+[1306.0s - 1308.0s] the shipping status, and estimated delivery from the Google Sheet. Then it
+[1308.0s - 1308.0s] delivery from the Google Sheet. Then it
+[1308.0s - 1309.6s] delivery from the Google Sheet. Then it turns that information into a clear
+[1309.6s - 1309.6s] turns that information into a clear
+[1309.6s - 1311.8s] turns that information into a clear update without anyone needing to check
+[1311.8s - 1311.8s] update without anyone needing to check
+[1311.8s - 1314.1s] update without anyone needing to check the order manually. And that's exactly
+[1314.1s - 1314.1s] the order manually. And that's exactly
+[1314.1s - 1316.5s] the order manually. And that's exactly how support like this becomes faster and
+[1316.5s - 1316.5s] how support like this becomes faster and
+[1316.5s - 1318.5s] how support like this becomes faster and more reliable. A task that usually
+[1318.5s - 1318.5s] more reliable. A task that usually
+[1318.5s - 1320.5s] more reliable. A task that usually involves opening the sheet and searching
+[1320.5s - 1320.6s] involves opening the sheet and searching
+[1320.6s - 1322.2s] involves opening the sheet and searching for the customer and checking the latest
+[1322.2s - 1322.2s] for the customer and checking the latest
+[1322.2s - 1324.1s] for the customer and checking the latest update and then writing the email and
+[1324.1s - 1324.1s] update and then writing the email and
+[1324.1s - 1326.3s] update and then writing the email and then sending it can all be handled now
+[1326.3s - 1326.3s] then sending it can all be handled now
+[1326.3s - 1328.5s] then sending it can all be handled now in seconds. The customer gets an answer
+[1328.5s - 1328.5s] in seconds. The customer gets an answer
+[1328.5s - 1329.9s] in seconds. The customer gets an answer quickly and your team doesn't have to
+[1329.9s - 1329.9s] quickly and your team doesn't have to
+[1329.9s - 1332.4s] quickly and your team doesn't have to keep repeating the same process all day.
+[1332.4s - 1332.4s] keep repeating the same process all day.
+[1332.4s - 1334.1s] keep repeating the same process all day. And fast replies like this naturally
+[1334.1s - 1334.1s] And fast replies like this naturally
+[1334.1s - 1336.1s] And fast replies like this naturally build trust because customers feel
+[1336.1s - 1336.1s] build trust because customers feel
+[1336.1s - 1338.0s] build trust because customers feel informed without needing a follow-up
+[1338.0s - 1338.0s] informed without needing a follow-up
+[1338.0s - 1339.9s] informed without needing a follow-up multiple times. There's no waiting,
+[1339.9s - 1339.9s] multiple times. There's no waiting,
+[1339.9s - 1341.1s] multiple times. There's no waiting, there's no back and forth, and there's
+[1341.1s - 1341.1s] there's no back and forth, and there's
+[1341.1s - 1343.1s] there's no back and forth, and there's no need for someone to manually check
+[1343.1s - 1343.1s] no need for someone to manually check
+[1343.1s - 1345.1s] no need for someone to manually check every single request. And everything
+[1345.1s - 1345.1s] every single request. And everything
+[1345.1s - 1347.2s] every single request. And everything just flows in the background and the
+[1347.2s - 1347.2s] just flows in the background and the
+[1347.2s - 1350.0s] just flows in the background and the experience feels smooth on both sides.
+[1350.0s - 1350.0s] experience feels smooth on both sides.
+[1350.0s - 1351.6s] experience feels smooth on both sides. And over time, this kind of set of
+[1351.6s - 1351.6s] And over time, this kind of set of
+[1351.6s - 1353.5s] And over time, this kind of set of changes how support feels inside a
+[1353.5s - 1353.5s] changes how support feels inside a
+[1353.5s - 1355.5s] changes how support feels inside a business. Simple questions no longer
+[1355.5s - 1355.5s] business. Simple questions no longer
+[1355.5s - 1357.3s] business. Simple questions no longer slow things down and your team can focus
+[1357.3s - 1357.4s] slow things down and your team can focus
+[1357.4s - 1359.2s] slow things down and your team can focus on situations that actually need
+[1359.2s - 1359.2s] on situations that actually need
+[1359.2s - 1361.2s] on situations that actually need attention. And once you see it working
+[1361.2s - 1361.2s] attention. And once you see it working
+[1361.2s - 1362.9s] attention. And once you see it working like this, we're going to take it a step
+[1362.9s - 1362.9s] like this, we're going to take it a step
+[1362.9s - 1365.1s] like this, we're going to take it a step further now because there are features
+[1365.1s - 1365.1s] further now because there are features
+[1365.1s - 1366.9s] further now because there are features that can make these agents feel even
+[1366.9s - 1366.9s] that can make these agents feel even
+[1366.9s - 1369.3s] that can make these agents feel even more capable, like memory, multi-step
+[1369.3s - 1369.3s] more capable, like memory, multi-step
+[1369.3s - 1372.0s] more capable, like memory, multi-step workflows, and decision-making logic. So
+[1372.0s - 1372.0s] workflows, and decision-making logic. So
+[1372.0s - 1374.1s] workflows, and decision-making logic. So far, the agents we've built focus on
+[1374.1s - 1374.1s] far, the agents we've built focus on
+[1374.1s - 1376.1s] far, the agents we've built focus on speed. They respond quickly, they handle
+[1376.1s - 1376.1s] speed. They respond quickly, they handle
+[1376.1s - 1378.2s] speed. They respond quickly, they handle tasks automatically, and they remove a
+[1378.2s - 1378.2s] tasks automatically, and they remove a
+[1378.2s - 1380.2s] tasks automatically, and they remove a lot of manual work. And that alone is
+[1380.2s - 1380.2s] lot of manual work. And that alone is
+[1380.2s - 1382.4s] lot of manual work. And that alone is already useful, but speed is only one
+[1382.4s - 1382.4s] already useful, but speed is only one
+[1382.4s - 1384.4s] already useful, but speed is only one part of it. What really changes the
+[1384.4s - 1384.4s] part of it. What really changes the
+[1384.4s - 1386.8s] part of it. What really changes the experience is when these agents start to
+[1386.8s - 1386.8s] experience is when these agents start to
+[1386.8s - 1388.8s] experience is when these agents start to feel more intelligent in how they
+[1388.8s - 1388.8s] feel more intelligent in how they
+[1388.8s - 1390.7s] feel more intelligent in how they operate. The next two features are what
+[1390.7s - 1390.7s] operate. The next two features are what
+[1390.7s - 1392.7s] operate. The next two features are what create that shift. They take what looks
+[1392.7s - 1392.7s] create that shift. They take what looks
+[1392.7s - 1394.5s] create that shift. They take what looks like simple automation and then turn it
+[1394.5s - 1394.5s] like simple automation and then turn it
+[1394.5s - 1396.7s] like simple automation and then turn it into something that can adapt and make
+[1396.7s - 1396.7s] into something that can adapt and make
+[1396.7s - 1398.7s] into something that can adapt and make decisions and handle more complex
+[1398.7s - 1398.7s] decisions and handle more complex
+[1398.7s - 1400.5s] decisions and handle more complex situations without needing constant
+[1400.5s - 1400.5s] situations without needing constant
+[1400.5s - 1402.4s] situations without needing constant input. And this is the point where it
+[1402.4s - 1402.4s] input. And this is the point where it
+[1402.4s - 1404.3s] input. And this is the point where it starts to feel less like a tool and more
+[1404.3s - 1404.3s] starts to feel less like a tool and more
+[1404.3s - 1406.8s] starts to feel less like a tool and more like a system that actually understands
+[1406.8s - 1406.8s] like a system that actually understands
+[1406.8s - 1409.0s] like a system that actually understands what it's doing. Let's start with memory
+[1409.0s - 1409.0s] what it's doing. Let's start with memory
+[1409.0s - 1411.0s] what it's doing. Let's start with memory because this is one of the most powerful
+[1411.0s - 1411.0s] because this is one of the most powerful
+[1411.0s - 1413.6s] because this is one of the most powerful features you can add to an AI agent.
+[1413.6s - 1413.6s] features you can add to an AI agent.
+[1413.6s - 1415.5s] features you can add to an AI agent. When memory is enabled, the agent no
+[1415.5s - 1415.5s] When memory is enabled, the agent no
+[1415.5s - 1417.7s] When memory is enabled, the agent no longer treats every interaction as a
+[1417.7s - 1417.7s] longer treats every interaction as a
+[1417.7s - 1420.0s] longer treats every interaction as a completely new task. Rather, it builds
+[1420.0s - 1420.0s] completely new task. Rather, it builds
+[1420.0s - 1422.1s] completely new task. Rather, it builds on previous actions, which makes the
+[1422.1s - 1422.1s] on previous actions, which makes the
+[1422.1s - 1424.3s] on previous actions, which makes the entire workflow feel more consistent and
+[1424.3s - 1424.3s] entire workflow feel more consistent and
+[1424.3s - 1426.2s] entire workflow feel more consistent and closer to how a real assistant would
+[1426.2s - 1426.2s] closer to how a real assistant would
+[1426.2s - 1427.6s] closer to how a real assistant would operate. To see how this works in
+[1427.6s - 1427.6s] operate. To see how this works in
+[1427.6s - 1429.2s] operate. To see how this works in practice, let's go back to one of the
+[1429.2s - 1429.2s] practice, let's go back to one of the
+[1429.2s - 1431.2s] practice, let's go back to one of the agents that we've already built. I've
+[1431.2s - 1431.2s] agents that we've already built. I've
+[1431.2s - 1432.8s] agents that we've already built. I've made a small change to the data by
+[1432.8s - 1432.8s] made a small change to the data by
+[1432.8s - 1434.5s] made a small change to the data by updating a couple of rows in the sheet
+[1434.5s - 1434.6s] updating a couple of rows in the sheet
+[1434.6s - 1436.7s] updating a couple of rows in the sheet just to test whether the agent can
+[1436.7s - 1436.7s] just to test whether the agent can
+[1436.7s - 1438.7s] just to test whether the agent can recognize those changes instead of
+[1438.7s - 1438.7s] recognize those changes instead of
+[1438.7s - 1441.0s] recognize those changes instead of repeating the same output. So, now let's
+[1441.0s - 1441.0s] repeating the same output. So, now let's
+[1441.0s - 1443.2s] repeating the same output. So, now let's ask this exact question. Recently, I
+[1443.2s - 1443.2s] ask this exact question. Recently, I
+[1443.2s - 1444.6s] ask this exact question. Recently, I asked you to generate and send this
+[1444.6s - 1444.6s] asked you to generate and send this
+[1444.6s - 1446.5s] asked you to generate and send this week's sales report. Does it have any
+[1446.5s - 1446.6s] week's sales report. Does it have any
+[1446.6s - 1448.9s] week's sales report. Does it have any new data now? A basic chatbot would
+[1448.9s - 1448.9s] new data now? A basic chatbot would
+[1448.9s - 1450.9s] new data now? A basic chatbot would treat that as a brand new request. It
+[1450.9s - 1450.9s] treat that as a brand new request. It
+[1450.9s - 1452.8s] treat that as a brand new request. It wouldn't remember the previous report,
+[1452.8s - 1452.8s] wouldn't remember the previous report,
+[1452.8s - 1454.3s] wouldn't remember the previous report, and it wouldn't have any awareness of
+[1454.3s - 1454.4s] and it wouldn't have any awareness of
+[1454.4s - 1456.5s] and it wouldn't have any awareness of what changed. It would simply generate a
+[1456.5s - 1456.6s] what changed. It would simply generate a
+[1456.6s - 1458.5s] what changed. It would simply generate a fresh answer without any reference
+[1458.5s - 1458.5s] fresh answer without any reference
+[1458.5s - 1460.6s] fresh answer without any reference point. But in this case, the agent
+[1460.6s - 1460.6s] point. But in this case, the agent
+[1460.6s - 1462.8s] point. But in this case, the agent behaves differently. It checks the
+[1462.8s - 1462.8s] behaves differently. It checks the
+[1462.8s - 1464.8s] behaves differently. It checks the previous conversation history. It
+[1464.8s - 1464.8s] previous conversation history. It
+[1464.8s - 1467.4s] previous conversation history. It recalls the earlier report it generated,
+[1467.4s - 1467.4s] recalls the earlier report it generated,
+[1467.4s - 1468.5s] recalls the earlier report it generated, and then it goes back to the Google
+[1468.5s - 1468.6s] and then it goes back to the Google
+[1468.6s - 1470.4s] and then it goes back to the Google Sheet to review the latest data. It
+[1470.4s - 1470.4s] Sheet to review the latest data. It
+[1470.4s - 1472.2s] Sheet to review the latest data. It compares the updated rows with what it
+[1472.2s - 1472.2s] compares the updated rows with what it
+[1472.2s - 1474.5s] compares the updated rows with what it saw before, and within seconds, it sends
+[1474.5s - 1474.5s] saw before, and within seconds, it sends
+[1474.5s - 1476.7s] saw before, and within seconds, it sends a refreshed summary based on those
+[1476.7s - 1476.7s] a refreshed summary based on those
+[1476.7s - 1479.1s] a refreshed summary based on those differences. And you can immediately see
+[1479.1s - 1479.1s] differences. And you can immediately see
+[1479.1s - 1480.9s] differences. And you can immediately see the impact here. The total revenue
+[1480.9s - 1480.9s] the impact here. The total revenue
+[1480.9s - 1482.5s] the impact here. The total revenue reflects the new numbers, the order
+[1482.5s - 1482.5s] reflects the new numbers, the order
+[1482.5s - 1485.0s] reflects the new numbers, the order volume is updated, and the trend summary
+[1485.0s - 1485.0s] volume is updated, and the trend summary
+[1485.0s - 1486.9s] volume is updated, and the trend summary adjusts based on the latest data we
+[1486.9s - 1486.9s] adjusts based on the latest data we
+[1486.9s - 1489.2s] adjusts based on the latest data we added. Nothing is repeated blindly, and
+[1489.2s - 1489.2s] added. Nothing is repeated blindly, and
+[1489.2s - 1491.0s] added. Nothing is repeated blindly, and nothing is overlooked. And that's the
+[1491.0s - 1491.0s] nothing is overlooked. And that's the
+[1491.0s - 1493.1s] nothing is overlooked. And that's the real value of memory combined with live
+[1493.1s - 1493.1s] real value of memory combined with live
+[1493.1s - 1495.3s] real value of memory combined with live data access. The agent is no longer just
+[1495.3s - 1495.4s] data access. The agent is no longer just
+[1495.4s - 1497.7s] data access. The agent is no longer just answering a single prompt in isolation.
+[1497.7s - 1497.7s] answering a single prompt in isolation.
+[1497.7s - 1499.6s] answering a single prompt in isolation. It keeps track of what has already
+[1499.6s - 1499.6s] It keeps track of what has already
+[1499.6s - 1501.3s] It keeps track of what has already happened, connects it with new
+[1501.3s - 1501.3s] happened, connects it with new
+[1501.3s - 1503.0s] happened, connects it with new information, and then builds a response
+[1503.0s - 1503.0s] information, and then builds a response
+[1503.0s - 1505.1s] information, and then builds a response that actually moves forward instead of
+[1505.1s - 1505.1s] that actually moves forward instead of
+[1505.1s - 1507.3s] that actually moves forward instead of starting over again. To make the agent
+[1507.3s - 1507.4s] starting over again. To make the agent
+[1507.4s - 1509.5s] starting over again. To make the agent more intelligent, yep, the next step is
+[1509.5s - 1509.5s] more intelligent, yep, the next step is
+[1509.5s - 1511.7s] more intelligent, yep, the next step is adding decision-making into the workflow
+[1511.7s - 1511.7s] adding decision-making into the workflow
+[1511.7s - 1513.4s] adding decision-making into the workflow rather than having it follow a single
+[1513.4s - 1513.4s] rather than having it follow a single
+[1513.4s - 1515.6s] rather than having it follow a single fixed action every time. Conditional
+[1515.6s - 1515.6s] fixed action every time. Conditional
+[1515.6s - 1517.4s] fixed action every time. Conditional logic is what enables that behavior. It
+[1517.4s - 1517.4s] logic is what enables that behavior. It
+[1517.4s - 1519.0s] logic is what enables that behavior. It allows the agent to look at the data it
+[1519.0s - 1519.0s] allows the agent to look at the data it
+[1519.0s - 1521.2s] allows the agent to look at the data it receives, understand the situation, and
+[1521.2s - 1521.2s] receives, understand the situation, and
+[1521.2s - 1523.3s] receives, understand the situation, and then choose the appropriate action based
+[1523.3s - 1523.3s] then choose the appropriate action based
+[1523.3s - 1525.5s] then choose the appropriate action based on specific conditions. And at this
+[1525.5s - 1525.6s] on specific conditions. And at this
+[1525.6s - 1527.2s] on specific conditions. And at this point, the system starts to behave less
+[1527.2s - 1527.2s] point, the system starts to behave less
+[1527.2s - 1529.2s] point, the system starts to behave less like a simple automation and more like
+[1529.2s - 1529.2s] like a simple automation and more like
+[1529.2s - 1531.3s] like a simple automation and more like an assistant that can actually adjust
+[1531.3s - 1531.3s] an assistant that can actually adjust
+[1531.3s - 1533.1s] an assistant that can actually adjust its responses depending on what is
+[1533.1s - 1533.1s] its responses depending on what is
+[1533.1s - 1535.3s] its responses depending on what is happening. So, create another quick rule
+[1535.3s - 1535.3s] happening. So, create another quick rule
+[1535.3s - 1537.6s] happening. So, create another quick rule here and type this in exactly. If
+[1537.6s - 1537.6s] here and type this in exactly. If
+[1537.6s - 1539.2s] here and type this in exactly. If shipping status is delivered, send
+[1539.2s - 1539.2s] shipping status is delivered, send
+[1539.2s - 1541.0s] shipping status is delivered, send delivery confirmation. If shipping
+[1541.0s - 1541.0s] delivery confirmation. If shipping
+[1541.0s - 1543.5s] delivery confirmation. If shipping status is delayed, send apology and
+[1543.5s - 1543.5s] status is delayed, send apology and
+[1543.5s - 1545.6s] status is delayed, send apology and updated delivery estimate. And this
+[1545.6s - 1545.6s] updated delivery estimate. And this
+[1545.6s - 1547.8s] updated delivery estimate. And this setup works smoothly because it builds
+[1547.8s - 1547.8s] setup works smoothly because it builds
+[1547.8s - 1549.8s] setup works smoothly because it builds on the same order sheet that was already
+[1549.8s - 1549.8s] on the same order sheet that was already
+[1549.8s - 1551.9s] on the same order sheet that was already connected earlier. And the agent already
+[1551.9s - 1551.9s] connected earlier. And the agent already
+[1551.9s - 1554.0s] connected earlier. And the agent already has access to the shipping data, so it
+[1554.0s - 1554.0s] has access to the shipping data, so it
+[1554.0s - 1556.3s] has access to the shipping data, so it can immediately use that information
+[1556.3s - 1556.3s] can immediately use that information
+[1556.3s - 1558.2s] can immediately use that information without needing any additional setup. To
+[1558.2s - 1558.2s] without needing any additional setup. To
+[1558.2s - 1560.0s] without needing any additional setup. To test it out properly, let's trigger the
+[1560.0s - 1560.0s] test it out properly, let's trigger the
+[1560.0s - 1562.3s] test it out properly, let's trigger the agent to send updates to our clients.
+[1562.3s - 1562.3s] agent to send updates to our clients.
+[1562.3s - 1564.2s] agent to send updates to our clients. And as you watch the workflow run here
+[1564.2s - 1564.2s] And as you watch the workflow run here
+[1564.2s - 1565.7s] And as you watch the workflow run here on your screen, you'll notice that it no
+[1565.7s - 1565.7s] on your screen, you'll notice that it no
+[1565.7s - 1568.0s] on your screen, you'll notice that it no longer follows just one path. It reads
+[1568.0s - 1568.0s] longer follows just one path. It reads
+[1568.0s - 1570.1s] longer follows just one path. It reads the data first, then it branches into
+[1570.1s - 1570.1s] the data first, then it branches into
+[1570.1s - 1571.5s] the data first, then it branches into different actions depending on what it
+[1571.5s - 1571.6s] different actions depending on what it
+[1571.6s - 1574.0s] different actions depending on what it finds. If the Google sheet shows that
+[1574.0s - 1574.0s] finds. If the Google sheet shows that
+[1574.0s - 1575.9s] finds. If the Google sheet shows that the order is still in transit, the agent
+[1575.9s - 1575.9s] the order is still in transit, the agent
+[1575.9s - 1578.1s] the order is still in transit, the agent sends a standard update to the customer
+[1578.1s - 1578.1s] sends a standard update to the customer
+[1578.1s - 1580.4s] sends a standard update to the customer with the latest shipping status. The
+[1580.4s - 1580.4s] with the latest shipping status. The
+[1580.4s - 1582.6s] with the latest shipping status. The message stays clear and informative
+[1582.6s - 1582.6s] message stays clear and informative
+[1582.6s - 1584.5s] message stays clear and informative since everything is progressing
+[1584.5s - 1584.6s] since everything is progressing
+[1584.6s - 1585.9s] since everything is progressing normally.
+[1585.9s - 1585.9s] normally.
+[1585.9s - 1588.2s] normally. If the sheet shows that the order is
+[1588.2s - 1588.2s] If the sheet shows that the order is
+[1588.2s - 1589.8s] If the sheet shows that the order is delayed, then the agent adjusts its
+[1589.8s - 1589.8s] delayed, then the agent adjusts its
+[1589.8s - 1592.4s] delayed, then the agent adjusts its response and sends an apology message
+[1592.4s - 1592.4s] response and sends an apology message
+[1592.4s - 1594.7s] response and sends an apology message along with an updated delivery estimate.
+[1594.7s - 1594.7s] along with an updated delivery estimate.
+[1594.7s - 1596.3s] along with an updated delivery estimate. The tone and the content change
+[1596.3s - 1596.3s] The tone and the content change
+[1596.3s - 1598.3s] The tone and the content change automatically to match the situation,
+[1598.3s - 1598.4s] automatically to match the situation,
+[1598.4s - 1599.6s] automatically to match the situation, and all of this happens without any
+[1599.6s - 1599.6s] and all of this happens without any
+[1599.6s - 1602.1s] and all of this happens without any manual input. The agent reads the data,
+[1602.1s - 1602.1s] manual input. The agent reads the data,
+[1602.1s - 1604.0s] manual input. The agent reads the data, applies the condition, and then selects
+[1604.0s - 1604.0s] applies the condition, and then selects
+[1604.0s - 1605.6s] applies the condition, and then selects the correct response based on the
+[1605.6s - 1605.6s] the correct response based on the
+[1605.6s - 1607.8s] the correct response based on the information available. There's no need
+[1607.8s - 1607.8s] information available. There's no need
+[1607.8s - 1610.4s] information available. There's no need to manually check each order or decide
+[1610.4s - 1610.4s] to manually check each order or decide
+[1610.4s - 1613.0s] to manually check each order or decide which message should be sent. Automation
+[1613.0s - 1613.0s] which message should be sent. Automation
+[1613.0s - 1614.8s] which message should be sent. Automation just becomes much more useful when
+[1614.8s - 1614.8s] just becomes much more useful when
+[1614.8s - 1617.5s] just becomes much more useful when responses are no longer generic. They
+[1617.5s - 1617.6s] responses are no longer generic. They
+[1617.6s - 1619.7s] responses are no longer generic. They adapt based on real business data, which
+[1619.7s - 1619.7s] adapt based on real business data, which
+[1619.7s - 1621.5s] adapt based on real business data, which makes every interaction more accurate
+[1621.5s - 1621.5s] makes every interaction more accurate
+[1621.5s - 1623.8s] makes every interaction more accurate and more relevant for the customer.
+[1623.8s - 1623.8s] and more relevant for the customer.
+[1623.8s - 1625.5s] and more relevant for the customer. All right. So, earlier we talked about
+[1625.5s - 1625.5s] All right. So, earlier we talked about
+[1625.5s - 1628.2s] All right. So, earlier we talked about how much time gets lost in repetitive
+[1628.2s - 1628.2s] how much time gets lost in repetitive
+[1628.2s - 1630.1s] how much time gets lost in repetitive work. And now you've seen how to turn
+[1630.1s - 1630.1s] work. And now you've seen how to turn
+[1630.1s - 1632.3s] work. And now you've seen how to turn that into systems that actually run for
+[1632.3s - 1632.3s] that into systems that actually run for
+[1632.3s - 1634.6s] that into systems that actually run for you. You've built agents that don't just
+[1634.6s - 1634.6s] you. You've built agents that don't just
+[1634.6s - 1636.4s] you. You've built agents that don't just respond, but take action in the
+[1636.4s - 1636.4s] respond, but take action in the
+[1636.4s - 1638.8s] respond, but take action in the background and save you time every day.
+[1638.8s - 1638.8s] background and save you time every day.
+[1638.8s - 1640.9s] background and save you time every day. So, pick one task, automate it, and then
+[1640.9s - 1640.9s] So, pick one task, automate it, and then
+[1640.9s - 1642.5s] So, pick one task, automate it, and then build from there. That's it for this
+[1642.5s - 1642.6s] build from there. That's it for this
+[1642.6s - 1643.9s] build from there. That's it for this tutorial. Thank you for watching and
+[1643.9s - 1643.9s] tutorial. Thank you for watching and
+[1643.9s - 1645.3s] tutorial. Thank you for watching and investing your time with me today. I'll
+[1645.3s - 1645.3s] investing your time with me today. I'll
+[1645.3s - 1648.4s] investing your time with me today. I'll see you at the next one.

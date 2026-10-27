@@ -1,0 +1,824 @@
+- generic [active] [ref=f20e1]:
+  - link "Skip to main content" [ref=f20e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f20e6]:
+    - generic:
+      - generic: "Quote Automation Software? AI? What's your quotation process look like? : r/sales"
+      - banner [ref=f20e10]:
+        - navigation [ref=f20e11]:
+          - generic [ref=f20e12]:
+            - button "Open menu" [ref=f20e16] [cursor=pointer]
+            - link "Home" [ref=f20e24] [cursor=pointer]:
+              - /url: https://www.reddit.com/
+          - search [ref=f20e43]:
+            - generic [ref=f20e45]:
+              - generic "Remove r/sales filter and expand search to all of Reddit" [ref=f20e51] [cursor=pointer]:
+                - button [pressed] [ref=f20e52]:
+                  - generic [aria-hidden] [ref=f20e56]: r/sales
+              - textbox "Remove r/sales filter and expand search to all of Reddit" [ref=f20e62]:
+                - /placeholder: Search in ⁨r/sales⁩
+          - generic [ref=f20e63]:
+            - link "Log In" [ref=f20e67] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+            - button "Expand user menu" [ref=f20e74] [cursor=pointer]
+      - generic [ref=f20e83]:
+        - main [ref=f20e84]:
+          - 'generic "Quote Automation Software? AI? What''s your quotation process look like? : r/sales"'
+          - generic [ref=f20e85]:
+            - generic [ref=f20e86]:
+              - generic [ref=f20e87]:
+                - button "Back" [ref=f20e89] [cursor=pointer]
+                - link "Go to sales" [ref=f20e97] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/sales/
+                - group [ref=f20e102]:
+                  - generic [ref=f20e103]:
+                    - link "r/sales" [ref=f20e107] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/sales/
+                    - generic [aria-hidden] [ref=f20e108]: •
+                    - time [ref=f20e110]: 3y ago
+                  - 'link "Author: Rustico_Man" [ref=f20e116] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/Rustico_Man/
+                    - generic [ref=f20e117]: u/Rustico_Man
+              - generic [ref=f20e119]:
+                - img "Archived post" [ref=f20e123]
+                - button "Open user actions" [ref=f20e127] [cursor=pointer]
+            - generic [ref=f20e133]:
+              - 'heading "Post Title: Quote Automation Software? AI? What''s your quotation process look like?" [level=1] [ref=f20e134]': Quote Automation Software? AI? What's your quotation process look like?
+              - 'link "Flair: Sales Tools and Resources" [ref=f20e137] [cursor=pointer]':
+                - /url: /r/sales/?f=flair_name%3A%22Sales%20Tools%20and%20Resources%22
+                - 'generic "Flair: Sales Tools and Resources" [ref=f20e139]': Sales Tools and Resources
+            - paragraph [ref=f20e144]: "Hi all, I work for an industrial machine builder as a sales engineer.My current quoting process is as follows: When my customers request a quote from me, I request a quote template from my sales manager. If I have quoted that specific model before then I can reuse that quote and modify it as needed. The underlying technology is relatively the same and there are about 30 different models or quote templates to choose from based on the need. Each quote is about 10 to 12 pages long with pictures and spec sheets mixed in, and I also include a page of testimonial video links. The quotes are sent to me in either word or pdf format and I edit them from there.Every quarter, I receive a new excel file with updated specs for each model with any changes detailed here. The company constantly updates components or machine design aspects to improve upon the previous generation.It is paramount that there are no errors on these quotes and that everything matches the machine that they end up purchasing. This process is extremely time-consuming and I need to make it better/faster.Does anyone have any suggestions? I use Hubspot CRM starter, and would love to send quotes that I can track from there, but the templates are very simple and it doesn't seem well-suited to my existing quote process."
+            - generic: Archived post. New comments cannot be posted and votes cannot be cast.
+            - generic "Actions available for this post" [ref=f20e152]:
+              - generic [ref=f20e155]:
+                - button "Upvote" [disabled]
+                - generic [ref=f20e156]: "3"
+                - button "Downvote" [disabled]
+              - button "7 Go to comments" [ref=f20e158] [cursor=pointer]:
+                - generic [ref=f20e159]: "7"
+                - generic [ref=f20e165]: Go to comments
+              - button "Share" [ref=f20e169] [cursor=pointer]
+          - generic [ref=f20e182]:
+            - generic [ref=f20e184]:
+              - generic [aria-hidden] [ref=f20e185]: "Sort by:"
+              - button "Sort by Best" [ref=f20e190] [cursor=pointer]:
+                - generic [ref=f20e191]: Best
+            - button "Search Comments Expand comment search" [ref=f20e199] [cursor=pointer]:
+              - generic [ref=f20e200]: Search Comments
+              - generic [ref=f20e207]: Expand comment search
+          - region "Comments" [ref=f20e210]:
+            - heading "Comments Section" [level=1] [ref=f20e211]
+            - article "Comment from Simple-Assistance-27 3 years ago" [ref=f20e213]:
+              - generic [ref=f20e214] [cursor=pointer]:
+                - link "Simple-Assistance-27's profile --- avatar" [ref=f20e220]:
+                  - /url: https://www.reddit.com/user/Simple-Assistance-27/
+                  - img "u/Simple-Assistance-27 avatar" [ref=f20e223]
+                - generic [ref=f20e227]:
+                  - link "Simple-Assistance-27's profile" [ref=f20e231]:
+                    - /url: https://www.reddit.com/user/Simple-Assistance-27/
+                    - generic [ref=f20e232]: Simple-Assistance-27
+                  - generic [aria-hidden] [ref=f20e234]: •
+                  - link [ref=f20e236]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/kjuu2ph/
+                    - time [ref=f20e238]: 3y ago
+              - generic [ref=f20e240]:
+                - paragraph [ref=f20e244]: That should help you:- Transition to Cloud based templates (use AWS, Google cloud ect).- Make your templates customizable.- You will need a customized quoting system and integrate it with your CRM.- Automate the updating of your machines specs with tools like Zapier. (You probably will want to include data validation checks and tests there too. At least that was a non-negociable for my client.)Cheers.
+                - 'article "Comment thread level 1: Reply from Rustico_Man 3 years ago" [ref=f20e249]':
+                  - generic [ref=f20e250] [cursor=pointer]:
+                    - link "Rustico_Man's profile --- avatar" [ref=f20e256]:
+                      - /url: https://www.reddit.com/user/Rustico_Man/
+                      - img "u/Rustico_Man avatar" [ref=f20e259]
+                    - generic [ref=f20e263]:
+                      - link "Rustico_Man's profile" [ref=f20e267]:
+                        - /url: https://www.reddit.com/user/Rustico_Man/
+                        - generic [ref=f20e268]: Rustico_Man
+                      - generic "Comment distinguished as the original poster" [ref=f20e272]: OP
+                      - generic [aria-hidden] [ref=f20e273]: •
+                      - link [ref=f20e275]:
+                        - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/kvnz3li/
+                        - time [ref=f20e277]: 3y ago
+                  - generic [ref=f20e279]:
+                    - paragraph [ref=f20e283]: Do you have a how-to guide for this process?
+                    - 'article "Comment thread level 2: Reply from Emergency_Durian7501 3 years ago" [ref=f20e288]':
+                      - generic [ref=f20e289] [cursor=pointer]:
+                        - link "Emergency_Durian7501's profile --- avatar" [ref=f20e295]:
+                          - /url: https://www.reddit.com/user/Emergency_Durian7501/
+                        - generic [ref=f20e305]:
+                          - link "Emergency_Durian7501's profile" [ref=f20e309]:
+                            - /url: https://www.reddit.com/user/Emergency_Durian7501/
+                            - generic [ref=f20e310]: Emergency_Durian7501
+                          - generic [aria-hidden] [ref=f20e312]: •
+                          - link [ref=f20e314]:
+                            - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/l0c9ejo/
+                            - time [ref=f20e316]: 3y ago
+                      - paragraph [ref=f20e322]:
+                        - text: Check out the customized system that we developed for a $1B company to do exactly this. Please contact us at
+                        - link "GetIndustrial.AI" [ref=f20e323] [cursor=pointer]:
+                          - /url: https://GetIndustrial.AI
+            - article "Comment from [deleted] 3 years ago" [ref=f20e327]:
+              - generic "[deleted] 3y ago" [ref=f20e328] [cursor=pointer]:
+                - generic [ref=f20e342]:
+                  - generic [ref=f20e343]: "[deleted]"
+                  - generic [aria-hidden] [ref=f20e346]: •
+                  - link [ref=f20e348]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/kbi47uc/
+                    - time [ref=f20e350]: 3y ago
+              - paragraph [ref=f20e356]: I want AI to change my diapers
+            - article "Comment from Emergency_Durian7501 3 years ago" [ref=f20e360]:
+              - generic [ref=f20e361] [cursor=pointer]:
+                - link "Emergency_Durian7501's profile --- avatar" [ref=f20e367]:
+                  - /url: https://www.reddit.com/user/Emergency_Durian7501/
+                - generic [ref=f20e377]:
+                  - link "Emergency_Durian7501's profile" [ref=f20e381]:
+                    - /url: https://www.reddit.com/user/Emergency_Durian7501/
+                    - generic [ref=f20e382]: Emergency_Durian7501
+                  - generic [aria-hidden] [ref=f20e384]: •
+                  - link [ref=f20e386]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/l0b20aw/
+                    - time [ref=f20e388]: 3y ago
+              - generic [ref=f20e393]:
+                - paragraph [ref=f20e394]:
+                  - text: Hi
+                  - link "u/Rustico_Man" [ref=f20e395] [cursor=pointer]:
+                    - /url: /user/Rustico_Man/
+                  - text: "- check out"
+                  - link "GetIndustrial.AI" [ref=f20e396] [cursor=pointer]:
+                    - /url: http://GetIndustrial.AI
+                  - text: . It does exactly what you are looking for speeding up the process from days or hours to minutes.
+                - paragraph [ref=f20e397]: "Full disclosure: I work for the company."
+            - article "Comment from Hook_DeLab 3 years ago" [ref=f20e401]:
+              - generic [ref=f20e402] [cursor=pointer]:
+                - link "Hook_DeLab's profile --- avatar" [ref=f20e408]:
+                  - /url: https://www.reddit.com/user/Hook_DeLab/
+                  - img "u/Hook_DeLab avatar" [ref=f20e411]
+                - generic [ref=f20e415]:
+                  - link "Hook_DeLab's profile" [ref=f20e419]:
+                    - /url: https://www.reddit.com/user/Hook_DeLab/
+                    - generic [ref=f20e420]: Hook_DeLab
+                  - generic [aria-hidden] [ref=f20e422]: •
+                  - link [ref=f20e424]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/kbcyb99/
+                    - time [ref=f20e426]: 3y ago
+              - generic [ref=f20e431]:
+                - paragraph [ref=f20e432]: You might find better answers in a sales operations or business operations page to be honest.
+                - paragraph [ref=f20e433]: If you’re asking about not feeling depressed while cold calling, then we’ve got answers!!!
+            - article "Comment from Money-Acanthaceae471 3 years ago" [ref=f20e437]:
+              - generic [ref=f20e438] [cursor=pointer]:
+                - link "Money-Acanthaceae471's profile --- avatar" [ref=f20e444]:
+                  - /url: https://www.reddit.com/user/Money-Acanthaceae471/
+                - generic [ref=f20e454]:
+                  - link "Money-Acanthaceae471's profile" [ref=f20e458]:
+                    - /url: https://www.reddit.com/user/Money-Acanthaceae471/
+                    - generic [ref=f20e459]: Money-Acanthaceae471
+                  - generic [aria-hidden] [ref=f20e461]: •
+                  - link [ref=f20e463]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/comment/kbeiw0x/
+                    - time [ref=f20e465]: 3y ago
+              - paragraph [ref=f20e471]: I work for a document management & automation tool with a robust content library, Microsoft integration, and AI auto-fill. Not trying to pitch but we solve a handful of the challenges you're facing. DM me if you want to chat
+        - generic [ref=f20e474]:
+          - generic [ref=f20e475]:
+            - complementary "People also ask about section" [ref=f20e476]:
+              - heading "People also ask about section" [level=1] [ref=f20e477]
+              - generic [ref=f20e478]: People also ask about
+              - generic [ref=f20e483]:
+                - link "Best quote automation software for sales" [ref=f20e485] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/d7c6f0cf-e89c-4b7a-9041-b90d35b07910/?q=Best+quote+automation+software+for+sales&source=PDP&ep=pdp_unit&relatedPostId=t3_1877jx0
+                - link "Top AI quoting software recommendations" [ref=f20e494] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/66fbc33d-4520-4416-8101-bf3f4ebfd668/?q=Top+AI+quoting+software+recommendations&source=PDP&ep=pdp_unit&relatedPostId=t3_1877jx0
+                - link "Recommended HVAC quoting software" [ref=f20e503] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/862e2c7a-3a46-4c1d-aed6-ef0bb4665c5a/?q=Recommended+HVAC+quoting+software&source=PDP&ep=pdp_unit&relatedPostId=t3_1877jx0
+                - link "Top strategies for closing high-value deals" [ref=f20e512] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/04f97a3f-bc2b-4f04-9dd2-40ae6c40bc87/?q=Top+strategies+for+closing+high-value+deals&source=PDP&ep=pdp_unit&relatedPostId=t3_1877jx0
+                - link "Sales books for mastering negotiation skills" [ref=f20e521] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/0ad946dc-9b35-4f2b-8903-700649fbb674/?q=Sales+books+for+mastering+negotiation+skills&source=PDP&ep=pdp_unit&relatedPostId=t3_1877jx0
+            - generic [ref=f20e529]:
+              - complementary "Related Posts Section" [ref=f20e530]:
+                - heading "Related Posts Section" [level=1] [ref=f20e531]: More posts you may like
+                - generic [ref=f20e532]: Related posts
+                - list [ref=f20e538]:
+                  - listitem [ref=f20e539]:
+                    - generic [ref=f20e540]:
+                      - generic [ref=f20e541]:
+                        - 'link "Quote-to-Cash Automation: What Is It and How to Implement It" [ref=f20e542] [cursor=pointer]':
+                          - /url: https://www.reddit.com/r/Quote_to_Cash/comments/1utxeme/quotetocash_automation_what_is_it_and_how_to/
+                        - generic [ref=f20e544]:
+                          - generic [ref=f20e545]:
+                            - generic [ref=f20e548]:
+                              - link "r/Quote_to_Cash" [ref=f20e549] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/Quote_to_Cash/
+                              - generic [aria-hidden] [ref=f20e554]: •
+                              - time [ref=f20e556]: 3mo ago
+                            - link [ref=f20e558] [cursor=pointer]:
+                              - /url: /r/Quote_to_Cash/comments/1utxeme/quotetocash_automation_what_is_it_and_how_to/
+                              - 'heading "List item post - Quote-to-Cash Automation: What Is It and How to Implement It" [level=3] [ref=f20e561]': "Quote-to-Cash Automation: What Is It and How to Implement It"
+                          - 'link "r/Quote_to_Cash - Quote-to-Cash Automation: What Is It and How to Implement It" [ref=f20e564] [cursor=pointer]':
+                            - /url: https://www.reddit.com/r/Quote_to_Cash/comments/1utxeme/quotetocash_automation_what_is_it_and_how_to/
+                            - 'img "r/Quote_to_Cash - Quote-to-Cash Automation: What Is It and How to Implement It" [ref=f20e565]'
+                        - generic [ref=f20e567]:
+                          - generic [ref=f20e568]: "13"
+                          - text: upvotes
+                      - separator [ref=f20e569]
+                  - listitem [ref=f20e570]:
+                    - generic [ref=f20e572]:
+                      - generic:
+                        - 'link "Advertisement: Coding model stuck in a single file? Muse Spark works across whole repos." [ref=f20e573] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                        - generic [ref=f20e574]:
+                          - generic [ref=f20e575]:
+                            - generic [ref=f20e576]:
+                              - generic [ref=f20e577]:
+                                - generic [ref=f20e578]:
+                                  - link "u/MetaforDevelopers avatar MetaforDevelopers" [ref=f20e581] [cursor=pointer]:
+                                    - /url: /user/MetaforDevelopers/
+                                    - img "u/MetaforDevelopers avatar" [ref=f20e584]
+                                    - generic [ref=f20e585]: MetaforDevelopers
+                                  - generic [ref=f20e586]: •
+                                  - link "Ad" [ref=f20e588] [cursor=pointer]:
+                                    - /url: /user/MetaforDevelopers/
+                                  - link [ref=f20e590] [cursor=pointer]:
+                                    - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                                - button "Open user actions" [ref=f20e596] [cursor=pointer]
+                              - link "Coding model stuck in a single file? Muse Spark works across whole repos." [ref=f20e603] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                                - generic "Coding model stuck in a single file? Muse Spark works across whole repos." [ref=f20e604]
+                            - link [ref=f20e607] [cursor=pointer]:
+                              - /url: /user/MetaforDevelopers/comments/1x62iqq/coding_model_stuck_in_a_single_file_muse_spark/?p=1&impressionid=5938652364960475357
+                              - generic:
+                                - 'img "Thumbnail image: Coding model stuck in a single file? Muse Spark works across whole repos." [ref=f20e608]'
+                                - generic "Play video"
+                          - generic [ref=f20e609]:
+                            - link [ref=f20e610] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                            - generic [ref=f20e611]:
+                              - link "dev.meta.ai" [ref=f20e613] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                              - link "Learn More" [ref=f20e614] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=bh0stcq0Xk8Pq17HVKsO6TJPke7G7WjHnsyq4gtkE1uax7NLnnXWFf5A5T-HRuKhU_ZUOunuxcux-lc2FUQSi6Z81XXgRgBglSxIiXpku3cbwF7n7nF7Bv3mizuz9I-sMwZincawbERN5gW1XoAnddw-IEv30fTMVBxdpbsLRWgHUYFCrgZV_VYEtNxuN44pKcNIzuizv-MdntKjyNMtQ9b6IAT8UIEmonm1UZD7NcoQHnA-5GAawplAOG4S-XKrxrku3UxC4UNq1T5lb4KPqGmkasiMKfa3G2pkPyBXSLlrW-sJKhENOeBHDGcwbH78Z6mKgeenU07880mi4qotwQR7_cDfBpyAgYvqThFAX8xz6G-oeguj8woZWlqhfDPKrU8BbjCLE2UP842lg7jSXxQRQWtQxW1E1XnYdjvAXYqPTxwFZNhQwZgyCzZixpXAYDpVg2z8hX4wp4VfovwTqzscPzg1vJsykPAScLSSVztAyGrWJBIFLJj1Bvh-c2mgACqJOWQD9tudMK55vO0lrdpSK_66jUBL4xeFhVKk5uIGoT3nv3Kje9yJ1iZe1sYnORybJ6PKl5HMZ8Bc2_Bd3J42W2ltai6_rvyuL0wRI_oD746niPATcPom-FFnzgukVFn_w3M9F222KdjbrmjGT1DPGvAqCGT-5QEQ4C9xX_BpXcDMuRhDPh67J810T-mL&zp=l3WPNn0IAyJNIVgV5aCYM0iUyHRI6p1zf5GDOC3IEQ5Mdzcdfdg1n8DfSoTixGCeBx2Kgd-FlTKgYm-F33oqI2F5Ovn6DjyUmAVv4D42t2aJc8Wl2c7y-AeG_hK6MEWmcaLA2nNhu6qXJb1kWoV1djhC-AqY5rpRm2uLdMj-i7xCebKzqhLcvTmrlcb7HXEQ6rPyyvp_GeArtbmybp_vIjwuujfXlJQBMWy2u2KDprBvY0Qx3hYy6vzDyKsyxW345bqKDI2MsLZCp6p_ZIS6--7M0xpPfYlqM-l79eRF3Mhf6B7kLRdGBXeONGW1NbtFTQBuLkSYfjH4pNsTtdpfE4yn4lHpC9ElnQJlztxKCTjsIdR13SdG-0W2q_zdrGLly5dJzS39gIdkIfav3IOQOXF1zEjmdz5tPX_TLyrZlfEoiQ_rGJ_FJU1CIVTEYjrUGzLiz2-A9rw8xVff6xZBiOYizDGox8rgXUNlcjMPLxAq278zFcpr1_jS5UIb7SQzXRidOlPMh_RAyn1UpwvPmsB2Pbm2MmMLsp70oDkISaItYNlOt3CEoXfi-oTBAY6ZFCAbwt97ecJ56kVicXxW3TE3v9fbRp3vo7otPyvU9YZbzgywbe5X9YEcpJRDFEs8MsH68CACu0tNgzcUczr1neaSJ27Jk-KDuTA
+                    - separator [ref=f20e617]
+                  - listitem [ref=f20e618]:
+                    - generic [ref=f20e619]:
+                      - generic [ref=f20e620]:
+                        - link "Best way to automate (or semi-automate) process to send out quotes and recieve them back in?" [ref=f20e621] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/supplychain/comments/uixzhm/best_way_to_automate_or_semiautomate_process_to/
+                        - generic [ref=f20e624]:
+                          - generic [ref=f20e627]:
+                            - link "r/supplychain" [ref=f20e628] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/supplychain/
+                            - generic [aria-hidden] [ref=f20e633]: •
+                            - time [ref=f20e635]: 5y ago
+                          - link [ref=f20e637] [cursor=pointer]:
+                            - /url: /r/supplychain/comments/uixzhm/best_way_to_automate_or_semiautomate_process_to/
+                            - heading "List item post - Best way to automate (or semi-automate) process to send out..." [level=3] [ref=f20e640]: Best way to automate (or semi-automate) process to send out quotes and recieve them back in?
+                        - generic [ref=f20e642]:
+                          - generic [ref=f20e643]: "17"
+                          - text: upvotes ·
+                          - generic [ref=f20e644]: "15"
+                          - text: comments
+                      - separator [ref=f20e645]
+                  - listitem [ref=f20e646]:
+                    - generic [ref=f20e647]:
+                      - generic [ref=f20e648]:
+                        - link "Instant Quote Automation with AI for bookings, reservations, rentals" [ref=f20e649] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/MarketingAutomation/comments/1c09ziu/instant_quote_automation_with_ai_for_bookings/
+                        - generic [ref=f20e652]:
+                          - generic [ref=f20e655]:
+                            - link "r/MarketingAutomation" [ref=f20e656] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/MarketingAutomation/
+                            - generic [aria-hidden] [ref=f20e663]: •
+                            - time [ref=f20e665]: 3y ago
+                          - link [ref=f20e667] [cursor=pointer]:
+                            - /url: /r/MarketingAutomation/comments/1c09ziu/instant_quote_automation_with_ai_for_bookings/
+                            - heading "List item post - Instant Quote Automation with AI for bookings, reservations..." [level=3] [ref=f20e670]: Instant Quote Automation with AI for bookings, reservations, rentals
+                        - generic [ref=f20e672]:
+                          - generic [ref=f20e673]: "1"
+                          - text: upvote ·
+                          - generic [ref=f20e674]: "3"
+                          - text: comments
+                      - separator [ref=f20e675]
+                  - listitem
+                  - listitem [ref=f20e676]:
+                    - generic [ref=f20e677]:
+                      - generic [ref=f20e678]:
+                        - link "Automation of Quotations from forms/chat/ticket to acceptance to close" [ref=f20e679] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Zoho/comments/1favw8w/automation_of_quotations_from_formschatticket_to/
+                        - generic [ref=f20e682]:
+                          - generic [ref=f20e685]:
+                            - link "r/Zoho" [ref=f20e686] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Zoho/
+                            - generic [aria-hidden] [ref=f20e691]: •
+                            - time [ref=f20e693]: 2y ago
+                          - link [ref=f20e695] [cursor=pointer]:
+                            - /url: /r/Zoho/comments/1favw8w/automation_of_quotations_from_formschatticket_to/
+                            - heading "List item post - Automation of Quotations from forms/chat/ticket to acceptan..." [level=3] [ref=f20e698]: Automation of Quotations from forms/chat/ticket to acceptance to close
+                        - generic [ref=f20e700]:
+                          - generic [ref=f20e701]: "2"
+                          - text: upvotes ·
+                          - generic [ref=f20e702]: "8"
+                          - text: comments
+                      - separator [ref=f20e703]
+                  - listitem [ref=f20e704]:
+                    - generic [ref=f20e705]:
+                      - generic [ref=f20e706]:
+                        - link "I automated my entire agency's sales process using AI. Here's exactly how I did it (full breakdown, no fluff)" [ref=f20e707] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AiAutomations/comments/1v9uni9/i_automated_my_entire_agencys_sales_process_using/
+                        - generic [ref=f20e710]:
+                          - generic [ref=f20e713]:
+                            - link "r/AiAutomations" [ref=f20e714] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AiAutomations/
+                            - generic [aria-hidden] [ref=f20e719]: •
+                            - time [ref=f20e721]: 3mo ago
+                          - link [ref=f20e723] [cursor=pointer]:
+                            - /url: /r/AiAutomations/comments/1v9uni9/i_automated_my_entire_agencys_sales_process_using/
+                            - heading "List item post - I automated my entire agency's sales process using AI. Here..." [level=3] [ref=f20e726]: I automated my entire agency's sales process using AI. Here's exactly how I did it (full breakdown, no fluff)
+                        - generic [ref=f20e728]:
+                          - generic [ref=f20e729]: "54"
+                          - text: upvotes ·
+                          - generic [ref=f20e730]: "48"
+                          - text: comments
+                      - separator [ref=f20e731]
+                  - listitem [ref=f20e732]:
+                    - generic [ref=f20e733]:
+                      - generic [ref=f20e734]:
+                        - link "How's your experience with automated quoting tools?" [ref=f20e735] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Machinists/comments/1vzvjh8/hows_your_experience_with_automated_quoting_tools/
+                        - generic [ref=f20e738]:
+                          - generic [ref=f20e741]:
+                            - link "r/Machinists" [ref=f20e742] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Machinists/
+                            - generic [aria-hidden] [ref=f20e747]: •
+                            - time [ref=f20e749]: 2mo ago
+                          - link [ref=f20e751] [cursor=pointer]:
+                            - /url: /r/Machinists/comments/1vzvjh8/hows_your_experience_with_automated_quoting_tools/
+                            - heading "List item post - How's your experience with automated quoting tools?" [level=3] [ref=f20e754]: How's your experience with automated quoting tools?
+                        - generic [ref=f20e756]:
+                          - generic [ref=f20e757]: "2"
+                          - text: upvotes ·
+                          - generic [ref=f20e758]: "34"
+                          - text: comments
+                      - separator [ref=f20e759]
+                  - listitem [ref=f20e760]:
+                    - generic [ref=f20e761]:
+                      - generic [ref=f20e762]:
+                        - link "4 months into building an AI automation agency, we finally landed our first paying client. Here’s what actually got us there." [ref=f20e763] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AiAutomations/comments/1wsxk4n/4_months_into_building_an_ai_automation_agency_we/
+                        - generic [ref=f20e766]:
+                          - generic [ref=f20e769]:
+                            - link "r/AiAutomations" [ref=f20e770] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AiAutomations/
+                            - generic [aria-hidden] [ref=f20e775]: •
+                            - time [ref=f20e777]: 25d ago
+                          - link [ref=f20e779] [cursor=pointer]:
+                            - /url: /r/AiAutomations/comments/1wsxk4n/4_months_into_building_an_ai_automation_agency_we/
+                            - heading "List item post - 4 months into building an AI automation agency, we finally ..." [level=3] [ref=f20e782]: 4 months into building an AI automation agency, we finally landed our first paying client. Here’s what actually got us there.
+                        - generic [ref=f20e784]:
+                          - generic [ref=f20e785]: "161"
+                          - text: upvotes ·
+                          - generic [ref=f20e786]: "90"
+                          - text: comments
+                      - separator [ref=f20e787]
+                  - listitem [ref=f20e788]:
+                    - generic [ref=f20e789]:
+                      - generic [ref=f20e790]:
+                        - link "What quotation software (free version) do you use to send proposal/estimates to your clients?" [ref=f20e791] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/freelance/comments/brs7x5/what_quotation_software_free_version_do_you_use/
+                        - generic [ref=f20e794]:
+                          - generic [ref=f20e797]:
+                            - link "r/freelance" [ref=f20e798] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/freelance/
+                            - generic [aria-hidden] [ref=f20e805]: •
+                            - time [ref=f20e807]: 8y ago
+                          - link [ref=f20e809] [cursor=pointer]:
+                            - /url: /r/freelance/comments/brs7x5/what_quotation_software_free_version_do_you_use/
+                            - heading "List item post - What quotation software (free version) do you use to send p..." [level=3] [ref=f20e812]: What quotation software (free version) do you use to send proposal/estimates to your clients?
+                        - generic [ref=f20e814]:
+                          - generic [ref=f20e815]: "4"
+                          - text: upvotes ·
+                          - generic [ref=f20e816]: "24"
+                          - text: comments
+                      - separator [ref=f20e817]
+                  - listitem
+                  - listitem [ref=f20e818]:
+                    - generic [ref=f20e819]:
+                      - generic [ref=f20e820]:
+                        - link "I built an automation tool for quote requests. Need a reality check from industry pros (no links)" [ref=f20e821] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AutoMechanics/comments/1o42uxj/i_built_an_automation_tool_for_quote_requests/
+                        - generic [ref=f20e824]:
+                          - generic [ref=f20e827]:
+                            - link "r/AutoMechanics" [ref=f20e828] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AutoMechanics/
+                            - generic [aria-hidden] [ref=f20e835]: •
+                            - time [ref=f20e837]: 1y ago
+                          - link [ref=f20e839] [cursor=pointer]:
+                            - /url: /r/AutoMechanics/comments/1o42uxj/i_built_an_automation_tool_for_quote_requests/
+                            - heading "List item post - I built an automation tool for quote requests. Need a reali..." [level=3] [ref=f20e842]: I built an automation tool for quote requests. Need a reality check from industry pros (no links)
+                        - generic [ref=f20e844]:
+                          - generic [ref=f20e845]: "1"
+                          - text: upvote ·
+                          - generic [ref=f20e846]: "1"
+                          - text: comment
+                      - separator [ref=f20e847]
+                  - listitem [ref=f20e848]:
+                    - generic [ref=f20e849]:
+                      - generic [ref=f20e850]:
+                        - 'link "Title: What are some AI automations that businesses actually need?" [ref=f20e851] [cursor=pointer]':
+                          - /url: https://www.reddit.com/r/AI_Agents/comments/1x579pk/title_what_are_some_ai_automations_that/
+                        - generic [ref=f20e854]:
+                          - generic [ref=f20e857]:
+                            - link "r/AI_Agents" [ref=f20e858] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AI_Agents/
+                            - generic [aria-hidden] [ref=f20e863]: •
+                            - time [ref=f20e865]: 10d ago
+                          - link [ref=f20e867] [cursor=pointer]:
+                            - /url: /r/AI_Agents/comments/1x579pk/title_what_are_some_ai_automations_that/
+                            - 'heading "List item post - Title: What are some AI automations that businesses actuall..." [level=3] [ref=f20e870]': "Title: What are some AI automations that businesses actually need?"
+                        - generic [ref=f20e872]:
+                          - generic [ref=f20e873]: "4"
+                          - text: upvotes ·
+                          - generic [ref=f20e874]: "12"
+                          - text: comments
+                      - separator [ref=f20e875]
+                  - listitem [ref=f20e876]:
+                    - generic [ref=f20e877]:
+                      - generic [ref=f20e878]:
+                        - link "An AI agent to automate quotation creation from unstructured emails" [ref=f20e879] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/IndiaBusiness/comments/1il4vat/an_ai_agent_to_automate_quotation_creation_from/
+                        - generic [ref=f20e882]:
+                          - generic [ref=f20e885]:
+                            - link "r/IndiaBusiness" [ref=f20e886] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/IndiaBusiness/
+                            - generic [aria-hidden] [ref=f20e891]: •
+                            - time [ref=f20e893]: 2y ago
+                          - link [ref=f20e895] [cursor=pointer]:
+                            - /url: /r/IndiaBusiness/comments/1il4vat/an_ai_agent_to_automate_quotation_creation_from/
+                            - heading "List item post - An AI agent to automate quotation creation from unstructure..." [level=3] [ref=f20e898]: An AI agent to automate quotation creation from unstructured emails
+                        - generic [ref=f20e900]:
+                          - generic [ref=f20e901]: "2"
+                          - text: upvotes ·
+                          - generic [ref=f20e902]: "4"
+                          - text: comments
+                      - separator [ref=f20e903]
+                  - listitem [ref=f20e904]:
+                    - generic [ref=f20e905]:
+                      - generic [ref=f20e906]:
+                        - link "Contract workflow automation tools ranked for small teams in 2026 — tested 20+, narrowed to 10" [ref=f20e907] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Superframeworks/comments/1t2y6aj/contract_workflow_automation_tools_ranked_for/
+                        - generic [ref=f20e910]:
+                          - generic [ref=f20e913]:
+                            - link "r/Superframeworks" [ref=f20e914] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Superframeworks/
+                            - generic [aria-hidden] [ref=f20e919]: •
+                            - time [ref=f20e921]: 6mo ago
+                          - link [ref=f20e923] [cursor=pointer]:
+                            - /url: /r/Superframeworks/comments/1t2y6aj/contract_workflow_automation_tools_ranked_for/
+                            - heading "List item post - Contract workflow automation tools ranked for small teams i..." [level=3] [ref=f20e926]: Contract workflow automation tools ranked for small teams in 2026 — tested 20+, narrowed to 10
+                        - generic [ref=f20e928]:
+                          - generic [ref=f20e929]: "1"
+                          - text: upvote ·
+                          - generic [ref=f20e930]: "5"
+                          - text: comments
+                      - separator [ref=f20e931]
+                  - listitem [ref=f20e932]:
+                    - generic [ref=f20e933]:
+                      - generic [ref=f20e934]:
+                        - link "Was paid to help a business automate & use AI, want a bit of advice." [ref=f20e935] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AiAutomations/comments/1wyca8a/was_paid_to_help_a_business_automate_use_ai_want/
+                        - generic [ref=f20e938]:
+                          - generic [ref=f20e941]:
+                            - link "r/AiAutomations" [ref=f20e942] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AiAutomations/
+                            - generic [aria-hidden] [ref=f20e947]: •
+                            - time [ref=f20e949]: 18d ago
+                          - link [ref=f20e951] [cursor=pointer]:
+                            - /url: /r/AiAutomations/comments/1wyca8a/was_paid_to_help_a_business_automate_use_ai_want/
+                            - heading "List item post - Was paid to help a business automate & use AI, want a bit o..." [level=3] [ref=f20e954]: Was paid to help a business automate & use AI, want a bit of advice.
+                        - generic [ref=f20e956]:
+                          - generic [ref=f20e957]: "8"
+                          - text: upvotes ·
+                          - generic [ref=f20e958]: "17"
+                          - text: comments
+                      - separator [ref=f20e959]
+                  - listitem [ref=f20e960]:
+                    - generic [ref=f20e961]:
+                      - generic [ref=f20e962]:
+                        - link "Sales background trying to make AI agent/automation agency help" [ref=f20e963] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AiAutomations/comments/1x3qazq/sales_background_trying_to_make_ai/
+                        - generic [ref=f20e966]:
+                          - generic [ref=f20e969]:
+                            - link "r/AiAutomations" [ref=f20e970] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/AiAutomations/
+                            - generic [aria-hidden] [ref=f20e975]: •
+                            - time [ref=f20e977]: 12d ago
+                          - link [ref=f20e979] [cursor=pointer]:
+                            - /url: /r/AiAutomations/comments/1x3qazq/sales_background_trying_to_make_ai/
+                            - heading "List item post - Sales background trying to make AI agent/automation agency ..." [level=3] [ref=f20e982]: Sales background trying to make AI agent/automation agency help
+                        - generic [ref=f20e984]:
+                          - generic [ref=f20e985]: "12"
+                          - text: upvotes ·
+                          - generic [ref=f20e986]: "16"
+                          - text: comments
+                      - separator [ref=f20e987]
+                  - listitem [ref=f20e988]:
+                    - generic [ref=f20e989]:
+                      - generic [ref=f20e990]:
+                        - link "Automated quotes" [ref=f20e991] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/CRM/comments/w75ftk/automated_quotes/
+                        - generic [ref=f20e994]:
+                          - generic [ref=f20e997]:
+                            - link "r/CRM" [ref=f20e998] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/CRM/
+                            - generic [aria-hidden] [ref=f20e1005]: •
+                            - time [ref=f20e1007]: 4y ago
+                          - link [ref=f20e1009] [cursor=pointer]:
+                            - /url: /r/CRM/comments/w75ftk/automated_quotes/
+                            - heading "List item post - Automated quotes" [level=3] [ref=f20e1012]: Automated quotes
+                        - generic [ref=f20e1014]:
+                          - generic [ref=f20e1015]: "1"
+                          - text: upvote ·
+                          - generic [ref=f20e1016]: "20"
+                          - text: comments
+                      - separator [ref=f20e1017]
+                  - listitem [ref=f20e1018]:
+                    - generic [ref=f20e1019]:
+                      - generic [ref=f20e1020]:
+                        - link "I’ve built a proper all-in-one Ai quoting tool for tradies & services would love some feedback or testers" [ref=f20e1021] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ausbusiness/comments/1shd4d6/ive_built_a_proper_allinone_ai_quoting_tool_for/
+                        - generic [ref=f20e1024]:
+                          - generic [ref=f20e1027]:
+                            - link "r/ausbusiness" [ref=f20e1028] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/ausbusiness/
+                            - generic [aria-hidden] [ref=f20e1035]: •
+                            - time [ref=f20e1037]: 7mo ago
+                          - link [ref=f20e1039] [cursor=pointer]:
+                            - /url: /r/ausbusiness/comments/1shd4d6/ive_built_a_proper_allinone_ai_quoting_tool_for/
+                            - heading "List item post - I’ve built a proper all-in-one Ai quoting tool for tradies ..." [level=3] [ref=f20e1042]: I’ve built a proper all-in-one Ai quoting tool for tradies & services would love some feedback or testers
+                        - generic [ref=f20e1044]:
+                          - generic [ref=f20e1045]: "26"
+                          - text: comments
+                      - separator [ref=f20e1046]
+                  - listitem [ref=f20e1047]:
+                    - generic [ref=f20e1048]:
+                      - generic [ref=f20e1049]:
+                        - link "My current experience implementing an AI/Machine-Learning AP tool at work. How is yours?" [ref=f20e1050] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/Accounting/comments/1wcutj8/my_current_experience_implementing_an/
+                        - generic [ref=f20e1052]:
+                          - generic [ref=f20e1053]:
+                            - generic [ref=f20e1056]:
+                              - link "r/Accounting" [ref=f20e1057] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/Accounting/
+                              - generic [aria-hidden] [ref=f20e1062]: •
+                              - time [ref=f20e1064]: 1mo ago
+                            - link [ref=f20e1066] [cursor=pointer]:
+                              - /url: /r/Accounting/comments/1wcutj8/my_current_experience_implementing_an/
+                              - heading "List item post - My current experience implementing an AI/Machine-Learning A..." [level=3] [ref=f20e1069]: My current experience implementing an AI/Machine-Learning AP tool at work. How is yours?
+                          - link "r/Accounting - My current experience implementing an AI/Machine-Learning AP tool at work. How is yours?" [ref=f20e1072] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Accounting/comments/1wcutj8/my_current_experience_implementing_an/
+                            - img "r/Accounting - My current experience implementing an AI/Machine-Learning AP tool at work. How is yours?" [ref=f20e1073]
+                        - generic [ref=f20e1075]:
+                          - generic [ref=f20e1076]: "104"
+                          - text: upvotes ·
+                          - generic [ref=f20e1077]: "20"
+                          - text: comments
+                      - separator [ref=f20e1078]
+                  - listitem [ref=f20e1079]:
+                    - generic [ref=f20e1080]:
+                      - generic [ref=f20e1081]:
+                        - link "Has anyone actually automated sales/marketing with AI agents (beyond hype)?" [ref=f20e1082] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/SaaS/comments/1s6od3o/has_anyone_actually_automated_salesmarketing_with/
+                        - generic [ref=f20e1085]:
+                          - generic [ref=f20e1088]:
+                            - link "r/SaaS" [ref=f20e1089] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/SaaS/
+                            - generic [aria-hidden] [ref=f20e1094]: •
+                            - time [ref=f20e1096]: 7mo ago
+                          - link [ref=f20e1098] [cursor=pointer]:
+                            - /url: /r/SaaS/comments/1s6od3o/has_anyone_actually_automated_salesmarketing_with/
+                            - heading "List item post - Has anyone actually automated sales/marketing with AI agent..." [level=3] [ref=f20e1101]: Has anyone actually automated sales/marketing with AI agents (beyond hype)?
+                        - generic [ref=f20e1103]:
+                          - generic [ref=f20e1104]: "15"
+                          - text: upvotes ·
+                          - generic [ref=f20e1105]: "105"
+                          - text: comments
+                      - separator [ref=f20e1106]
+                  - listitem [ref=f20e1107]:
+                    - generic [ref=f20e1108]:
+                      - generic [ref=f20e1109]:
+                        - link "What are the best AI marketing automation tools recommended for businesses?" [ref=f20e1110] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/automation/comments/1vm8d0v/what_are_the_best_ai_marketing_automation_tools/
+                        - generic [ref=f20e1113]:
+                          - generic [ref=f20e1116]:
+                            - link "r/automation" [ref=f20e1117] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/automation/
+                            - generic [aria-hidden] [ref=f20e1122]: •
+                            - time [ref=f20e1124]: 2mo ago
+                          - link [ref=f20e1126] [cursor=pointer]:
+                            - /url: /r/automation/comments/1vm8d0v/what_are_the_best_ai_marketing_automation_tools/
+                            - heading "List item post - What are the best AI marketing automation tools recommended..." [level=3] [ref=f20e1129]: What are the best AI marketing automation tools recommended for businesses?
+                        - generic [ref=f20e1131]:
+                          - generic [ref=f20e1132]: "7"
+                          - text: upvotes ·
+                          - generic [ref=f20e1133]: "47"
+                          - text: comments
+                      - separator [ref=f20e1134]
+                  - listitem [ref=f20e1135]:
+                    - generic [ref=f20e1136]:
+                      - generic [ref=f20e1137]:
+                        - link "What are the best AI sales automation tools you’ve tried?" [ref=f20e1138] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/MarketingAutomation/comments/1onp69k/what_are_the_best_ai_sales_automation_tools_youve/
+                        - generic [ref=f20e1141]:
+                          - generic [ref=f20e1144]:
+                            - link "r/MarketingAutomation" [ref=f20e1145] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/MarketingAutomation/
+                            - generic [aria-hidden] [ref=f20e1152]: •
+                            - time [ref=f20e1154]: 1y ago
+                          - link [ref=f20e1156] [cursor=pointer]:
+                            - /url: /r/MarketingAutomation/comments/1onp69k/what_are_the_best_ai_sales_automation_tools_youve/
+                            - heading "List item post - What are the best AI sales automation tools you’ve tried?" [level=3] [ref=f20e1159]: What are the best AI sales automation tools you’ve tried?
+                        - generic [ref=f20e1161]:
+                          - generic [ref=f20e1162]: "69"
+                          - text: upvotes ·
+                          - generic [ref=f20e1163]: "112"
+                          - text: comments
+                      - separator [ref=f20e1164]
+                  - listitem [ref=f20e1165]:
+                    - generic [ref=f20e1166]:
+                      - generic [ref=f20e1167]:
+                        - link "What are the most common quoting softwares for MSPs?" [ref=f20e1168] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/msp/comments/putthy/what_are_the_most_common_quoting_softwares_for/
+                        - generic [ref=f20e1171]:
+                          - generic [ref=f20e1174]:
+                            - link "r/msp" [ref=f20e1175] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/msp/
+                            - generic [aria-hidden] [ref=f20e1180]: •
+                            - time [ref=f20e1182]: 5y ago
+                          - link [ref=f20e1184] [cursor=pointer]:
+                            - /url: /r/msp/comments/putthy/what_are_the_most_common_quoting_softwares_for/
+                            - heading "List item post - What are the most common quoting softwares for MSPs?" [level=3] [ref=f20e1187]: What are the most common quoting softwares for MSPs?
+                        - generic [ref=f20e1189]:
+                          - generic [ref=f20e1190]: "11"
+                          - text: upvotes ·
+                          - generic [ref=f20e1191]: "36"
+                          - text: comments
+                      - separator [ref=f20e1192]
+                  - listitem [ref=f20e1193]:
+                    - generic [ref=f20e1194]:
+                      - generic [ref=f20e1195]:
+                        - link "Client AI generated communication" [ref=f20e1196] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/StructuralEngineering/comments/1xbyahr/client_ai_generated_communication/
+                        - generic [ref=f20e1199]:
+                          - generic [ref=f20e1202]:
+                            - link "r/StructuralEngineering" [ref=f20e1203] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/StructuralEngineering/
+                            - generic [aria-hidden] [ref=f20e1208]: •
+                            - time [ref=f20e1210]: 2d ago
+                          - link [ref=f20e1212] [cursor=pointer]:
+                            - /url: /r/StructuralEngineering/comments/1xbyahr/client_ai_generated_communication/
+                            - heading "List item post - Client AI generated communication" [level=3] [ref=f20e1215]: Client AI generated communication
+                        - generic [ref=f20e1217]:
+                          - generic [ref=f20e1218]: "100"
+                          - text: upvotes ·
+                          - generic [ref=f20e1219]: "52"
+                          - text: comments
+                      - separator [ref=f20e1220]
+                  - listitem [ref=f20e1221]:
+                    - generic [ref=f20e1222]:
+                      - generic [ref=f20e1223]:
+                        - link "Is it really possible to get automated quote pricing without having the full erp custom?" [ref=f20e1224] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ERP/comments/1mfqvm6/is_it_really_possible_to_get_automated_quote/
+                        - generic [ref=f20e1227]:
+                          - generic [ref=f20e1230]:
+                            - link "r/ERP" [ref=f20e1231] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/ERP/
+                            - generic [aria-hidden] [ref=f20e1236]: •
+                            - time [ref=f20e1238]: 1y ago
+                          - link [ref=f20e1240] [cursor=pointer]:
+                            - /url: /r/ERP/comments/1mfqvm6/is_it_really_possible_to_get_automated_quote/
+                            - heading "List item post - Is it really possible to get automated quote pricing withou..." [level=3] [ref=f20e1243]: Is it really possible to get automated quote pricing without having the full erp custom?
+                        - generic [ref=f20e1245]:
+                          - generic [ref=f20e1246]: "6"
+                          - text: upvotes ·
+                          - generic [ref=f20e1247]: "21"
+                          - text: comments
+                      - separator [ref=f20e1248]
+                  - listitem [ref=f20e1249]:
+                    - generic [ref=f20e1250]:
+                      - generic [ref=f20e1251]:
+                        - link "Just launched a free AI tool to generate client quotes — looking for feedback 🙌" [ref=f20e1252] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/SideProject/comments/1kqkx0c/just_launched_a_free_ai_tool_to_generate_client/
+                        - generic [ref=f20e1254]:
+                          - generic [ref=f20e1255]:
+                            - generic [ref=f20e1258]:
+                              - link "r/SideProject" [ref=f20e1259] [cursor=pointer]:
+                                - /url: https://www.reddit.com/r/SideProject/
+                              - generic [aria-hidden] [ref=f20e1264]: •
+                              - time [ref=f20e1266]: 1y ago
+                            - link [ref=f20e1268] [cursor=pointer]:
+                              - /url: /r/SideProject/comments/1kqkx0c/just_launched_a_free_ai_tool_to_generate_client/
+                              - heading "List item post - Just launched a free AI tool to generate client quotes — lo..." [level=3] [ref=f20e1271]: Just launched a free AI tool to generate client quotes — looking for feedback 🙌
+                          - link "r/SideProject - Just launched a free AI tool to generate client quotes — looking for feedback 🙌" [ref=f20e1274] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/SideProject/comments/1kqkx0c/just_launched_a_free_ai_tool_to_generate_client/
+                            - img "r/SideProject - Just launched a free AI tool to generate client quotes — looking for feedback 🙌" [ref=f20e1275]
+                        - generic [ref=f20e1277]:
+                          - generic [ref=f20e1278]: "3"
+                          - text: upvotes ·
+                          - generic [ref=f20e1279]: "8"
+                          - text: comments
+                      - separator [ref=f20e1280]
+                  - listitem [ref=f20e1281]:
+                    - generic [ref=f20e1283]:
+                      - link "How are you automating post-purchase support instead of hiring more people?" [ref=f20e1284] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/smallbusinessUS/comments/1otl1x5/how_are_you_automating_postpurchase_support/
+                      - generic [ref=f20e1287]:
+                        - generic [ref=f20e1290]:
+                          - link "r/smallbusinessUS" [ref=f20e1291] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/smallbusinessUS/
+                          - generic [aria-hidden] [ref=f20e1296]: •
+                          - time [ref=f20e1298]: 1y ago
+                        - link [ref=f20e1300] [cursor=pointer]:
+                          - /url: /r/smallbusinessUS/comments/1otl1x5/how_are_you_automating_postpurchase_support/
+                          - heading "List item post - How are you automating post-purchase support instead of hir..." [level=3] [ref=f20e1303]: How are you automating post-purchase support instead of hiring more people?
+                      - generic [ref=f20e1305]:
+                        - generic [ref=f20e1306]: "4"
+                        - text: upvotes ·
+                        - generic [ref=f20e1307]: "41"
+                        - text: comments
+              - generic [ref=f20e1308]:
+                - heading "View Post in" [level=2] [ref=f20e1310]
+                - generic [ref=f20e1312]:
+                  - link "简体中文" [ref=f20e1314] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/quote_automation_software_ai_whats_your_quotation/?tl=zh-hans
+                  - link "繁體中文" [ref=f20e1316] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/quote_automation_software_ai_whats_your_quotation/?tl=zh-hant
+                  - link "Português (Brasil)" [ref=f20e1318] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/sales/comments/1877jx0/quote_automation_software_ai_whats_your_quotation/?tl=pt-br
+                  - group [ref=f20e1319]:
+                    - generic "See more" [ref=f20e1320] [cursor=pointer]
+              - complementary "Community information" [ref=f20e1325]:
+                - generic [ref=f20e1327]:
+                  - heading "Community Info Section" [level=1] [ref=f20e1328]
+                  - generic [ref=f20e1329]:
+                    - link "r/sales" [ref=f20e1331] [cursor=pointer]:
+                      - /url: /r/sales/
+                    - button "Join" [ref=f20e1336] [cursor=pointer]
+                  - generic [ref=f20e1337]:
+                    - generic [ref=f20e1338]: Sales and Selling
+                    - generic [ref=f20e1340]: Everything you need to know about sales, selling, business development, lead generation, prospecting, closing and more! Recommended books are linked in the menu and sidebar. Read our rules before posting or commenting. Selling, recruiting and blog spam will result in an immediate and permanent ban.
+                    - button "Show more" [ref=f20e1341] [cursor=pointer]
+                    - generic: Public
+              - generic [ref=f20e1349]:
+                - heading "Top Posts" [level=2] [ref=f20e1350]
+                - list [ref=f20e1351]:
+                  - listitem [ref=f20e1352]:
+                    - 'link "Reddit reReddit: Top posts of November 30, 2023" [ref=f20e1353] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/november-30-1/global/
+                      - generic [ref=f20e1354]: Reddit
+                      - generic [ref=f20e1369]: "reReddit: Top posts of November 30, 2023"
+                      - separator [ref=f20e1370]
+                  - listitem [ref=f20e1371]:
+                    - 'link "Reddit reReddit: Top posts of November 2023" [ref=f20e1372] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/november/global/
+                      - generic [ref=f20e1373]: Reddit
+                      - generic [ref=f20e1388]: "reReddit: Top posts of November 2023"
+                      - separator [ref=f20e1389]
+                  - listitem [ref=f20e1390]:
+                    - 'link "Reddit reReddit: Top posts of 2023" [ref=f20e1391] [cursor=pointer]':
+                      - /url: https://www.reddit.com/posts/2023/global/
+                      - generic [ref=f20e1392]: Reddit
+                      - generic [ref=f20e1407]: "reReddit: Top posts of 2023"
+                      - separator [ref=f20e1408]
+          - list [ref=f20e1410]:
+            - listitem [ref=f20e1411]:
+              - link "Home" [ref=f20e1413] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=f20e1414]:
+              - link "Popular" [ref=f20e1416] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=f20e1417]:
+              - link "News" [ref=f20e1419] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=f20e1420]:
+              - link "Explore" [ref=f20e1422] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=f20e1423]:
+              - link "Best of Reddit" [ref=f20e1425] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=f20e1426]:
+              - link "Best of Reddit in Portuguese" [ref=f20e1428] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=f20e1429]:
+              - link "Best of Reddit in German" [ref=f20e1431] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=f20e1432]:
+              - link "Reddit Rules" [ref=f20e1434] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=f20e1435]:
+              - link "Privacy Policy" [ref=f20e1437] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=f20e1438]:
+              - link "User Agreement" [ref=f20e1440] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=f20e1441]:
+              - link "Accessibility" [ref=f20e1443] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=f20e1444]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=f20e1445] [cursor=pointer]:
+                - /url: https://redditinc.com

@@ -1,0 +1,287 @@
+# Transcript: Vy5Gj8Ma7oc
+Language: en
+
+[0.0s - 3.1s] Today, we are going to discuss a small
+[3.1s - 3.1s] Today, we are going to discuss a small
+[3.1s - 5.6s] Today, we are going to discuss a small win that I had at my agency with an
+[5.6s - 5.6s] win that I had at my agency with an
+[5.6s - 9.1s] win that I had at my agency with an e-commerce chatbot and maybe a method
+[9.1s - 9.1s] e-commerce chatbot and maybe a method
+[9.1s - 11.8s] e-commerce chatbot and maybe a method that we are ignoring that can actually
+[11.8s - 11.8s] that we are ignoring that can actually
+[11.8s - 15.2s] that we are ignoring that can actually help to reach our goal. Our goal of
+[15.2s - 15.2s] help to reach our goal. Our goal of
+[15.2s - 18.4s] help to reach our goal. Our goal of building a million-dollar a year AI
+[18.4s - 18.4s] building a million-dollar a year AI
+[18.4s - 22.2s] building a million-dollar a year AI automation agency in 30 days. By the end
+[22.2s - 22.2s] automation agency in 30 days. By the end
+[22.2s - 25.0s] automation agency in 30 days. By the end of 30 days, the goal is to have an
+[25.0s - 25.0s] of 30 days, the goal is to have an
+[25.0s - 29.8s] of 30 days, the goal is to have an agency that does 83,333
+[29.8s - 33.2s] dollars a month. Today is day six and
+[33.2s - 33.2s] dollars a month. Today is day six and
+[33.2s - 36.0s] dollars a month. Today is day six and I'm excited to share that we are going
+[36.0s - 36.0s] I'm excited to share that we are going
+[36.0s - 39.3s] I'm excited to share that we are going to get a great testimonial for an
+[39.3s - 39.3s] to get a great testimonial for an
+[39.3s - 41.9s] to get a great testimonial for an e-commerce chatbot that we built 2 weeks
+[41.9s - 41.9s] e-commerce chatbot that we built 2 weeks
+[41.9s - 45.5s] e-commerce chatbot that we built 2 weeks ago. The CEO of my previous company also
+[45.5s - 45.6s] ago. The CEO of my previous company also
+[45.6s - 48.5s] ago. The CEO of my previous company also had a supplement e-commerce store. When
+[48.5s - 48.5s] had a supplement e-commerce store. When
+[48.5s - 51.4s] had a supplement e-commerce store. When I started my agency 3 weeks ago, he was
+[51.4s - 51.4s] I started my agency 3 weeks ago, he was
+[51.4s - 53.6s] I started my agency 3 weeks ago, he was one of the first persons that I talked
+[53.6s - 53.6s] one of the first persons that I talked
+[53.6s - 55.7s] one of the first persons that I talked to about these services and I offered
+[55.7s - 55.7s] to about these services and I offered
+[55.7s - 58.6s] to about these services and I offered that I would build a chatbot for him for
+[58.6s - 58.6s] that I would build a chatbot for him for
+[58.6s - 61.9s] that I would build a chatbot for him for free. I built this bot using Voiceflow
+[61.9s - 61.9s] free. I built this bot using Voiceflow
+[61.9s - 63.9s] free. I built this bot using Voiceflow and Zapier. When I reached out to him
+[63.9s - 63.9s] and Zapier. When I reached out to him
+[63.9s - 66.8s] and Zapier. When I reached out to him yesterday to discuss my outreach
+[66.8s - 66.8s] yesterday to discuss my outreach
+[66.8s - 68.9s] yesterday to discuss my outreach strategy, he said it's working
+[68.9s - 68.9s] strategy, he said it's working
+[68.9s - 71.8s] strategy, he said it's working wonderfully and he would love to give us
+[71.8s - 71.8s] wonderfully and he would love to give us
+[71.8s - 74.3s] wonderfully and he would love to give us a testimonial if that helps with the
+[74.3s - 74.4s] a testimonial if that helps with the
+[74.4s - 77.1s] a testimonial if that helps with the outreach. I'd like to discuss a little
+[77.1s - 77.1s] outreach. I'd like to discuss a little
+[77.1s - 79.8s] outreach. I'd like to discuss a little bit about this bot so it gets your
+[79.8s - 79.8s] bit about this bot so it gets your
+[79.8s - 82.3s] bit about this bot so it gets your creative wheels turning. We designed
+[82.3s - 82.3s] creative wheels turning. We designed
+[82.3s - 85.7s] creative wheels turning. We designed this bot for two reasons. The first it
+[85.7s - 85.7s] this bot for two reasons. The first it
+[85.7s - 90.2s] this bot for two reasons. The first it was customer service focused. We used a
+[90.2s - 90.2s] was customer service focused. We used a
+[90.2s - 92.5s] was customer service focused. We used a lot of frequently asked questions that
+[92.5s - 92.5s] lot of frequently asked questions that
+[92.5s - 95.6s] lot of frequently asked questions that they had as a knowledge base. The reason
+[95.6s - 95.6s] they had as a knowledge base. The reason
+[95.6s - 99.4s] they had as a knowledge base. The reason for using Voiceflow and Zapier is their
+[99.4s - 99.4s] for using Voiceflow and Zapier is their
+[99.4s - 102.1s] for using Voiceflow and Zapier is their knowledge base is really small, around 4
+[102.1s - 102.1s] knowledge base is really small, around 4
+[102.1s - 104.5s] knowledge base is really small, around 4 MB or something. So, it made perfect
+[104.5s - 104.6s] MB or something. So, it made perfect
+[104.6s - 107.2s] MB or something. So, it made perfect sense. Voiceflow was a perfect fit for
+[107.2s - 107.2s] sense. Voiceflow was a perfect fit for
+[107.2s - 110.5s] sense. Voiceflow was a perfect fit for that. We did not have to go with Flowise
+[110.5s - 110.5s] that. We did not have to go with Flowise
+[110.5s - 113.1s] that. We did not have to go with Flowise or Stack AI. The responses that we are
+[113.1s - 113.1s] or Stack AI. The responses that we are
+[113.1s - 115.1s] or Stack AI. The responses that we are getting were really good.
+[115.1s - 115.1s] getting were really good.
+[115.1s - 117.4s] getting were really good. And most people when they imagine
+[117.4s - 117.4s] And most people when they imagine
+[117.4s - 120.0s] And most people when they imagine frequently asked questions, they say,
+[120.0s - 120.0s] frequently asked questions, they say,
+[120.0s - 122.5s] frequently asked questions, they say, "Why would I need a chatbot? It's
+[122.5s - 122.6s] "Why would I need a chatbot? It's
+[122.6s - 124.3s] "Why would I need a chatbot? It's frequently asked questions. People can
+[124.3s - 124.3s] frequently asked questions. People can
+[124.3s - 126.8s] frequently asked questions. People can read that on a website." But imagine all
+[126.8s - 126.8s] read that on a website." But imagine all
+[126.8s - 128.9s] read that on a website." But imagine all the questions that you got over the
+[128.9s - 128.9s] the questions that you got over the
+[128.9s - 131.5s] the questions that you got over the years that you run your store, 300 or
+[131.5s - 131.5s] years that you run your store, 300 or
+[131.5s - 134.3s] years that you run your store, 300 or 400 questions. That's what we did with
+[134.3s - 134.4s] 400 questions. That's what we did with
+[134.4s - 138.1s] 400 questions. That's what we did with that business. And imagine having 400
+[138.1s - 138.1s] that business. And imagine having 400
+[138.1s - 140.5s] that business. And imagine having 400 questions on a website on a web page.
+[140.5s - 140.5s] questions on a website on a web page.
+[140.5s - 143.1s] questions on a website on a web page. Would I even read it? So, people right
+[143.1s - 143.1s] Would I even read it? So, people right
+[143.1s - 146.6s] Would I even read it? So, people right now are not seeing the value and how
+[146.6s - 146.6s] now are not seeing the value and how
+[146.6s - 149.2s] now are not seeing the value and how powerful these chatbots are. It's not
+[149.2s - 149.2s] powerful these chatbots are. It's not
+[149.2s - 152.2s] powerful these chatbots are. It's not just 400 message. You can just as easily
+[152.2s - 152.2s] just 400 message. You can just as easily
+[152.2s - 154.9s] just 400 message. You can just as easily add 4,000 message. It wouldn't make a
+[154.9s - 154.9s] add 4,000 message. It wouldn't make a
+[154.9s - 157.8s] add 4,000 message. It wouldn't make a difference. In addition to the customer
+[157.8s - 157.8s] difference. In addition to the customer
+[157.8s - 160.6s] difference. In addition to the customer support, we also added lead capturing
+[160.6s - 160.6s] support, we also added lead capturing
+[160.6s - 164.8s] support, we also added lead capturing capabilities and used Zapier to automate
+[164.8s - 164.8s] capabilities and used Zapier to automate
+[164.8s - 166.8s] capabilities and used Zapier to automate we are taking this lead and then
+[166.8s - 166.8s] we are taking this lead and then
+[166.8s - 169.8s] we are taking this lead and then subscribing them an email sequence. And
+[169.8s - 169.8s] subscribing them an email sequence. And
+[169.8s - 171.9s] subscribing them an email sequence. And one other feature that we included,
+[171.9s - 172.0s] one other feature that we included,
+[172.0s - 174.6s] one other feature that we included, whenever someone asks a question about a
+[174.6s - 174.6s] whenever someone asks a question about a
+[174.6s - 177.6s] whenever someone asks a question about a product, we answer that question and the
+[177.6s - 177.6s] product, we answer that question and the
+[177.6s - 181.2s] product, we answer that question and the bot will give you a coupon based on that
+[181.2s - 181.2s] bot will give you a coupon based on that
+[181.2s - 184.6s] bot will give you a coupon based on that product. And this method worked so well
+[184.6s - 184.6s] product. And this method worked so well
+[184.6s - 187.3s] product. And this method worked so well as opposed to slapping a coupon on their
+[187.3s - 187.3s] as opposed to slapping a coupon on their
+[187.3s - 190.2s] as opposed to slapping a coupon on their face whenever they visit the site. This
+[190.2s - 190.2s] face whenever they visit the site. This
+[190.2s - 193.1s] face whenever they visit the site. This is all under customer service. And two,
+[193.1s - 193.1s] is all under customer service. And two,
+[193.1s - 195.9s] is all under customer service. And two, they're running a giveaway campaign.
+[195.9s - 196.0s] they're running a giveaway campaign.
+[196.0s - 198.3s] they're running a giveaway campaign. Initially, they were planning to use a
+[198.3s - 198.3s] Initially, they were planning to use a
+[198.3s - 201.9s] Initially, they were planning to use a Google Form or a Typeform for this. We
+[201.9s - 201.9s] Google Form or a Typeform for this. We
+[201.9s - 205.2s] Google Form or a Typeform for this. We figured out that using a chatbot would
+[205.2s - 205.2s] figured out that using a chatbot would
+[205.2s - 207.8s] figured out that using a chatbot would make more sense. Imagine this, their
+[207.8s - 207.8s] make more sense. Imagine this, their
+[207.8s - 211.3s] make more sense. Imagine this, their products have a QR code and when people
+[211.3s - 211.3s] products have a QR code and when people
+[211.3s - 213.9s] products have a QR code and when people scan it, they are redirected to this
+[213.9s - 213.9s] scan it, they are redirected to this
+[213.9s - 216.6s] scan it, they are redirected to this giveaway page. This giveaway page itself
+[216.6s - 216.6s] giveaway page. This giveaway page itself
+[216.6s - 219.9s] giveaway page. This giveaway page itself has half a page of this giveaway info
+[219.9s - 219.9s] has half a page of this giveaway info
+[219.9s - 222.3s] has half a page of this giveaway info and half page is allocated to the
+[222.3s - 222.3s] and half page is allocated to the
+[222.3s - 224.8s] and half page is allocated to the chatbot. It once the customer starts
+[224.8s - 224.8s] chatbot. It once the customer starts
+[224.8s - 227.1s] chatbot. It once the customer starts conversing with the bot, the bot will
+[227.1s - 227.1s] conversing with the bot, the bot will
+[227.1s - 229.9s] conversing with the bot, the bot will then ask a few questions, get their
+[229.9s - 229.9s] then ask a few questions, get their
+[229.9s - 232.3s] then ask a few questions, get their information, their order number, etc.,
+[232.3s - 232.4s] information, their order number, etc.,
+[232.4s - 235.8s] information, their order number, etc., Verify that and once it verifies it, it
+[235.8s - 235.8s] Verify that and once it verifies it, it
+[235.8s - 239.6s] Verify that and once it verifies it, it then randomizes a reward out of three or
+[239.6s - 239.6s] then randomizes a reward out of three or
+[239.6s - 242.5s] then randomizes a reward out of three or four or whatever, ask them additional
+[242.5s - 242.5s] four or whatever, ask them additional
+[242.5s - 245.2s] four or whatever, ask them additional questions and make suggestions based off
+[245.2s - 245.2s] questions and make suggestions based off
+[245.2s - 247.7s] questions and make suggestions based off of that. If you like this product, you
+[247.7s - 247.7s] of that. If you like this product, you
+[247.7s - 250.4s] of that. If you like this product, you will love this and we will then try to
+[250.4s - 250.4s] will love this and we will then try to
+[250.4s - 253.6s] will love this and we will then try to convert them in that chatbot itself.
+[253.6s - 253.6s] convert them in that chatbot itself.
+[253.6s - 256.3s] convert them in that chatbot itself. This is not live yet. They are launching
+[256.3s - 256.3s] This is not live yet. They are launching
+[256.3s - 258.5s] This is not live yet. They are launching this giveaway in two to three weeks, but
+[258.5s - 258.5s] this giveaway in two to three weeks, but
+[258.5s - 261.1s] this giveaway in two to three weeks, but initial testing was really smooth. The
+[261.1s - 261.1s] initial testing was really smooth. The
+[261.1s - 263.8s] initial testing was really smooth. The big question, when I asked him about the
+[263.8s - 263.8s] big question, when I asked him about the
+[263.8s - 267.3s] big question, when I asked him about the KPI, it's a bit early, but he mentioned
+[267.3s - 267.3s] KPI, it's a bit early, but he mentioned
+[267.3s - 271.2s] KPI, it's a bit early, but he mentioned that they are saving anywhere from 60 to
+[271.2s - 271.2s] that they are saving anywhere from 60 to
+[271.2s - 275.6s] that they are saving anywhere from 60 to 80% on customer service effort and time.
+[275.6s - 275.6s] 80% on customer service effort and time.
+[275.6s - 278.5s] 80% on customer service effort and time. Based on what business that we target,
+[278.5s - 278.5s] Based on what business that we target,
+[278.5s - 282.9s] Based on what business that we target, this KPI is huge and that is without
+[282.9s - 283.0s] this KPI is huge and that is without
+[283.0s - 285.1s] this KPI is huge and that is without including the second part, the giveaway
+[285.1s - 285.1s] including the second part, the giveaway
+[285.1s - 288.2s] including the second part, the giveaway part of the bot and that makes bot way
+[288.2s - 288.2s] part of the bot and that makes bot way
+[288.2s - 291.1s] part of the bot and that makes bot way more valuable than that initial 60 to
+[291.1s - 291.1s] more valuable than that initial 60 to
+[291.1s - 293.5s] more valuable than that initial 60 to 80%. If you are an e-commerce store
+[293.5s - 293.5s] 80%. If you are an e-commerce store
+[293.5s - 295.3s] 80%. If you are an e-commerce store owner and you are interested in
+[295.3s - 295.3s] owner and you are interested in
+[295.3s - 297.3s] owner and you are interested in implementing something like this in your
+[297.3s - 297.3s] implementing something like this in your
+[297.3s - 299.5s] implementing something like this in your business, feel free to book a discovery
+[299.5s - 299.5s] business, feel free to book a discovery
+[299.5s - 302.0s] business, feel free to book a discovery call with me and we can discuss how this
+[302.0s - 302.0s] call with me and we can discuss how this
+[302.0s - 304.9s] call with me and we can discuss how this looks for your business. And for my AI
+[304.9s - 304.9s] looks for your business. And for my AI
+[304.9s - 306.9s] looks for your business. And for my AI automation champions out there, if you
+[306.9s - 307.0s] automation champions out there, if you
+[307.0s - 310.3s] automation champions out there, if you want me to build this bot as a tutorial
+[310.3s - 310.3s] want me to build this bot as a tutorial
+[310.3s - 312.7s] want me to build this bot as a tutorial and give away the template, comment down
+[312.7s - 312.7s] and give away the template, comment down
+[312.7s - 314.9s] and give away the template, comment down below and I will do that this coming
+[314.9s - 314.9s] below and I will do that this coming
+[314.9s - 317.1s] below and I will do that this coming Saturday. So, what did we learn from
+[317.1s - 317.1s] Saturday. So, what did we learn from
+[317.1s - 318.9s] Saturday. So, what did we learn from this experience? It is If you are
+[318.9s - 318.9s] this experience? It is If you are
+[318.9s - 321.2s] this experience? It is If you are getting value from this, like this video
+[321.2s - 321.2s] getting value from this, like this video
+[321.2s - 323.4s] getting value from this, like this video and subscribe to my channel to follow
+[323.4s - 323.4s] and subscribe to my channel to follow
+[323.4s - 325.5s] and subscribe to my channel to follow along with this journey. Still new, but
+[325.5s - 325.5s] along with this journey. Still new, but
+[325.5s - 329.3s] along with this journey. Still new, but we have the KPI down. That is huge for
+[329.3s - 329.3s] we have the KPI down. That is huge for
+[329.3s - 333.1s] we have the KPI down. That is huge for future outreach. We may be ignoring
+[333.1s - 333.2s] future outreach. We may be ignoring
+[333.2s - 335.6s] future outreach. We may be ignoring something really great here. This is a
+[335.6s - 335.6s] something really great here. This is a
+[335.6s - 337.8s] something really great here. This is a no-brainer working with people that we
+[337.8s - 337.8s] no-brainer working with people that we
+[337.8s - 340.4s] no-brainer working with people that we already know, but how many of us are
+[340.4s - 340.4s] already know, but how many of us are
+[340.4s - 343.8s] already know, but how many of us are doing it? Since I want to give away
+[343.8s - 343.8s] doing it? Since I want to give away
+[343.8s - 346.5s] doing it? Since I want to give away initial three to five bots for free, it
+[346.5s - 346.5s] initial three to five bots for free, it
+[346.5s - 348.8s] initial three to five bots for free, it makes sense to work with people I
+[348.8s - 348.8s] makes sense to work with people I
+[348.8s - 351.5s] makes sense to work with people I already know to get that KPI down. But
+[351.5s - 351.5s] already know to get that KPI down. But
+[351.5s - 353.9s] already know to get that KPI down. But many people will say you can do this, I
+[353.9s - 353.9s] many people will say you can do this, I
+[353.9s - 356.1s] many people will say you can do this, I cannot, I don't have any connections.
+[356.1s - 356.2s] cannot, I don't have any connections.
+[356.2s - 358.7s] cannot, I don't have any connections. But that is not true. If you are serious
+[358.7s - 358.7s] But that is not true. If you are serious
+[358.7s - 361.6s] But that is not true. If you are serious about this, you will know friends that
+[361.6s - 361.6s] about this, you will know friends that
+[361.6s - 364.1s] about this, you will know friends that are doing business right now. Check your
+[364.1s - 364.1s] are doing business right now. Check your
+[364.1s - 366.6s] are doing business right now. Check your LinkedIn or Facebook. If not, go one
+[366.6s - 366.6s] LinkedIn or Facebook. If not, go one
+[366.6s - 368.9s] LinkedIn or Facebook. If not, go one degree deeper, friends of friends. You
+[368.9s - 368.9s] degree deeper, friends of friends. You
+[368.9s - 371.5s] degree deeper, friends of friends. You can find a way if you really look.
+[371.5s - 371.5s] can find a way if you really look.
+[371.5s - 375.0s] can find a way if you really look. That's what I decided to do since we
+[375.0s - 375.0s] That's what I decided to do since we
+[375.0s - 377.4s] That's what I decided to do since we have to have those two to three clients
+[377.4s - 377.4s] have to have those two to three clients
+[377.4s - 379.4s] have to have those two to three clients by the end of the week. So for this next
+[379.4s - 379.4s] by the end of the week. So for this next
+[379.4s - 382.3s] by the end of the week. So for this next week, I will follow the carpet bomb and
+[382.3s - 382.3s] week, I will follow the carpet bomb and
+[382.3s - 384.5s] week, I will follow the carpet bomb and hitman targeting method that I mentioned
+[384.5s - 384.5s] hitman targeting method that I mentioned
+[384.5s - 386.8s] hitman targeting method that I mentioned yesterday. And in addition to those, I
+[386.8s - 386.8s] yesterday. And in addition to those, I
+[386.8s - 389.4s] yesterday. And in addition to those, I will also reach out to people that I
+[389.4s - 389.4s] will also reach out to people that I
+[389.4s - 391.0s] will also reach out to people that I already know and ask them for
+[391.0s - 391.0s] already know and ask them for
+[391.0s - 393.4s] already know and ask them for recommendations. And if you don't know
+[393.4s - 393.4s] recommendations. And if you don't know
+[393.4s - 395.8s] recommendations. And if you don't know what these methods are, watch this video
+[395.8s - 395.8s] what these methods are, watch this video
+[395.8s - 399.4s] what these methods are, watch this video next and I'll see you there.

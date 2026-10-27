@@ -1,0 +1,33 @@
+================================================================================
+CALL SCRIPT — FADHILI (0798325878)
+Role: Actuarial | Reserving | IFRS 17 | Modelling
+Pain: Actuarial process flow bottlenecks (not mainstream brokerage)
+Channel: WhatsApp voice call
+================================================================================
+
+OPENING (first 30 seconds):
+"Hi Fadhili, it's Peter from LinkedIn. Thanks for making time today. You said you'd share thoughts on actuarial process flow bottlenecks even though you're not in mainstream brokerage."
+
+PURPOSE STATEMENT:
+"I'm researching where insurance professionals lose the most time on manual work so I can build something actually useful. Not selling anything — just discovery."
+
+QUESTIONS (ask one at a time, listen to answers):
+1. "You mentioned the actuarial process flow — walk me through what that looks like step by step."
+2. "Where does most of your time go each week?"
+3. "What parts of that process feel most manual or repetitive?"
+4. "If you could automate one part of it, what would it be?"
+
+FOLLOW-UP QUESTIONS (based on their answers):
+- If they mention specific tools: "Are you using any software for that now, or is it all manual?"
+- If they say it's not a brokerage problem: "Understood — but if you know someone in brokerage facing similar issues, I'd appreciate an intro."
+- If they ask what you're building: "I'm still in research phase — I want to understand the problem fully before building anything."
+
+CLOSING:
+"Thanks Fadhili, that was helpful. Can I send you a quick summary of what I heard, and follow up in a week or two?"
+
+NOTES:
+- He volunteered his number. No Calendly link.
+- He's not a broker — low priority for paid engagement, but good for pain data.
+- Keep it under 15 minutes.
+
+================================================================================

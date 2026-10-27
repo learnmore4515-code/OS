@@ -1,0 +1,1257 @@
+# Transcript: kQFW3bUrOu4
+Language: en
+
+[0.0s - 1.2s] So over the past two and a half years,
+[1.2s - 1.2s] So over the past two and a half years,
+[1.2s - 2.7s] So over the past two and a half years, my agency, Morningside AI, has been on
+[2.7s - 2.7s] my agency, Morningside AI, has been on
+[2.7s - 4.2s] my agency, Morningside AI, has been on the front lines of implementing AI for
+[4.2s - 4.2s] the front lines of implementing AI for
+[4.2s - 5.5s] the front lines of implementing AI for some of the world's biggest brands. And
+[5.5s - 5.5s] some of the world's biggest brands. And
+[5.5s - 6.8s] some of the world's biggest brands. And I can tell you that the difference
+[6.8s - 6.8s] I can tell you that the difference
+[6.8s - 8.8s] I can tell you that the difference between the 5% of companies who are
+[8.8s - 8.8s] between the 5% of companies who are
+[8.8s - 11.7s] between the 5% of companies who are seeing a massive ROI on AI and the 95%
+[11.7s - 11.8s] seeing a massive ROI on AI and the 95%
+[11.8s - 13.7s] seeing a massive ROI on AI and the 95% who are failing right now is simple, and
+[13.7s - 13.8s] who are failing right now is simple, and
+[13.8s - 15.6s] who are failing right now is simple, and that's that they start with a process
+[15.6s - 15.6s] that's that they start with a process
+[15.6s - 17.4s] that's that they start with a process and not the technology. Most businesses
+[17.4s - 17.4s] and not the technology. Most businesses
+[17.4s - 18.9s] and not the technology. Most businesses get this backwards. They get all hyped
+[18.9s - 19.0s] get this backwards. They get all hyped
+[19.0s - 20.8s] get this backwards. They get all hyped about a new tool and they dive straight
+[20.8s - 20.8s] about a new tool and they dive straight
+[20.8s - 22.5s] about a new tool and they dive straight into the development and ultimately
+[22.5s - 22.5s] into the development and ultimately
+[22.5s - 24.1s] into the development and ultimately fail. And from this, companies are
+[24.1s - 24.1s] fail. And from this, companies are
+[24.1s - 25.8s] fail. And from this, companies are learning that the initial shine of AI is
+[25.8s - 25.8s] learning that the initial shine of AI is
+[25.8s - 27.7s] learning that the initial shine of AI is gone now. And this stuff takes real
+[27.7s - 27.7s] gone now. And this stuff takes real
+[27.7s - 29.5s] gone now. And this stuff takes real human skill to get right. And even
+[29.5s - 29.5s] human skill to get right. And even
+[29.5s - 31.3s] human skill to get right. And even OpenAI has kind of just admitted this
+[31.3s - 31.4s] OpenAI has kind of just admitted this
+[31.4s - 33.0s] OpenAI has kind of just admitted this openly by launching their own consulting
+[33.0s - 33.0s] openly by launching their own consulting
+[33.0s - 34.5s] openly by launching their own consulting team. So whether you're a business owner
+[34.5s - 34.5s] team. So whether you're a business owner
+[34.5s - 36.5s] team. So whether you're a business owner who wants to join this 5% of winners or
+[36.5s - 36.6s] who wants to join this 5% of winners or
+[36.6s - 38.1s] who wants to join this 5% of winners or an entrepreneur who wants to serve the
+[38.1s - 38.1s] an entrepreneur who wants to serve the
+[38.1s - 39.9s] an entrepreneur who wants to serve the 95% of companies who are failing and
+[39.9s - 39.9s] 95% of companies who are failing and
+[39.9s - 41.3s] 95% of companies who are failing and need help, then this video is for you
+[41.3s - 41.3s] need help, then this video is for you
+[41.3s - 43.0s] need help, then this video is for you because I'm about to open source the
+[43.0s - 43.0s] because I'm about to open source the
+[43.0s - 44.6s] because I'm about to open source the entire start to finish framework that we
+[44.6s - 44.6s] entire start to finish framework that we
+[44.6s - 46.8s] entire start to finish framework that we use at Morningside AI for automating any
+[46.8s - 46.8s] use at Morningside AI for automating any
+[46.8s - 48.5s] use at Morningside AI for automating any business with AI. And at the end, I'll
+[48.5s - 48.5s] business with AI. And at the end, I'll
+[48.5s - 49.9s] business with AI. And at the end, I'll give you a full guide so that you can go
+[49.9s - 49.9s] give you a full guide so that you can go
+[49.9s - 51.3s] give you a full guide so that you can go and apply this stuff yourself. So if you
+[51.3s - 51.3s] and apply this stuff yourself. So if you
+[51.3s - 52.4s] and apply this stuff yourself. So if you are new to the channel, my name is Liam
+[52.4s - 52.4s] are new to the channel, my name is Liam
+[52.4s - 53.7s] are new to the channel, my name is Liam Mley and for the past 2 and a half
+[53.7s - 53.7s] Mley and for the past 2 and a half
+[53.7s - 55.1s] Mley and for the past 2 and a half years, I've been helping businesses and
+[55.1s - 55.1s] years, I've been helping businesses and
+[55.1s - 57.3s] years, I've been helping businesses and individuals to use AI to get ahead. And
+[57.3s - 57.3s] individuals to use AI to get ahead. And
+[57.3s - 58.6s] individuals to use AI to get ahead. And I do this because our vision at
+[58.6s - 58.6s] I do this because our vision at
+[58.6s - 60.5s] I do this because our vision at Morningside is to ensure that the games
+[60.5s - 60.5s] Morningside is to ensure that the games
+[60.5s - 62.2s] Morningside is to ensure that the games of the AI revolution aren't just for the
+[62.2s - 62.2s] of the AI revolution aren't just for the
+[62.2s - 63.9s] of the AI revolution aren't just for the big guys. And that's why I share our
+[63.9s - 63.9s] big guys. And that's why I share our
+[63.9s - 65.3s] big guys. And that's why I share our learnings here on this channel to give
+[65.3s - 65.4s] learnings here on this channel to give
+[65.4s - 67.3s] learnings here on this channel to give businesses the tools to survive and win
+[67.3s - 67.3s] businesses the tools to survive and win
+[67.3s - 70.2s] businesses the tools to survive and win in this AI revolution.
+[70.2s - 70.2s] in this AI revolution.
+[70.2s - 72.0s] in this AI revolution. So, here's the deal. This is a reality
+[72.0s - 72.0s] So, here's the deal. This is a reality
+[72.0s - 73.2s] So, here's the deal. This is a reality check for almost every single business
+[73.2s - 73.2s] check for almost every single business
+[73.2s - 74.5s] check for almost every single business out there right now. But what they
+[74.5s - 74.5s] out there right now. But what they
+[74.5s - 76.1s] out there right now. But what they ultimately want is growth, which
+[76.1s - 76.1s] ultimately want is growth, which
+[76.1s - 78.3s] ultimately want is growth, which requires order. Most companies are a
+[78.3s - 78.3s] requires order. Most companies are a
+[78.3s - 80.1s] requires order. Most companies are a complete mess. Their data is scattered.
+[80.1s - 80.1s] complete mess. Their data is scattered.
+[80.1s - 81.9s] complete mess. Their data is scattered. Their processes are a mix of how we've
+[81.9s - 81.9s] Their processes are a mix of how we've
+[81.9s - 83.6s] Their processes are a mix of how we've always done it and a dozen different
+[83.6s - 83.6s] always done it and a dozen different
+[83.6s - 85.1s] always done it and a dozen different apps or tools that don't talk to each
+[85.1s - 85.1s] apps or tools that don't talk to each
+[85.1s - 86.7s] apps or tools that don't talk to each other. And now according to studies,
+[86.7s - 86.7s] other. And now according to studies,
+[86.7s - 88.5s] other. And now according to studies, most of their employees are secretly
+[88.5s - 88.6s] most of their employees are secretly
+[88.6s - 90.4s] most of their employees are secretly using a bunch of AI tools to get parts
+[90.4s - 90.4s] using a bunch of AI tools to get parts
+[90.4s - 92.0s] using a bunch of AI tools to get parts of their work done without them telling
+[92.0s - 92.0s] of their work done without them telling
+[92.0s - 93.7s] of their work done without them telling the company. And that's creating huge
+[93.7s - 93.7s] the company. And that's creating huge
+[93.7s - 95.5s] the company. And that's creating huge risks of data leaks etc. So it's
+[95.5s - 95.5s] risks of data leaks etc. So it's
+[95.5s - 97.5s] risks of data leaks etc. So it's organized chaos at best. And most
+[97.5s - 97.5s] organized chaos at best. And most
+[97.5s - 98.9s] organized chaos at best. And most business owners are just trying to keep
+[98.9s - 98.9s] business owners are just trying to keep
+[98.9s - 100.7s] business owners are just trying to keep the wheels from falling off. And so now
+[100.7s - 100.7s] the wheels from falling off. And so now
+[100.7s - 102.6s] the wheels from falling off. And so now when you take this chaotic system and
+[102.6s - 102.6s] when you take this chaotic system and
+[102.6s - 104.5s] when you take this chaotic system and you try to just plug in the most
+[104.5s - 104.5s] you try to just plug in the most
+[104.5s - 105.9s] you try to just plug in the most powerful technology on the planet right
+[105.9s - 105.9s] powerful technology on the planet right
+[105.9s - 107.2s] powerful technology on the planet right now, what do you think happens? Right?
+[107.2s - 107.2s] now, what do you think happens? Right?
+[107.2s - 108.3s] now, what do you think happens? Right? It's going to fail and it's going to
+[108.3s - 108.3s] It's going to fail and it's going to
+[108.3s - 109.7s] It's going to fail and it's going to fail pretty miserably. And you don't
+[109.7s - 109.7s] fail pretty miserably. And you don't
+[109.7s - 110.9s] fail pretty miserably. And you don't actually have to take my word for it on
+[110.9s - 110.9s] actually have to take my word for it on
+[110.9s - 113.2s] actually have to take my word for it on that. The numbers are pretty brutal. MIT
+[113.2s - 113.2s] that. The numbers are pretty brutal. MIT
+[113.2s - 114.9s] that. The numbers are pretty brutal. MIT has published a study recently showing
+[114.9s - 114.9s] has published a study recently showing
+[114.9s - 116.9s] has published a study recently showing that 95% of AI initiatives and
+[116.9s - 116.9s] that 95% of AI initiatives and
+[116.9s - 118.8s] that 95% of AI initiatives and businesses fail to deliver a return on
+[118.8s - 118.8s] businesses fail to deliver a return on
+[118.8s - 120.5s] businesses fail to deliver a return on investment. Let me say that again. The
+[120.5s - 120.5s] investment. Let me say that again. The
+[120.5s - 122.5s] investment. Let me say that again. The vast majority of businesses that try to
+[122.5s - 122.6s] vast majority of businesses that try to
+[122.6s - 124.7s] vast majority of businesses that try to implement AI are getting zero value from
+[124.7s - 124.7s] implement AI are getting zero value from
+[124.7s - 126.3s] implement AI are getting zero value from it. This is in enterprise to be fair, so
+[126.3s - 126.3s] it. This is in enterprise to be fair, so
+[126.3s - 127.8s] it. This is in enterprise to be fair, so it's sort of bigger businesses, but it's
+[127.8s - 127.8s] it's sort of bigger businesses, but it's
+[127.8s - 128.9s] it's sort of bigger businesses, but it's still an interesting point. But that's
+[128.9s - 129.0s] still an interesting point. But that's
+[129.0s - 130.6s] still an interesting point. But that's not because this technology is useless.
+[130.6s - 130.6s] not because this technology is useless.
+[130.6s - 132.2s] not because this technology is useless. That's because these companies are
+[132.2s - 132.2s] That's because these companies are
+[132.2s - 133.7s] That's because these companies are trying to copy what everyone else is
+[133.7s - 133.7s] trying to copy what everyone else is
+[133.7s - 134.9s] trying to copy what everyone else is doing and they're failing miserably
+[134.9s - 134.9s] doing and they're failing miserably
+[134.9s - 136.2s] doing and they're failing miserably because of it. Instead of taking the
+[136.2s - 136.2s] because of it. Instead of taking the
+[136.2s - 138.2s] because of it. Instead of taking the time to do the real exploratory work to
+[138.2s - 138.2s] time to do the real exploratory work to
+[138.2s - 139.8s] time to do the real exploratory work to figure out where AI can fit their
+[139.8s - 139.8s] figure out where AI can fit their
+[139.8s - 141.1s] figure out where AI can fit their business best, they are just looking for
+[141.1s - 141.1s] business best, they are just looking for
+[141.1s - 142.5s] business best, they are just looking for the headlines and looking for YouTube
+[142.5s - 142.5s] the headlines and looking for YouTube
+[142.5s - 144.0s] the headlines and looking for YouTube videos and and stealing from other
+[144.0s - 144.0s] videos and and stealing from other
+[144.0s - 145.4s] videos and and stealing from other people, rather than doing the ground
+[145.4s - 145.4s] people, rather than doing the ground
+[145.4s - 147.5s] people, rather than doing the ground work to find where AI best fits their
+[147.5s - 147.5s] work to find where AI best fits their
+[147.5s - 149.1s] work to find where AI best fits their organization. And often when they try to
+[149.1s - 149.1s] organization. And often when they try to
+[149.1s - 150.3s] organization. And often when they try to do it themselves, they are actually
+[150.3s - 150.3s] do it themselves, they are actually
+[150.3s - 152.0s] do it themselves, they are actually clueless to what it really takes to see
+[152.0s - 152.0s] clueless to what it really takes to see
+[152.0s - 154.1s] clueless to what it really takes to see AI adoption within teams of emotional
+[154.1s - 154.1s] AI adoption within teams of emotional
+[154.1s - 156.0s] AI adoption within teams of emotional and fearful humans. There are human
+[156.0s - 156.0s] and fearful humans. There are human
+[156.0s - 157.5s] and fearful humans. There are human barriers to adoption and actually seeing
+[157.5s - 157.5s] barriers to adoption and actually seeing
+[157.5s - 159.4s] barriers to adoption and actually seeing an ROI that many companies are just not
+[159.4s - 159.4s] an ROI that many companies are just not
+[159.4s - 161.3s] an ROI that many companies are just not aware of right now. So what the 5% who
+[161.3s - 161.3s] aware of right now. So what the 5% who
+[161.3s - 162.9s] aware of right now. So what the 5% who are actually seeing an ROI are doing is
+[162.9s - 163.0s] are actually seeing an ROI are doing is
+[163.0s - 164.3s] are actually seeing an ROI are doing is they're starting from square one and
+[164.3s - 164.3s] they're starting from square one and
+[164.3s - 166.2s] they're starting from square one and taking a comprehensive and holistic
+[166.2s - 166.2s] taking a comprehensive and holistic
+[166.2s - 167.8s] taking a comprehensive and holistic approach to AI opportunity
+[167.8s - 167.8s] approach to AI opportunity
+[167.8s - 169.4s] approach to AI opportunity identification and then development
+[169.4s - 169.4s] identification and then development
+[169.4s - 171.3s] identification and then development within the company in order to find what
+[171.3s - 171.3s] within the company in order to find what
+[171.3s - 173.5s] within the company in order to find what we call like layups or or quick wins
+[173.5s - 173.5s] we call like layups or or quick wins
+[173.5s - 175.5s] we call like layups or or quick wins with AI that can really drive immediate
+[175.5s - 175.5s] with AI that can really drive immediate
+[175.5s - 176.9s] with AI that can really drive immediate ROI from them. And so the reason the
+[176.9s - 177.0s] ROI from them. And so the reason the
+[177.0s - 178.1s] ROI from them. And so the reason the majority of these companies are not
+[178.1s - 178.1s] majority of these companies are not
+[178.1s - 179.6s] majority of these companies are not seeing an ROI is because they are trying
+[179.6s - 179.6s] seeing an ROI is because they are trying
+[179.6s - 181.2s] seeing an ROI is because they are trying to go for what the neighbor said that
+[181.2s - 181.2s] to go for what the neighbor said that
+[181.2s - 182.8s] to go for what the neighbor said that they were doing and and not seeing these
+[182.8s - 182.8s] they were doing and and not seeing these
+[182.8s - 184.3s] they were doing and and not seeing these golden nuggets laying right in front of
+[184.3s - 184.3s] golden nuggets laying right in front of
+[184.3s - 185.8s] golden nuggets laying right in front of them, which are the quick wins, the
+[185.8s - 185.8s] them, which are the quick wins, the
+[185.8s - 188.1s] them, which are the quick wins, the quick ROI projects that can implement AI
+[188.1s - 188.1s] quick ROI projects that can implement AI
+[188.1s - 189.4s] quick ROI projects that can implement AI quickly and allow them to see a return
+[189.4s - 189.4s] quickly and allow them to see a return
+[189.4s - 190.8s] quickly and allow them to see a return on their investment. And I can say with
+[190.8s - 190.8s] on their investment. And I can say with
+[190.8s - 192.2s] on their investment. And I can say with complete confidence from the client work
+[192.2s - 192.2s] complete confidence from the client work
+[192.2s - 193.8s] complete confidence from the client work we do at Morningside, there are always
+[193.8s - 193.8s] we do at Morningside, there are always
+[193.8s - 195.2s] we do at Morningside, there are always these quick wins lying around that
+[195.2s - 195.2s] these quick wins lying around that
+[195.2s - 196.5s] these quick wins lying around that companies are just not aware of and how
+[196.5s - 196.5s] companies are just not aware of and how
+[196.5s - 198.1s] companies are just not aware of and how AI can plug into those and really solve
+[198.1s - 198.1s] AI can plug into those and really solve
+[198.1s - 199.1s] AI can plug into those and really solve a bottleneck for them that's been
+[199.1s - 199.1s] a bottleneck for them that's been
+[199.1s - 200.1s] a bottleneck for them that's been troubling them for a while. Now, if
+[200.1s - 200.1s] troubling them for a while. Now, if
+[200.1s - 201.3s] troubling them for a while. Now, if you're a business owner watching this,
+[201.3s - 201.4s] you're a business owner watching this,
+[201.4s - 202.9s] you're a business owner watching this, these stats should be a massive wakeup
+[202.9s - 202.9s] these stats should be a massive wakeup
+[202.9s - 204.7s] these stats should be a massive wakeup call. It means that almost all of your
+[204.7s - 204.7s] call. It means that almost all of your
+[204.7s - 206.5s] call. It means that almost all of your competitors are trying to use AI and
+[206.5s - 206.5s] competitors are trying to use AI and
+[206.5s - 207.9s] competitors are trying to use AI and they're failing and they're wasting
+[207.9s - 207.9s] they're failing and they're wasting
+[207.9s - 209.1s] they're failing and they're wasting money, they're wasting time, they're
+[209.1s - 209.1s] money, they're wasting time, they're
+[209.1s - 210.9s] money, they're wasting time, they're getting nowhere. So, this gives you a
+[210.9s - 210.9s] getting nowhere. So, this gives you a
+[210.9s - 212.6s] getting nowhere. So, this gives you a huge advantage because if you can be one
+[212.6s - 212.6s] huge advantage because if you can be one
+[212.6s - 214.1s] huge advantage because if you can be one of the small percentage who gets this
+[214.1s - 214.2s] of the small percentage who gets this
+[214.2s - 215.9s] of the small percentage who gets this right by properly auditing your business
+[215.9s - 215.9s] right by properly auditing your business
+[215.9s - 217.5s] right by properly auditing your business and following the exact process that I'm
+[217.5s - 217.5s] and following the exact process that I'm
+[217.5s - 218.6s] and following the exact process that I'm about to lay out for you, you'll
+[218.6s - 218.6s] about to lay out for you, you'll
+[218.6s - 220.1s] about to lay out for you, you'll dominate your industry for years to come
+[220.1s - 220.2s] dominate your industry for years to come
+[220.2s - 221.7s] dominate your industry for years to come using these advantages. And if you're an
+[221.7s - 221.7s] using these advantages. And if you're an
+[221.7s - 223.3s] using these advantages. And if you're an aspiring entrepreneur, that same stat
+[223.3s - 223.3s] aspiring entrepreneur, that same stat
+[223.3s - 224.5s] aspiring entrepreneur, that same stat should sound to you like the biggest
+[224.5s - 224.5s] should sound to you like the biggest
+[224.5s - 226.6s] should sound to you like the biggest dinner bell you have ever heard because
+[226.6s - 226.6s] dinner bell you have ever heard because
+[226.6s - 227.8s] dinner bell you have ever heard because it means that there are millions of
+[227.8s - 227.8s] it means that there are millions of
+[227.8s - 229.6s] it means that there are millions of businesses out there who are hungry for
+[229.6s - 229.6s] businesses out there who are hungry for
+[229.6s - 230.9s] businesses out there who are hungry for the most powerful technology on the
+[230.9s - 231.0s] the most powerful technology on the
+[231.0s - 232.6s] the most powerful technology on the planet right now. And they have no idea
+[232.6s - 232.6s] planet right now. And they have no idea
+[232.6s - 234.8s] planet right now. And they have no idea how to use it or get an ROI from it. So
+[234.8s - 234.8s] how to use it or get an ROI from it. So
+[234.8s - 236.6s] how to use it or get an ROI from it. So this is an enormous and untapped market
+[236.6s - 236.6s] this is an enormous and untapped market
+[236.6s - 238.2s] this is an enormous and untapped market and your job is to figure out how to
+[238.2s - 238.2s] and your job is to figure out how to
+[238.2s - 240.0s] and your job is to figure out how to bring that power to them. And in this
+[240.0s - 240.0s] bring that power to them. And in this
+[240.0s - 241.0s] bring that power to them. And in this video, I'm going to show you the exact
+[241.0s - 241.0s] video, I'm going to show you the exact
+[241.0s - 244.0s] video, I'm going to show you the exact process to do that.
+[244.0s - 244.0s] process to do that.
+[244.0s - 245.3s] process to do that. Okay, so now you understand the
+[245.3s - 245.3s] Okay, so now you understand the
+[245.3s - 246.7s] Okay, so now you understand the opportunity. Now I'm going to give you
+[246.7s - 246.7s] opportunity. Now I'm going to give you
+[246.7s - 248.9s] opportunity. Now I'm going to give you the exact Morningside method playbook in
+[248.9s - 248.9s] the exact Morningside method playbook in
+[248.9s - 250.4s] the exact Morningside method playbook in order to capture it. So, this is a
+[250.4s - 250.4s] order to capture it. So, this is a
+[250.4s - 251.7s] order to capture it. So, this is a three-phase process that we use at
+[251.7s - 251.7s] three-phase process that we use at
+[251.7s - 254.1s] three-phase process that we use at Morningside to take any business from
+[254.1s - 254.2s] Morningside to take any business from
+[254.2s - 256.3s] Morningside to take any business from that initial state of chaos to order and
+[256.3s - 256.3s] that initial state of chaos to order and
+[256.3s - 257.7s] that initial state of chaos to order and then ultimately to growth. So, I'm
+[257.7s - 257.7s] then ultimately to growth. So, I'm
+[257.7s - 259.1s] then ultimately to growth. So, I'm literally open sourcing our entire
+[259.1s - 259.1s] literally open sourcing our entire
+[259.1s - 260.4s] literally open sourcing our entire method here for you guys to take and use
+[260.4s - 260.4s] method here for you guys to take and use
+[260.4s - 262.0s] method here for you guys to take and use in whatever capacity you want to. As a
+[262.0s - 262.0s] in whatever capacity you want to. As a
+[262.0s - 263.3s] in whatever capacity you want to. As a quick disclaimer though, we typically
+[263.3s - 263.3s] quick disclaimer though, we typically
+[263.3s - 264.7s] quick disclaimer though, we typically run this playbook for mid-market
+[264.7s - 264.7s] run this playbook for mid-market
+[264.7s - 266.2s] run this playbook for mid-market companies, businesses anywhere from 50
+[266.2s - 266.2s] companies, businesses anywhere from 50
+[266.2s - 268.4s] companies, businesses anywhere from 50 to 500 employees. So, if that sounds a
+[268.4s - 268.4s] to 500 employees. So, if that sounds a
+[268.4s - 269.7s] to 500 employees. So, if that sounds a bit above your pay grade, don't worry
+[269.7s - 269.7s] bit above your pay grade, don't worry
+[269.7s - 270.9s] bit above your pay grade, don't worry because the principles that I'm going to
+[270.9s - 271.0s] because the principles that I'm going to
+[271.0s - 272.2s] because the principles that I'm going to teach you are exactly the same when
+[272.2s - 272.2s] teach you are exactly the same when
+[272.2s - 273.4s] teach you are exactly the same when you're applying this whether it's a 10p
+[273.4s - 273.4s] you're applying this whether it's a 10p
+[273.4s - 275.5s] you're applying this whether it's a 10p person team or a massive enterprise. So,
+[275.5s - 275.5s] person team or a massive enterprise. So,
+[275.5s - 277.3s] person team or a massive enterprise. So, you can scale it up or down exactly as
+[277.3s - 277.3s] you can scale it up or down exactly as
+[277.3s - 278.7s] you can scale it up or down exactly as you need. It's it's all in there and the
+[278.7s - 278.7s] you need. It's it's all in there and the
+[278.7s - 282.3s] you need. It's it's all in there and the process is solid.
+[282.3s - 283.4s] The first thing we do when we're
+[283.4s - 283.4s] The first thing we do when we're
+[283.4s - 284.5s] The first thing we do when we're thinking about automating a business
+[284.5s - 284.5s] thinking about automating a business
+[284.5s - 286.6s] thinking about automating a business with AI is that before even building a
+[286.6s - 286.6s] with AI is that before even building a
+[286.6s - 288.1s] with AI is that before even building a single tool, we get the leadership team
+[288.1s - 288.2s] single tool, we get the leadership team
+[288.2s - 289.7s] single tool, we get the leadership team on the same page. So, you cannot
+[289.7s - 289.7s] on the same page. So, you cannot
+[289.7s - 291.4s] on the same page. So, you cannot transform business if the people at the
+[291.4s - 291.4s] transform business if the people at the
+[291.4s - 293.0s] transform business if the people at the top don't understand the game that we're
+[293.0s - 293.0s] top don't understand the game that we're
+[293.0s - 294.8s] top don't understand the game that we're playing and understand the key terms and
+[294.8s - 294.8s] playing and understand the key terms and
+[294.8s - 296.1s] playing and understand the key terms and terminology that we're going to be going
+[296.1s - 296.1s] terminology that we're going to be going
+[296.1s - 297.7s] terminology that we're going to be going through, what the opportunity is. So our
+[297.7s - 297.8s] through, what the opportunity is. So our
+[297.8s - 299.6s] through, what the opportunity is. So our goal here in this phase is to align the
+[299.6s - 299.6s] goal here in this phase is to align the
+[299.6s - 301.3s] goal here in this phase is to align the entire leadership team to establish a
+[301.3s - 301.3s] entire leadership team to establish a
+[301.3s - 303.3s] entire leadership team to establish a clear strategic vision for AI within the
+[303.3s - 303.3s] clear strategic vision for AI within the
+[303.3s - 305.1s] clear strategic vision for AI within the company and also to communicate both the
+[305.1s - 305.1s] company and also to communicate both the
+[305.1s - 307.3s] company and also to communicate both the opportunity and the urgency to all the
+[307.3s - 307.3s] opportunity and the urgency to all the
+[307.3s - 308.6s] opportunity and the urgency to all the key decision makers to make sure that
+[308.6s - 308.6s] key decision makers to make sure that
+[308.6s - 310.4s] key decision makers to make sure that they know what's at stake here. And so
+[310.4s - 310.4s] they know what's at stake here. And so
+[310.4s - 312.1s] they know what's at stake here. And so to do this, we'll usually run a 2-hour
+[312.1s - 312.2s] to do this, we'll usually run a 2-hour
+[312.2s - 313.8s] to do this, we'll usually run a 2-hour AI leadership workshop alongside a
+[313.8s - 313.8s] AI leadership workshop alongside a
+[313.8s - 315.1s] AI leadership workshop alongside a second workshop for employees, which
+[315.1s - 315.1s] second workshop for employees, which
+[315.1s - 316.6s] second workshop for employees, which usually happens a bit later, but we'll
+[316.6s - 316.6s] usually happens a bit later, but we'll
+[316.6s - 318.2s] usually happens a bit later, but we'll charge for this on top of our fee for a
+[318.2s - 318.2s] charge for this on top of our fee for a
+[318.2s - 319.7s] charge for this on top of our fee for a base AI audit. And here's a crucial
+[319.7s - 319.7s] base AI audit. And here's a crucial
+[319.7s - 321.1s] base AI audit. And here's a crucial detail from our playbook is that we
+[321.1s - 321.1s] detail from our playbook is that we
+[321.1s - 322.8s] detail from our playbook is that we always do this before we present our
+[322.8s - 322.8s] always do this before we present our
+[322.8s - 324.6s] always do this before we present our final recommendations on where the best
+[324.6s - 324.6s] final recommendations on where the best
+[324.6s - 326.2s] final recommendations on where the best AI opportunities are. This is because it
+[326.2s - 326.2s] AI opportunities are. This is because it
+[326.2s - 328.0s] AI opportunities are. This is because it frankly allows us to indoctrinate them
+[328.0s - 328.0s] frankly allows us to indoctrinate them
+[328.0s - 329.5s] frankly allows us to indoctrinate them with our frameworks, we get them to see
+[329.5s - 329.5s] with our frameworks, we get them to see
+[329.5s - 330.9s] with our frameworks, we get them to see the world the way we see it and we
+[330.9s - 330.9s] the world the way we see it and we
+[330.9s - 332.9s] the world the way we see it and we establish what a best-in-class AI
+[332.9s - 332.9s] establish what a best-in-class AI
+[332.9s - 334.4s] establish what a best-in-class AI transformation looks like. And this way
+[334.4s - 334.4s] transformation looks like. And this way
+[334.4s - 336.0s] transformation looks like. And this way when we present our final road map
+[336.0s - 336.0s] when we present our final road map
+[336.0s - 337.7s] when we present our final road map later, they're already bought in to the
+[337.7s - 337.8s] later, they're already bought in to the
+[337.8s - 340.0s] later, they're already bought in to the logic. They understand the key terms and
+[340.0s - 340.0s] logic. They understand the key terms and
+[340.0s - 341.4s] logic. They understand the key terms and it's not a surprise. It's kind of a
+[341.4s - 341.4s] it's not a surprise. It's kind of a
+[341.4s - 343.0s] it's not a surprise. It's kind of a natural conclusion of the strategy that
+[343.0s - 343.0s] natural conclusion of the strategy that
+[343.0s - 344.5s] natural conclusion of the strategy that we've already agreed on in this early
+[344.5s - 344.5s] we've already agreed on in this early
+[344.5s - 346.0s] we've already agreed on in this early phase. One key message that helps our
+[346.0s - 346.0s] phase. One key message that helps our
+[346.0s - 347.4s] phase. One key message that helps our clients to see what the end goal for
+[347.4s - 347.4s] clients to see what the end goal for
+[347.4s - 348.9s] clients to see what the end goal for this transformation is is what we call
+[348.9s - 348.9s] this transformation is is what we call
+[348.9s - 350.9s] this transformation is is what we call an AI first or chart where we will put
+[350.9s - 350.9s] an AI first or chart where we will put
+[350.9s - 352.5s] an AI first or chart where we will put up a traditional org chart and then
+[352.5s - 352.5s] up a traditional org chart and then
+[352.5s - 354.4s] up a traditional org chart and then we'll swap that out for what an AI first
+[354.4s - 354.4s] we'll swap that out for what an AI first
+[354.4s - 355.7s] we'll swap that out for what an AI first organization would look like. So they
+[355.7s - 355.7s] organization would look like. So they
+[355.7s - 357.7s] organization would look like. So they start to build this new vision of what
+[357.7s - 357.7s] start to build this new vision of what
+[357.7s - 359.1s] start to build this new vision of what the company could look like on top of
+[359.1s - 359.1s] the company could look like on top of
+[359.1s - 360.5s] the company could look like on top of what they currently understand. So I'll
+[360.5s - 360.5s] what they currently understand. So I'll
+[360.5s - 361.7s] what they currently understand. So I'll put that up on screen for you to see.
+[361.7s - 361.7s] put that up on screen for you to see.
+[361.7s - 363.7s] put that up on screen for you to see. Once leadership team is educated and
+[363.7s - 363.7s] Once leadership team is educated and
+[363.7s - 365.9s] Once leadership team is educated and aligned and genuinely excited for the
+[365.9s - 365.9s] aligned and genuinely excited for the
+[365.9s - 367.5s] aligned and genuinely excited for the change that's coming for the company, we
+[367.5s - 367.5s] change that's coming for the company, we
+[367.5s - 368.9s] change that's coming for the company, we can then move on to the next stage which
+[368.9s - 369.0s] can then move on to the next stage which
+[369.0s - 371.6s] can then move on to the next stage which is identification. The goal here is to
+[371.6s - 371.6s] is identification. The goal here is to
+[371.6s - 373.0s] is identification. The goal here is to understand their business better than
+[373.0s - 373.0s] understand their business better than
+[373.0s - 374.6s] understand their business better than they do. So we are trying to become the
+[374.6s - 374.6s] they do. So we are trying to become the
+[374.6s - 376.3s] they do. So we are trying to become the world's leading expert on how their
+[376.3s - 376.3s] world's leading expert on how their
+[376.3s - 378.1s] world's leading expert on how their company actually works including like
+[378.1s - 378.2s] company actually works including like
+[378.2s - 379.8s] company actually works including like the warts and all and all the ugly
+[379.8s - 379.8s] the warts and all and all the ugly
+[379.8s - 381.7s] the warts and all and all the ugly parts. So this is a multi-stage process.
+[381.7s - 381.8s] parts. So this is a multi-stage process.
+[381.8s - 383.3s] parts. So this is a multi-stage process. It's quite a lot of work. But first we
+[383.3s - 383.3s] It's quite a lot of work. But first we
+[383.3s - 384.9s] It's quite a lot of work. But first we start off with interviews. We'll conduct
+[384.9s - 384.9s] start off with interviews. We'll conduct
+[384.9s - 386.9s] start off with interviews. We'll conduct deep dive interviews with everyone from
+[386.9s - 386.9s] deep dive interviews with everyone from
+[386.9s - 388.3s] deep dive interviews with everyone from department heads down to even the
+[388.3s - 388.3s] department heads down to even the
+[388.3s - 389.8s] department heads down to even the frontline staff who are in the trenches
+[389.8s - 389.8s] frontline staff who are in the trenches
+[389.8s - 391.1s] frontline staff who are in the trenches every day creating value for the
+[391.1s - 391.1s] every day creating value for the
+[391.1s - 392.6s] every day creating value for the company. We actually write personalized
+[392.6s - 392.6s] company. We actually write personalized
+[392.6s - 394.1s] company. We actually write personalized interview guides for basically each
+[394.1s - 394.2s] interview guides for basically each
+[394.2s - 395.7s] interview guides for basically each person adapting our questions as we
+[395.7s - 395.8s] person adapting our questions as we
+[395.8s - 396.9s] person adapting our questions as we learn more and more and more about the
+[396.9s - 396.9s] learn more and more and more about the
+[396.9s - 398.5s] learn more and more and more about the organization. So it kind of changes as
+[398.5s - 398.5s] organization. So it kind of changes as
+[398.5s - 400.4s] organization. So it kind of changes as we go. And the next step is what we call
+[400.4s - 400.4s] we go. And the next step is what we call
+[400.4s - 401.7s] we go. And the next step is what we call process mapping. So this is where we
+[401.7s - 401.8s] process mapping. So this is where we
+[401.8s - 403.0s] process mapping. So this is where we take all of that information that came
+[403.0s - 403.0s] take all of that information that came
+[403.0s - 404.3s] take all of that information that came out of the interviews. All of these data
+[404.3s - 404.3s] out of the interviews. All of these data
+[404.3s - 406.1s] out of the interviews. All of these data points that we got and then we use that
+[406.1s - 406.1s] points that we got and then we use that
+[406.1s - 408.0s] points that we got and then we use that to map out the core workflows of the
+[408.0s - 408.0s] to map out the core workflows of the
+[408.0s - 409.7s] to map out the core workflows of the company visually in a tool like Figma.
+[409.7s - 409.8s] company visually in a tool like Figma.
+[409.8s - 411.9s] company visually in a tool like Figma. And let me tell you that this step alone
+[411.9s - 411.9s] And let me tell you that this step alone
+[411.9s - 413.7s] And let me tell you that this step alone is incredibly valuable because most
+[413.7s - 413.7s] is incredibly valuable because most
+[413.7s - 415.7s] is incredibly valuable because most companies have SOPs, sure, but they're
+[415.7s - 415.7s] companies have SOPs, sure, but they're
+[415.7s - 417.0s] companies have SOPs, sure, but they're usually gathering dust in a Google Drive
+[417.0s - 417.0s] usually gathering dust in a Google Drive
+[417.0s - 418.2s] usually gathering dust in a Google Drive somewhere and they're completely
+[418.2s - 418.2s] somewhere and they're completely
+[418.2s - 420.1s] somewhere and they're completely updated. So for many clients, this is
+[420.1s - 420.1s] updated. So for many clients, this is
+[420.1s - 421.8s] updated. So for many clients, this is actually the first time they've seen a
+[421.8s - 421.8s] actually the first time they've seen a
+[421.8s - 423.9s] actually the first time they've seen a clear and objective map of how their
+[423.9s - 423.9s] clear and objective map of how their
+[423.9s - 425.4s] clear and objective map of how their business actually operates on the
+[425.4s - 425.4s] business actually operates on the
+[425.4s - 426.8s] business actually operates on the day-to-day. And then comes the part that
+[426.8s - 426.8s] day-to-day. And then comes the part that
+[426.8s - 428.6s] day-to-day. And then comes the part that requires the real expertise, which is
+[428.6s - 428.6s] requires the real expertise, which is
+[428.6s - 430.3s] requires the real expertise, which is the use case identification. So our
+[430.3s - 430.3s] the use case identification. So our
+[430.3s - 432.1s] the use case identification. So our consultants take that process map and
+[432.1s - 432.2s] consultants take that process map and
+[432.2s - 434.1s] consultants take that process map and then using both their knowledge and our
+[434.1s - 434.2s] then using both their knowledge and our
+[434.2s - 436.0s] then using both their knowledge and our internal AI solutions database which is
+[436.0s - 436.0s] internal AI solutions database which is
+[436.0s - 438.5s] internal AI solutions database which is over 300 proven AI systems they start to
+[438.5s - 438.5s] over 300 proven AI systems they start to
+[438.5s - 439.7s] over 300 proven AI systems they start to pinpoint the bottlenecks in those
+[439.7s - 439.8s] pinpoint the bottlenecks in those
+[439.8s - 441.1s] pinpoint the bottlenecks in those process maps and they find the areas
+[441.1s - 441.1s] process maps and they find the areas
+[441.1s - 442.7s] process maps and they find the areas clogged up with things like manual data
+[442.7s - 442.7s] clogged up with things like manual data
+[442.7s - 444.6s] clogged up with things like manual data entry report writing and repetitive
+[444.6s - 444.6s] entry report writing and repetitive
+[444.6s - 446.1s] entry report writing and repetitive tasks. And this is really where the
+[446.1s - 446.1s] tasks. And this is really where the
+[446.1s - 447.6s] tasks. And this is really where the amateurs are separated from the experts.
+[447.6s - 447.6s] amateurs are separated from the experts.
+[447.6s - 448.8s] amateurs are separated from the experts. It's like how much experience have you
+[448.8s - 448.8s] It's like how much experience have you
+[448.8s - 450.6s] It's like how much experience have you got? How well do you understand AI and
+[450.6s - 450.6s] got? How well do you understand AI and
+[450.6s - 452.0s] got? How well do you understand AI and what it can do for businesses? And how
+[452.0s - 452.0s] what it can do for businesses? And how
+[452.0s - 453.4s] what it can do for businesses? And how well can you layer that on top of the
+[453.4s - 453.4s] well can you layer that on top of the
+[453.4s - 454.6s] well can you layer that on top of the process map you see in front of you. So,
+[454.6s - 454.6s] process map you see in front of you. So,
+[454.6s - 456.1s] process map you see in front of you. So, it's all about knowing what AI solution
+[456.1s - 456.2s] it's all about knowing what AI solution
+[456.2s - 458.3s] it's all about knowing what AI solution fits perfectly into solve each problem
+[458.3s - 458.3s] fits perfectly into solve each problem
+[458.3s - 459.8s] fits perfectly into solve each problem and kind of making sure you're leaning
+[459.8s - 459.8s] and kind of making sure you're leaning
+[459.8s - 461.5s] and kind of making sure you're leaning into the strengths of the technology. A
+[461.5s - 461.5s] into the strengths of the technology. A
+[461.5s - 463.6s] into the strengths of the technology. A lot of the time we see these lack of ROI
+[463.6s - 463.6s] lot of the time we see these lack of ROI
+[463.6s - 465.1s] lot of the time we see these lack of ROI projects coming out because they are
+[465.1s - 465.1s] projects coming out because they are
+[465.1s - 466.6s] projects coming out because they are trying to use AI to do things that it's
+[466.6s - 466.6s] trying to use AI to do things that it's
+[466.6s - 468.5s] trying to use AI to do things that it's not really super good at right now. And
+[468.5s - 468.5s] not really super good at right now. And
+[468.5s - 469.9s] not really super good at right now. And it's always best to be looking at where
+[469.9s - 469.9s] it's always best to be looking at where
+[469.9s - 471.7s] it's always best to be looking at where is AI in production in companies right
+[471.7s - 471.8s] is AI in production in companies right
+[471.8s - 473.2s] is AI in production in companies right now actually moving the needle and can
+[473.2s - 473.2s] now actually moving the needle and can
+[473.2s - 474.6s] now actually moving the needle and can we lean into those rather than looking
+[474.6s - 474.6s] we lean into those rather than looking
+[474.6s - 476.1s] we lean into those rather than looking for the more experimental ones which is
+[476.1s - 476.1s] for the more experimental ones which is
+[476.1s - 477.4s] for the more experimental ones which is in most cases what people are trying to
+[477.4s - 477.4s] in most cases what people are trying to
+[477.4s - 479.0s] in most cases what people are trying to do. And then finally, we have the most
+[479.0s - 479.0s] do. And then finally, we have the most
+[479.0s - 480.6s] do. And then finally, we have the most important step which is the opportunity
+[480.6s - 480.6s] important step which is the opportunity
+[480.6s - 482.4s] important step which is the opportunity grading and the validation. So my
+[482.4s - 482.4s] grading and the validation. So my
+[482.4s - 483.8s] grading and the validation. So my consultants will have identified dozens
+[483.8s - 483.8s] consultants will have identified dozens
+[483.8s - 485.5s] consultants will have identified dozens of different opportunities, but business
+[485.5s - 485.5s] of different opportunities, but business
+[485.5s - 486.9s] of different opportunities, but business is all about prioritization of
+[486.9s - 486.9s] is all about prioritization of
+[486.9s - 488.3s] is all about prioritization of resources, right? Like there's always a
+[488.3s - 488.3s] resources, right? Like there's always a
+[488.3s - 489.7s] resources, right? Like there's always a million opportunities of things you can
+[489.7s - 489.7s] million opportunities of things you can
+[489.7s - 491.3s] million opportunities of things you can do, but some opportunities are
+[491.3s - 491.3s] do, but some opportunities are
+[491.3s - 492.8s] do, but some opportunities are inherently more valuable than others.
+[492.8s - 492.8s] inherently more valuable than others.
+[492.8s - 494.2s] inherently more valuable than others. And some are also more difficult to
+[494.2s - 494.2s] And some are also more difficult to
+[494.2s - 496.3s] And some are also more difficult to build in order to realize that value. So
+[496.3s - 496.3s] build in order to realize that value. So
+[496.3s - 497.8s] build in order to realize that value. So we can plot these opportunities on what
+[497.8s - 497.8s] we can plot these opportunities on what
+[497.8s - 499.6s] we can plot these opportunities on what we call the opportunity matrix. And then
+[499.6s - 499.6s] we call the opportunity matrix. And then
+[499.6s - 501.3s] we call the opportunity matrix. And then through careful process of elimination,
+[501.3s - 501.3s] through careful process of elimination,
+[501.3s - 502.9s] through careful process of elimination, we can start to trim down to the right
+[502.9s - 503.0s] we can start to trim down to the right
+[503.0s - 504.9s] we can start to trim down to the right mix of what we call quick wins to get a
+[504.9s - 504.9s] mix of what we call quick wins to get a
+[504.9s - 506.1s] mix of what we call quick wins to get a return on their investment as soon as
+[506.1s - 506.2s] return on their investment as soon as
+[506.2s - 507.7s] return on their investment as soon as possible once we get into development.
+[507.7s - 507.8s] possible once we get into development.
+[507.8s - 509.4s] possible once we get into development. also looking at, hey, what are the big
+[509.4s - 509.4s] also looking at, hey, what are the big
+[509.4s - 511.0s] also looking at, hey, what are the big swings for us here that will ultimately
+[511.0s - 511.0s] swings for us here that will ultimately
+[511.0s - 512.9s] swings for us here that will ultimately become a major advantage for us in the
+[512.9s - 512.9s] become a major advantage for us in the
+[512.9s - 514.3s] become a major advantage for us in the market versus their competitors, but
+[514.3s - 514.3s] market versus their competitors, but
+[514.3s - 516.4s] market versus their competitors, but often require some prerequisite steps or
+[516.4s - 516.4s] often require some prerequisite steps or
+[516.4s - 518.1s] often require some prerequisite steps or just generally much more investment and
+[518.1s - 518.1s] just generally much more investment and
+[518.1s - 519.4s] just generally much more investment and development in order to see through. So,
+[519.4s - 519.4s] development in order to see through. So,
+[519.4s - 520.7s] development in order to see through. So, you've got the quick wins and the big
+[520.7s - 520.7s] you've got the quick wins and the big
+[520.7s - 522.2s] you've got the quick wins and the big swings. And so, it's a case of trimming
+[522.2s - 522.2s] swings. And so, it's a case of trimming
+[522.2s - 523.8s] swings. And so, it's a case of trimming down until you get a nice mix of both.
+[523.8s - 523.8s] down until you get a nice mix of both.
+[523.8s - 524.9s] down until you get a nice mix of both. But another key part of the process here
+[524.9s - 524.9s] But another key part of the process here
+[524.9s - 526.3s] But another key part of the process here is that we're not just doing this in a
+[526.3s - 526.3s] is that we're not just doing this in a
+[526.3s - 527.9s] is that we're not just doing this in a lab on our own in isolation, then
+[527.9s - 527.9s] lab on our own in isolation, then
+[527.9s - 529.6s] lab on our own in isolation, then present the final result. We go back
+[529.6s - 529.6s] present the final result. We go back
+[529.6s - 531.2s] present the final result. We go back into the business and we run multiple
+[531.2s - 531.2s] into the business and we run multiple
+[531.2s - 532.5s] into the business and we run multiple validation interviews with both
+[532.5s - 532.6s] validation interviews with both
+[532.6s - 534.7s] validation interviews with both employees and the leadership. And this
+[534.7s - 534.7s] employees and the leadership. And this
+[534.7s - 536.5s] employees and the leadership. And this is so so so so important because when
+[536.5s - 536.6s] is so so so so important because when
+[536.6s - 537.9s] is so so so so important because when you go back to the employees, they
+[537.9s - 537.9s] you go back to the employees, they
+[537.9s - 539.8s] you go back to the employees, they validate that yes, we this is really a
+[539.8s - 539.8s] validate that yes, we this is really a
+[539.8s - 541.3s] validate that yes, we this is really a painful problem. Can you please solve
+[541.3s - 541.3s] painful problem. Can you please solve
+[541.3s - 543.1s] painful problem. Can you please solve this? But the leadership validates that
+[543.1s - 543.1s] this? But the leadership validates that
+[543.1s - 544.5s] this? But the leadership validates that solving this problem aligns with the
+[544.5s - 544.6s] solving this problem aligns with the
+[544.6s - 546.5s] solving this problem aligns with the company's strategic goals. And you
+[546.5s - 546.6s] company's strategic goals. And you
+[546.6s - 548.3s] company's strategic goals. And you absolutely have to have both. Um you
+[548.3s - 548.3s] absolutely have to have both. Um you
+[548.3s - 549.9s] absolutely have to have both. Um you have to have that employee buyin or the
+[549.9s - 549.9s] have to have that employee buyin or the
+[549.9s - 551.3s] have to have that employee buyin or the tools won't get used. And without the
+[551.3s - 551.3s] tools won't get used. And without the
+[551.3s - 552.4s] tools won't get used. And without the leadership buyin, you're not going to
+[552.4s - 552.4s] leadership buyin, you're not going to
+[552.4s - 553.9s] leadership buyin, you're not going to get the budget. And so the deliverable
+[553.9s - 553.9s] get the budget. And so the deliverable
+[553.9s - 556.2s] get the budget. And so the deliverable from all of this work is a comprehensive
+[556.2s - 556.2s] from all of this work is a comprehensive
+[556.2s - 558.9s] from all of this work is a comprehensive 50 to 100page final report. Yes, it's a
+[558.9s - 558.9s] 50 to 100page final report. Yes, it's a
+[558.9s - 561.1s] 50 to 100page final report. Yes, it's a beast, but it is the master plan. It is
+[561.1s - 561.1s] beast, but it is the master plan. It is
+[561.1s - 562.9s] beast, but it is the master plan. It is their AI strategy roadmap. And it lays
+[562.9s - 563.0s] their AI strategy roadmap. And it lays
+[563.0s - 564.5s] their AI strategy roadmap. And it lays out a strategic road map for their
+[564.5s - 564.6s] out a strategic road map for their
+[564.6s - 566.8s] out a strategic road map for their entire AI implementation, blending those
+[566.8s - 566.8s] entire AI implementation, blending those
+[566.8s - 568.7s] entire AI implementation, blending those quick wins that we had before with some
+[568.7s - 568.7s] quick wins that we had before with some
+[568.7s - 570.3s] quick wins that we had before with some of the big gamechanging swings for them
+[570.3s - 570.3s] of the big gamechanging swings for them
+[570.3s - 571.5s] of the big gamechanging swings for them to hit. In the free guide that I'm going
+[571.5s - 571.5s] to hit. In the free guide that I'm going
+[571.5s - 572.6s] to hit. In the free guide that I'm going to be sharing with you guys at the end,
+[572.6s - 572.6s] to be sharing with you guys at the end,
+[572.6s - 573.8s] to be sharing with you guys at the end, you'll be able to get some examples of
+[573.8s - 573.8s] you'll be able to get some examples of
+[573.8s - 575.4s] you'll be able to get some examples of these key slides that we put in our
+[575.4s - 575.4s] these key slides that we put in our
+[575.4s - 576.8s] these key slides that we put in our presentations that are needed to
+[576.8s - 576.8s] presentations that are needed to
+[576.8s - 578.1s] presentations that are needed to communicate these kind of key
+[578.1s - 578.1s] communicate these kind of key
+[578.1s - 579.8s] communicate these kind of key initiatives and the overall AR road map
+[579.8s - 579.8s] initiatives and the overall AR road map
+[579.8s - 583.5s] initiatives and the overall AR road map that they're working towards.
+[583.5s - 585.0s] All right. So once you've delivered that
+[585.0s - 585.0s] All right. So once you've delivered that
+[585.0s - 586.9s] All right. So once you've delivered that 50 to 100 page report, you've turned the
+[586.9s - 587.0s] 50 to 100 page report, you've turned the
+[587.0s - 588.7s] 50 to 100 page report, you've turned the chaos of the company into order. The
+[588.7s - 588.7s] chaos of the company into order. The
+[588.7s - 590.5s] chaos of the company into order. The client is blown away by how well you
+[590.5s - 590.6s] client is blown away by how well you
+[590.6s - 591.8s] client is blown away by how well you understand the business and they've
+[591.8s - 591.8s] understand the business and they've
+[591.8s - 593.3s] understand the business and they've approved the road map. Now it's time to
+[593.3s - 593.3s] approved the road map. Now it's time to
+[593.3s - 595.2s] approved the road map. Now it's time to turn that order into what they really
+[595.2s - 595.2s] turn that order into what they really
+[595.2s - 596.9s] turn that order into what they really want, which is growth, which of course
+[596.9s - 596.9s] want, which is growth, which of course
+[596.9s - 598.5s] want, which is growth, which of course starts with actual development. So
+[598.5s - 598.6s] starts with actual development. So
+[598.6s - 599.8s] starts with actual development. So following that final report, we will
+[599.8s - 599.8s] following that final report, we will
+[599.8s - 600.9s] following that final report, we will check in with the clients. Sometimes
+[600.9s - 601.0s] check in with the clients. Sometimes
+[601.0s - 602.3s] check in with the clients. Sometimes they'll need a month or two to get their
+[602.3s - 602.3s] they'll need a month or two to get their
+[602.3s - 603.8s] they'll need a month or two to get their budget sorted out. Other times are like
+[603.8s - 603.8s] budget sorted out. Other times are like
+[603.8s - 605.4s] budget sorted out. Other times are like sweet, let's go. But here is the most
+[605.4s - 605.4s] sweet, let's go. But here is the most
+[605.4s - 607.1s] sweet, let's go. But here is the most important rule for this phase is that we
+[607.1s - 607.1s] important rule for this phase is that we
+[607.1s - 608.9s] important rule for this phase is that we always start with the quick wins. We are
+[608.9s - 608.9s] always start with the quick wins. We are
+[608.9s - 610.1s] always start with the quick wins. We are not going to go for the six-month
+[610.1s - 610.2s] not going to go for the six-month
+[610.2s - 611.8s] not going to go for the six-month multi-million dollar moonshot project
+[611.8s - 611.8s] multi-million dollar moonshot project
+[611.8s - 614.4s] multi-million dollar moonshot project first. That is a shorefire way to lose
+[614.4s - 614.4s] first. That is a shorefire way to lose
+[614.4s - 616.3s] first. That is a shorefire way to lose trust and momentum. So we always pick
+[616.3s - 616.3s] trust and momentum. So we always pick
+[616.3s - 617.9s] trust and momentum. So we always pick the project from the road map that is
+[617.9s - 617.9s] the project from the road map that is
+[617.9s - 619.6s] the project from the road map that is the perfect blend of that high impact
+[619.6s - 619.6s] the perfect blend of that high impact
+[619.6s - 621.4s] the perfect blend of that high impact and low difficulty cuz we want to get
+[621.4s - 621.4s] and low difficulty cuz we want to get
+[621.4s - 623.7s] and low difficulty cuz we want to get them that tangible ROI on our entire
+[623.7s - 623.7s] them that tangible ROI on our entire
+[623.7s - 625.6s] them that tangible ROI on our entire engagement including both the education,
+[625.6s - 625.6s] engagement including both the education,
+[625.6s - 627.2s] engagement including both the education, the consulting and now the development
+[627.2s - 627.2s] the consulting and now the development
+[627.2s - 628.7s] the consulting and now the development as soon as possible. And that's how you
+[628.7s - 628.7s] as soon as possible. And that's how you
+[628.7s - 630.4s] as soon as possible. And that's how you get into by working with someone who
+[630.4s - 630.4s] get into by working with someone who
+[630.4s - 632.0s] get into by working with someone who knows what they're doing. You get to
+[632.0s - 632.0s] knows what they're doing. You get to
+[632.0s - 634.1s] knows what they're doing. You get to that ROI where we're just as invested in
+[634.1s - 634.1s] that ROI where we're just as invested in
+[634.1s - 635.3s] that ROI where we're just as invested in making sure that this all makes sense
+[635.3s - 635.3s] making sure that this all makes sense
+[635.3s - 637.4s] making sure that this all makes sense for you getting you to be in that 5% who
+[637.4s - 637.4s] for you getting you to be in that 5% who
+[637.4s - 639.0s] for you getting you to be in that 5% who are really starting to see an ROI on
+[639.0s - 639.0s] are really starting to see an ROI on
+[639.0s - 640.6s] are really starting to see an ROI on just the first AI initiative that you
+[640.6s - 640.6s] just the first AI initiative that you
+[640.6s - 641.8s] just the first AI initiative that you actually deliver. And we see this time
+[641.8s - 641.8s] actually deliver. And we see this time
+[641.8s - 643.2s] actually deliver. And we see this time and time again when you actually run the
+[643.2s - 643.2s] and time again when you actually run the
+[643.2s - 644.9s] and time again when you actually run the numbers that a targeted and seemingly
+[644.9s - 644.9s] numbers that a targeted and seemingly
+[644.9s - 646.5s] numbers that a targeted and seemingly quite basic relative to all the stuff
+[646.5s - 646.5s] quite basic relative to all the stuff
+[646.5s - 648.0s] quite basic relative to all the stuff you hear about in the news. These
+[648.0s - 648.0s] you hear about in the news. These
+[648.0s - 649.7s] you hear about in the news. These relatively basic systems can provide
+[649.7s - 649.7s] relatively basic systems can provide
+[649.7s - 651.4s] relatively basic systems can provide hundreds of thousands of dollars in ROI
+[651.4s - 651.4s] hundreds of thousands of dollars in ROI
+[651.4s - 653.6s] hundreds of thousands of dollars in ROI and savings from staff time wasted on
+[653.6s - 653.6s] and savings from staff time wasted on
+[653.6s - 655.3s] and savings from staff time wasted on inefficient processes. And this is one
+[655.3s - 655.3s] inefficient processes. And this is one
+[655.3s - 656.4s] inefficient processes. And this is one of the key things that I really want you
+[656.4s - 656.4s] of the key things that I really want you
+[656.4s - 657.8s] of the key things that I really want you to all take away is that for most
+[657.8s - 657.8s] to all take away is that for most
+[657.8s - 659.8s] to all take away is that for most businesses, the biggest quick wins that
+[659.8s - 659.8s] businesses, the biggest quick wins that
+[659.8s - 661.3s] businesses, the biggest quick wins that can get you an ROI are in the most
+[661.3s - 661.3s] can get you an ROI are in the most
+[661.3s - 662.9s] can get you an ROI are in the most boring places. We're talking about like
+[662.9s - 663.0s] boring places. We're talking about like
+[663.0s - 665.1s] boring places. We're talking about like soul crushing manual data entry, endless
+[665.1s - 665.1s] soul crushing manual data entry, endless
+[665.1s - 666.9s] soul crushing manual data entry, endless document creation, or the constant let
+[666.9s - 666.9s] document creation, or the constant let
+[666.9s - 668.2s] document creation, or the constant let me just look that up for you kind of
+[668.2s - 668.2s] me just look that up for you kind of
+[668.2s - 670.1s] me just look that up for you kind of tasks. In these cases, we can build a
+[670.1s - 670.1s] tasks. In these cases, we can build a
+[670.1s - 672.1s] tasks. In these cases, we can build a relatively simple voice agent, a smart
+[672.1s - 672.1s] relatively simple voice agent, a smart
+[672.1s - 674.1s] relatively simple voice agent, a smart transcription feature, or an agent to
+[674.1s - 674.1s] transcription feature, or an agent to
+[674.1s - 675.4s] transcription feature, or an agent to query their internal documents and
+[675.4s - 675.4s] query their internal documents and
+[675.4s - 676.8s] query their internal documents and instantly save the team hundreds of
+[676.8s - 676.8s] instantly save the team hundreds of
+[676.8s - 678.3s] instantly save the team hundreds of hours a month. And it's these simple
+[678.3s - 678.3s] hours a month. And it's these simple
+[678.3s - 680.1s] hours a month. And it's these simple systems that deliver a massive impact
+[680.1s - 680.1s] systems that deliver a massive impact
+[680.1s - 681.5s] systems that deliver a massive impact and prove the value of what we're doing.
+[681.5s - 681.5s] and prove the value of what we're doing.
+[681.5s - 682.9s] and prove the value of what we're doing. And these kinds of quick wins can cost
+[682.9s - 682.9s] And these kinds of quick wins can cost
+[682.9s - 685.4s] And these kinds of quick wins can cost anywhere from 20 to $50,000 or more. But
+[685.4s - 685.4s] anywhere from 20 to $50,000 or more. But
+[685.4s - 687.1s] anywhere from 20 to $50,000 or more. But at this point, businesses are within
+[687.1s - 687.1s] at this point, businesses are within
+[687.1s - 689.4s] at this point, businesses are within arms length of getting their first ROI
+[689.4s - 689.4s] arms length of getting their first ROI
+[689.4s - 690.9s] arms length of getting their first ROI providing AI systems built and
+[690.9s - 691.0s] providing AI systems built and
+[691.0s - 692.5s] providing AI systems built and developed. But development is the
+[692.5s - 692.6s] developed. But development is the
+[692.6s - 694.3s] developed. But development is the hardest part and it's the most difficult
+[694.3s - 694.3s] hardest part and it's the most difficult
+[694.3s - 696.3s] hardest part and it's the most difficult to replicate this consulting side of
+[696.3s - 696.3s] to replicate this consulting side of
+[696.3s - 697.4s] to replicate this consulting side of things. You could kind of do it
+[697.4s - 697.4s] things. You could kind of do it
+[697.4s - 698.9s] things. You could kind of do it yourself, but at the end of the day, to
+[698.9s - 698.9s] yourself, but at the end of the day, to
+[698.9s - 700.1s] yourself, but at the end of the day, to get things built out and actually
+[700.1s - 700.2s] get things built out and actually
+[700.2s - 701.8s] get things built out and actually working in production, you need talented
+[701.8s - 701.8s] working in production, you need talented
+[701.8s - 703.1s] working in production, you need talented developers. Because having a team with
+[703.1s - 703.1s] developers. Because having a team with
+[703.1s - 704.6s] developers. Because having a team with enough skills and experience to be able
+[704.6s - 704.6s] enough skills and experience to be able
+[704.6s - 706.9s] enough skills and experience to be able to tackle new and custom AI problems
+[706.9s - 707.0s] to tackle new and custom AI problems
+[707.0s - 708.5s] to tackle new and custom AI problems every single time is quite rough. So, if
+[708.5s - 708.6s] every single time is quite rough. So, if
+[708.6s - 710.0s] every single time is quite rough. So, if you're an AI agency owner just starting
+[710.0s - 710.0s] you're an AI agency owner just starting
+[710.0s - 711.4s] you're an AI agency owner just starting out, your goal here is simple, to be
+[711.4s - 711.4s] out, your goal here is simple, to be
+[711.4s - 713.2s] out, your goal here is simple, to be able to find just one versatile AI
+[713.2s - 713.2s] able to find just one versatile AI
+[713.2s - 714.9s] able to find just one versatile AI developer with ideally some full stack
+[714.9s - 714.9s] developer with ideally some full stack
+[714.9s - 716.1s] developer with ideally some full stack experience as well. And the best place
+[716.1s - 716.1s] experience as well. And the best place
+[716.1s - 717.5s] experience as well. And the best place to find them is in communities like mine
+[717.5s - 717.5s] to find them is in communities like mine
+[717.5s - 719.2s] to find them is in communities like mine where people are already skilled up and
+[719.2s - 719.2s] where people are already skilled up and
+[719.2s - 720.5s] where people are already skilled up and passionate about the stuff and kind of
+[720.5s - 720.5s] passionate about the stuff and kind of
+[720.5s - 721.8s] passionate about the stuff and kind of get the kind of things that you'd likely
+[721.8s - 721.8s] get the kind of things that you'd likely
+[721.8s - 722.8s] get the kind of things that you'd likely need them to build. But when we are
+[722.8s - 722.8s] need them to build. But when we are
+[722.8s - 723.9s] need them to build. But when we are scoping out these projects for our
+[723.9s - 723.9s] scoping out these projects for our
+[723.9s - 725.4s] scoping out these projects for our clients, we give cost estimates and
+[725.4s - 725.4s] clients, we give cost estimates and
+[725.4s - 727.0s] clients, we give cost estimates and ranges that give enough breathing room
+[727.0s - 727.0s] ranges that give enough breathing room
+[727.0s - 728.5s] ranges that give enough breathing room to handle the unknowns that always pop
+[728.5s - 728.6s] to handle the unknowns that always pop
+[728.6s - 730.0s] to handle the unknowns that always pop up. And once the project's kicked off,
+[730.0s - 730.0s] up. And once the project's kicked off,
+[730.0s - 731.3s] up. And once the project's kicked off, the developers handle most of the client
+[731.3s - 731.3s] the developers handle most of the client
+[731.3s - 732.4s] the developers handle most of the client communication themselves. They're really
+[732.4s - 732.4s] communication themselves. They're really
+[732.4s - 733.7s] communication themselves. They're really good at that. And it's a lean and
+[733.7s - 733.7s] good at that. And it's a lean and
+[733.7s - 735.1s] good at that. And it's a lean and efficient process designed to deliver
+[735.1s - 735.1s] efficient process designed to deliver
+[735.1s - 736.9s] efficient process designed to deliver results without a ton of bureaucratic
+[736.9s - 737.0s] results without a ton of bureaucratic
+[737.0s - 740.5s] results without a ton of bureaucratic overhead, which is the worst.
+[740.5s - 740.5s] overhead, which is the worst.
+[740.5s - 741.8s] overhead, which is the worst. So, by this point, you know the business
+[741.8s - 741.8s] So, by this point, you know the business
+[741.8s - 743.8s] So, by this point, you know the business better than the owner. And a fruitful
+[743.8s - 743.8s] better than the owner. And a fruitful
+[743.8s - 745.2s] better than the owner. And a fruitful and long-lasting relationship can
+[745.2s - 745.2s] and long-lasting relationship can
+[745.2s - 746.5s] and long-lasting relationship can actually be formed. It's really awesome
+[746.5s - 746.6s] actually be formed. It's really awesome
+[746.6s - 747.7s] actually be formed. It's really awesome when you get it right. Instead of having
+[747.7s - 747.7s] when you get it right. Instead of having
+[747.7s - 749.3s] when you get it right. Instead of having to go through that phase over and over,
+[749.3s - 749.3s] to go through that phase over and over,
+[749.3s - 750.6s] to go through that phase over and over, you and the client just get to work with
+[750.6s - 750.6s] you and the client just get to work with
+[750.6s - 752.1s] you and the client just get to work with each other on getting down to business.
+[752.1s - 752.1s] each other on getting down to business.
+[752.1s - 753.1s] each other on getting down to business. Like you understand their business
+[753.1s - 753.1s] Like you understand their business
+[753.1s - 754.6s] Like you understand their business fully, you're helping them deliver, get
+[754.6s - 754.6s] fully, you're helping them deliver, get
+[754.6s - 756.4s] fully, you're helping them deliver, get a tangible ROI on their projects. And
+[756.4s - 756.4s] a tangible ROI on their projects. And
+[756.4s - 757.7s] a tangible ROI on their projects. And from there on, it's like as long as
+[757.7s - 757.7s] from there on, it's like as long as
+[757.7s - 759.0s] from there on, it's like as long as you're delivering and you're not hiking
+[759.0s - 759.0s] you're delivering and you're not hiking
+[759.0s - 760.6s] you're delivering and you're not hiking your prices up too much, then you have a
+[760.6s - 760.6s] your prices up too much, then you have a
+[760.6s - 761.9s] your prices up too much, then you have a long lasting relationship and
+[761.9s - 761.9s] long lasting relationship and
+[761.9s - 763.0s] long lasting relationship and partnership you can form. And at
+[763.0s - 763.0s] partnership you can form. And at
+[763.0s - 764.3s] partnership you can form. And at Morningside, we've literally been
+[764.3s - 764.3s] Morningside, we've literally been
+[764.3s - 765.4s] Morningside, we've literally been working with some of our clients for
+[765.4s - 765.4s] working with some of our clients for
+[765.4s - 766.9s] working with some of our clients for over a year now, coming up for two with
+[766.9s - 767.0s] over a year now, coming up for two with
+[767.0s - 768.3s] over a year now, coming up for two with one of them. And this is how we see the
+[768.3s - 768.3s] one of them. And this is how we see the
+[768.3s - 770.1s] one of them. And this is how we see the best results for businesses by following
+[770.1s - 770.1s] best results for businesses by following
+[770.1s - 771.7s] best results for businesses by following through on a road map that we laid out
+[771.7s - 771.7s] through on a road map that we laid out
+[771.7s - 773.2s] through on a road map that we laid out and staying in close contact with a team
+[773.2s - 773.2s] and staying in close contact with a team
+[773.2s - 775.1s] and staying in close contact with a team who has the air to the ground on the new
+[775.1s - 775.1s] who has the air to the ground on the new
+[775.1s - 776.2s] who has the air to the ground on the new things that are developing in the space
+[776.2s - 776.2s] things that are developing in the space
+[776.2s - 777.9s] things that are developing in the space and what could maybe be applied and and
+[777.9s - 777.9s] and what could maybe be applied and and
+[777.9s - 779.3s] and what could maybe be applied and and cutting through the noise of all of this
+[779.3s - 779.3s] cutting through the noise of all of this
+[779.3s - 780.6s] cutting through the noise of all of this new stuff. What is actually relevant to
+[780.6s - 780.6s] new stuff. What is actually relevant to
+[780.6s - 782.5s] new stuff. What is actually relevant to me? What is realistically able to be
+[782.5s - 782.6s] me? What is realistically able to be
+[782.6s - 784.1s] me? What is realistically able to be plugged into my business and actually
+[784.1s - 784.1s] plugged into my business and actually
+[784.1s - 785.8s] plugged into my business and actually provide an ROI. So every time a new and
+[785.8s - 785.8s] provide an ROI. So every time a new and
+[785.8s - 787.7s] provide an ROI. So every time a new and more powerful model like GPT5 drops,
+[787.7s - 787.7s] more powerful model like GPT5 drops,
+[787.7s - 789.6s] more powerful model like GPT5 drops, it's a business opportunity for both us
+[789.6s - 789.6s] it's a business opportunity for both us
+[789.6s - 791.3s] it's a business opportunity for both us and our clients because we can go back
+[791.3s - 791.3s] and our clients because we can go back
+[791.3s - 792.5s] and our clients because we can go back to our clients and we can offer them
+[792.5s - 792.5s] to our clients and we can offer them
+[792.5s - 794.5s] to our clients and we can offer them upgrades to make their existing systems
+[794.5s - 794.5s] upgrades to make their existing systems
+[794.5s - 796.5s] upgrades to make their existing systems more powerful and often cheaper as well.
+[796.5s - 796.6s] more powerful and often cheaper as well.
+[796.6s - 797.8s] more powerful and often cheaper as well. So this is how you can massively
+[797.8s - 797.8s] So this is how you can massively
+[797.8s - 799.4s] So this is how you can massively increase the lifetime value of every
+[799.4s - 799.4s] increase the lifetime value of every
+[799.4s - 800.9s] increase the lifetime value of every client just by providing a ridiculous
+[800.9s - 800.9s] client just by providing a ridiculous
+[800.9s - 802.3s] client just by providing a ridiculous amount of value over an extended period
+[802.3s - 802.3s] amount of value over an extended period
+[802.3s - 803.5s] amount of value over an extended period of time because you know their business
+[803.5s - 803.5s] of time because you know their business
+[803.5s - 804.6s] of time because you know their business so well. So this is how you build a
+[804.6s - 804.6s] so well. So this is how you build a
+[804.6s - 806.5s] so well. So this is how you build a truly scalable agency. You just focus on
+[806.5s - 806.5s] truly scalable agency. You just focus on
+[806.5s - 807.8s] truly scalable agency. You just focus on landing one or two of these major
+[807.8s - 807.8s] landing one or two of these major
+[807.8s - 809.4s] landing one or two of these major transformation projects a quarter. You
+[809.4s - 809.4s] transformation projects a quarter. You
+[809.4s - 810.9s] transformation projects a quarter. You start to stack and layer them. You of
+[810.9s - 810.9s] start to stack and layer them. You of
+[810.9s - 812.6s] start to stack and layer them. You of course service and deliver well and you
+[812.6s - 812.6s] course service and deliver well and you
+[812.6s - 814.1s] course service and deliver well and you able to build a predictable and high
+[814.1s - 814.1s] able to build a predictable and high
+[814.1s - 815.5s] able to build a predictable and high margin business that's deeply embedded
+[815.5s - 815.5s] margin business that's deeply embedded
+[815.5s - 817.1s] margin business that's deeply embedded in your client success. So while we are
+[817.1s - 817.1s] in your client success. So while we are
+[817.1s - 819.0s] in your client success. So while we are here to automate businesses with AI,
+[819.0s - 819.0s] here to automate businesses with AI,
+[819.0s - 820.3s] here to automate businesses with AI, it's also about building an
+[820.3s - 820.3s] it's also about building an
+[820.3s - 822.0s] it's also about building an irreplaceable and long-term partnership
+[822.0s - 822.0s] irreplaceable and long-term partnership
+[822.0s - 825.6s] irreplaceable and long-term partnership that's mutually beneficial.
+[825.6s - 825.6s] that's mutually beneficial.
+[825.6s - 827.3s] that's mutually beneficial. Okay, so that's the playbook. Now, how
+[827.3s - 827.3s] Okay, so that's the playbook. Now, how
+[827.3s - 828.9s] Okay, so that's the playbook. Now, how do you actually use it? This is going to
+[828.9s - 829.0s] do you actually use it? This is going to
+[829.0s - 830.1s] do you actually use it? This is going to be your action plan, and I'm going to
+[830.1s - 830.1s] be your action plan, and I'm going to
+[830.1s - 831.3s] be your action plan, and I'm going to break this down into two different
+[831.3s - 831.3s] break this down into two different
+[831.3s - 833.1s] break this down into two different parts. One, what it means for AI agency
+[833.1s - 833.1s] parts. One, what it means for AI agency
+[833.1s - 834.5s] parts. One, what it means for AI agency owners, and then secondly, what it means
+[834.5s - 834.5s] owners, and then secondly, what it means
+[834.5s - 836.1s] owners, and then secondly, what it means for uh your more traditional business
+[836.1s - 836.1s] for uh your more traditional business
+[836.1s - 837.6s] for uh your more traditional business owners. So, if you're an aspiring
+[837.6s - 837.6s] owners. So, if you're an aspiring
+[837.6s - 839.5s] owners. So, if you're an aspiring entrepreneur, an AI agency owner likely,
+[839.5s - 839.5s] entrepreneur, an AI agency owner likely,
+[839.5s - 840.7s] entrepreneur, an AI agency owner likely, then listen up because what I just
+[840.7s - 840.7s] then listen up because what I just
+[840.7s - 842.1s] then listen up because what I just showed you, becoming a full AI
+[842.1s - 842.1s] showed you, becoming a full AI
+[842.1s - 843.9s] showed you, becoming a full AI transformation partner or AITP like we
+[843.9s - 843.9s] transformation partner or AITP like we
+[843.9s - 845.7s] transformation partner or AITP like we are at Morningside, is the endgame.
+[845.7s - 845.7s] are at Morningside, is the endgame.
+[845.7s - 848.1s] are at Morningside, is the endgame. It's, let me be 100% clear, it took us
+[848.1s - 848.2s] It's, let me be 100% clear, it took us
+[848.2s - 849.8s] It's, let me be 100% clear, it took us years to get here, and you need to
+[849.8s - 849.8s] years to get here, and you need to
+[849.8s - 850.9s] years to get here, and you need to really build your way up to it. And
+[850.9s - 851.0s] really build your way up to it. And
+[851.0s - 852.4s] really build your way up to it. And here's the path. Step one is you're
+[852.4s - 852.4s] here's the path. Step one is you're
+[852.4s - 853.6s] here's the path. Step one is you're going to start as an AI automation
+[853.6s - 853.6s] going to start as an AI automation
+[853.6s - 855.0s] going to start as an AI automation agency. You're going to use no code and
+[855.0s - 855.0s] agency. You're going to use no code and
+[855.0s - 856.5s] agency. You're going to use no code and low code tools to deliver your first
+[856.5s - 856.5s] low code tools to deliver your first
+[856.5s - 857.8s] low code tools to deliver your first projects. You're going to get your hands
+[857.8s - 857.8s] projects. You're going to get your hands
+[857.8s - 858.9s] projects. You're going to get your hands dirty. You're going to learn how to
+[858.9s - 859.0s] dirty. You're going to learn how to
+[859.0s - 860.9s] dirty. You're going to learn how to deliver real value for businesses with
+[860.9s - 860.9s] deliver real value for businesses with
+[860.9s - 862.6s] deliver real value for businesses with the current tools and get comfortable
+[862.6s - 862.6s] the current tools and get comfortable
+[862.6s - 864.0s] the current tools and get comfortable working with businesses and working with
+[864.0s - 864.0s] working with businesses and working with
+[864.0s - 865.5s] working with businesses and working with your clients. Step two, you need to
+[865.5s - 865.5s] your clients. Step two, you need to
+[865.5s - 867.1s] your clients. Step two, you need to evolve into an AI agency and you're
+[867.1s - 867.1s] evolve into an AI agency and you're
+[867.1s - 868.1s] evolve into an AI agency and you're going to take those profits from your
+[868.1s - 868.2s] going to take those profits from your
+[868.2s - 869.1s] going to take those profits from your first few projects and you're going to
+[869.1s - 869.1s] first few projects and you're going to
+[869.1s - 870.8s] first few projects and you're going to be able to hire a full stack AI
+[870.8s - 870.8s] be able to hire a full stack AI
+[870.8s - 872.0s] be able to hire a full stack AI developer. Now, with these kinds of
+[872.0s - 872.0s] developer. Now, with these kinds of
+[872.0s - 873.1s] developer. Now, with these kinds of skills on the team, you can start to
+[873.1s - 873.1s] skills on the team, you can start to
+[873.1s - 875.0s] skills on the team, you can start to offer more custom and complex solutions.
+[875.0s - 875.0s] offer more custom and complex solutions.
+[875.0s - 876.6s] offer more custom and complex solutions. It's not just your basic automation. You
+[876.6s - 876.6s] It's not just your basic automation. You
+[876.6s - 878.1s] It's not just your basic automation. You can now build full platforms out of them
+[878.1s - 878.1s] can now build full platforms out of them
+[878.1s - 879.6s] can now build full platforms out of them and much more comprehensive systems. And
+[879.6s - 879.6s] and much more comprehensive systems. And
+[879.6s - 881.2s] and much more comprehensive systems. And then step three, after you've been in
+[881.2s - 881.2s] then step three, after you've been in
+[881.2s - 882.7s] then step three, after you've been in the trenches for a while, like we were
+[882.7s - 882.7s] the trenches for a while, like we were
+[882.7s - 884.5s] the trenches for a while, like we were for two years, then you can move into
+[884.5s - 884.6s] for two years, then you can move into
+[884.6s - 886.3s] for two years, then you can move into the AI transformation partner model and
+[886.3s - 886.3s] the AI transformation partner model and
+[886.3s - 888.0s] the AI transformation partner model and start to sell this full and strategic
+[888.0s - 888.0s] start to sell this full and strategic
+[888.0s - 889.9s] start to sell this full and strategic playbook of of AI transformation for a
+[889.9s - 889.9s] playbook of of AI transformation for a
+[889.9s - 891.4s] playbook of of AI transformation for a business from start to finish. So to
+[891.4s - 891.4s] business from start to finish. So to
+[891.4s - 892.4s] business from start to finish. So to help you get there, the resource that
+[892.4s - 892.4s] help you get there, the resource that
+[892.4s - 893.5s] help you get there, the resource that I've got in the description is going to
+[893.5s - 893.5s] I've got in the description is going to
+[893.5s - 894.8s] I've got in the description is going to give you everything you need to run your
+[894.8s - 894.8s] give you everything you need to run your
+[894.8s - 896.5s] give you everything you need to run your first AI audit, which is going to break
+[896.5s - 896.5s] first AI audit, which is going to break
+[896.5s - 898.6s] first AI audit, which is going to break down our questionnaires, the key slides
+[898.6s - 898.6s] down our questionnaires, the key slides
+[898.6s - 900.7s] down our questionnaires, the key slides that we use on our uh slideshows, how to
+[900.7s - 900.7s] that we use on our uh slideshows, how to
+[900.7s - 902.5s] that we use on our uh slideshows, how to calculate ROI, etc. And finally, if you
+[902.5s - 902.5s] calculate ROI, etc. And finally, if you
+[902.5s - 904.0s] calculate ROI, etc. And finally, if you are a business owner, then you have two
+[904.0s - 904.0s] are a business owner, then you have two
+[904.0s - 905.6s] are a business owner, then you have two clear options, which is option one,
+[905.6s - 905.6s] clear options, which is option one,
+[905.6s - 907.3s] clear options, which is option one, doing it yourself. I've made this video
+[907.3s - 907.3s] doing it yourself. I've made this video
+[907.3s - 909.0s] doing it yourself. I've made this video for you to be able to do this. Take the
+[909.0s - 909.0s] for you to be able to do this. Take the
+[909.0s - 910.2s] for you to be able to do this. Take the entire playbook that I've broken down
+[910.2s - 910.2s] entire playbook that I've broken down
+[910.2s - 911.5s] entire playbook that I've broken down here. Take the resource that I've got in
+[911.5s - 911.5s] here. Take the resource that I've got in
+[911.5s - 912.8s] here. Take the resource that I've got in description as well. It's going to break
+[912.8s - 912.8s] description as well. It's going to break
+[912.8s - 914.1s] description as well. It's going to break down how to do this on a much more
+[914.1s - 914.1s] down how to do this on a much more
+[914.1s - 915.5s] down how to do this on a much more granular and tactical level. So, you're
+[915.5s - 915.5s] granular and tactical level. So, you're
+[915.5s - 916.5s] granular and tactical level. So, you're going to take this entire playbook.
+[916.5s - 916.6s] going to take this entire playbook.
+[916.6s - 917.6s] going to take this entire playbook. You're going to bring it to your team.
+[917.6s - 917.6s] You're going to bring it to your team.
+[917.6s - 918.9s] You're going to bring it to your team. You're going to start the conversation
+[918.9s - 918.9s] You're going to start the conversation
+[918.9s - 920.4s] You're going to start the conversation and you're going to run an audit on one
+[920.4s - 920.4s] and you're going to run an audit on one
+[920.4s - 922.1s] and you're going to run an audit on one department at a time and just find one
+[922.1s - 922.1s] department at a time and just find one
+[922.1s - 923.5s] department at a time and just find one pilot project that you can use to build
+[923.5s - 923.5s] pilot project that you can use to build
+[923.5s - 925.2s] pilot project that you can use to build momentum. You can find developers and
+[925.2s - 925.2s] momentum. You can find developers and
+[925.2s - 926.5s] momentum. You can find developers and communities like mine and make a post
+[926.5s - 926.6s] communities like mine and make a post
+[926.6s - 928.6s] communities like mine and make a post and say, "Hey, I'm XYZ business. I'm
+[928.6s - 928.6s] and say, "Hey, I'm XYZ business. I'm
+[928.6s - 929.9s] and say, "Hey, I'm XYZ business. I'm looking for this kind of thing. We've
+[929.9s - 929.9s] looking for this kind of thing. We've
+[929.9s - 931.7s] looking for this kind of thing. We've identified this opportunity. Can someone
+[931.7s - 931.7s] identified this opportunity. Can someone
+[931.7s - 932.9s] identified this opportunity. Can someone help us a develop it?" And that's the
+[932.9s - 933.0s] help us a develop it?" And that's the
+[933.0s - 934.1s] help us a develop it?" And that's the best chance of finding really good
+[934.1s - 934.2s] best chance of finding really good
+[934.2s - 935.4s] best chance of finding really good talent to help you do these projects
+[935.4s - 935.4s] talent to help you do these projects
+[935.4s - 936.9s] talent to help you do these projects with. So long story short is that you
+[936.9s - 936.9s] with. So long story short is that you
+[936.9s - 938.3s] with. So long story short is that you can lead this transformation internally,
+[938.3s - 938.3s] can lead this transformation internally,
+[938.3s - 939.5s] can lead this transformation internally, but it's not going to be easy. I'm not
+[939.5s - 939.5s] but it's not going to be easy. I'm not
+[939.5s - 940.7s] but it's not going to be easy. I'm not going to sugar coat it. It's not going
+[940.7s - 940.7s] going to sugar coat it. It's not going
+[940.7s - 941.7s] going to sugar coat it. It's not going to be super easy. You're going to have
+[941.7s - 941.7s] to be super easy. You're going to have
+[941.7s - 943.0s] to be super easy. You're going to have to bump into a lot of things, make a lot
+[943.0s - 943.0s] to bump into a lot of things, make a lot
+[943.0s - 944.6s] to bump into a lot of things, make a lot of mistakes, but you can ultimately get
+[944.6s - 944.6s] of mistakes, but you can ultimately get
+[944.6s - 945.9s] of mistakes, but you can ultimately get there. Then option number two, of
+[945.9s - 945.9s] there. Then option number two, of
+[945.9s - 947.4s] there. Then option number two, of course, is to work with a team who can
+[947.4s - 947.4s] course, is to work with a team who can
+[947.4s - 948.9s] course, is to work with a team who can help you do this. So, for example, if
+[948.9s - 948.9s] help you do this. So, for example, if
+[948.9s - 949.9s] help you do this. So, for example, if you wanted to work with my team at
+[949.9s - 949.9s] you wanted to work with my team at
+[949.9s - 951.6s] you wanted to work with my team at Warningsai, we can run this playbook for
+[951.6s - 951.6s] Warningsai, we can run this playbook for
+[951.6s - 953.2s] Warningsai, we can run this playbook for you, but you have to apply to work with
+[953.2s - 953.2s] you, but you have to apply to work with
+[953.2s - 954.2s] you, but you have to apply to work with us. And at this point, we're quite
+[954.2s - 954.2s] us. And at this point, we're quite
+[954.2s - 955.3s] us. And at this point, we're quite selective with who we partner with
+[955.3s - 955.3s] selective with who we partner with
+[955.3s - 956.5s] selective with who we partner with because we're really looking for those
+[956.5s - 956.5s] because we're really looking for those
+[956.5s - 957.8s] because we're really looking for those long-term relationships of people that
+[957.8s - 957.8s] long-term relationships of people that
+[957.8s - 959.2s] long-term relationships of people that we really want to work with for a long
+[959.2s - 959.2s] we really want to work with for a long
+[959.2s - 960.8s] we really want to work with for a long time and where we can drive incredible
+[960.8s - 960.8s] time and where we can drive incredible
+[960.8s - 962.4s] time and where we can drive incredible case studies in an industry as well. But
+[962.4s - 962.4s] case studies in an industry as well. But
+[962.4s - 964.1s] case studies in an industry as well. But if you have a cool business and you're
+[964.1s - 964.2s] if you have a cool business and you're
+[964.2s - 965.6s] if you have a cool business and you're doing good things and you're a good
+[965.6s - 965.6s] doing good things and you're a good
+[965.6s - 967.1s] doing good things and you're a good person, then I'd love to have a chat and
+[967.1s - 967.1s] person, then I'd love to have a chat and
+[967.1s - 968.2s] person, then I'd love to have a chat and see if we can help you make your AI
+[968.2s - 968.2s] see if we can help you make your AI
+[968.2s - 972.1s] see if we can help you make your AI transition.
+[972.1s - 973.5s] So the opportunity at this point is
+[973.5s - 973.5s] So the opportunity at this point is
+[973.5s - 974.6s] So the opportunity at this point is pretty clear. We've got this awesome
+[974.6s - 974.6s] pretty clear. We've got this awesome
+[974.6s - 976.1s] pretty clear. We've got this awesome technology. People are really struggling
+[976.1s - 976.2s] technology. People are really struggling
+[976.2s - 977.7s] technology. People are really struggling to get value with it. But that's like I
+[977.7s - 977.7s] to get value with it. But that's like I
+[977.7s - 979.3s] to get value with it. But that's like I said because they're taking this back to
+[979.3s - 979.3s] said because they're taking this back to
+[979.3s - 980.5s] said because they're taking this back to front run the wrong way and they're not
+[980.5s - 980.5s] front run the wrong way and they're not
+[980.5s - 981.7s] front run the wrong way and they're not doing the ground work. They're not going
+[981.7s - 981.7s] doing the ground work. They're not going
+[981.7s - 983.4s] doing the ground work. They're not going through the phases of education, of
+[983.4s - 983.4s] through the phases of education, of
+[983.4s - 984.5s] through the phases of education, of identification, then ultimately
+[984.5s - 984.6s] identification, then ultimately
+[984.6s - 985.9s] identification, then ultimately development. So this video is about
+[985.9s - 985.9s] development. So this video is about
+[985.9s - 987.0s] development. So this video is about trying to give you the keys to do this
+[987.0s - 987.0s] trying to give you the keys to do this
+[987.0s - 988.6s] trying to give you the keys to do this yourself. So, I've added our complete AI
+[988.6s - 988.6s] yourself. So, I've added our complete AI
+[988.6s - 990.4s] yourself. So, I've added our complete AI audit resource uh down below based on
+[990.4s - 990.4s] audit resource uh down below based on
+[990.4s - 991.7s] audit resource uh down below based on our internal templates and what we do at
+[991.7s - 991.8s] our internal templates and what we do at
+[991.8s - 993.0s] our internal templates and what we do at Morningside AI. In there, you've got
+[993.0s - 993.0s] Morningside AI. In there, you've got
+[993.0s - 994.4s] Morningside AI. In there, you've got questionnaire templates, you've got
+[994.4s - 994.4s] questionnaire templates, you've got
+[994.4s - 995.8s] questionnaire templates, you've got examples of key slides, you've got how
+[995.8s - 995.8s] examples of key slides, you've got how
+[995.8s - 997.4s] examples of key slides, you've got how we calculate ROI and things like that.
+[997.4s - 997.4s] we calculate ROI and things like that.
+[997.4s - 998.6s] we calculate ROI and things like that. So, you can find that in the first link
+[998.6s - 998.6s] So, you can find that in the first link
+[998.6s - 999.9s] So, you can find that in the first link in the description. Up here, I have a
+[999.9s - 999.9s] in the description. Up here, I have a
+[999.9s - 1001.7s] in the description. Up here, I have a video talking about how chat GBT can
+[1001.7s - 1001.7s] video talking about how chat GBT can
+[1001.7s - 1003.5s] video talking about how chat GBT can fundamentally change the AI automation
+[1003.5s - 1003.5s] fundamentally change the AI automation
+[1003.5s - 1005.6s] fundamentally change the AI automation landscape. It's very interesting stuff
+[1005.6s - 1005.6s] landscape. It's very interesting stuff
+[1005.6s - 1006.9s] landscape. It's very interesting stuff myself. Aside from that, it's all for
+[1006.9s - 1007.0s] myself. Aside from that, it's all for
+[1007.0s - 1007.9s] myself. Aside from that, it's all for the video. Thank you so much for
+[1007.9s - 1007.9s] the video. Thank you so much for
+[1007.9s - 1011.5s] the video. Thank you so much for watching and I will see you in the next

@@ -1,0 +1,19 @@
+- generic [ref=f7e2]:
+  - generic [ref=f7e3]: Case Study · Page 1 of 3
+  - heading "The Operational Challenge" [level=1] [ref=f7e4]
+  - paragraph [ref=f7e6]: "Insurance brokers in Kenya run on paperwork — KYC documents, claim forms and onboarding paperwork must be collected from clients before a policy can be bound or a claim paid. Today that chasing is manual: WhatsApp threads, SMS, email and spreadsheets held in separate places, with no single source of truth."
+  - paragraph [ref=f7e7]:
+    - strong [ref=f7e8]: The workflow’s purpose.
+    - text: "Document chasing automation: a broker opens a case, the system sends the client a secure, tokenised upload link on their preferred channel, tracks every response, and flags anything still open after seven days to an exception queue for senior review. The broker decides; the system nudges, tracks and escalates."
+  - heading "Why manual chasing fails" [level=2] [ref=f7e9]
+  - paragraph [ref=f7e10]: "These failure modes come from discovery conversations with brokers (Deliverable C of the project), not assumptions:"
+  - list [ref=f7e11]:
+    - listitem [ref=f7e12]: ▸ Understanding Clients don’t understand what is needed — requests are incomplete or confusing.
+    - listitem [ref=f7e13]: ▸ Submission Documents are difficult to submit — no mobile-friendly upload path, no app installation acceptable.
+    - listitem [ref=f7e14]: ▸ Trust Clients distrust upload links and prefer WhatsApp or email as an alternative.
+    - listitem [ref=f7e15]: ▸ Tracking Brokers lose track of who owes what; follow-ups get forgotten across disconnected channels.
+    - listitem [ref=f7e16]: ▸ Parties Client, broker, insurer and loss adjuster all share responsibility, with no shared status view.
+    - listitem [ref=f7e17]: ▸ Escalation Cases overdue more than 7 days have no structured path to a senior broker.
+  - paragraph [ref=f7e18]: No revenue figures, conversion rates or client counts are claimed here — this is a capability demonstration built on the project’s own research, not a delivered production deployment.
+  - generic [ref=f7e19]: Scope note. Document chasing only — payment reconciliation, automated underwriting and policy issuance are explicitly out of scope (Deliverable F).
+  - generic [ref=f7e20]: Automation case study · Document Chasing Escalation · synthetic demo data · no live credentials shown

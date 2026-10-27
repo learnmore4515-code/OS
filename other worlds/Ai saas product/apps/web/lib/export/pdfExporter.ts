@@ -1,0 +1,218 @@
+import { PDFDocument, rgb, StandardFonts } from 'pdf-lib';
+import type { ProposalData } from '@/types/proposal';
+
+/**
+ * Generates a PDF from proposal data using pdf-lib.
+ * Placeholder implementation — replace with actual template rendering.
+ */
+export async function generateProposalPDF(proposal: ProposalData): Promise<Uint8Array> {
+  const pdfDoc = await PDFDocument.create();
+  const page = pdfDoc.addPage([612, 792]); // US Letter
+  const { width, height } = page.getSize();
+  const font = await pdfDoc.embedFont(StandardFonts.Helvetica);
+  const fontBold = await pdfDoc.embedFont(StandardFonts.HelveticaBold);
+
+  // Fonts from brand tokens (optional custom fonts)
+  const brand = proposal.brandTokens;
+  let customFont = font;
+  let customFontBold = fontBold;
+
+  const tryEmbedFont = async (url?: string) => {
+    if (!url) return null;
+    try {
+      const res = await fetch(url);
+      const bytes = await res.arrayBuffer();
+      return await pdfDoc.embedFont(bytes);
+    } catch {
+      return null;
+    }
+  };
+
+  if (brand?.fontBody) {
+    const embedded = await tryEmbedFont(brand.fontBody);
+    if (embedded) customFont = embedded;
+  }
+  if (brand?.fontHeading) {
+    const embedded = await tryEmbedFont(brand.fontHeading);
+    if (embedded) customFontBold = embedded;
+  }
+
+  // Colors from brand tokens
+  const primaryHex = brand?.primaryColor || '#0A1931';
+  const accentHex = brand?.accentColor || '#00CFFF';
+  const secondaryHex = brand?.secondaryColor || '#0A1931';
+
+  const hexToRgb = (hex: string) => {
+    const clean = hex.replace('#', '');
+    const num = parseInt(clean, 16);
+    const r = ((num >> 16) & 255) / 255;
+    const g = ((num >> 8) & 255) / 255;
+    const b = (num & 255) / 255;
+    return rgb(r, g, b);
+  };
+
+  const primary = hexToRgb(primaryHex);
+  const accent = hexToRgb(accentHex);
+  const secondary = hexToRgb(secondaryHex);
+
+  // Embed logo if provided via brand tokens
+  let logoImage;
+  if (brand?.logoUrl) {
+    try {
+      const logoRes = await fetch(brand.logoUrl);
+      const logoBytes = await logoRes.arrayBuffer();
+      const logoExt = brand.logoUrl.split('.').pop()?.toLowerCase();
+      if (logoExt === 'png') {
+        logoImage = await pdfDoc.embedPng(logoBytes);
+      } else if (logoExt === 'jpg' || logoExt === 'jpeg') {
+        logoImage = await pdfDoc.embedJpg(logoBytes);
+      }
+    } catch {
+      // Logo loading failed; continue without logo
+    }
+  }
+
+  // Cover page
+  if (logoImage) {
+    const logoDims = logoImage.scale(0.5);
+    page.drawImage(logoImage, {
+      x: 50,
+      y: height - 80,
+      width: logoDims.width,
+      height: logoDims.height,
+    });
+  }
+
+  page.drawText('PND Studio', {
+    x: 50,
+    y: height - 100,
+    size: 32,
+    font: customFontBold,
+    color: primary,
+  });
+
+  page.drawText(`Proposal for ${proposal.clientName}`, {
+    x: 50,
+    y: height - 160,
+    size: 24,
+    font: customFontBold,
+    color: primary,
+  });
+
+  page.drawText(proposal.dealThesis || 'Deal thesis will appear here', {
+    x: 50,
+    y: height - 220,
+    size: 16,
+    font: customFont,
+    color: rgb(0.1, 0.1, 0.1),
+    maxWidth: width - 100,
+  });
+
+  // Section: Call Insights
+  let y = height - 300;
+  page.drawText('Call Insights Snapshot', {
+    x: 50,
+    y,
+    size: 18,
+    font: customFontBold,
+    color: primary,
+  });
+  y -= 30;
+  (proposal.insights || []).forEach((insight: string) => {
+    page.drawText(`• ${insight}`, {
+      x: 70,
+      y,
+      size: 14,
+      font: customFont,
+      color: rgb(0.1, 0.1, 0.1),
+      maxWidth: width - 120,
+    });
+    y -= 22;
+  });
+
+  // Section: Problem → Opportunity
+  y -= 20;
+  page.drawText('Problem → Opportunity', {
+    x: 50,
+    y,
+    size: 18,
+    font: customFontBold,
+    color: primary,
+  });
+  y -= 30;
+  page.drawText(proposal.problemStatement || 'Problem statement will appear here', {
+    x: 70,
+    y,
+    size: 14,
+    font: customFont,
+    color: rgb(0.1, 0.1, 0.1),
+    maxWidth: width - 120,
+  });
+
+  // Section: Proposed Approach
+  y -= 40;
+  page.drawText('Proposed Approach & Outcomes', {
+    x: 50,
+    y,
+    size: 18,
+    font: customFontBold,
+    color: primary,
+  });
+  y -= 30;
+  (proposal.approach || []).forEach((item: string) => {
+    page.drawText(`• ${item}`, {
+      x: 70,
+      y,
+      size: 14,
+      font: customFont,
+      color: rgb(0.1, 0.1, 0.1),
+      maxWidth: width - 120,
+    });
+    y -= 22;
+  });
+
+  // Section: Investment & Next Step
+  y -= 40;
+  page.drawText('Investment & Next Step', {
+    x: 50,
+    y,
+    size: 18,
+    font: customFontBold,
+    color: primary,
+  });
+  y -= 30;
+  page.drawText(proposal.investment || 'Investment details will appear here', {
+    x: 70,
+    y,
+    size: 14,
+    font: customFont,
+    color: rgb(0.1, 0.1, 0.1),
+    maxWidth: width - 120,
+  });
+
+  // Footer with branding
+  page.drawText('Generated by PND Studio', {
+    x: 50,
+    y: 40,
+    size: 10,
+    font: customFont,
+    color: rgb(0.5, 0.5, 0.5),
+  });
+
+  const pdfBytes = await pdfDoc.save();
+  return pdfBytes;
+}
+
+/**
+ * Generates a PDF using react-pdf (alternative approach).
+ * Requires a React component as input — see ProposalPDFDocument.tsx.
+ */
+export async function generateProposalPDFReact(proposal: ProposalData): Promise<Uint8Array> {
+  // TODO: Implement using @react-pdf/renderer
+  // import { renderToStream } from '@react-pdf/renderer';
+  // const stream = await renderToStream(<ProposalPDFDocument proposal={proposal} />);
+  // const chunks: Uint8Array[] = [];
+  // for await (const chunk of stream) chunks.push(chunk);
+  // return Buffer.concat(chunks);
+  throw new Error('Not implemented — use pdf-lib version for now');
+}

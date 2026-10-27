@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Medical Insurance Quotation Comparator — MVP</title>
+<style>
+  :root{--ink:#0f172a;--muted:#64748b;--border:#e2e8f0;--accent:#0ea5e9;--bg:#f8fafc;--card:#ffffff;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;padding:24px}
+  .max-w{max-width:1000px;margin:0 auto}
+  header{display:flex;align-items:center;gap:10px;margin-bottom:6px}
+  h1{font-size:19px;font-weight:700}
+  .tag{font-size:11px;color:#0369a1;background:#e0f2fe;border:1px solid #bae6fd;padding:1px 8px;border-radius:999px}
+  .lead{color:var(--muted);font-size:13.5px;margin-bottom:18px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px;margin-bottom:16px;box-shadow:0 1px 2px rgba(0,0,0,0.04)}
+  .section-title{font-size:12px;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;display:flex;align-items:center;gap:8px;justify-content:space-between}
+  .uw-title{font-weight:700;text-transform:none;letter-spacing:normal;color:var(--ink)}
+  .grid{display:grid;gap:10px}
+  .grid-3{grid-template-columns:repeat(3,1fr)}
+  .grid-2{grid-template-columns:repeat(2,1fr)}
+  label{display:block;font-size:12px;font-weight:600;color:var(--ink);margin-bottom:3px}
+  input,select,textarea{width:100%;padding:7px 9px;border:1px solid var(--border);border-radius:8px;background:#fff;font-size:13px;color:var(--ink)}
+  input:focus,select:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+  .row-label{font-weight:700;font-size:12px;margin-bottom:6px}
+  .hint{font-size:11.5px;color:var(--muted);margin-top:3px}
+  button.compare{background:var(--ink);color:#fff;border:none;border-radius:8px;padding:11px 18px;font-size:14px;font-weight:700;cursor:pointer}
+  button.compare:focus{outline:2px solid var(--ink);outline-offset:2px}
+  button.compare:hover{opacity:0.9}
+  button.secondary{background:#fff;border:1px solid var(--border);color:var(--ink);border-radius:8px;padding:7px 13px;font-size:12.5px;cursor:pointer}
+  button.secondary:focus{outline:2px solid var(--accent);outline-offset:1px}
+  button.secondary:hover{border-color:var(--accent);color:var(--accent)}
+  button.remove{color:#ef4444;padding:6px 10px}
+  button.remove:focus{outline:2px solid #ef4444;outline-offset:1px}
+  .table-wrap{overflow-x:auto;margin-top:8px}
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  th,td{border:1px solid var(--border);padding:7px 9px;text-align:left;vertical-align:top}
+  th{background:#f1f5f9;font-weight:700;color:var(--muted);position:sticky;top:0;z-index:1}
+  td.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px}
+  .accent-col{background:#f0fdf4}
+  .disclaimer{border:1px solid var(--border);background:#f8fafc;border-radius:8px;padding:11px 15px;font-size:11.5px;color:var(--muted);margin-top:8px}
+  .no-print{display:block}
+  @media print{body{background:#fff;padding:0}.no-print{display:none}#results{display:block}table{border-color:#94a3b8}}
+</style>
+</head>
+<body>
+<div class="max-w">
+  <header>
+    <h1>Medical Insurance Quotation Comparator</h1>
+    <span class="tag">MVP v1 · Kevin Osiga</span>
+  </header>
+  <p class="lead">Enter client details and two to four underwriter quotations to generate a side-by-side comparison for your client. Medical insurance only.</p>
+
+  <div class="card no-print">
+    <div class="section-title">Client details</div>
+    <div class="grid grid-3">
+      <div><label for="c-name">Client name</label><input id="c-name" placeholder="e.g. Jane Wanjiku"></div>
+      <div><label for="c-age">Client age</label><input id="c-age" type="number" placeholder="e.g. 34"></div>
+      <div><label for="c-sum">Sum insured (KSh)</label><input id="c-sum" type="number" placeholder="e.g. 1000000"></div>
+    </div>
+    <div class="grid grid-2" style="margin-top:10px">
+      <div><label for="c-loc">Location (county)</label><input id="c-loc" placeholder="e.g. Nairobi"></div>
+      <div><label for="c-pec">Pre-existing conditions</label><input id="c-pec" placeholder="e.g. none declared"></div>
+    </div>
+  </div>
+
+  <div class="card no-print">
+    <div class="section-title">
+      Underwriter quotations
+      <button type="button" class="secondary" id="add-underwriter" onclick="app.addUnderwriter()">+ Add underwriter</button>
+    </div>
+    <div id="underwriters"></div>
+  </div>
+
+  <div class="card no-print" style="text-align:right">
+    <button type="button" class="compare" id="compare-btn" onclick="app.compare()">Generate comparison</button>
+  </div>
+
+  <div id="results" class="card" style="display:none">
+    <div class="section-title">
+      Comparison results
+      <button type="button" class="secondary print-only" onclick="window.print()">Print / Save PDF</button>
+    </div>
+    <div id="client-summary" style="font-size:12.5px;color:var(--muted);margin-bottom:8px"></div>
+    <div class="table-wrap">
+      <table id="compare-table">
+        <thead><tr><th style="width:24%">Benefit / detail</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="disclaimer">For price comparison purposes only. Final terms are subject to each underwriter's policy document. This tool does not constitute financial or insurance advice.</div>
+  </div>
+</div>
+<script>
+(function(){
+  const MAX_UW=4;
+  const BENEFITS=['Inpatient cover','Outpatient','Dental','Maternity','Optical','Wellness &amp; checkups','Waiting period (pre-existing)','Exclusions'];
+  const SEED_NAMES=['Jubilee Insurance','Britam Insurance'];
+  let uwCount=0;
+
+  function esc(t){return t==null?'':String(t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"}[c]));}
+  function escAttr(t){return esc(t).replace(/"/g,'&quot;');}
+  function money(v){v=Number(v);return isNaN(v)?'—':'KSh '+Number(v).toLocaleString();}
+
+  function underwriterHtml(i,name){
+    const bm=BENEFITS.map((b,bi)=>`<div><label for="uw-benefit-${i}-${bi}" style="font-size:11.5px">${esc(b)}</label><input id="uw-benefit-${i}-${bi}" class="uw-benefit" data-benefit="${escAttr(b)}" placeholder="sub-limit / terms"></div>`).join('');
+    return `<div class="uw-card card" data-i="${i}">
+      <div class="section-title" style="justify-content:space-between;align-items:center">
+        <span class="uw-title">Underwriter ${i+1}</span>
+        <button type="button" class="secondary remove" data-i="${i}">Remove</button>
+      </div>
+      <div class="grid grid-3">
+        <div><label for="uw-name-${i}">Underwriter name</label><input id="uw-name-${i}" class="uw-name" value="${escAttr(name)}"></div>
+        <div><label for="uw-plan-${i}">Plan / tier</label><input id="uw-plan-${i}" class="uw-plan" placeholder="e.g. Platinum"></div>
+        <div><label for="uw-premium-${i}">Annual premium (KSh)</label><input id="uw-premium-${i}" class="uw-premium" type="number" placeholder="e.g. 120000"></div>
+      </div>
+      <div class="row-label" style="margin-top:9px">Benefits &amp; sub-limits</div>
+      <div class="grid grid-3">${bm}</div>
+    </div>`;
+  }
+
+  function renderUnderwriters(){
+    const wrap=document.getElementById('underwriters');
+    wrap.innerHTML='';
+    for(let i=0;i<uwCount;i++) wrap.insertAdjacentHTML('beforeend',underwriterHtml(i,SEED_NAMES[i]||''));
+    document.getElementById('add-underwriter').disabled=uwCount>=MAX_UW;
+    document.querySelectorAll('.uw-card .remove').forEach(btn=>{
+      btn.onclick=function(){app.removeUnderwriter(Number(this.dataset.i));};
+    });
+  }
+
+  window.app={
+    addUnderwriter(){
+      if(uwCount>=MAX_UW)return;
+      uwCount++;
+      renderUnderwriters();
+    },
+    removeUnderwriter(idx){
+      if(uwCount<=2)return;
+      const card=document.querySelector(`.uw-card[data-i="${idx}"]`);
+      if(card) card.remove();
+      uwCount--;
+      renderUnderwriters();
+    },
+    compare(){
+      const cname=document.getElementById('c-name').value.trim();
+      const cage=document.getElementById('c-age').value.trim();
+      const csum=document.getElementById('c-sum').value.trim();
+      const cloc=document.getElementById('c-loc').value.trim();
+      const cpec=document.getElementById('c-pec').value.trim();
+
+      const cards=document.querySelectorAll('.uw-card');
+      const uws=[];
+      cards.forEach(card=>{
+        const name=card.querySelector('.uw-name').value.trim();
+        const plan=card.querySelector('.uw-plan').value.trim();
+        const premium=card.querySelector('.uw-premium').value.trim();
+        const benefits={};
+        card.querySelectorAll('.uw-benefit').forEach(inp=>{benefits[inp.dataset.benefit]=inp.value.trim();});
+        if(name||premium||plan||Object.values(benefits).some(v=>v)) uws.push({name,plan,premium,benefits});
+      });
+
+      if(!cname){alert('Please enter a client name.');return;}
+      if(uws.length<2){alert('Please enter at least two underwriter quotations.');return;}
+
+      document.getElementById('client-summary').innerHTML=
+        `<strong>Client:</strong> ${esc(cname)} &nbsp;|&nbsp; Age: ${esc(cage)||'—'} &nbsp;|&nbsp; Sum insured: ${money(csum)} &nbsp;|&nbsp; Location: ${esc(cloc)||'—'} &nbsp;|&nbsp; PEC: ${esc(cpec)||'—'}`;
+
+      const theadTr=document.querySelector('#compare-table thead tr');
+      theadTr.innerHTML='<th style="width:24%">Benefit / detail</th>'+uws.map(u=>`<th>${esc(u.name)}</th>`).join('');
+      const tbody=document.querySelector('#compare-table tbody');
+      tbody.innerHTML='';
+
+      const rows=[{label:'Annual premium',render:u=>money(u.premium),cls:'accent-col'},
+                  {label:'Plan / tier',render:u=>esc(u.plan||'—')},
+                  ...BENEFITS.map(b=>({label:b,render:u=>esc(u.benefits[b]||'—')}))];
+      rows.forEach(r=>{
+        let html=`<tr><td style="font-weight:600;background:#f8fafc"${r.cls?' class="'+r.cls+'"':''}>${esc(r.label)}</td>`;
+        uws.forEach(u=>{html+=`<td class="mono">${r.render(u)}</td>`;});
+        html+='</tr>';
+        tbody.insertAdjacentHTML('beforeend',html);
+      });
+
+      document.getElementById('results').style.display='block';
+      document.getElementById('results').scrollIntoView({behavior:'smooth'});
+    }
+  };
+
+  uwCount=2;
+  renderUnderwriters();
+})();
+</script>
+</body>
+</html>

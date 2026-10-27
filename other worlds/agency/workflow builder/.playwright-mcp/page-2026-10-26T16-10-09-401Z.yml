@@ -1,0 +1,146 @@
+- generic [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e3]: Nairobi Trendz
+    - generic [ref=f2e6]: DEMO MODE — sample catalogue & illustrative stock
+  - main [ref=f2e7]:
+    - generic [ref=f2e8]:
+      - generic [ref=f2e9]:
+        - generic [ref=f2e10]: Z
+        - generic [ref=f2e11]:
+          - generic [ref=f2e12]: Nairobi Trendz — Zara
+          - generic [ref=f2e13]: DEMO · CUSTOMER_DETAILS
+        - generic [ref=f2e15]: DEMO AVAILABLE
+      - generic [ref=f2e16]:
+        - generic [ref=f2e18]:
+          - generic [ref=f2e19]: Hi, welcome to Nairobi Trendz 👋
+          - text: I'm Zara, your shopping assistant. I can answer questions, show products, take your order, and help you pay with M-Pesa.
+          - generic [ref=f2e20]: What are you looking for today?
+          - generic [ref=f2e21]: GREETING
+        - generic [ref=f2e98]: sneakers
+        - generic [ref=f2e101]:
+          - generic [ref=f2e102]: "Here's what we have in stock:"
+          - generic [ref=f2e103]:
+            - img "Premium Tech Sneakers" [ref=f2e104]
+            - generic [ref=f2e105]:
+              - generic [ref=f2e106]: Premium Tech Sneakers
+              - generic [ref=f2e107]: KES 4500
+              - generic [ref=f2e108]: "Sizes: EU 38, EU 40, EU 42, EU 44"
+              - generic [ref=f2e109]: "In stock: 12"
+          - generic [ref=f2e110]: Want me to add one to your cart? Just say “add [item]” or tell me which size.
+          - generic [ref=f2e111]: PRODUCT SELECTED
+        - generic [ref=f2e112]: sneakers
+        - generic [ref=f2e115]:
+          - generic [ref=f2e116]: Premium Tech Sneakers
+          - text: "Sizes available: EU 38, EU 40, EU 42, EU 44. Which size? (price KES 4500)"
+          - generic [ref=f2e117]: VARIANT SELECTION
+        - generic [ref=f2e118]: EU 40
+        - generic [ref=f2e121]:
+          - generic [ref=f2e122]: "Added to cart:"
+          - text: Premium Tech Sneakers × 1 (eu 40) 1 item in cart. Would you like to add more or proceed to delivery?
+          - generic [ref=f2e123]: CART BUILDING
+        - generic [ref=f2e136]: CBD
+        - generic [ref=f2e139]:
+          - text: "Your cart: Premium Tech Sneakers × 1. Ready for delivery details?"
+          - generic [ref=f2e140]: CART_BUILDING
+        - generic [ref=f2e150]: delivery
+        - generic [ref=f2e153]:
+          - text: Where would you like delivery? CBD (KES 150) · Nairobi Suburbs (KES 300) · Upcountry (KES 450) Tell me your area — CBD, Nairobi Suburbs, or Upcountry.
+          - generic [ref=f2e154]: DELIVERY SELECTION
+        - generic [ref=f2e164]: CBD
+        - generic [ref=f2e167]:
+          - text: Delivery to CBD — fee KES 150. Now I need your name and phone number for the delivery.
+          - generic [ref=f2e168]: CUSTOMER DETAILS
+      - generic [ref=f2e124]:
+        - generic [ref=f2e125]: Your Cart
+        - generic [ref=f2e126]:
+          - generic [ref=f2e169]:
+            - generic [ref=f2e170]: Premium Tech Sneakers × 1 · eu 40
+            - generic [ref=f2e171]: KES 4500
+          - generic [ref=f2e172]:
+            - generic [ref=f2e173]: Subtotal
+            - generic [ref=f2e174]: KES 4500
+          - generic [ref=f2e175]:
+            - generic [ref=f2e176]: Delivery (CBD)
+            - generic [ref=f2e177]: KES 150
+          - generic [ref=f2e178]:
+            - generic [ref=f2e179]: Total
+            - generic [ref=f2e180]: KES 4650
+      - generic [ref=f2e22]:
+        - button "Reset" [ref=f2e23] [cursor=pointer]
+        - textbox "Type a message…" [ref=f2e24]
+        - button "Send" [active] [ref=f2e25] [cursor=pointer]
+        - button "Simulate M-Pesa verify" [ref=f2e28] [cursor=pointer]
+      - generic [ref=f2e29]:
+        - link "Order via WhatsApp (demo)" [ref=f2e30] [cursor=pointer]:
+          - /url: "#"
+        - text: Simulated channel — no live WhatsApp reply in demo.
+    - generic [ref=f2e31]:
+      - generic [ref=f2e32]:
+        - generic [ref=f2e33]:
+          - generic [ref=f2e34]: Owner Dashboard
+          - generic [ref=f2e35]: Auto-updates when a demo order is created
+        - generic [ref=f2e36]: DEMO
+      - generic [ref=f2e37]:
+        - generic [ref=f2e38]:
+          - generic [ref=f2e39]: "0"
+          - generic [ref=f2e40]: Total Orders
+        - generic [ref=f2e41]:
+          - generic [ref=f2e42]: "0"
+          - generic [ref=f2e43]: Paid
+        - generic [ref=f2e44]:
+          - generic [ref=f2e45]: "0"
+          - generic [ref=f2e46]: Pending
+      - generic [ref=f2e47]:
+        - textbox "Search by name, phone, or zone…" [ref=f2e48]
+        - table [ref=f2e50]:
+          - rowgroup [ref=f2e51]:
+            - row [ref=f2e52]:
+              - columnheader "Timestamp" [ref=f2e53]
+              - columnheader "Customer Name" [ref=f2e54]
+              - columnheader "Phone" [ref=f2e55]
+              - columnheader "Items Ordered" [ref=f2e56]
+              - columnheader "Delivery Zone" [ref=f2e57]
+              - columnheader "Total Paid (KES)" [ref=f2e58]
+              - columnheader "Sync Status" [ref=f2e59]
+          - rowgroup [ref=f2e60]:
+            - row [ref=f2e61]:
+              - cell "No orders yet" [ref=f2e62]
+        - paragraph [ref=f2e63]: Total Paid (KES) stays 0 until a trusted M-Pesa verification event confirms payment. Sync Status only reads SYNCED TO GOOGLE SHEETS after a genuine Sheets write is confirmed.
+  - generic [ref=f2e65]:
+    - 'heading "Sample Storefront — ${\"\"}" [level=2] [ref=f2e66]'
+    - generic [ref=f2e67]:
+      - generic [ref=f2e68]:
+        - img "Premium Tech Sneakers" [ref=f2e69]
+        - generic [ref=f2e70]: Premium Tech Sneakers
+        - generic [ref=f2e71]: KES 4500
+        - generic [ref=f2e72]: "Sizes: EU 38, EU 40, EU 42, EU 44"
+        - link "Enquire" [ref=f2e73] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f2e74]:
+        - img "Slim-Fit Stretch Jeans" [ref=f2e75]
+        - generic [ref=f2e76]: Slim-Fit Stretch Jeans
+        - generic [ref=f2e77]: KES 2200
+        - generic [ref=f2e78]: "Sizes: 30, 32, 34, 36"
+        - link "Enquire" [ref=f2e79] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f2e80]:
+        - img "Heavyweight T-Shirt" [ref=f2e81]
+        - generic [ref=f2e82]: Heavyweight T-Shirt
+        - generic [ref=f2e83]: KES 1500
+        - generic [ref=f2e84]: "Sizes: S, M, L, XL"
+        - link "Enquire" [ref=f2e85] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f2e86]:
+        - img "Linen Summer Dress" [ref=f2e87]
+        - generic [ref=f2e88]: Linen Summer Dress
+        - generic [ref=f2e89]: KES 3800
+        - generic [ref=f2e90]: "Sizes: S, M, L, XL"
+        - link "Enquire" [ref=f2e91] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f2e92]:
+        - img "Leather Crossbody Bag" [ref=f2e93]
+        - generic [ref=f2e94]: Leather Crossbody Bag
+        - generic [ref=f2e95]: KES 5200
+        - link "Enquire" [ref=f2e96] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f2e97]: Product images are illustrative placeholders, not live retailer stock.

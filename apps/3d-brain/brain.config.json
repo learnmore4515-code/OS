@@ -1,0 +1,20 @@
+{
+  "name": "Kim Second Brain",
+  "port": 4640,
+  "root": "../..",
+  "maxNodes": 3000,
+  "sources": [
+    {"id": "context", "label": "Context", "paths": ["context"], "color": "#38BDF8", "type": "markdown", "staleDays": 90},
+    {"id": "references", "label": "References", "paths": ["references"], "color": "#FB923C", "type": "markdown", "staleDays": 90},
+    {"id": "decisions", "label": "Decisions", "paths": ["decisions"], "color": "#F472B6", "type": "markdown", "staleDays": 90},
+    {"id": "connections", "label": "Connections", "paths": ["connections.md"], "color": "#FACC15", "type": "markdown", "staleDays": 90},
+    {"id": "docs", "label": "Docs", "paths": ["docs"], "color": "#60A5FA", "type": "markdown", "staleDays": 90},
+    {"id": "tools", "label": "Tools", "paths": ["tools"], "color": "#34D399", "type": "markdown", "staleDays": 90},
+    {"id": "scripts", "label": "Scripts", "paths": ["scripts"], "color": "#A78BFA", "type": "markdown", "staleDays": 90},
+    {"id": "skills", "label": "Skills", "paths": [".claude/skills"], "color": "#22C55E", "type": "markdown", "staleDays": 90},
+    {"id": "agents", "label": "Agents", "paths": [".agents/skills"], "color": "#E879F9", "type": "markdown", "staleDays": 90},
+    {"id": "claude-memory", "label": "Claude Memory", "paths": ["C:/Users/profe/.claude/projects/c--Users-profe-Downloads-OS/memory"], "color": "#F97316", "type": "markdown", "staleDays": 90},
+    {"id": "root-files", "label": "Root Files", "paths": ["AGENTS.md","CLAUDE.md","README.md","EXPANSIONS.md","email-skill.md","aios-intake.md"], "color": "#818CF8", "type": "markdown", "staleDays": 90}
+  ],
+  "version": 1
+}

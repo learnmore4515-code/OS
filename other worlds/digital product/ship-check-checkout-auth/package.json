@@ -1,0 +1,26 @@
+{
+  "name": "ship-check-checkout-auth",
+  "version": "1.0.0",
+  "description": "SHIP CHECK: Checkout & Auth Edition - an executable testing toolkit that verifies signup, login, checkout, and paid access before you launch.",
+  "bin": {
+    "shipcheck": "./dist/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/cli.ts",
+    "test": "node --experimental-test-coverage --test",
+    "test:unit": "node --test",
+    "demo:healthy": "cd demo/healthy && npm run dev",
+    "demo:buggy": "cd demo/buggy && npm run dev",
+    "e2e": "playwright test"
+  },
+  "keywords": ["testing", "checkout", "auth", "stripe", "supabase", "playwright", "saas"],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "@playwright/test": "1.62.1",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.0",
+    "tsx": "^4.19.0"
+  }
+}

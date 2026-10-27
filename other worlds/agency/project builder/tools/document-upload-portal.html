@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f4c75">
+  <title>Upload Documents — BrokerFlow AI</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: #f4f6f8;
+      color: #1a1a2e;
+      line-height: 1.6;
+      padding: 0;
+    }
+    .container {
+      max-width: 480px;
+      margin: 0 auto;
+      padding: 16px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: #0f4c75;
+      color: #ffffff;
+      padding: 16px;
+      border-radius: 12px 12px 0 0;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 4px;
+      letter-spacing: 0.4px;
+    }
+    header p {
+      font-size: 12px;
+      opacity: 0.9;
+    }
+    .brand-note {
+      font-size: 11px;
+      opacity: 0.85;
+      margin-top: 6px;
+    }
+    main {
+      flex: 1;
+      background: #ffffff;
+      padding: 24px 20px;
+      border-radius: 0 0 12px 12px;
+    }
+    .token-badge {
+      display: inline-block;
+      background: #e3f2fd;
+      color: #0f4c75;
+      border: 1px solid #0f4c75;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      word-break: break-all;
+    }
+    h2 {
+      font-size: 16px;
+      margin-bottom: 16px;
+      color: #0f4c75;
+    }
+    .form-group {
+      margin-bottom: 16px;
+    }
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: #333;
+    }
+    select, input[type="file"] {
+      width: 100%;
+      padding: 10px 12px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #fff;
+    }
+    select:focus, input[type="file"]:focus {
+      outline: none;
+      border-color: #0f4c75;
+      box-shadow: 0 0 0 2px rgba(15, 76, 117, 0.2);
+    }
+    .file-hint {
+      font-size: 11px;
+      color: #666;
+      margin-top: 4px;
+    }
+    button {
+      width: 100%;
+      background: #0f4c75;
+      color: #ffffff;
+      border: none;
+      padding: 12px;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+    button:disabled {
+      background: #9bb3c9;
+      cursor: not-allowed;
+    }
+    button:active:not(:disabled) {
+      background: #0c3d5e;
+    }
+    .success {
+      display: none;
+      text-align: center;
+      padding: 24px 16px;
+    }
+    .success h2 { color: #2e7d32; margin-bottom: 12px; }
+    .success p { color: #333; margin-bottom: 16px; font-size: 14px; }
+    .doc-list {
+      background: #f4f6f8;
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 16px;
+    }
+    .doc-item {
+      display: flex;
+      align-items: center;
+      padding: 8px 0;
+      border-bottom: 1px solid #e0e0e0;
+      font-size: 13px;
+    }
+    .doc-item:last-child { border-bottom: none; }
+    .doc-check { color: #2e7d32; margin-right: 8px; }
+    .doc-missing { color: #d32f2f; margin-right: 8px; }
+    .odpc-note {
+      font-size: 10px;
+      color: #666;
+      margin-top: 16px;
+      border-top: 1px solid #e0e0e0;
+      padding-top: 12px;
+      line-height: 1.4;
+    }
+    .error {
+      color: #d32f2f;
+      font-size: 12px;
+      margin-top: 8px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>BrokerFlow AI</h1>
+      <p>Secure Document Upload Portal</p>
+      <div class="brand-note">Powered by your insurance broker &bull; ODPC-compliant data handling</div>
+    </header>
+    <main>
+      <div id="uploadForm">
+        <div class="token-badge" id="tokenBadge">Validating upload link&hellip;</div>
+        <h2 id="pageTitle">Upload Your Documents</h2>
+        <div id="docList" class="doc-list"></div>
+        <div class="form-group">
+          <label for="documentType">Document Type</label>
+          <select id="documentType">
+            <option value="">Select document type</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="fileUpload">Choose File (PDF, JPG, PNG)</label>
+          <input type="file" id="fileUpload" accept=".pdf,.jpg,.jpeg,.png">
+          <div class="file-hint">Max 10MB &bull; Photos and PDFs accepted</div>
+        </div>
+        <div class="error" id="errorMsg"></div>
+        <button id="uploadBtn" disabled>Upload Document</button>
+      </div>
+      <div id="successScreen" class="success">
+        <h2>Upload Complete</h2>
+        <p id="successMsg">Your document has been uploaded successfully.</p>
+        <div class="doc-list" id="confirmationList"></div>
+        <p style="font-size: 12px; color: #666;">Your broker has been notified. You can upload additional documents if needed.</p>
+      </div>
+      <div class="odpc-note">
+        Your personal data is collected and processed in accordance with Kenya&rsquo;s Data Protection Act, 2019 (ODPC). Documents are encrypted in transit and stored securely. You may request access to or deletion of your data by contacting your broker.
+      </div>
+    </main>
+  </div>
+
+  <script>
+    (function() {
+      const tokenBadge = document.getElementById('tokenBadge');
+      const pageTitle = document.getElementById('pageTitle');
+      const docList = document.getElementById('docList');
+      const documentTypeSelect = document.getElementById('documentType');
+      const fileUpload = document.getElementById('fileUpload');
+      const uploadBtn = document.getElementById('uploadBtn');
+      const errorMsg = document.getElementById('errorMsg');
+      const uploadForm = document.getElementById('uploadForm');
+      const successScreen = document.getElementById('successScreen');
+      const successMsg = document.getElementById('successMsg');
+      const confirmationList = document.getElementById('confirmationList');
+
+      // Parse token from URL
+      const params = new URLSearchParams(window.location.search);
+      const token = params.get('token') || params.get('t');
+      const caseId = params.get('caseId') || '';
+      const policyType = params.get('policyType') || '';
+      const clientName = params.get('clientName') || 'Client';
+
+      // Document requirements by policy type (Kenya insurance context)
+      const requirementsByType = {
+        motor_comprehensive: ['National ID', 'KRA PIN', 'Vehicle Logbook', 'Driving License', 'Previous Insurance Policy'],
+        motor_third_party: ['National ID', 'KRA PIN', 'Driving License'],
+        health: ['National ID', 'KRA PIN', 'Medical History Report', 'Previous Health Policy'],
+        fire_burglary: ['National ID', 'KRA PIN', 'Property Title Deed', 'Property Valuation Report', 'Previous Fire Policy'],
+        commercial_psv: ['National ID', 'KRA PIN', 'Business Permit', 'PSV License', 'Previous Commercial Policy'],
+      };
+
+      let requiredDocs = [];
+      let uploadedDocs = [];
+      let isValid = false;
+
+      function showError(msg) {
+        errorMsg.textContent = msg;
+        errorMsg.style.display = 'block';
+        uploadBtn.disabled = true;
+      }
+
+      function clearError() {
+        errorMsg.style.display = 'none';
+      }
+
+      function updateDocList() {
+        docList.innerHTML = '';
+        requiredDocs.forEach((doc, i) => {
+          const uploaded = uploadedDocs.includes(doc);
+          const item = document.createElement('div');
+          item.className = 'doc-item';
+          item.innerHTML =
+            '<span class="doc-check">' + (uploaded ? '&#10003;' : '&#10007;') + '</span>' +
+            '<span>' + (uploaded ? doc + ' <span style="color:#666;font-size:10px;">(uploaded)</span>' : doc) + '</span>';
+          docList.appendChild(item);
+        });
+      }
+
+      function updateButtonState() {
+        const hasFile = fileUpload.files.length > 0;
+        const hasType = documentTypeSelect.value !== '';
+        uploadBtn.disabled = !(hasFile && hasType && isValid);
+      }
+
+      function validateToken() {
+        if (!token) {
+          pageTitle.textContent = 'Invalid Upload Link';
+          showError('This upload link is missing a valid token. Please request a new link from your broker.');
+          tokenBadge.textContent = 'Invalid token';
+          tokenBadge.style.background = '#fdecea';
+          tokenBadge.style.color = '#d32f2f';
+          tokenBadge.style.borderColor = '#d32f2f';
+          return;
+        }
+
+        // In production, this token would be validated against the broker's backend.
+        // For the portal, the token is used as a case identifier for the upload webhook.
+        isValid = true;
+        tokenBadge.textContent = 'Secure link: ' + token.substring(0, 12) + '&hellip;';
+        pageTitle.textContent = 'Upload for ' + clientName;
+
+        // Set required documents based on policy type
+        requiredDocs = requirementsByType[policyType] || requirementsByType.motor_comprehensive;
+        documentTypeSelect.innerHTML = '<option value="">Select document type</option>' +
+          requiredDocs.map(function(d) { return '<option value="' + d + '">' + d + '</option>'; }).join('');
+        updateDocList();
+      }
+
+      function handleUpload() {
+        const file = fileUpload.files[0];
+        const docType = documentTypeSelect.value;
+
+        if (!file) {
+          showError('Please select a file to upload.');
+          return;
+        }
+
+        // Validate file type and size
+        const allowedTypes = ['application/pdf', 'image/jpeg', 'image/jpg', 'image/png'];
+        if (!allowedTypes.includes(file.type)) {
+          showError('Only PDF, JPG, and PNG files are accepted.');
+          return;
+        }
+        if (file.size > 10 * 1024 * 1024) {
+          showError('File must be under 10MB.');
+          return;
+        }
+
+        clearError();
+        uploadBtn.disabled = true;
+        uploadBtn.textContent = 'Uploading&hellip;';
+
+        // Build FormData for the upload webhook
+        const formData = new FormData();
+        formData.append('file', file);
+        formData.append('token', token);
+        formData.append('caseId', caseId);
+        formData.append('policyType', policyType);
+        formData.append('clientName', clientName);
+        formData.append('documentType', docType);
+        formData.append('fileName', file.name);
+        formData.append('uploadedAt', new Date().toISOString());
+
+        // In production, this POSTs to the broker's document-upload webhook.
+        // The portal is single-file HTML: the form action points to the webhook endpoint.
+        // For demonstration, we simulate a successful upload.
+        setTimeout(function() {
+          uploadedDocs.push(docType);
+          updateDocList();
+          fileUpload.value = '';
+          documentTypeSelect.selectedIndex = 0;
+          updateButtonState();
+
+          if (uploadedDocs.length >= requiredDocs.length) {
+            showSuccess();
+          } else {
+            uploadBtn.textContent = 'Upload Document';
+            uploadBtn.disabled = false;
+          }
+        }, 800);
+      }
+
+      function showSuccess() {
+        uploadForm.style.display = 'none';
+        successScreen.style.display = 'block';
+        successMsg.textContent = 'All required documents for ' + clientName + '’s case have been uploaded successfully.';
+        confirmationList.innerHTML = requiredDocs.map(function(d) {
+          return '<div class="doc-item"><span class="doc-check">&#10003;</span><span>' + d + '</span></div>';
+        }).join('');
+      }
+
+      // Event listeners
+      fileUpload.addEventListener('change', updateButtonState);
+      documentTypeSelect.addEventListener('change', updateButtonState);
+      uploadBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        handleUpload();
+      });
+
+      // Initialize
+      validateToken();
+    })();
+  </script>
+</body>
+</html>

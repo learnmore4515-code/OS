@@ -1,0 +1,1550 @@
+# Transcript: c2C_SbZk6iI
+Language: en
+
+[0.0s - 1.5s] If you can build AI workflows, but you
+[1.5s - 1.5s] If you can build AI workflows, but you
+[1.5s - 2.8s] If you can build AI workflows, but you still can't sign a client, then this
+[2.8s - 2.8s] still can't sign a client, then this
+[2.8s - 3.8s] still can't sign a client, then this video is for you because I'm going to
+[3.8s - 3.8s] video is for you because I'm going to
+[3.8s - 5.1s] video is for you because I'm going to show you how to land your first AI
+[5.1s - 5.1s] show you how to land your first AI
+[5.1s - 6.8s] show you how to land your first AI workflow client in just seven days. And
+[6.8s - 6.8s] workflow client in just seven days. And
+[6.8s - 8.5s] workflow client in just seven days. And this isn't theory. Christian used this
+[8.5s - 8.5s] this isn't theory. Christian used this
+[8.5s - 10.1s] this isn't theory. Christian used this exact process and signed his first
+[10.1s - 10.1s] exact process and signed his first
+[10.1s - 11.7s] exact process and signed his first client in just 5 days. So, in this
+[11.7s - 11.8s] client in just 5 days. So, in this
+[11.8s - 13.1s] client in just 5 days. So, in this video, he'll break down what he did and
+[13.1s - 13.1s] video, he'll break down what he did and
+[13.1s - 14.6s] video, he'll break down what he did and then I'll show you the exact same method
+[14.6s - 14.6s] then I'll show you the exact same method
+[14.6s - 16.2s] then I'll show you the exact same method step by step so that you can copy it.
+[16.2s - 16.2s] step by step so that you can copy it.
+[16.2s - 18.1s] step by step so that you can copy it. So, let's get into it. All right, guys.
+[18.1s - 18.1s] So, let's get into it. All right, guys.
+[18.1s - 19.6s] So, let's get into it. All right, guys. Today, I'm here with Christian. He's a
+[19.6s - 19.6s] Today, I'm here with Christian. He's a
+[19.6s - 21.4s] Today, I'm here with Christian. He's a member of the community and he's had
+[21.4s - 21.4s] member of the community and he's had
+[21.4s - 23.3s] member of the community and he's had some huge wins inside the community. He
+[23.3s - 23.4s] some huge wins inside the community. He
+[23.4s - 24.9s] some huge wins inside the community. He actually got a client in the first 5
+[24.9s - 25.0s] actually got a client in the first 5
+[25.0s - 26.3s] actually got a client in the first 5 days of joining and going through the
+[26.3s - 26.3s] days of joining and going through the
+[26.3s - 27.7s] days of joining and going through the program. So, I wanted to bring him in
+[27.7s - 27.7s] program. So, I wanted to bring him in
+[27.7s - 29.0s] program. So, I wanted to bring him in today and just kind of highlight his
+[29.0s - 29.0s] today and just kind of highlight his
+[29.0s - 30.5s] today and just kind of highlight his story a little bit and talk about, you
+[30.5s - 30.5s] story a little bit and talk about, you
+[30.5s - 31.8s] story a little bit and talk about, you know, some of his big breakthroughs and
+[31.8s - 31.8s] know, some of his big breakthroughs and
+[31.8s - 33.8s] know, some of his big breakthroughs and how he was able to achieve these wins.
+[33.8s - 33.8s] how he was able to achieve these wins.
+[33.8s - 34.8s] how he was able to achieve these wins. So, Christian, if you want to give
+[34.8s - 34.8s] So, Christian, if you want to give
+[34.8s - 36.1s] So, Christian, if you want to give everyone a real quick intro, a little
+[36.1s - 36.2s] everyone a real quick intro, a little
+[36.2s - 37.4s] everyone a real quick intro, a little bit of your background and, you know,
+[37.4s - 37.4s] bit of your background and, you know,
+[37.4s - 38.9s] bit of your background and, you know, how technical were you before hopping
+[38.9s - 38.9s] how technical were you before hopping
+[38.9s - 40.3s] how technical were you before hopping into this AI space?
+[40.3s - 40.3s] into this AI space?
+[40.3s - 42.8s] into this AI space? >> Yeah, so uh my name is uh Christian. I'm
+[42.8s - 42.8s] >> Yeah, so uh my name is uh Christian. I'm
+[42.8s - 45.4s] >> Yeah, so uh my name is uh Christian. I'm uh 21 years old out here in Arizona. And
+[45.4s - 45.4s] uh 21 years old out here in Arizona. And
+[45.4s - 47.4s] uh 21 years old out here in Arizona. And for me as a background, I've always been
+[47.4s - 47.4s] for me as a background, I've always been
+[47.4s - 49.9s] for me as a background, I've always been kind of techsavvy, always liked doing
+[49.9s - 49.9s] kind of techsavvy, always liked doing
+[49.9s - 52.1s] kind of techsavvy, always liked doing like using the tools. But as far as AI
+[52.1s - 52.1s] like using the tools. But as far as AI
+[52.1s - 54.0s] like using the tools. But as far as AI itself, I was barely introduced this
+[54.0s - 54.0s] itself, I was barely introduced this
+[54.0s - 55.6s] itself, I was barely introduced this year. Like it was back in March when I
+[55.6s - 55.6s] year. Like it was back in March when I
+[55.6s - 57.5s] year. Like it was back in March when I was introduced. So, still fairly new.
+[57.5s - 57.5s] was introduced. So, still fairly new.
+[57.5s - 59.0s] was introduced. So, still fairly new. Once I got introduced, I just got
+[59.0s - 59.0s] Once I got introduced, I just got
+[59.0s - 60.8s] Once I got introduced, I just got obsessed and just started rolling with
+[60.8s - 60.8s] obsessed and just started rolling with
+[60.8s - 62.8s] obsessed and just started rolling with it, but started this about a couple
+[62.8s - 62.8s] it, but started this about a couple
+[62.8s - 64.7s] it, but started this about a couple months ago. Loving the community, loving
+[64.7s - 64.7s] months ago. Loving the community, loving
+[64.7s - 66.5s] months ago. Loving the community, loving all the support and all the guidance
+[66.5s - 66.6s] all the support and all the guidance
+[66.6s - 68.0s] all the support and all the guidance with it, and it's just it's just been
+[68.0s - 68.0s] with it, and it's just it's just been
+[68.0s - 69.0s] with it, and it's just it's just been great ever since I joined.
+[69.0s - 69.0s] great ever since I joined.
+[69.0s - 70.1s] great ever since I joined. >> Awesome, man. Well, yeah, I'm super
+[70.1s - 70.1s] >> Awesome, man. Well, yeah, I'm super
+[70.1s - 71.2s] >> Awesome, man. Well, yeah, I'm super excited to have you here today and just
+[71.2s - 71.2s] excited to have you here today and just
+[71.2s - 72.5s] excited to have you here today and just get to talk about, you know, what got
+[72.5s - 72.6s] get to talk about, you know, what got
+[72.6s - 74.0s] get to talk about, you know, what got you into this space and how you're able
+[74.0s - 74.0s] you into this space and how you're able
+[74.0s - 75.9s] you into this space and how you're able to achieve, you know, these client wins.
+[75.9s - 75.9s] to achieve, you know, these client wins.
+[75.9s - 77.1s] to achieve, you know, these client wins. So, I guess that's the first one to
+[77.1s - 77.1s] So, I guess that's the first one to
+[77.1s - 78.5s] So, I guess that's the first one to start off with. Like, what actually was
+[78.5s - 78.5s] start off with. Like, what actually was
+[78.5s - 80.4s] start off with. Like, what actually was it to you that made you realize like, I
+[80.4s - 80.4s] it to you that made you realize like, I
+[80.4s - 82.1s] it to you that made you realize like, I want to take advantage of this AI
+[82.1s - 82.1s] want to take advantage of this AI
+[82.1s - 83.8s] want to take advantage of this AI opportunity? Once I started getting
+[83.8s - 83.8s] opportunity? Once I started getting
+[83.8s - 84.8s] opportunity? Once I started getting introduced to it and getting more
+[84.8s - 84.8s] introduced to it and getting more
+[84.8s - 86.5s] introduced to it and getting more acquainted with it, I just I love the
+[86.5s - 86.6s] acquainted with it, I just I love the
+[86.6s - 88.1s] acquainted with it, I just I love the possibilities and all the different
+[88.1s - 88.1s] possibilities and all the different
+[88.1s - 90.1s] possibilities and all the different things that you can do with AI. And for
+[90.1s - 90.1s] things that you can do with AI. And for
+[90.1s - 91.7s] things that you can do with AI. And for me about it was about three months ago,
+[91.7s - 91.8s] me about it was about three months ago,
+[91.8s - 93.0s] me about it was about three months ago, I had that light bulb moment. It was
+[93.0s - 93.0s] I had that light bulb moment. It was
+[93.0s - 95.5s] I had that light bulb moment. It was like, what if I can somehow use this in
+[95.5s - 95.5s] like, what if I can somehow use this in
+[95.5s - 97.2s] like, what if I can somehow use this in businesses and help them do that and I
+[97.2s - 97.2s] businesses and help them do that and I
+[97.2s - 99.7s] businesses and help them do that and I can charge them a whatever price, but
+[99.7s - 99.8s] can charge them a whatever price, but
+[99.8s - 102.8s] can charge them a whatever price, but ultimately it'd be solving a rich person
+[102.8s - 102.8s] ultimately it'd be solving a rich person
+[102.8s - 104.5s] ultimately it'd be solving a rich person problem. It was a really cool moment
+[104.5s - 104.5s] problem. It was a really cool moment
+[104.5s - 106.0s] problem. It was a really cool moment really when I found it. So
+[106.0s - 106.0s] really when I found it. So
+[106.0s - 107.7s] really when I found it. So >> 100%. Yeah. So once you kind of found
+[107.7s - 107.7s] >> 100%. Yeah. So once you kind of found
+[107.7s - 109.4s] >> 100%. Yeah. So once you kind of found out you wanted to go down the A
+[109.4s - 109.4s] out you wanted to go down the A
+[109.4s - 111.6s] out you wanted to go down the A automation space and I think NadN was
+[111.6s - 111.6s] automation space and I think NadN was
+[111.6s - 113.5s] automation space and I think NadN was was your big tool as well. What were you
+[113.5s - 113.5s] was your big tool as well. What were you
+[113.5s - 115.0s] was your big tool as well. What were you doing and like how were you trying to
+[115.0s - 115.0s] doing and like how were you trying to
+[115.0s - 116.5s] doing and like how were you trying to find clients before joining the
+[116.5s - 116.5s] find clients before joining the
+[116.5s - 117.0s] find clients before joining the community?
+[117.0s - 117.0s] community?
+[117.0s - 119.6s] community? >> Funny enough um I actually didn't start
+[119.6s - 119.6s] >> Funny enough um I actually didn't start
+[119.6s - 122.3s] >> Funny enough um I actually didn't start using NadN about till about a couple
+[122.3s - 122.3s] using NadN about till about a couple
+[122.3s - 124.2s] using NadN about till about a couple weeks ago. But before that, my other
+[124.2s - 124.2s] weeks ago. But before that, my other
+[124.2s - 125.8s] weeks ago. But before that, my other community that taught me a way to where
+[125.8s - 125.8s] community that taught me a way to where
+[125.8s - 128.6s] community that taught me a way to where we can scrape leads off of LinkedIn,
+[128.6s - 128.6s] we can scrape leads off of LinkedIn,
+[128.6s - 130.7s] we can scrape leads off of LinkedIn, find their emails, generate email bodies
+[130.7s - 130.7s] find their emails, generate email bodies
+[130.7s - 132.7s] find their emails, generate email bodies for them using AI and then loading it
+[132.7s - 132.7s] for them using AI and then loading it
+[132.7s - 134.9s] for them using AI and then loading it into a website called instantly AI where
+[134.9s - 134.9s] into a website called instantly AI where
+[134.9s - 137.3s] into a website called instantly AI where you can just in uh emails like cold
+[137.3s - 137.4s] you can just in uh emails like cold
+[137.4s - 139.3s] you can just in uh emails like cold emails. It was a great thought to begin
+[139.3s - 139.4s] emails. It was a great thought to begin
+[139.4s - 141.5s] emails. It was a great thought to begin with, right? It was a great idea. I was
+[141.5s - 141.5s] with, right? It was a great idea. I was
+[141.5s - 143.8s] with, right? It was a great idea. I was doing a bunch of emails like 450 a day,
+[143.8s - 143.8s] doing a bunch of emails like 450 a day,
+[143.8s - 146.7s] doing a bunch of emails like 450 a day, but uh it was like a crazy open rate,
+[146.7s - 146.7s] but uh it was like a crazy open rate,
+[146.7s - 148.9s] but uh it was like a crazy open rate, but nobody was buying. Uh just a lot of
+[148.9s - 148.9s] but nobody was buying. Uh just a lot of
+[148.9s - 150.9s] but nobody was buying. Uh just a lot of shots in the dark. Didn't really know
+[150.9s - 150.9s] shots in the dark. Didn't really know
+[150.9s - 152.4s] shots in the dark. Didn't really know how to structure the emails. I I didn't
+[152.4s - 152.4s] how to structure the emails. I I didn't
+[152.4s - 154.2s] how to structure the emails. I I didn't know how to write copy or anything. So,
+[154.2s - 154.2s] know how to write copy or anything. So,
+[154.2s - 155.4s] know how to write copy or anything. So, well, I was basically just trying
+[155.4s - 155.4s] well, I was basically just trying
+[155.4s - 156.8s] well, I was basically just trying anything and everything I could. Joining
+[156.8s - 156.8s] anything and everything I could. Joining
+[156.8s - 159.0s] anything and everything I could. Joining Facebook group, talking to my contacts
+[159.0s - 159.0s] Facebook group, talking to my contacts
+[159.0s - 161.3s] Facebook group, talking to my contacts that I have, other business owners, uh
+[161.3s - 161.4s] that I have, other business owners, uh
+[161.4s - 163.7s] that I have, other business owners, uh see if they can I can do it for them or
+[163.7s - 163.7s] see if they can I can do it for them or
+[163.7s - 165.8s] see if they can I can do it for them or if I can just if they have anybody that
+[165.8s - 165.8s] if I can just if they have anybody that
+[165.8s - 168.2s] if I can just if they have anybody that I can do it for. Just really no proper
+[168.2s - 168.2s] I can do it for. Just really no proper
+[168.2s - 170.5s] I can do it for. Just really no proper guidance or no, uh set direction, just
+[170.5s - 170.5s] guidance or no, uh set direction, just
+[170.5s - 171.8s] guidance or no, uh set direction, just kind of shooting off different lanes,
+[171.8s - 171.8s] kind of shooting off different lanes,
+[171.8s - 172.9s] kind of shooting off different lanes, hoping that one of them was going to
+[172.9s - 172.9s] hoping that one of them was going to
+[172.9s - 173.2s] hoping that one of them was going to hit.
+[173.2s - 173.2s] hit.
+[173.2s - 174.6s] hit. >> I think the reason like cold email is
+[174.6s - 174.6s] >> I think the reason like cold email is
+[174.6s - 176.0s] >> I think the reason like cold email is really successful and cold outreach in
+[176.0s - 176.0s] really successful and cold outreach in
+[176.0s - 177.8s] really successful and cold outreach in general. I think once you're ready to
+[177.8s - 177.8s] general. I think once you're ready to
+[177.8s - 179.3s] general. I think once you're ready to scale, but like to get your first
+[179.3s - 179.4s] scale, but like to get your first
+[179.4s - 180.7s] scale, but like to get your first client, it's really tough to do that
+[180.7s - 180.7s] client, it's really tough to do that
+[180.7s - 182.1s] client, it's really tough to do that because people are just like, I don't
+[182.1s - 182.1s] because people are just like, I don't
+[182.1s - 184.0s] because people are just like, I don't know who this guy is. And it's like he
+[184.0s - 184.0s] know who this guy is. And it's like he
+[184.0s - 185.5s] know who this guy is. And it's like he has nothing really to show me yet. Why
+[185.5s - 185.5s] has nothing really to show me yet. Why
+[185.5s - 187.5s] has nothing really to show me yet. Why would I kind of give him or her my
+[187.5s - 187.5s] would I kind of give him or her my
+[187.5s - 189.4s] would I kind of give him or her my business? So, how did then your approach
+[189.4s - 189.4s] business? So, how did then your approach
+[189.4s - 190.9s] business? So, how did then your approach kind of change once you were in the
+[190.9s - 191.0s] kind of change once you were in the
+[191.0s - 192.5s] kind of change once you were in the community and started to, you know,
+[192.5s - 192.5s] community and started to, you know,
+[192.5s - 194.0s] community and started to, you know, interact with the people in there in the
+[194.0s - 194.0s] interact with the people in there in the
+[194.0s - 194.9s] interact with the people in there in the course material?
+[194.9s - 194.9s] course material?
+[194.9s - 197.5s] course material? >> Biggest one by far was how to position
+[197.5s - 197.5s] >> Biggest one by far was how to position
+[197.5s - 199.3s] >> Biggest one by far was how to position myself, right? We're not selling
+[199.3s - 199.4s] myself, right? We're not selling
+[199.4s - 201.6s] myself, right? We're not selling workflows. It's the brand behind it.
+[201.6s - 201.6s] workflows. It's the brand behind it.
+[201.6s - 203.4s] workflows. It's the brand behind it. Scale or get your time back, whatever
+[203.4s - 203.4s] Scale or get your time back, whatever
+[203.4s - 204.9s] Scale or get your time back, whatever the goal is for your business.
+[204.9s - 204.9s] the goal is for your business.
+[204.9s - 207.8s] the goal is for your business. positioning myself as a proper guide,
+[207.8s - 207.8s] positioning myself as a proper guide,
+[207.8s - 210.4s] positioning myself as a proper guide, not a template salesman. That was a
+[210.4s - 210.4s] not a template salesman. That was a
+[210.4s - 212.3s] not a template salesman. That was a really key thing for my for me in my
+[212.3s - 212.3s] really key thing for my for me in my
+[212.3s - 214.4s] really key thing for my for me in my process and it's it's just it was black
+[214.4s - 214.4s] process and it's it's just it was black
+[214.4s - 215.9s] process and it's it's just it was black and white difference and it helped me a
+[215.9s - 215.9s] and white difference and it helped me a
+[215.9s - 219.3s] and white difference and it helped me a ton. Within days of me doing that, I
+[219.3s - 219.4s] ton. Within days of me doing that, I
+[219.4s - 221.2s] ton. Within days of me doing that, I posed my first client which was insane.
+[221.2s - 221.2s] posed my first client which was insane.
+[221.2s - 222.7s] posed my first client which was insane. >> Yeah. Know, I was just looking at our
+[222.7s - 222.7s] >> Yeah. Know, I was just looking at our
+[222.7s - 224.9s] >> Yeah. Know, I was just looking at our our DM on school right before we hopped
+[224.9s - 224.9s] our DM on school right before we hopped
+[224.9s - 226.7s] our DM on school right before we hopped on and I remember, you know, you joined
+[226.7s - 226.7s] on and I remember, you know, you joined
+[226.7s - 228.7s] on and I remember, you know, you joined the community, we we had a quick chat,
+[228.7s - 228.7s] the community, we we had a quick chat,
+[228.7s - 230.8s] the community, we we had a quick chat, got you access to the course and then 5
+[230.8s - 230.8s] got you access to the course and then 5
+[230.8s - 232.2s] got you access to the course and then 5 days later you messaged me and like I
+[232.2s - 232.2s] days later you messaged me and like I
+[232.2s - 233.6s] days later you messaged me and like I just closed my client for like what was
+[233.6s - 233.6s] just closed my client for like what was
+[233.6s - 235.3s] just closed my client for like what was it? Was it 1500 or something like that?
+[235.3s - 235.4s] it? Was it 1500 or something like that?
+[235.4s - 237.8s] it? Was it 1500 or something like that? >> Uh yeah, 1500, 1,500. And we actually we
+[237.8s - 237.8s] >> Uh yeah, 1500, 1,500. And we actually we
+[237.8s - 240.1s] >> Uh yeah, 1500, 1,500. And we actually we upped it recently. So we're doing uh
+[240.1s - 240.2s] upped it recently. So we're doing uh
+[240.2s - 241.8s] upped it recently. So we're doing uh 2,000 now. And then I think it's going
+[241.8s - 241.8s] 2,000 now. And then I think it's going
+[241.8s - 243.8s] 2,000 now. And then I think it's going to over time build and build and build
+[243.8s - 243.8s] to over time build and build and build
+[243.8s - 245.7s] to over time build and build and build from there as I get better, too. Yeah,
+[245.7s - 245.7s] from there as I get better, too. Yeah,
+[245.7s - 247.8s] from there as I get better, too. Yeah, it was it was 1500 starting out. So it
+[247.8s - 247.8s] it was it was 1500 starting out. So it
+[247.8s - 248.6s] it was it was 1500 starting out. So it was it was pretty cool.
+[248.6s - 248.6s] was it was pretty cool.
+[248.6s - 250.2s] was it was pretty cool. >> So you made a post about that win,
+[250.2s - 250.2s] >> So you made a post about that win,
+[250.2s - 252.0s] >> So you made a post about that win, right? And then I pinned it in the
+[252.0s - 252.0s] right? And then I pinned it in the
+[252.0s - 253.1s] right? And then I pinned it in the community and then did you say someone
+[253.1s - 253.1s] community and then did you say someone
+[253.1s - 254.5s] community and then did you say someone reached out to you from that post and
+[254.5s - 254.5s] reached out to you from that post and
+[254.5s - 256.1s] reached out to you from that post and you got another client off that?
+[256.1s - 256.1s] you got another client off that?
+[256.1s - 258.3s] you got another client off that? >> So off that first one, I was getting a
+[258.3s - 258.3s] >> So off that first one, I was getting a
+[258.3s - 259.6s] >> So off that first one, I was getting a lot of praise or a lot of traction. I
+[259.6s - 259.6s] lot of praise or a lot of traction. I
+[259.6s - 261.4s] lot of praise or a lot of traction. I was like, "Oh, this is cool." And then
+[261.4s - 261.4s] was like, "Oh, this is cool." And then
+[261.4s - 263.5s] was like, "Oh, this is cool." And then you know the the gem as well. Also, that
+[263.5s - 263.5s] you know the the gem as well. Also, that
+[263.5s - 265.0s] you know the the gem as well. Also, that was that was even better. Literally 3
+[265.0s - 265.0s] was that was even better. Literally 3
+[265.0s - 266.8s] was that was even better. Literally 3 days later on that it was that Friday I
+[266.8s - 266.8s] days later on that it was that Friday I
+[266.8s - 268.7s] days later on that it was that Friday I posted that Sunday, another member in
+[268.7s - 268.7s] posted that Sunday, another member in
+[268.7s - 270.0s] posted that Sunday, another member in the community reached out. He was a
+[270.0s - 270.0s] the community reached out. He was a
+[270.0s - 271.7s] the community reached out. He was a newer member and said, "Hey, I'm looking
+[271.7s - 271.7s] newer member and said, "Hey, I'm looking
+[271.7s - 273.8s] newer member and said, "Hey, I'm looking for to hire uh he called it an AI
+[273.8s - 273.8s] for to hire uh he called it an AI
+[273.8s - 276.1s] for to hire uh he called it an AI automator." Um, and then it went from
+[276.1s - 276.2s] automator." Um, and then it went from
+[276.2s - 278.1s] automator." Um, and then it went from getting, you know, got the first client,
+[278.1s - 278.2s] getting, you know, got the first client,
+[278.2s - 279.6s] getting, you know, got the first client, engaged with the community, got the
+[279.6s - 279.6s] engaged with the community, got the
+[279.6s - 281.6s] engaged with the community, got the second client, and now I'm able to
+[281.6s - 281.6s] second client, and now I'm able to
+[281.6s - 284.2s] second client, and now I'm able to actually do this full-time and not even
+[284.2s - 284.2s] actually do this full-time and not even
+[284.2s - 285.8s] actually do this full-time and not even have to worry about work. So, which is
+[285.8s - 285.8s] have to worry about work. So, which is
+[285.8s - 288.0s] have to worry about work. So, which is great. Um, and it sounds like your kind
+[288.0s - 288.0s] great. Um, and it sounds like your kind
+[288.0s - 289.8s] great. Um, and it sounds like your kind of biggest light bulb moment so far from
+[289.8s - 289.8s] of biggest light bulb moment so far from
+[289.8s - 291.8s] of biggest light bulb moment so far from the community has been just the idea of
+[291.8s - 291.8s] the community has been just the idea of
+[291.8s - 293.9s] the community has been just the idea of the way you position yourself and um,
+[293.9s - 293.9s] the way you position yourself and um,
+[293.9s - 295.4s] the way you position yourself and um, probably how you conduct yourself on
+[295.4s - 295.4s] probably how you conduct yourself on
+[295.4s - 297.1s] probably how you conduct yourself on those initial discovery and sales calls.
+[297.1s - 297.1s] those initial discovery and sales calls.
+[297.1s - 298.9s] those initial discovery and sales calls. So, is there anything specifically you
+[298.9s - 298.9s] So, is there anything specifically you
+[298.9s - 300.4s] So, is there anything specifically you can think about where you know hopping
+[300.4s - 300.4s] can think about where you know hopping
+[300.4s - 302.0s] can think about where you know hopping on discovery calls or trying to talk to
+[302.0s - 302.0s] on discovery calls or trying to talk to
+[302.0s - 303.6s] on discovery calls or trying to talk to business owners before having that kind
+[303.6s - 303.6s] business owners before having that kind
+[303.6s - 305.1s] business owners before having that kind of like light bulb moment, the way that
+[305.1s - 305.1s] of like light bulb moment, the way that
+[305.1s - 306.8s] of like light bulb moment, the way that you would like speak about AI or speak
+[306.8s - 306.8s] you would like speak about AI or speak
+[306.8s - 308.1s] you would like speak about AI or speak about automations has shifted?
+[308.1s - 308.1s] about automations has shifted?
+[308.1s - 310.2s] about automations has shifted? >> Yeah, definitely. Uh, before I would I
+[310.2s - 310.2s] >> Yeah, definitely. Uh, before I would I
+[310.2s - 311.8s] >> Yeah, definitely. Uh, before I would I didn't really I didn't have a process. I
+[311.8s - 311.8s] didn't really I didn't have a process. I
+[311.8s - 313.3s] didn't really I didn't have a process. I would walk in there and say, "Hey, this
+[313.3s - 313.3s] would walk in there and say, "Hey, this
+[313.3s - 315.1s] would walk in there and say, "Hey, this is what I do. I can build template for
+[315.1s - 315.1s] is what I do. I can build template for
+[315.1s - 317.4s] is what I do. I can build template for you if you need and it can solve this.
+[317.4s - 317.4s] you if you need and it can solve this.
+[317.4s - 318.9s] you if you need and it can solve this. Do you want it? And that was that was
+[318.9s - 319.0s] Do you want it? And that was that was
+[319.0s - 321.2s] Do you want it? And that was that was kind of it. But going through the uh
+[321.2s - 321.2s] kind of it. But going through the uh
+[321.2s - 323.2s] kind of it. But going through the uh lessons and actually showing all right
+[323.2s - 323.2s] lessons and actually showing all right
+[323.2s - 324.6s] lessons and actually showing all right this is how you should ask the
+[324.6s - 324.6s] this is how you should ask the
+[324.6s - 327.1s] this is how you should ask the questions. This is how you find the pain
+[327.1s - 327.1s] questions. This is how you find the pain
+[327.1s - 328.7s] questions. This is how you find the pain and find ways that we can actually
+[328.7s - 328.7s] and find ways that we can actually
+[328.7s - 331.0s] and find ways that we can actually leverage AI to actually help their
+[331.0s - 331.0s] leverage AI to actually help their
+[331.0s - 333.3s] leverage AI to actually help their business and and again I'm an actual
+[333.3s - 333.3s] business and and again I'm an actual
+[333.3s - 335.4s] business and and again I'm an actual guide in their process in AI in the
+[335.4s - 335.4s] guide in their process in AI in the
+[335.4s - 337.0s] guide in their process in AI in the journey of AI because it's it can be
+[337.0s - 337.0s] journey of AI because it's it can be
+[337.0s - 338.9s] journey of AI because it's it can be very overwhelming. So once I started
+[338.9s - 339.0s] very overwhelming. So once I started
+[339.0s - 341.3s] very overwhelming. So once I started positioning myself there it was a
+[341.3s - 341.3s] positioning myself there it was a
+[341.3s - 344.1s] positioning myself there it was a complete 180. Yeah. It was just It was
+[344.1s - 344.1s] complete 180. Yeah. It was just It was
+[344.1s - 345.6s] complete 180. Yeah. It was just It was yeah, complete night and day difference.
+[345.6s - 345.6s] yeah, complete night and day difference.
+[345.6s - 346.8s] yeah, complete night and day difference. I'm going to do that with all my
+[346.8s - 346.8s] I'm going to do that with all my
+[346.8s - 348.9s] I'm going to do that with all my processes moving forward. But that one
+[348.9s - 348.9s] processes moving forward. But that one
+[348.9s - 350.2s] processes moving forward. But that one specifically really helped me out a lot.
+[350.2s - 350.2s] specifically really helped me out a lot.
+[350.2s - 352.4s] specifically really helped me out a lot. >> So besides the the way that you shifted
+[352.4s - 352.4s] >> So besides the the way that you shifted
+[352.4s - 353.7s] >> So besides the the way that you shifted your perspective as far as like, you
+[353.7s - 353.8s] your perspective as far as like, you
+[353.8s - 354.9s] your perspective as far as like, you know, let's think about your business
+[354.9s - 355.0s] know, let's think about your business
+[355.0s - 356.5s] know, let's think about your business and let me help you diagnose problems
+[356.5s - 356.5s] and let me help you diagnose problems
+[356.5s - 357.8s] and let me help you diagnose problems rather than just here's a template. What
+[357.8s - 357.8s] rather than just here's a template. What
+[357.8s - 359.4s] rather than just here's a template. What else do you think it made them say yes?
+[359.4s - 359.4s] else do you think it made them say yes?
+[359.4s - 360.6s] else do you think it made them say yes? Because at this point there's there's
+[360.6s - 360.6s] Because at this point there's there's
+[360.6s - 362.1s] Because at this point there's there's this mental battle of like how much
+[362.1s - 362.1s] this mental battle of like how much
+[362.1s - 363.4s] this mental battle of like how much should I charge or should I do it for
+[363.4s - 363.4s] should I charge or should I do it for
+[363.4s - 365.4s] should I charge or should I do it for free or like what what proof do I
+[365.4s - 365.4s] free or like what what proof do I
+[365.4s - 366.6s] free or like what what proof do I actually have? How do I get someone to
+[366.6s - 366.6s] actually have? How do I get someone to
+[366.6s - 368.2s] actually have? How do I get someone to say yes? So, what else do you think it
+[368.2s - 368.2s] say yes? So, what else do you think it
+[368.2s - 370.0s] say yes? So, what else do you think it was about you and about the way that you
+[370.0s - 370.0s] was about you and about the way that you
+[370.0s - 371.9s] was about you and about the way that you spoke to this this person that got them
+[371.9s - 371.9s] spoke to this this person that got them
+[371.9s - 374.1s] spoke to this this person that got them to ultimately give you their business?
+[374.1s - 374.1s] to ultimately give you their business?
+[374.1s - 376.1s] to ultimately give you their business? >> Well, for the second client, I mean, he
+[376.1s - 376.2s] >> Well, for the second client, I mean, he
+[376.2s - 377.4s] >> Well, for the second client, I mean, he kind of knew my situation a little bit
+[377.4s - 377.4s] kind of knew my situation a little bit
+[377.4s - 378.9s] kind of knew my situation a little bit cuz he saw the post, he read it, and
+[378.9s - 379.0s] cuz he saw the post, he read it, and
+[379.0s - 380.6s] cuz he saw the post, he read it, and then that's when he reached out. I was
+[380.6s - 380.6s] then that's when he reached out. I was
+[380.6s - 382.1s] then that's when he reached out. I was just very very honest with him and
+[382.1s - 382.2s] just very very honest with him and
+[382.2s - 384.0s] just very very honest with him and upfront about like, listen, this is um
+[384.0s - 384.0s] upfront about like, listen, this is um
+[384.0s - 385.4s] upfront about like, listen, this is um obviously you know the value of the
+[385.4s - 385.4s] obviously you know the value of the
+[385.4s - 387.6s] obviously you know the value of the product. So, uh, I went in there, I was
+[387.6s - 387.6s] product. So, uh, I went in there, I was
+[387.6s - 389.1s] product. So, uh, I went in there, I was very, very open. I was very honest and
+[389.1s - 389.1s] very, very open. I was very honest and
+[389.1s - 391.5s] very, very open. I was very honest and transparent about me, where I'm at my
+[391.5s - 391.5s] transparent about me, where I'm at my
+[391.5s - 394.6s] transparent about me, where I'm at my journey and my goals for him and was
+[394.6s - 394.6s] journey and my goals for him and was
+[394.6s - 396.4s] journey and my goals for him and was mainly just trying to focus on building
+[396.4s - 396.4s] mainly just trying to focus on building
+[396.4s - 397.4s] mainly just trying to focus on building that relationship.
+[397.4s - 397.4s] that relationship.
+[397.4s - 398.9s] that relationship. >> Yeah. And now, I mean, the rest is
+[398.9s - 399.0s] >> Yeah. And now, I mean, the rest is
+[399.0s - 399.7s] >> Yeah. And now, I mean, the rest is history. So,
+[399.7s - 399.7s] history. So,
+[399.7s - 400.9s] history. So, >> yeah, it's awesome because now that your
+[400.9s - 400.9s] >> yeah, it's awesome because now that your
+[400.9s - 402.1s] >> yeah, it's awesome because now that your foot's in the door, there's so much
+[402.1s - 402.2s] foot's in the door, there's so much
+[402.2s - 404.1s] foot's in the door, there's so much opportunity for for more growth and and
+[404.1s - 404.1s] opportunity for for more growth and and
+[404.1s - 405.9s] opportunity for for more growth and and for bigger projects. And I've always
+[405.9s - 405.9s] for bigger projects. And I've always
+[405.9s - 407.3s] for bigger projects. And I've always said, you know, you'd rather have one,
+[407.3s - 407.3s] said, you know, you'd rather have one,
+[407.3s - 408.9s] said, you know, you'd rather have one, let's just say 10K a month client rather
+[408.9s - 409.0s] let's just say 10K a month client rather
+[409.0s - 410.9s] let's just say 10K a month client rather than having five 2K a month clients. You
+[410.9s - 410.9s] than having five 2K a month clients. You
+[410.9s - 412.4s] than having five 2K a month clients. You just have an opportunity to go way
+[412.4s - 412.4s] just have an opportunity to go way
+[412.4s - 414.2s] just have an opportunity to go way deeper. And that just leads into better
+[414.2s - 414.2s] deeper. And that just leads into better
+[414.2s - 416.0s] deeper. And that just leads into better referrals, better case studies, more
+[416.0s - 416.0s] referrals, better case studies, more
+[416.0s - 417.3s] referrals, better case studies, more opportunities to win more business,
+[417.3s - 417.3s] opportunities to win more business,
+[417.3s - 418.8s] opportunities to win more business, things like that. Do you want to walk us
+[418.8s - 418.8s] things like that. Do you want to walk us
+[418.8s - 421.2s] things like that. Do you want to walk us through the actual solution that you've
+[421.2s - 421.2s] through the actual solution that you've
+[421.2s - 422.8s] through the actual solution that you've provided to this first business or that
+[422.8s - 422.8s] provided to this first business or that
+[422.8s - 424.9s] provided to this first business or that you're working on and and also how you
+[424.9s - 425.0s] you're working on and and also how you
+[425.0s - 427.2s] you're working on and and also how you got to that price point and what sort of
+[427.2s - 427.2s] got to that price point and what sort of
+[427.2s - 428.6s] got to that price point and what sort of like that conversation looks like.
+[428.6s - 428.6s] like that conversation looks like.
+[428.6s - 430.5s] like that conversation looks like. >> The one that I built, so I was trying to
+[430.5s - 430.5s] >> The one that I built, so I was trying to
+[430.5s - 433.4s] >> The one that I built, so I was trying to build a system for updating clients. A
+[433.4s - 433.4s] build a system for updating clients. A
+[433.4s - 435.4s] build a system for updating clients. A huge pain point that we were having
+[435.4s - 435.4s] huge pain point that we were having
+[435.4s - 437.3s] huge pain point that we were having simply just communication. Like a lot of
+[437.3s - 437.3s] simply just communication. Like a lot of
+[437.3s - 438.8s] simply just communication. Like a lot of clients would call up like, "Hey, uh,
+[438.8s - 438.8s] clients would call up like, "Hey, uh,
+[438.8s - 440.0s] clients would call up like, "Hey, uh, what's this? I don't know what they mean
+[440.0s - 440.0s] what's this? I don't know what they mean
+[440.0s - 441.2s] what's this? I don't know what they mean by this. when is this going to get
+[441.2s - 441.2s] by this. when is this going to get
+[441.2s - 443.4s] by this. when is this going to get scheduled? Or nobody's talked to me.
+[443.4s - 443.4s] scheduled? Or nobody's talked to me.
+[443.4s - 444.3s] scheduled? Or nobody's talked to me. Nobody's reached out. I don't know
+[444.3s - 444.3s] Nobody's reached out. I don't know
+[444.3s - 446.2s] Nobody's reached out. I don't know what's going on with my project or
+[446.2s - 446.2s] what's going on with my project or
+[446.2s - 448.9s] what's going on with my project or sometimes they're just simple FAQs. They
+[448.9s - 449.0s] sometimes they're just simple FAQs. They
+[449.0s - 450.2s] sometimes they're just simple FAQs. They just want to know, hey, what what is
+[450.2s - 450.2s] just want to know, hey, what what is
+[450.2s - 451.8s] just want to know, hey, what what is shot create? And they can simply Google
+[451.8s - 451.8s] shot create? And they can simply Google
+[451.8s - 453.5s] shot create? And they can simply Google it, but they're going to call us first.
+[453.5s - 453.5s] it, but they're going to call us first.
+[453.5s - 455.8s] it, but they're going to call us first. I focus on building a workflow for that.
+[455.8s - 455.8s] I focus on building a workflow for that.
+[455.8s - 458.3s] I focus on building a workflow for that. And it actually I got inspiration for it
+[458.3s - 458.3s] And it actually I got inspiration for it
+[458.3s - 460.1s] And it actually I got inspiration for it from one of your YouTube videos.
+[460.1s - 460.2s] from one of your YouTube videos.
+[460.2s - 462.6s] from one of your YouTube videos. Actually, it was your AI assistant. So,
+[462.6s - 462.6s] Actually, it was your AI assistant. So,
+[462.6s - 464.6s] Actually, it was your AI assistant. So, I took that kind of blueprint and used
+[464.6s - 464.6s] I took that kind of blueprint and used
+[464.6s - 467.3s] I took that kind of blueprint and used it to build out a I called it like a PM
+[467.3s - 467.3s] it to build out a I called it like a PM
+[467.3s - 469.3s] it to build out a I called it like a PM assistant. So when the project manager
+[469.3s - 469.3s] assistant. So when the project manager
+[469.3s - 471.4s] assistant. So when the project manager is out on site, he can just simply talk
+[471.4s - 471.4s] is out on site, he can just simply talk
+[471.4s - 473.3s] is out on site, he can just simply talk to the bots, it'll, you know, engage
+[473.3s - 473.3s] to the bots, it'll, you know, engage
+[473.3s - 475.0s] to the bots, it'll, you know, engage with him, do what and execute whatever
+[475.0s - 475.0s] with him, do what and execute whatever
+[475.0s - 476.6s] with him, do what and execute whatever tasks are needed, whether it's sending
+[476.6s - 476.6s] tasks are needed, whether it's sending
+[476.6s - 478.5s] tasks are needed, whether it's sending clients an update email, logging an
+[478.5s - 478.5s] clients an update email, logging an
+[478.5s - 480.6s] clients an update email, logging an update into the CRM, little things like
+[480.6s - 480.6s] update into the CRM, little things like
+[480.6s - 482.8s] update into the CRM, little things like that. He loved it. He completely bought
+[482.8s - 482.8s] that. He loved it. He completely bought
+[482.8s - 484.6s] that. He loved it. He completely bought in. Uh I'm still improving it to this
+[484.6s - 484.6s] in. Uh I'm still improving it to this
+[484.6s - 487.0s] in. Uh I'm still improving it to this day. It's not perfect yet, but it's um
+[487.0s - 487.0s] day. It's not perfect yet, but it's um
+[487.0s - 488.6s] day. It's not perfect yet, but it's um it's constant refining. We're meeting
+[488.6s - 488.6s] it's constant refining. We're meeting
+[488.6s - 490.0s] it's constant refining. We're meeting every week to get it better and better
+[490.0s - 490.0s] every week to get it better and better
+[490.0s - 491.8s] every week to get it better and better and better, but that's the one I started
+[491.8s - 491.8s] and better, but that's the one I started
+[491.8s - 492.1s] and better, but that's the one I started with.
+[492.1s - 492.1s] with.
+[492.1s - 494.5s] with. >> I want to ask you now compared to let's
+[494.5s - 494.5s] >> I want to ask you now compared to let's
+[494.5s - 496.6s] >> I want to ask you now compared to let's just say 3 weeks ago, how much more
+[496.6s - 496.6s] just say 3 weeks ago, how much more
+[496.6s - 497.9s] just say 3 weeks ago, how much more confident do you feel? and just your
+[497.9s - 497.9s] confident do you feel? and just your
+[497.9s - 500.0s] confident do you feel? and just your ability to talk to people, show them the
+[500.0s - 500.0s] ability to talk to people, show them the
+[500.0s - 501.7s] ability to talk to people, show them the value, deliver on solutions, price your
+[501.7s - 501.7s] value, deliver on solutions, price your
+[501.7s - 502.9s] value, deliver on solutions, price your work, all that kind of stuff.
+[502.9s - 502.9s] work, all that kind of stuff.
+[502.9s - 504.5s] work, all that kind of stuff. >> A lot more confident. Before I had no
+[504.5s - 504.5s] >> A lot more confident. Before I had no
+[504.5s - 506.2s] >> A lot more confident. Before I had no idea how to do any of that. I was just
+[506.2s - 506.2s] idea how to do any of that. I was just
+[506.2s - 508.8s] idea how to do any of that. I was just kind of got to go kind of go in and just
+[508.8s - 508.8s] kind of got to go kind of go in and just
+[508.8s - 510.9s] kind of got to go kind of go in and just give like a set base price point for
+[510.9s - 510.9s] give like a set base price point for
+[510.9s - 513.4s] give like a set base price point for whatever workflow that I build. Um, and
+[513.4s - 513.4s] whatever workflow that I build. Um, and
+[513.4s - 514.9s] whatever workflow that I build. Um, and again, before I was just trying to sell
+[514.9s - 514.9s] again, before I was just trying to sell
+[514.9s - 518.5s] again, before I was just trying to sell templates basically. Now I feel a ton
+[518.5s - 518.5s] templates basically. Now I feel a ton
+[518.5s - 521.7s] templates basically. Now I feel a ton more confident knowing what my offer is.
+[521.7s - 521.7s] more confident knowing what my offer is.
+[521.7s - 523.9s] more confident knowing what my offer is. um having a clear offer for them that
+[523.9s - 523.9s] um having a clear offer for them that
+[523.9s - 525.9s] um having a clear offer for them that they can understand and being able to
+[525.9s - 525.9s] they can understand and being able to
+[525.9s - 527.8s] they can understand and being able to properly communicate what it is that I
+[527.8s - 527.8s] properly communicate what it is that I
+[527.8s - 529.7s] properly communicate what it is that I do and how it can benefit their
+[529.7s - 529.7s] do and how it can benefit their
+[529.7s - 530.3s] do and how it can benefit their business.
+[530.3s - 530.3s] business.
+[530.3s - 531.6s] business. >> That's awesome to hear, man. I mean,
+[531.6s - 531.6s] >> That's awesome to hear, man. I mean,
+[531.6s - 533.6s] >> That's awesome to hear, man. I mean, it's a cliche, but it's so true. Just
+[533.6s - 533.6s] it's a cliche, but it's so true. Just
+[533.6s - 535.2s] it's a cliche, but it's so true. Just the idea of like surrounding yourself
+[535.2s - 535.2s] the idea of like surrounding yourself
+[535.2s - 536.8s] the idea of like surrounding yourself with like-minded people, like what that
+[536.8s - 536.8s] with like-minded people, like what that
+[536.8s - 538.4s] with like-minded people, like what that really does to you. Because I know like
+[538.4s - 538.4s] really does to you. Because I know like
+[538.4s - 539.6s] really does to you. Because I know like right before we started recording, we
+[539.6s - 539.6s] right before we started recording, we
+[539.6s - 541.2s] right before we started recording, we were just talking about how there's just
+[541.2s - 541.2s] were just talking about how there's just
+[541.2s - 543.4s] were just talking about how there's just so much noise and there's so much great
+[543.4s - 543.4s] so much noise and there's so much great
+[543.4s - 545.4s] so much noise and there's so much great education everywhere. But when you get
+[545.4s - 545.4s] education everywhere. But when you get
+[545.4s - 546.7s] education everywhere. But when you get stuck in that world where you're just
+[546.7s - 546.7s] stuck in that world where you're just
+[546.7s - 548.1s] stuck in that world where you're just watching, watching, watching, and you're
+[548.1s - 548.1s] watching, watching, watching, and you're
+[548.1s - 549.5s] watching, watching, watching, and you're getting like a scattered bit of
+[549.5s - 549.5s] getting like a scattered bit of
+[549.5s - 551.1s] getting like a scattered bit of information, and you don't have like a
+[551.1s - 551.1s] information, and you don't have like a
+[551.1s - 553.8s] information, and you don't have like a structured path, it just makes it very
+[553.8s - 553.8s] structured path, it just makes it very
+[553.8s - 555.2s] structured path, it just makes it very overwhelming, of course, but also
+[555.2s - 555.2s] overwhelming, of course, but also
+[555.2s - 555.9s] overwhelming, of course, but also confusing.
+[555.9s - 555.9s] confusing.
+[555.9s - 557.6s] confusing. >> Yeah, man. I wanted to kind of close off
+[557.6s - 557.6s] >> Yeah, man. I wanted to kind of close off
+[557.6s - 559.1s] >> Yeah, man. I wanted to kind of close off here. If you've got any any final
+[559.1s - 559.1s] here. If you've got any any final
+[559.1s - 560.9s] here. If you've got any any final thoughts or where could people find you
+[560.9s - 560.9s] thoughts or where could people find you
+[560.9s - 562.1s] thoughts or where could people find you if they want to get in touch with you?
+[562.1s - 562.2s] if they want to get in touch with you?
+[562.2s - 564.1s] if they want to get in touch with you? >> Um, yeah. Yeah. I mean, it would just be
+[564.1s - 564.1s] >> Um, yeah. Yeah. I mean, it would just be
+[564.1s - 566.1s] >> Um, yeah. Yeah. I mean, it would just be uh my LinkedIn mainly cuz I don't really
+[566.1s - 566.1s] uh my LinkedIn mainly cuz I don't really
+[566.1s - 568.1s] uh my LinkedIn mainly cuz I don't really have a website right now or through the
+[568.1s - 568.1s] have a website right now or through the
+[568.1s - 569.4s] have a website right now or through the community. I think that's the the best
+[569.4s - 569.4s] community. I think that's the the best
+[569.4s - 570.8s] community. I think that's the the best way possible. I'm in both of the
+[570.8s - 570.8s] way possible. I'm in both of the
+[570.8s - 572.5s] way possible. I'm in both of the communities, regular one and then the
+[572.5s - 572.5s] communities, regular one and then the
+[572.5s - 574.2s] communities, regular one and then the plus community as well. I'm mainly in
+[574.2s - 574.2s] plus community as well. I'm mainly in
+[574.2s - 576.4s] plus community as well. I'm mainly in there more than anything I would say.
+[576.4s - 576.4s] there more than anything I would say.
+[576.4s - 577.6s] there more than anything I would say. Just doing the same thing, just
+[577.6s - 577.6s] Just doing the same thing, just
+[577.6s - 579.0s] Just doing the same thing, just connecting with people, trying to
+[579.0s - 579.0s] connecting with people, trying to
+[579.0s - 580.5s] connecting with people, trying to provide value, and then seeing what else
+[580.5s - 580.6s] provide value, and then seeing what else
+[580.6s - 581.6s] provide value, and then seeing what else that I can learn. So,
+[581.6s - 581.6s] that I can learn. So,
+[581.6s - 582.6s] that I can learn. So, >> it's really inspiring to hear your
+[582.6s - 582.6s] >> it's really inspiring to hear your
+[582.6s - 584.8s] >> it's really inspiring to hear your story, man. 21 years old, started less
+[584.8s - 584.8s] story, man. 21 years old, started less
+[584.8s - 586.3s] story, man. 21 years old, started less than a year ago in this space. And and
+[586.3s - 586.3s] than a year ago in this space. And and
+[586.3s - 587.6s] than a year ago in this space. And and you guys also just heard him say
+[587.6s - 587.6s] you guys also just heard him say
+[587.6s - 589.3s] you guys also just heard him say basically doesn't have a website yet.
+[589.3s - 589.3s] basically doesn't have a website yet.
+[589.3s - 591.4s] basically doesn't have a website yet. He's new. He he told clients, "Hey, I'm
+[591.4s - 591.4s] He's new. He he told clients, "Hey, I'm
+[591.4s - 592.6s] He's new. He he told clients, "Hey, I'm new. I'm learning, but I want to help
+[592.6s - 592.6s] new. I'm learning, but I want to help
+[592.6s - 594.6s] new. I'm learning, but I want to help you." And he's been able to secure some
+[594.6s - 594.6s] you." And he's been able to secure some
+[594.6s - 596.1s] you." And he's been able to secure some pretty crazy wins. So, hopefully that's
+[596.1s - 596.2s] pretty crazy wins. So, hopefully that's
+[596.2s - 597.8s] pretty crazy wins. So, hopefully that's all very motivating to all of you guys
+[597.8s - 597.8s] all very motivating to all of you guys
+[597.8s - 599.4s] all very motivating to all of you guys that are watching this that are trying
+[599.4s - 599.4s] that are watching this that are trying
+[599.4s - 601.4s] that are watching this that are trying to get to a spot where where Christian
+[601.4s - 601.4s] to get to a spot where where Christian
+[601.4s - 603.0s] to get to a spot where where Christian now is. So, thanks so much for coming on
+[603.0s - 603.0s] now is. So, thanks so much for coming on
+[603.0s - 604.4s] now is. So, thanks so much for coming on today, Christian. I really enjoyed
+[604.4s - 604.4s] today, Christian. I really enjoyed
+[604.4s - 605.7s] today, Christian. I really enjoyed getting to know you and and getting to
+[605.7s - 605.7s] getting to know you and and getting to
+[605.7s - 606.9s] getting to know you and and getting to hear a little bit about your journey.
+[606.9s - 607.0s] hear a little bit about your journey.
+[607.0s - 608.2s] hear a little bit about your journey. Yeah, just keep crushing it. Best of
+[608.2s - 608.2s] Yeah, just keep crushing it. Best of
+[608.2s - 608.7s] Yeah, just keep crushing it. Best of luck, man.
+[608.7s - 608.7s] luck, man.
+[608.7s - 609.8s] luck, man. >> Thank you, man. I appreciate it. I'm
+[609.8s - 609.8s] >> Thank you, man. I appreciate it. I'm
+[609.8s - 610.8s] >> Thank you, man. I appreciate it. I'm going try my best.
+[610.8s - 610.8s] going try my best.
+[610.8s - 612.3s] going try my best. >> So, now let's look at the exact method
+[612.3s - 612.3s] >> So, now let's look at the exact method
+[612.3s - 613.8s] >> So, now let's look at the exact method that I gave Christian that landed him
+[613.8s - 613.8s] that I gave Christian that landed him
+[613.8s - 615.6s] that I gave Christian that landed him his first client in just 5 days. By the
+[615.6s - 615.6s] his first client in just 5 days. By the
+[615.6s - 616.7s] his first client in just 5 days. By the end, you'll have everything that you
+[616.7s - 616.7s] end, you'll have everything that you
+[616.7s - 618.7s] end, you'll have everything that you need to go sign your first AI client.
+[618.7s - 618.7s] need to go sign your first AI client.
+[618.7s - 620.1s] need to go sign your first AI client. All right. So, before I walk through
+[620.1s - 620.2s] All right. So, before I walk through
+[620.2s - 621.8s] All right. So, before I walk through that actual 7-day plan, I just want to
+[621.8s - 621.8s] that actual 7-day plan, I just want to
+[621.8s - 623.5s] that actual 7-day plan, I just want to slow this down and ground it in what
+[623.5s - 623.5s] slow this down and ground it in what
+[623.5s - 625.1s] slow this down and ground it in what actually happened with Christian because
+[625.1s - 625.1s] actually happened with Christian because
+[625.1s - 626.6s] actually happened with Christian because this is where most beginners go wrong.
+[626.6s - 626.6s] this is where most beginners go wrong.
+[626.6s - 628.1s] this is where most beginners go wrong. If you think back to what Christian was
+[628.1s - 628.2s] If you think back to what Christian was
+[628.2s - 629.8s] If you think back to what Christian was doing before he joined the community,
+[629.8s - 629.8s] doing before he joined the community,
+[629.8s - 631.3s] doing before he joined the community, it's exactly what I see almost everyone
+[631.3s - 631.3s] it's exactly what I see almost everyone
+[631.3s - 632.6s] it's exactly what I see almost everyone doing when they get started, which is
+[632.6s - 632.6s] doing when they get started, which is
+[632.6s - 634.6s] doing when they get started, which is high volume, tons of cold outreach with
+[634.6s - 634.6s] high volume, tons of cold outreach with
+[634.6s - 636.6s] high volume, tons of cold outreach with no soul and no positioning. Using tools
+[636.6s - 636.6s] no soul and no positioning. Using tools
+[636.6s - 638.4s] no soul and no positioning. Using tools or automations to scrape LinkedIn,
+[638.4s - 638.4s] or automations to scrape LinkedIn,
+[638.4s - 640.1s] or automations to scrape LinkedIn, pulling emails, using AI to write
+[640.1s - 640.2s] pulling emails, using AI to write
+[640.2s - 641.8s] pulling emails, using AI to write generic copy, loading it all into
+[641.8s - 641.8s] generic copy, loading it all into
+[641.8s - 643.4s] generic copy, loading it all into instantly, and then blasting out like 4
+[643.4s - 643.4s] instantly, and then blasting out like 4
+[643.4s - 645.4s] instantly, and then blasting out like 4 or 500 emails a day. Now, on paper, this
+[645.4s - 645.4s] or 500 emails a day. Now, on paper, this
+[645.4s - 646.6s] or 500 emails a day. Now, on paper, this feels really productive because you're
+[646.6s - 646.6s] feels really productive because you're
+[646.6s - 648.2s] feels really productive because you're sending out so many messages. But in
+[648.2s - 648.2s] sending out so many messages. But in
+[648.2s - 649.5s] sending out so many messages. But in reality, you're just another random
+[649.5s - 649.5s] reality, you're just another random
+[649.5s - 651.4s] reality, you're just another random person who's selling AI templates with
+[651.4s - 651.4s] person who's selling AI templates with
+[651.4s - 653.0s] person who's selling AI templates with no proof, no trust, and no real
+[653.0s - 653.0s] no proof, no trust, and no real
+[653.0s - 654.9s] no proof, no trust, and no real connection. And at that point, you're a
+[654.9s - 654.9s] connection. And at that point, you're a
+[654.9s - 656.2s] connection. And at that point, you're a commodity. And when you're a commodity,
+[656.2s - 656.2s] commodity. And when you're a commodity,
+[656.2s - 657.9s] commodity. And when you're a commodity, it turns into a race to the bottom on
+[657.9s - 657.9s] it turns into a race to the bottom on
+[657.9s - 659.6s] it turns into a race to the bottom on price and you'll almost always lose
+[659.6s - 659.6s] price and you'll almost always lose
+[659.6s - 660.5s] price and you'll almost always lose because there's always going to be
+[660.5s - 660.5s] because there's always going to be
+[660.5s - 661.9s] because there's always going to be someone out there who will offer your
+[661.9s - 661.9s] someone out there who will offer your
+[661.9s - 663.6s] someone out there who will offer your service for a cheaper price. So what
+[663.6s - 663.6s] service for a cheaper price. So what
+[663.6s - 665.0s] service for a cheaper price. So what changed everything for Christian was not
+[665.0s - 665.0s] changed everything for Christian was not
+[665.0s - 666.8s] changed everything for Christian was not better tools or more automation. It was
+[666.8s - 666.8s] better tools or more automation. It was
+[666.8s - 668.2s] better tools or more automation. It was the mindset shift. He stopped thinking
+[668.2s - 668.2s] the mindset shift. He stopped thinking
+[668.2s - 669.5s] the mindset shift. He stopped thinking like someone who was trying to sell
+[669.5s - 669.5s] like someone who was trying to sell
+[669.5s - 670.9s] like someone who was trying to sell workflows and started thinking like
+[670.9s - 671.0s] workflows and started thinking like
+[671.0s - 672.5s] workflows and started thinking like someone who was leading with outcomes.
+[672.5s - 672.6s] someone who was leading with outcomes.
+[672.6s - 674.1s] someone who was leading with outcomes. He positioned himself as a partner, not
+[674.1s - 674.2s] He positioned himself as a partner, not
+[674.2s - 675.5s] He positioned himself as a partner, not a template salesman. So instead of
+[675.5s - 675.5s] a template salesman. So instead of
+[675.5s - 676.8s] a template salesman. So instead of saying things like here's what I built,
+[676.8s - 676.8s] saying things like here's what I built,
+[676.8s - 678.1s] saying things like here's what I built, here's this automation, here's this
+[678.1s - 678.1s] here's this automation, here's this
+[678.1s - 679.6s] here's this automation, here's this template I can, you know, customize for
+[679.6s - 679.6s] template I can, you know, customize for
+[679.6s - 681.0s] template I can, you know, customize for you, he was saying here's how I can help
+[681.0s - 681.0s] you, he was saying here's how I can help
+[681.0s - 682.6s] you, he was saying here's how I can help your business do X. And he was targeting
+[682.6s - 682.6s] your business do X. And he was targeting
+[682.6s - 684.5s] your business do X. And he was targeting a specific painoint. So, that one shift
+[684.5s - 684.5s] a specific painoint. So, that one shift
+[684.5s - 686.0s] a specific painoint. So, that one shift is the entire reason that this worked in
+[686.0s - 686.0s] is the entire reason that this worked in
+[686.0s - 687.7s] is the entire reason that this worked in five days instead of never working at
+[687.7s - 687.7s] five days instead of never working at
+[687.7s - 688.6s] five days instead of never working at all. Now, before we get into the
+[688.6s - 688.6s] all. Now, before we get into the
+[688.6s - 690.1s] all. Now, before we get into the seven-day plan, I want to talk about
+[690.1s - 690.2s] seven-day plan, I want to talk about
+[690.2s - 691.7s] seven-day plan, I want to talk about three psychological hurdles that
+[691.7s - 691.7s] three psychological hurdles that
+[691.7s - 692.9s] three psychological hurdles that everyone goes through. I went through
+[692.9s - 693.0s] everyone goes through. I went through
+[693.0s - 694.1s] everyone goes through. I went through them. Christian went through them.
+[694.1s - 694.1s] them. Christian went through them.
+[694.1s - 695.2s] them. Christian went through them. You're probably going through them right
+[695.2s - 695.2s] You're probably going through them right
+[695.2s - 696.9s] You're probably going through them right now. And the first one is imposttor
+[696.9s - 696.9s] now. And the first one is imposttor
+[696.9s - 698.5s] now. And the first one is imposttor syndrome. Everyone will feel this at the
+[698.5s - 698.6s] syndrome. Everyone will feel this at the
+[698.6s - 699.9s] syndrome. Everyone will feel this at the beginning. And honestly, I still feel
+[699.9s - 699.9s] beginning. And honestly, I still feel
+[699.9s - 701.7s] beginning. And honestly, I still feel this sometimes right now. Thoughts like,
+[701.7s - 701.7s] this sometimes right now. Thoughts like,
+[701.7s - 703.1s] this sometimes right now. Thoughts like, "Do I even have the right to charge for
+[703.1s - 703.1s] "Do I even have the right to charge for
+[703.1s - 704.3s] "Do I even have the right to charge for this?" Or, "I don't want to feel
+[704.3s - 704.3s] this?" Or, "I don't want to feel
+[704.3s - 705.6s] this?" Or, "I don't want to feel scammy." Or, "What if I'm not ready
+[705.6s - 705.6s] scammy." Or, "What if I'm not ready
+[705.6s - 707.2s] scammy." Or, "What if I'm not ready yet?" And that feeling will never fully
+[707.2s - 707.2s] yet?" And that feeling will never fully
+[707.2s - 708.9s] yet?" And that feeling will never fully go away, but you do learn how to work
+[708.9s - 708.9s] go away, but you do learn how to work
+[708.9s - 710.4s] go away, but you do learn how to work through it. So, the key is just to not
+[710.4s - 710.4s] through it. So, the key is just to not
+[710.4s - 711.9s] through it. So, the key is just to not overpromise because that's when you run
+[711.9s - 711.9s] overpromise because that's when you run
+[711.9s - 713.4s] overpromise because that's when you run into trouble. Both Christian and I did
+[713.4s - 713.4s] into trouble. Both Christian and I did
+[713.4s - 714.9s] into trouble. Both Christian and I did the same thing early on when we were
+[714.9s - 715.0s] the same thing early on when we were
+[715.0s - 716.4s] the same thing early on when we were getting started. Literally saying, "Hey,
+[716.4s - 716.4s] getting started. Literally saying, "Hey,
+[716.4s - 717.9s] getting started. Literally saying, "Hey, I'm new to this. I'm obsessed with it.
+[717.9s - 717.9s] I'm new to this. I'm obsessed with it.
+[717.9s - 719.0s] I'm new to this. I'm obsessed with it. I've been learning a lot. I've been
+[719.0s - 719.0s] I've been learning a lot. I've been
+[719.0s - 720.3s] I've been learning a lot. I've been building a lot and I want to help you
+[720.3s - 720.3s] building a lot and I want to help you
+[720.3s - 721.4s] building a lot and I want to help you with this problem." And that type of
+[721.4s - 721.4s] with this problem." And that type of
+[721.4s - 722.9s] with this problem." And that type of honesty makes you sound like a real
+[722.9s - 722.9s] honesty makes you sound like a real
+[722.9s - 724.5s] honesty makes you sound like a real human. Like I said, especially early on
+[724.5s - 724.6s] human. Like I said, especially early on
+[724.6s - 726.0s] human. Like I said, especially early on when you're doing your first one or two
+[726.0s - 726.0s] when you're doing your first one or two
+[726.0s - 727.8s] when you're doing your first one or two clients for free or very cheap. That's
+[727.8s - 727.8s] clients for free or very cheap. That's
+[727.8s - 729.4s] clients for free or very cheap. That's not a weakness. It's low risk for them
+[729.4s - 729.4s] not a weakness. It's low risk for them
+[729.4s - 731.0s] not a weakness. It's low risk for them and it gets you experience, which is the
+[731.0s - 731.0s] and it gets you experience, which is the
+[731.0s - 732.2s] and it gets you experience, which is the only thing that should actually matter
+[732.2s - 732.2s] only thing that should actually matter
+[732.2s - 733.7s] only thing that should actually matter to you right now. Your goal should be to
+[733.7s - 733.7s] to you right now. Your goal should be to
+[733.7s - 735.3s] to you right now. Your goal should be to overd deliver. Prove to yourself and
+[735.3s - 735.3s] overd deliver. Prove to yourself and
+[735.3s - 736.6s] overd deliver. Prove to yourself and also prove to the client that you can
+[736.6s - 736.6s] also prove to the client that you can
+[736.6s - 737.9s] also prove to the client that you can actually do this. And that imposter
+[737.9s - 737.9s] actually do this. And that imposter
+[737.9s - 739.4s] actually do this. And that imposter syndrome starts to fade because now you
+[739.4s - 739.4s] syndrome starts to fade because now you
+[739.4s - 740.9s] syndrome starts to fade because now you have actual experience to talk about and
+[740.9s - 741.0s] have actual experience to talk about and
+[741.0s - 742.1s] have actual experience to talk about and you have actual results that you've
+[742.1s - 742.2s] you have actual results that you've
+[742.2s - 743.5s] you have actual results that you've driven. Now the second hurdle is about
+[743.5s - 743.5s] driven. Now the second hurdle is about
+[743.5s - 745.2s] driven. Now the second hurdle is about pricing. People get stuck here way too
+[745.2s - 745.2s] pricing. People get stuck here way too
+[745.2s - 746.9s] pricing. People get stuck here way too early. They obsess over retainers and
+[746.9s - 746.9s] early. They obsess over retainers and
+[746.9s - 748.1s] early. They obsess over retainers and monthly pricing and they want to hit
+[748.1s - 748.2s] monthly pricing and they want to hit
+[748.2s - 749.7s] monthly pricing and they want to hit that 10k per month figure that
+[749.7s - 749.7s] that 10k per month figure that
+[749.7s - 750.9s] that 10k per month figure that everyone's going for. But if you're
+[750.9s - 750.9s] everyone's going for. But if you're
+[750.9s - 752.5s] everyone's going for. But if you're trying to maximize revenue before you
+[752.5s - 752.6s] trying to maximize revenue before you
+[752.6s - 754.1s] trying to maximize revenue before you even ever delivered value or got
+[754.1s - 754.1s] even ever delivered value or got
+[754.1s - 755.3s] even ever delivered value or got experience, then you're going to fail.
+[755.3s - 755.3s] experience, then you're going to fail.
+[755.3s - 756.5s] experience, then you're going to fail. So the thing that I want you guys to
+[756.5s - 756.5s] So the thing that I want you guys to
+[756.5s - 758.4s] So the thing that I want you guys to lock into your brain is that trust comes
+[758.4s - 758.4s] lock into your brain is that trust comes
+[758.4s - 760.2s] lock into your brain is that trust comes before retainers. Asking someone for a
+[760.2s - 760.2s] before retainers. Asking someone for a
+[760.2s - 761.8s] before retainers. Asking someone for a retainer right away would be like asking
+[761.8s - 761.8s] retainer right away would be like asking
+[761.8s - 763.4s] retainer right away would be like asking someone for a referral right away before
+[763.4s - 763.4s] someone for a referral right away before
+[763.4s - 765.1s] someone for a referral right away before you even have any sort of partnership.
+[765.1s - 765.1s] you even have any sort of partnership.
+[765.1s - 766.5s] you even have any sort of partnership. It's very hard to get someone on a
+[766.5s - 766.6s] It's very hard to get someone on a
+[766.6s - 767.8s] It's very hard to get someone on a monthly agreement if they've never
+[767.8s - 767.8s] monthly agreement if they've never
+[767.8s - 769.0s] monthly agreement if they've never worked with you before. So, what should
+[769.0s - 769.0s] worked with you before. So, what should
+[769.0s - 770.4s] worked with you before. So, what should matter to you first is just delivering
+[770.4s - 770.4s] matter to you first is just delivering
+[770.4s - 772.1s] matter to you first is just delivering value and earning trust and then you can
+[772.1s - 772.1s] value and earning trust and then you can
+[772.1s - 773.6s] value and earning trust and then you can win a retainer later. That's why I
+[773.6s - 773.6s] win a retainer later. That's why I
+[773.6s - 774.9s] win a retainer later. That's why I always talk about value based pricing.
+[774.9s - 775.0s] always talk about value based pricing.
+[775.0s - 776.2s] always talk about value based pricing. And I made a full video on this and I'll
+[776.2s - 776.2s] And I made a full video on this and I'll
+[776.2s - 777.3s] And I made a full video on this and I'll link it up there if you want to check it
+[777.3s - 777.3s] link it up there if you want to check it
+[777.3s - 778.4s] link it up there if you want to check it out. But anyways, you want to get your
+[778.4s - 778.4s] out. But anyways, you want to get your
+[778.4s - 779.8s] out. But anyways, you want to get your foot in the door, solve a real problem,
+[779.8s - 779.8s] foot in the door, solve a real problem,
+[779.8s - 781.3s] foot in the door, solve a real problem, and clearly show the value that you
+[781.3s - 781.3s] and clearly show the value that you
+[781.3s - 782.9s] and clearly show the value that you delivered. And once that trust is built,
+[782.9s - 782.9s] delivered. And once that trust is built,
+[782.9s - 784.4s] delivered. And once that trust is built, then talking about a retainer becomes
+[784.4s - 784.4s] then talking about a retainer becomes
+[784.4s - 786.4s] then talking about a retainer becomes super easy and much more natural. Like I
+[786.4s - 786.4s] super easy and much more natural. Like I
+[786.4s - 787.8s] super easy and much more natural. Like I said earlier, the same rule applies for
+[787.8s - 787.8s] said earlier, the same rule applies for
+[787.8s - 789.5s] said earlier, the same rule applies for testimonials and referrals. You can't
+[789.5s - 789.5s] testimonials and referrals. You can't
+[789.5s - 790.9s] testimonials and referrals. You can't ask for those until you've actually done
+[790.9s - 791.0s] ask for those until you've actually done
+[791.0s - 792.0s] ask for those until you've actually done something. So, don't think about a
+[792.0s - 792.0s] something. So, don't think about a
+[792.0s - 793.7s] something. So, don't think about a retainer as step one. Think of it like
+[793.7s - 793.7s] retainer as step one. Think of it like
+[793.7s - 794.9s] retainer as step one. Think of it like something that you've earned once you've
+[794.9s - 795.0s] something that you've earned once you've
+[795.0s - 796.1s] something that you've earned once you've built a relationship. And the third
+[796.1s - 796.2s] built a relationship. And the third
+[796.2s - 797.8s] built a relationship. And the third hurdle is just rejection. This one
+[797.8s - 797.8s] hurdle is just rejection. This one
+[797.8s - 799.3s] hurdle is just rejection. This one scares people more than it should. When
+[799.3s - 799.3s] scares people more than it should. When
+[799.3s - 800.6s] scares people more than it should. When you're new, you are going to get
+[800.6s - 800.6s] you're new, you are going to get
+[800.6s - 802.2s] you're new, you are going to get ignored. People will say no. Some won't
+[802.2s - 802.2s] ignored. People will say no. Some won't
+[802.2s - 803.4s] ignored. People will say no. Some won't respond at all. That's completely
+[803.4s - 803.4s] respond at all. That's completely
+[803.4s - 804.9s] respond at all. That's completely normal. The important part is what you
+[804.9s - 805.0s] normal. The important part is what you
+[805.0s - 806.3s] normal. The important part is what you actually do with that rejection. Every
+[806.3s - 806.3s] actually do with that rejection. Every
+[806.3s - 807.8s] actually do with that rejection. Every rejection is feedback. It's more data
+[807.8s - 807.8s] rejection is feedback. It's more data
+[807.8s - 809.7s] rejection is feedback. It's more data for you to learn from and win from
+[809.7s - 809.7s] for you to learn from and win from
+[809.7s - 811.2s] for you to learn from and win from because the reality is everyone gets
+[811.2s - 811.2s] because the reality is everyone gets
+[811.2s - 812.5s] because the reality is everyone gets rejected. So the difference between
+[812.5s - 812.6s] rejected. So the difference between
+[812.6s - 814.3s] rejected. So the difference between winners and losers is that the winners
+[814.3s - 814.3s] winners and losers is that the winners
+[814.3s - 815.8s] winners and losers is that the winners pay attention to why they were rejected
+[815.8s - 815.8s] pay attention to why they were rejected
+[815.8s - 817.1s] pay attention to why they were rejected and they actually fix something. They
+[817.1s - 817.1s] and they actually fix something. They
+[817.1s - 818.4s] and they actually fix something. They change something about it. And losers
+[818.4s - 818.4s] change something about it. And losers
+[818.4s - 820.0s] change something about it. And losers just get rejected over and over and they
+[820.0s - 820.0s] just get rejected over and over and they
+[820.0s - 821.1s] just get rejected over and over and they don't change anything. So if someone
+[821.1s - 821.1s] don't change anything. So if someone
+[821.1s - 822.9s] don't change anything. So if someone ignores you, ask why. Was my message
+[822.9s - 822.9s] ignores you, ask why. Was my message
+[822.9s - 824.9s] ignores you, ask why. Was my message unclear? Was it too long? Was it vague?
+[824.9s - 824.9s] unclear? Was it too long? Was it vague?
+[824.9s - 826.2s] unclear? Was it too long? Was it vague? Did they even have a reason to want to
+[826.2s - 826.2s] Did they even have a reason to want to
+[826.2s - 828.0s] Did they even have a reason to want to care to respond to me? And then you fix
+[828.0s - 828.0s] care to respond to me? And then you fix
+[828.0s - 829.4s] care to respond to me? And then you fix that. And then your next attempt gets
+[829.4s - 829.4s] that. And then your next attempt gets
+[829.4s - 830.6s] that. And then your next attempt gets better. Okay, so those are the three
+[830.6s - 830.6s] better. Okay, so those are the three
+[830.6s - 832.3s] better. Okay, so those are the three hurdles. Now, let's talk about actually
+[832.3s - 832.3s] hurdles. Now, let's talk about actually
+[832.3s - 834.0s] hurdles. Now, let's talk about actually breaking down the 7-day framework and
+[834.0s - 834.0s] breaking down the 7-day framework and
+[834.0s - 835.5s] breaking down the 7-day framework and connecting it back to what Christian did
+[835.5s - 835.5s] connecting it back to what Christian did
+[835.5s - 836.8s] connecting it back to what Christian did because this is where people tend to
+[836.8s - 836.8s] because this is where people tend to
+[836.8s - 838.1s] because this is where people tend to overcomplicate things. So, the first
+[838.1s - 838.1s] overcomplicate things. So, the first
+[838.1s - 839.6s] overcomplicate things. So, the first thing I want to make very clear is this.
+[839.6s - 839.6s] thing I want to make very clear is this.
+[839.6s - 841.2s] thing I want to make very clear is this. Christian did not start by picking some
+[841.2s - 841.2s] Christian did not start by picking some
+[841.2s - 843.0s] Christian did not start by picking some super ultra specific niche and having
+[843.0s - 843.0s] super ultra specific niche and having
+[843.0s - 844.5s] super ultra specific niche and having every problem figured out and then
+[844.5s - 844.5s] every problem figured out and then
+[844.5s - 845.9s] every problem figured out and then blasting out cold emails. He started
+[845.9s - 845.9s] blasting out cold emails. He started
+[845.9s - 847.2s] blasting out cold emails. He started warm and that matters way more than
+[847.2s - 847.2s] warm and that matters way more than
+[847.2s - 848.8s] warm and that matters way more than people think. Warm outreach, referrals,
+[848.8s - 848.8s] people think. Warm outreach, referrals,
+[848.8s - 850.1s] people think. Warm outreach, referrals, and known contacts are just
+[850.1s - 850.2s] and known contacts are just
+[850.2s - 851.8s] and known contacts are just statistically shown to convert way
+[851.8s - 851.8s] statistically shown to convert way
+[851.8s - 852.9s] statistically shown to convert way better than cold outreach because
+[852.9s - 852.9s] better than cold outreach because
+[852.9s - 854.1s] better than cold outreach because there's already trust there, even if
+[854.1s - 854.2s] there's already trust there, even if
+[854.2s - 855.8s] there's already trust there, even if you're borrowing trust from a friend of
+[855.8s - 855.8s] you're borrowing trust from a friend of
+[855.8s - 857.1s] you're borrowing trust from a friend of a friend. That's why it works so much
+[857.1s - 857.1s] a friend. That's why it works so much
+[857.1s - 859.5s] a friend. That's why it works so much faster, and it feels way less awkward,
+[859.5s - 859.5s] faster, and it feels way less awkward,
+[859.5s - 861.1s] faster, and it feels way less awkward, especially as a beginner. So, big
+[861.1s - 861.1s] especially as a beginner. So, big
+[861.1s - 862.7s] especially as a beginner. So, big picture, the flow looks like this. You
+[862.7s - 862.7s] picture, the flow looks like this. You
+[862.7s - 864.3s] picture, the flow looks like this. You start warm, you stay fairly broad, you
+[864.3s - 864.3s] start warm, you stay fairly broad, you
+[864.3s - 865.8s] start warm, you stay fairly broad, you talk to people, you notice patterns, and
+[865.8s - 865.8s] talk to people, you notice patterns, and
+[865.8s - 867.5s] talk to people, you notice patterns, and then you niche down later. Cold outreach
+[867.5s - 867.5s] then you niche down later. Cold outreach
+[867.5s - 869.1s] then you niche down later. Cold outreach comes last when you're ready to scale,
+[869.1s - 869.1s] comes last when you're ready to scale,
+[869.1s - 870.3s] comes last when you're ready to scale, not first when you want to get your
+[870.3s - 870.3s] not first when you want to get your
+[870.3s - 871.8s] not first when you want to get your first client. So day one is all about
+[871.8s - 871.8s] first client. So day one is all about
+[871.8s - 873.6s] first client. So day one is all about setting a loose direction. Not locking
+[873.6s - 873.6s] setting a loose direction. Not locking
+[873.6s - 875.4s] setting a loose direction. Not locking yourself into one super hyper specific
+[875.4s - 875.4s] yourself into one super hyper specific
+[875.4s - 877.1s] yourself into one super hyper specific niche, but just think of it as like a
+[877.1s - 877.1s] niche, but just think of it as like a
+[877.1s - 879.0s] niche, but just think of it as like a working hypothesis, not a lifelong
+[879.0s - 879.0s] working hypothesis, not a lifelong
+[879.0s - 880.5s] working hypothesis, not a lifelong decision. So instead of saying, "I'm the
+[880.5s - 880.6s] decision. So instead of saying, "I'm the
+[880.6s - 882.9s] decision. So instead of saying, "I'm the AI automation guy for dental clinics in
+[882.9s - 882.9s] AI automation guy for dental clinics in
+[882.9s - 884.5s] AI automation guy for dental clinics in Georgia, losing time with onboarding,"
+[884.5s - 884.5s] Georgia, losing time with onboarding,"
+[884.5s - 885.5s] Georgia, losing time with onboarding," you're just going to say something much
+[885.5s - 885.5s] you're just going to say something much
+[885.5s - 887.3s] you're just going to say something much simpler like, "I help small businesses
+[887.3s - 887.3s] simpler like, "I help small businesses
+[887.3s - 889.0s] simpler like, "I help small businesses automate boring, repetitive tasks with
+[889.0s - 889.0s] automate boring, repetitive tasks with
+[889.0s - 890.6s] automate boring, repetitive tasks with AI." That's enough to get conversations
+[890.6s - 890.6s] AI." That's enough to get conversations
+[890.6s - 892.2s] AI." That's enough to get conversations started. At this stage, you should also
+[892.2s - 892.2s] started. At this stage, you should also
+[892.2s - 894.6s] started. At this stage, you should also have a short menu of example problems in
+[894.6s - 894.6s] have a short menu of example problems in
+[894.6s - 896.1s] have a short menu of example problems in your head, example use cases in your
+[896.1s - 896.1s] your head, example use cases in your
+[896.1s - 897.5s] your head, example use cases in your head so that you're not just speaking in
+[897.5s - 897.5s] head so that you're not just speaking in
+[897.5s - 898.9s] head so that you're not just speaking in theory. So things like, you know, I know
+[898.9s - 899.0s] theory. So things like, you know, I know
+[899.0s - 900.6s] theory. So things like, you know, I know how to automate lead follow-up or intake
+[900.6s - 900.6s] how to automate lead follow-up or intake
+[900.6s - 902.9s] how to automate lead follow-up or intake forms or data syncing between CRM. And
+[902.9s - 903.0s] forms or data syncing between CRM. And
+[903.0s - 904.1s] forms or data syncing between CRM. And like I said, you're not committing to
+[904.1s - 904.1s] like I said, you're not committing to
+[904.1s - 905.2s] like I said, you're not committing to any of these yet, but you're just
+[905.2s - 905.2s] any of these yet, but you're just
+[905.2s - 906.9s] any of these yet, but you're just testing to see what resonates. On day
+[906.9s - 906.9s] testing to see what resonates. On day
+[906.9s - 908.4s] testing to see what resonates. On day one, you also want to build what I would
+[908.4s - 908.4s] one, you also want to build what I would
+[908.4s - 910.0s] one, you also want to build what I would call a trust map. So open up a simple
+[910.0s - 910.0s] call a trust map. So open up a simple
+[910.0s - 911.5s] call a trust map. So open up a simple Google sheet and list out people where
+[911.5s - 911.5s] Google sheet and list out people where
+[911.5s - 913.4s] Google sheet and list out people where trust already exists. Your goal for day
+[913.4s - 913.4s] trust already exists. Your goal for day
+[913.4s - 914.8s] trust already exists. Your goal for day one would be to write down 20 people
+[914.8s - 914.8s] one would be to write down 20 people
+[914.8s - 916.2s] one would be to write down 20 people that you can reach out to. Friends or
+[916.2s - 916.2s] that you can reach out to. Friends or
+[916.2s - 917.8s] that you can reach out to. Friends or family who run businesses, past
+[917.8s - 917.8s] family who run businesses, past
+[917.8s - 919.8s] family who run businesses, past co-workers, managers, clients, people
+[919.8s - 919.8s] co-workers, managers, clients, people
+[919.8s - 921.3s] co-workers, managers, clients, people who you know from communities, Slack
+[921.3s - 921.3s] who you know from communities, Slack
+[921.3s - 923.1s] who you know from communities, Slack groups, Discords, or online spaces, and
+[923.1s - 923.1s] groups, Discords, or online spaces, and
+[923.1s - 924.5s] groups, Discords, or online spaces, and the second degree connections, so
+[924.5s - 924.6s] the second degree connections, so
+[924.6s - 926.1s] the second degree connections, so friends of friends. For each of these
+[926.1s - 926.1s] friends of friends. For each of these
+[926.1s - 927.5s] friends of friends. For each of these people, just note what kind of business
+[927.5s - 927.5s] people, just note what kind of business
+[927.5s - 928.9s] people, just note what kind of business they're in or what kind of industry
+[928.9s - 928.9s] they're in or what kind of industry
+[928.9s - 930.2s] they're in or what kind of industry they're in, how well you know them,
+[930.2s - 930.2s] they're in, how well you know them,
+[930.2s - 931.6s] they're in, how well you know them, whether they could be a potential client
+[931.6s - 931.6s] whether they could be a potential client
+[931.6s - 933.8s] whether they could be a potential client or an intro to one or just someone who
+[933.8s - 933.8s] or an intro to one or just someone who
+[933.8s - 935.4s] or an intro to one or just someone who can give you some insight. And when you
+[935.4s - 935.4s] can give you some insight. And when you
+[935.4s - 936.5s] can give you some insight. And when you actually start to write this stuff down
+[936.5s - 936.6s] actually start to write this stuff down
+[936.6s - 938.1s] actually start to write this stuff down and think through, you know, your list
+[938.1s - 938.2s] and think through, you know, your list
+[938.2s - 939.8s] and think through, you know, your list of contacts, it makes everything feel a
+[939.8s - 939.8s] of contacts, it makes everything feel a
+[939.8s - 941.1s] of contacts, it makes everything feel a lot less random and a lot less
+[941.1s - 941.1s] lot less random and a lot less
+[941.1s - 942.7s] lot less random and a lot less overwhelming. Now, days two and three
+[942.7s - 942.7s] overwhelming. Now, days two and three
+[942.7s - 945.4s] overwhelming. Now, days two and three are about having 5 to 10 warm, low
+[945.4s - 945.4s] are about having 5 to 10 warm, low
+[945.4s - 947.1s] are about having 5 to 10 warm, low pressure conversations. These are not
+[947.1s - 947.1s] pressure conversations. These are not
+[947.1s - 948.8s] pressure conversations. These are not sales calls. You're not pitching. You
+[948.8s - 948.8s] sales calls. You're not pitching. You
+[948.8s - 950.2s] sales calls. You're not pitching. You genuinely just need to understand where
+[950.2s - 950.2s] genuinely just need to understand where
+[950.2s - 951.9s] genuinely just need to understand where repetitive work eats time in their
+[951.9s - 951.9s] repetitive work eats time in their
+[951.9s - 953.5s] repetitive work eats time in their business or in their daily workflow. So
+[953.5s - 953.5s] business or in their daily workflow. So
+[953.5s - 954.5s] business or in their daily workflow. So when you're reaching out to them, you
+[954.5s - 954.6s] when you're reaching out to them, you
+[954.6s - 955.6s] when you're reaching out to them, you should just sound like a curious
+[955.6s - 955.6s] should just sound like a curious
+[955.6s - 957.4s] should just sound like a curious entrepreneur, not a salesperson. So
+[957.4s - 957.4s] entrepreneur, not a salesperson. So
+[957.4s - 959.5s] entrepreneur, not a salesperson. So something as simple as saying, "Hey, I'm
+[959.5s - 959.5s] something as simple as saying, "Hey, I'm
+[959.5s - 960.9s] something as simple as saying, "Hey, I'm trying to start a business where I help
+[960.9s - 960.9s] trying to start a business where I help
+[960.9s - 962.2s] trying to start a business where I help other businesses automate repetitive
+[962.2s - 962.2s] other businesses automate repetitive
+[962.2s - 963.7s] other businesses automate repetitive work with AI. I'm not trying to sell you
+[963.7s - 963.7s] work with AI. I'm not trying to sell you
+[963.7s - 965.2s] work with AI. I'm not trying to sell you anything. Could I just ask you a few
+[965.2s - 965.2s] anything. Could I just ask you a few
+[965.2s - 966.9s] anything. Could I just ask you a few questions about where things feel manual
+[966.9s - 966.9s] questions about where things feel manual
+[966.9s - 968.3s] questions about where things feel manual or annoying in your day-to-day?" And
+[968.3s - 968.3s] or annoying in your day-to-day?" And
+[968.3s - 969.2s] or annoying in your day-to-day?" And once you start having these
+[969.2s - 969.2s] once you start having these
+[969.2s - 970.5s] once you start having these conversations, write down all the key
+[970.5s - 970.5s] conversations, write down all the key
+[970.5s - 971.7s] conversations, write down all the key insights from that call because you're
+[971.7s - 971.8s] insights from that call because you're
+[971.8s - 972.9s] insights from that call because you're going to need to look at these later.
+[972.9s - 972.9s] going to need to look at these later.
+[972.9s - 974.4s] going to need to look at these later. And if you truly cannot think of anyone
+[974.4s - 974.4s] And if you truly cannot think of anyone
+[974.4s - 976.1s] And if you truly cannot think of anyone in your network who might own a business
+[976.1s - 976.1s] in your network who might own a business
+[976.1s - 978.3s] in your network who might own a business or be an executive at a business or in a
+[978.3s - 978.3s] or be an executive at a business or in a
+[978.3s - 979.7s] or be an executive at a business or in a position to buy or anything like that,
+[979.7s - 979.7s] position to buy or anything like that,
+[979.7s - 980.6s] position to buy or anything like that, then you still don't have to jump
+[980.6s - 980.6s] then you still don't have to jump
+[980.6s - 981.8s] then you still don't have to jump straight to cold outreach. you just
+[981.8s - 981.8s] straight to cold outreach. you just
+[981.8s - 983.2s] straight to cold outreach. you just reach out and ask something like, "Is
+[983.2s - 983.2s] reach out and ask something like, "Is
+[983.2s - 984.6s] reach out and ask something like, "Is there anyone you know who this might be
+[984.6s - 984.6s] there anyone you know who this might be
+[984.6s - 986.0s] there anyone you know who this might be helpful for?" or "Is there anyone you
+[986.0s - 986.0s] helpful for?" or "Is there anyone you
+[986.0s - 987.4s] helpful for?" or "Is there anyone you know who this might benefit?" And so
+[987.4s - 987.4s] know who this might benefit?" And so
+[987.4s - 989.1s] know who this might benefit?" And so that little like wording shift is huge
+[989.1s - 989.1s] that little like wording shift is huge
+[989.1s - 990.5s] that little like wording shift is huge because no one really wants to sell to
+[990.5s - 990.6s] because no one really wants to sell to
+[990.6s - 991.7s] because no one really wants to sell to their friends and you're not selling to
+[991.7s - 991.8s] their friends and you're not selling to
+[991.8s - 993.1s] their friends and you're not selling to your friends. You're just asking if they
+[993.1s - 993.1s] your friends. You're just asking if they
+[993.1s - 994.8s] your friends. You're just asking if they know anyone who might benefit from, you
+[994.8s - 994.8s] know anyone who might benefit from, you
+[994.8s - 995.7s] know anyone who might benefit from, you know, the kind of stuff that you're
+[995.7s - 995.7s] know, the kind of stuff that you're
+[995.7s - 996.7s] know, the kind of stuff that you're talking about. It feels way more
+[996.7s - 996.7s] talking about. It feels way more
+[996.7s - 998.4s] talking about. It feels way more natural, less uncomfortable, and it
+[998.4s - 998.4s] natural, less uncomfortable, and it
+[998.4s - 999.8s] natural, less uncomfortable, and it still lets you kind of borrow some
+[999.8s - 999.8s] still lets you kind of borrow some
+[999.8s - 1001.4s] still lets you kind of borrow some trust. You also could jump on a site
+[1001.4s - 1001.4s] trust. You also could jump on a site
+[1001.4s - 1002.9s] trust. You also could jump on a site like Upwork, but once again, that's
+[1002.9s - 1003.0s] like Upwork, but once again, that's
+[1003.0s - 1004.6s] like Upwork, but once again, that's pretty much going to be similar to cold
+[1004.6s - 1004.6s] pretty much going to be similar to cold
+[1004.6s - 1006.1s] pretty much going to be similar to cold outreach because you haven't yet built
+[1006.1s - 1006.1s] outreach because you haven't yet built
+[1006.1s - 1007.4s] outreach because you haven't yet built trust with those leads, and you're just
+[1007.4s - 1007.4s] trust with those leads, and you're just
+[1007.4s - 1009.1s] trust with those leads, and you're just a name and a profile picture. So after
+[1009.1s - 1009.1s] a name and a profile picture. So after
+[1009.1s - 1010.8s] a name and a profile picture. So after you've had those conversations, day four
+[1010.8s - 1010.8s] you've had those conversations, day four
+[1010.8s - 1012.3s] you've had those conversations, day four and five are where you turn those
+[1012.3s - 1012.3s] and five are where you turn those
+[1012.3s - 1014.5s] and five are where you turn those conversations into a tiny pilot. So look
+[1014.5s - 1014.5s] conversations into a tiny pilot. So look
+[1014.5s - 1016.1s] conversations into a tiny pilot. So look back at your notes, pick the person with
+[1016.1s - 1016.1s] back at your notes, pick the person with
+[1016.1s - 1017.8s] back at your notes, pick the person with the clearest, most painful repetitive
+[1017.8s - 1017.8s] the clearest, most painful repetitive
+[1017.8s - 1019.3s] the clearest, most painful repetitive task. You're looking for the clearest
+[1019.3s - 1019.3s] task. You're looking for the clearest
+[1019.3s - 1021.0s] task. You're looking for the clearest pain point here. And then you propose
+[1021.0s - 1021.0s] pain point here. And then you propose
+[1021.0s - 1022.8s] pain point here. And then you propose something very small and very low risk
+[1022.8s - 1022.8s] something very small and very low risk
+[1022.8s - 1024.7s] something very small and very low risk for that prospect, which is typically a
+[1024.7s - 1024.7s] for that prospect, which is typically a
+[1024.7s - 1026.3s] for that prospect, which is typically a free workflow. You build it. You measure
+[1026.3s - 1026.3s] free workflow. You build it. You measure
+[1026.3s - 1027.8s] free workflow. You build it. You measure one simple outcome and then you decide
+[1027.8s - 1027.8s] one simple outcome and then you decide
+[1027.8s - 1029.6s] one simple outcome and then you decide together if it's worth expanding. So you
+[1029.6s - 1029.6s] together if it's worth expanding. So you
+[1029.6s - 1030.8s] together if it's worth expanding. So you can reach back out to them after that
+[1030.8s - 1030.8s] can reach back out to them after that
+[1030.8s - 1032.2s] can reach back out to them after that initial conversation and say something
+[1032.2s - 1032.2s] initial conversation and say something
+[1032.2s - 1033.6s] initial conversation and say something like, "Hey, I'd love to build you a
+[1033.6s - 1033.6s] like, "Hey, I'd love to build you a
+[1033.6s - 1035.4s] like, "Hey, I'd love to build you a small automation that tackles X painoint
+[1035.4s - 1035.4s] small automation that tackles X painoint
+[1035.4s - 1037.3s] small automation that tackles X painoint as a free pilot. My goal here is just to
+[1037.3s - 1037.3s] as a free pilot. My goal here is just to
+[1037.3s - 1038.7s] as a free pilot. My goal here is just to prove that these workflows actually can
+[1038.7s - 1038.7s] prove that these workflows actually can
+[1038.7s - 1040.3s] prove that these workflows actually can save you time. And in return, I'd just
+[1040.3s - 1040.3s] save you time. And in return, I'd just
+[1040.3s - 1041.7s] save you time. And in return, I'd just ask for some honest feedback because
+[1041.7s - 1041.7s] ask for some honest feedback because
+[1041.7s - 1042.8s] ask for some honest feedback because that's going to help me learn and grow.
+[1042.8s - 1042.8s] that's going to help me learn and grow.
+[1042.8s - 1044.2s] that's going to help me learn and grow. Now, days five and six are about
+[1044.2s - 1044.2s] Now, days five and six are about
+[1044.2s - 1045.9s] Now, days five and six are about actually building that tiny MVP. So,
+[1045.9s - 1045.9s] actually building that tiny MVP. So,
+[1045.9s - 1047.1s] actually building that tiny MVP. So, this doesn't have to be complex. In
+[1047.1s - 1047.1s] this doesn't have to be complex. In
+[1047.1s - 1048.5s] this doesn't have to be complex. In fact, the simpler the better. Your goal
+[1048.5s - 1048.5s] fact, the simpler the better. Your goal
+[1048.5s - 1050.0s] fact, the simpler the better. Your goal isn't to impress them with all of these
+[1050.0s - 1050.0s] isn't to impress them with all of these
+[1050.0s - 1052.0s] isn't to impress them with all of these API calls and all this advanced tech.
+[1052.0s - 1052.0s] API calls and all this advanced tech.
+[1052.0s - 1053.7s] API calls and all this advanced tech. Your goal is just to show them, I saved
+[1053.7s - 1053.7s] Your goal is just to show them, I saved
+[1053.7s - 1055.1s] Your goal is just to show them, I saved you time. I saved you, you know,
+[1055.1s - 1055.1s] you time. I saved you, you know,
+[1055.1s - 1056.6s] you time. I saved you, you know, confusion here. And while you do this,
+[1056.6s - 1056.6s] confusion here. And while you do this,
+[1056.6s - 1058.0s] confusion here. And while you do this, just pay attention to the language they
+[1058.0s - 1058.0s] just pay attention to the language they
+[1058.0s - 1059.8s] just pay attention to the language they use, how they describe the problem, how
+[1059.8s - 1059.8s] use, how they describe the problem, how
+[1059.8s - 1061.5s] use, how they describe the problem, how they describe that win. The language is
+[1061.5s - 1061.5s] they describe that win. The language is
+[1061.5s - 1063.5s] they describe that win. The language is gold later. Okay. Now, day seven is
+[1063.5s - 1063.5s] gold later. Okay. Now, day seven is
+[1063.5s - 1065.1s] gold later. Okay. Now, day seven is where you see if your hard work paid
+[1065.1s - 1065.1s] where you see if your hard work paid
+[1065.1s - 1066.4s] where you see if your hard work paid off. The goal of this day is super
+[1066.4s - 1066.4s] off. The goal of this day is super
+[1066.4s - 1068.0s] off. The goal of this day is super simple. You're not trying to hard close
+[1068.0s - 1068.0s] simple. You're not trying to hard close
+[1068.0s - 1069.4s] simple. You're not trying to hard close anyone. You're just trying to figure out
+[1069.4s - 1069.4s] anyone. You're just trying to figure out
+[1069.4s - 1071.2s] anyone. You're just trying to figure out with the potential client what the next
+[1071.2s - 1071.2s] with the potential client what the next
+[1071.2s - 1073.0s] with the potential client what the next logical step is based on how the pilot
+[1073.0s - 1073.0s] logical step is based on how the pilot
+[1073.0s - 1074.5s] logical step is based on how the pilot went. So, the first priority would be to
+[1074.5s - 1074.6s] went. So, the first priority would be to
+[1074.6s - 1076.0s] went. So, the first priority would be to see if you can keep helping that same
+[1076.0s - 1076.0s] see if you can keep helping that same
+[1076.0s - 1077.4s] see if you can keep helping that same client, either by maintaining what
+[1077.4s - 1077.4s] client, either by maintaining what
+[1077.4s - 1079.1s] client, either by maintaining what you've built or by expanding on it
+[1079.1s - 1079.1s] you've built or by expanding on it
+[1079.1s - 1080.6s] you've built or by expanding on it functionality-wise. So, you can lay out
+[1080.6s - 1080.6s] functionality-wise. So, you can lay out
+[1080.6s - 1082.3s] functionality-wise. So, you can lay out clear, low pressure options. You explain
+[1082.3s - 1082.3s] clear, low pressure options. You explain
+[1082.3s - 1083.4s] clear, low pressure options. You explain that there are a couple ways that you
+[1083.4s - 1083.4s] that there are a couple ways that you
+[1083.4s - 1084.8s] that there are a couple ways that you could keep helping. The first option is
+[1084.8s - 1084.8s] could keep helping. The first option is
+[1084.8s - 1086.1s] could keep helping. The first option is maintenance. This is you sticking around
+[1086.1s - 1086.1s] maintenance. This is you sticking around
+[1086.1s - 1087.3s] maintenance. This is you sticking around to make sure that the automation keeps
+[1087.3s - 1087.4s] to make sure that the automation keeps
+[1087.4s - 1088.9s] to make sure that the automation keeps working, handling fixes if something
+[1088.9s - 1088.9s] working, handling fixes if something
+[1088.9s - 1090.6s] working, handling fixes if something breaks, and making small tweaks as their
+[1090.6s - 1090.6s] breaks, and making small tweaks as their
+[1090.6s - 1092.5s] breaks, and making small tweaks as their tools or processes change. And the other
+[1092.5s - 1092.5s] tools or processes change. And the other
+[1092.5s - 1093.9s] tools or processes change. And the other option is expansion. So this is where
+[1093.9s - 1093.9s] option is expansion. So this is where
+[1093.9s - 1095.6s] option is expansion. So this is where you build on top of what's already
+[1095.6s - 1095.6s] you build on top of what's already
+[1095.6s - 1097.1s] you build on top of what's already working. Usually by adding one or two
+[1097.1s - 1097.1s] working. Usually by adding one or two
+[1097.1s - 1098.5s] working. Usually by adding one or two concrete features that you noticed
+[1098.5s - 1098.5s] concrete features that you noticed
+[1098.5s - 1099.7s] concrete features that you noticed during the build that would make the
+[1099.7s - 1099.7s] during the build that would make the
+[1099.7s - 1101.0s] during the build that would make the outcome even stronger. The key here
+[1101.0s - 1101.0s] outcome even stronger. The key here
+[1101.0s - 1102.7s] outcome even stronger. The key here though is just to communicate these two
+[1102.7s - 1102.7s] though is just to communicate these two
+[1102.7s - 1104.6s] though is just to communicate these two actual offers very very simply. So a
+[1104.6s - 1104.6s] actual offers very very simply. So a
+[1104.6s - 1106.0s] actual offers very very simply. So a maintenance offer could be like hey I'll
+[1106.0s - 1106.0s] maintenance offer could be like hey I'll
+[1106.0s - 1107.3s] maintenance offer could be like hey I'll maintain this for the next few months so
+[1107.3s - 1107.4s] maintain this for the next few months so
+[1107.4s - 1108.8s] maintain this for the next few months so if anything breaks or if you want small
+[1108.8s - 1108.8s] if anything breaks or if you want small
+[1108.8s - 1110.1s] if anything breaks or if you want small changes I can handle it. And an
+[1110.1s - 1110.1s] changes I can handle it. And an
+[1110.1s - 1111.6s] changes I can handle it. And an expansion offer might be hey we could
+[1111.6s - 1111.6s] expansion offer might be hey we could
+[1111.6s - 1113.2s] expansion offer might be hey we could turn this into a slightly bigger system
+[1113.2s - 1113.2s] turn this into a slightly bigger system
+[1113.2s - 1115.2s] turn this into a slightly bigger system by adding this and this so that the
+[1115.2s - 1115.2s] by adding this and this so that the
+[1115.2s - 1116.9s] by adding this and this so that the result is x more reliable. And then you
+[1116.9s - 1116.9s] result is x more reliable. And then you
+[1116.9s - 1118.3s] result is x more reliable. And then you can ask if they want to scope out that
+[1118.3s - 1118.3s] can ask if they want to scope out that
+[1118.3s - 1119.7s] can ask if they want to scope out that and then you can send over a basic
+[1119.7s - 1119.7s] and then you can send over a basic
+[1119.7s - 1121.1s] and then you can send over a basic proposal. Nothing fancy during this
+[1121.1s - 1121.1s] proposal. Nothing fancy during this
+[1121.1s - 1122.2s] proposal. Nothing fancy during this conversation. And you could also
+[1122.2s - 1122.2s] conversation. And you could also
+[1122.2s - 1124.1s] conversation. And you could also naturally surface more work by asking
+[1124.1s - 1124.1s] naturally surface more work by asking
+[1124.1s - 1125.4s] naturally surface more work by asking thoughtful questions. For example, you
+[1125.4s - 1125.4s] thoughtful questions. For example, you
+[1125.4s - 1126.5s] thoughtful questions. For example, you could say something like, "Hey, while
+[1126.5s - 1126.6s] could say something like, "Hey, while
+[1126.6s - 1128.1s] could say something like, "Hey, while while I was building out this workflow,
+[1128.1s - 1128.1s] while I was building out this workflow,
+[1128.1s - 1129.5s] while I was building out this workflow, I noticed this other process that's
+[1129.5s - 1129.5s] I noticed this other process that's
+[1129.5s - 1130.6s] I noticed this other process that's related. Would it help if that was
+[1130.6s - 1130.6s] related. Would it help if that was
+[1130.6s - 1132.7s] related. Would it help if that was automated, too?" Or now that you've seen
+[1132.7s - 1132.7s] automated, too?" Or now that you've seen
+[1132.7s - 1134.2s] automated, too?" Or now that you've seen what this workflow can do, what's the
+[1134.2s - 1134.2s] what this workflow can do, what's the
+[1134.2s - 1135.2s] what this workflow can do, what's the next thing that you would like to get
+[1135.2s - 1135.2s] next thing that you would like to get
+[1135.2s - 1136.6s] next thing that you would like to get off your plate? These types of questions
+[1136.6s - 1136.6s] off your plate? These types of questions
+[1136.6s - 1138.4s] off your plate? These types of questions show that you are a partner and that
+[1138.4s - 1138.4s] show that you are a partner and that
+[1138.4s - 1139.8s] show that you are a partner and that you're keeping things collaborative
+[1139.8s - 1139.8s] you're keeping things collaborative
+[1139.8s - 1141.3s] you're keeping things collaborative rather than being salesy. And then if
+[1141.3s - 1141.3s] rather than being salesy. And then if
+[1141.3s - 1142.5s] rather than being salesy. And then if they're happy with the pilot, but they
+[1142.5s - 1142.6s] they're happy with the pilot, but they
+[1142.6s - 1143.8s] they're happy with the pilot, but they don't necessarily want to continue
+[1143.8s - 1143.8s] don't necessarily want to continue
+[1143.8s - 1144.9s] don't necessarily want to continue working with you right now, that's
+[1144.9s - 1144.9s] working with you right now, that's
+[1144.9s - 1146.2s] working with you right now, that's completely fine. At that point, your
+[1146.2s - 1146.2s] completely fine. At that point, your
+[1146.2s - 1147.8s] completely fine. At that point, your goal is to just lock in some proof, not
+[1147.8s - 1147.8s] goal is to just lock in some proof, not
+[1147.8s - 1149.0s] goal is to just lock in some proof, not push more work on them. So, you can ask
+[1149.0s - 1149.0s] push more work on them. So, you can ask
+[1149.0s - 1150.3s] push more work on them. So, you can ask if they'd be open to a short video
+[1150.3s - 1150.3s] if they'd be open to a short video
+[1150.3s - 1152.0s] if they'd be open to a short video testimonial explaining how the workflow
+[1152.0s - 1152.0s] testimonial explaining how the workflow
+[1152.0s - 1153.8s] testimonial explaining how the workflow helped. Only after that, and only if it
+[1153.8s - 1153.8s] helped. Only after that, and only if it
+[1153.8s - 1155.3s] helped. Only after that, and only if it feels natural, you can then mention if
+[1155.3s - 1155.3s] feels natural, you can then mention if
+[1155.3s - 1156.8s] feels natural, you can then mention if they ever think of someone that might
+[1156.8s - 1156.8s] they ever think of someone that might
+[1156.8s - 1158.7s] they ever think of someone that might also benefit from AI workflows like
+[1158.7s - 1158.7s] also benefit from AI workflows like
+[1158.7s - 1160.4s] also benefit from AI workflows like this, then an intro would be super
+[1160.4s - 1160.4s] this, then an intro would be super
+[1160.4s - 1161.5s] this, then an intro would be super appreciated. But, of course, if the
+[1161.5s - 1161.5s] appreciated. But, of course, if the
+[1161.5s - 1163.0s] appreciated. But, of course, if the pilot did not go well, you don't try to
+[1163.0s - 1163.0s] pilot did not go well, you don't try to
+[1163.0s - 1164.3s] pilot did not go well, you don't try to sell anything. You don't ask for a
+[1164.3s - 1164.3s] sell anything. You don't ask for a
+[1164.3s - 1165.5s] sell anything. You don't ask for a testimonial. You just take that
+[1165.5s - 1165.5s] testimonial. You just take that
+[1165.5s - 1166.8s] testimonial. You just take that feedback, you learn from it, and you
+[1166.8s - 1166.8s] feedback, you learn from it, and you
+[1166.8s - 1168.2s] feedback, you learn from it, and you improve next time, and you start the
+[1168.2s - 1168.2s] improve next time, and you start the
+[1168.2s - 1170.5s] improve next time, and you start the process again of warm conversations and
+[1170.5s - 1170.5s] process again of warm conversations and
+[1170.5s - 1171.9s] process again of warm conversations and offering a free pilot. Because of
+[1171.9s - 1171.9s] offering a free pilot. Because of
+[1171.9s - 1173.1s] offering a free pilot. Because of course, ultimately, what you're
+[1173.1s - 1173.1s] course, ultimately, what you're
+[1173.1s - 1175.1s] course, ultimately, what you're optimizing for right now is experience,
+[1175.1s - 1175.1s] optimizing for right now is experience,
+[1175.1s - 1177.0s] optimizing for right now is experience, proof, not money. So, that's day seven.
+[1177.0s - 1177.0s] proof, not money. So, that's day seven.
+[1177.0s - 1178.4s] proof, not money. So, that's day seven. The entire focus is on deepening the
+[1178.4s - 1178.4s] The entire focus is on deepening the
+[1178.4s - 1179.8s] The entire focus is on deepening the relationship first. Maintenance or
+[1179.8s - 1179.8s] relationship first. Maintenance or
+[1179.8s - 1181.6s] relationship first. Maintenance or expansion comes before testimonials.
+[1181.6s - 1181.6s] expansion comes before testimonials.
+[1181.6s - 1183.5s] expansion comes before testimonials. Testimonials come before referrals. And
+[1183.5s - 1183.5s] Testimonials come before referrals. And
+[1183.5s - 1184.9s] Testimonials come before referrals. And if it doesn't work, you learn and you
+[1184.9s - 1184.9s] if it doesn't work, you learn and you
+[1184.9s - 1186.4s] if it doesn't work, you learn and you move on without forcing anything. Now,
+[1186.4s - 1186.4s] move on without forcing anything. Now,
+[1186.4s - 1187.6s] move on without forcing anything. Now, here's the most important part. This
+[1187.6s - 1187.6s] here's the most important part. This
+[1187.6s - 1189.5s] here's the most important part. This 7-day cycle is not a one-time thing.
+[1189.5s - 1189.5s] 7-day cycle is not a one-time thing.
+[1189.5s - 1190.6s] 7-day cycle is not a one-time thing. It's a loop that you're going to have to
+[1190.6s - 1190.6s] It's a loop that you're going to have to
+[1190.6s - 1192.0s] It's a loop that you're going to have to run through multiple times. But each
+[1192.0s - 1192.0s] run through multiple times. But each
+[1192.0s - 1193.4s] run through multiple times. But each loop gives you more data, more
+[1193.4s - 1193.4s] loop gives you more data, more
+[1193.4s - 1195.0s] loop gives you more data, more confidence, better language, clearer
+[1195.0s - 1195.0s] confidence, better language, clearer
+[1195.0s - 1196.4s] confidence, better language, clearer positioning, and only after you've done
+[1196.4s - 1196.4s] positioning, and only after you've done
+[1196.4s - 1198.0s] positioning, and only after you've done a few cycles of this does it make sense
+[1198.0s - 1198.0s] a few cycles of this does it make sense
+[1198.0s - 1199.7s] a few cycles of this does it make sense to then build lead lists and apply the
+[1199.7s - 1199.7s] to then build lead lists and apply the
+[1199.7s - 1201.2s] to then build lead lists and apply the same framework to colder outreach
+[1201.2s - 1201.2s] same framework to colder outreach
+[1201.2s - 1202.5s] same framework to colder outreach because you actually have some proof
+[1202.5s - 1202.6s] because you actually have some proof
+[1202.6s - 1203.9s] because you actually have some proof behind your name now. So then when you
+[1203.9s - 1203.9s] behind your name now. So then when you
+[1203.9s - 1205.6s] behind your name now. So then when you do it, it's no longer just feeling like
+[1205.6s - 1205.6s] do it, it's no longer just feeling like
+[1205.6s - 1206.9s] do it, it's no longer just feeling like guessing and feeling random and
+[1206.9s - 1206.9s] guessing and feeling random and
+[1206.9s - 1208.2s] guessing and feeling random and overwhelming because you have a system
+[1208.2s - 1208.2s] overwhelming because you have a system
+[1208.2s - 1209.7s] overwhelming because you have a system that works. And that's the exact path
+[1209.7s - 1209.7s] that works. And that's the exact path
+[1209.7s - 1211.2s] that works. And that's the exact path that Christian followed. Start warm,
+[1211.2s - 1211.2s] that Christian followed. Start warm,
+[1211.2s - 1213.0s] that Christian followed. Start warm, lead with outcomes, earn trust, deliver
+[1213.0s - 1213.0s] lead with outcomes, earn trust, deliver
+[1213.0s - 1214.3s] lead with outcomes, earn trust, deliver value, and then just repeat. And if you
+[1214.3s - 1214.3s] value, and then just repeat. And if you
+[1214.3s - 1215.7s] value, and then just repeat. And if you do this two or three times, you were no
+[1215.7s - 1215.7s] do this two or three times, you were no
+[1215.7s - 1217.3s] do this two or three times, you were no longer a beginner guessing in the dark.
+[1217.3s - 1217.3s] longer a beginner guessing in the dark.
+[1217.3s - 1218.6s] longer a beginner guessing in the dark. You can see that Christian actually got
+[1218.6s - 1218.6s] You can see that Christian actually got
+[1218.6s - 1220.0s] You can see that Christian actually got his second client basically just by
+[1220.0s - 1220.0s] his second client basically just by
+[1220.0s - 1221.3s] his second client basically just by posting his win in the community, and
+[1221.3s - 1221.4s] posting his win in the community, and
+[1221.4s - 1222.5s] posting his win in the community, and then someone reached out because they
+[1222.5s - 1222.6s] then someone reached out because they
+[1222.6s - 1224.0s] then someone reached out because they needed a developer that could work with
+[1224.0s - 1224.0s] needed a developer that could work with
+[1224.0s - 1225.4s] needed a developer that could work with clients. So I know that we covered a lot
+[1225.4s - 1225.4s] clients. So I know that we covered a lot
+[1225.4s - 1227.2s] clients. So I know that we covered a lot of information in today's video. So what
+[1227.2s - 1227.2s] of information in today's video. So what
+[1227.2s - 1228.9s] of information in today's video. So what I did is I threw all of this into a
+[1228.9s - 1228.9s] I did is I threw all of this into a
+[1228.9s - 1230.1s] I did is I threw all of this into a practical resource guide that you can
+[1230.1s - 1230.2s] practical resource guide that you can
+[1230.2s - 1231.8s] practical resource guide that you can access for completely free in my free
+[1231.8s - 1231.8s] access for completely free in my free
+[1231.8s - 1233.0s] access for completely free in my free school community. The link for that is
+[1233.0s - 1233.0s] school community. The link for that is
+[1233.0s - 1234.3s] school community. The link for that is down in the description. Now, if you did
+[1234.3s - 1234.3s] down in the description. Now, if you did
+[1234.3s - 1235.9s] down in the description. Now, if you did find this video valuable, signing your
+[1235.9s - 1235.9s] find this video valuable, signing your
+[1235.9s - 1237.8s] find this video valuable, signing your first client is only one part of making
+[1237.8s - 1237.8s] first client is only one part of making
+[1237.8s - 1239.4s] first client is only one part of making money with AI. There's actually several
+[1239.4s - 1239.4s] money with AI. There's actually several
+[1239.4s - 1241.0s] money with AI. There's actually several components involved, and I cover all of
+[1241.0s - 1241.0s] components involved, and I cover all of
+[1241.0s - 1242.5s] components involved, and I cover all of them in detail in this video. So, if you
+[1242.5s - 1242.6s] them in detail in this video. So, if you
+[1242.6s - 1244.5s] them in detail in this video. So, if you want to make money with AI in 2026, then
+[1244.5s - 1244.5s] want to make money with AI in 2026, then
+[1244.5s - 1245.9s] want to make money with AI in 2026, then click there to check it out. Otherwise,
+[1245.9s - 1245.9s] click there to check it out. Otherwise,
+[1245.9s - 1247.2s] click there to check it out. Otherwise, if you enjoyed the video or you learned
+[1247.2s - 1247.2s] if you enjoyed the video or you learned
+[1247.2s - 1248.2s] if you enjoyed the video or you learned something new, then please give it a
+[1248.2s - 1248.2s] something new, then please give it a
+[1248.2s - 1249.6s] something new, then please give it a like. It definitely helps me out a ton.
+[1249.6s - 1249.6s] like. It definitely helps me out a ton.
+[1249.6s - 1250.8s] like. It definitely helps me out a ton. And as always, I appreciate you guys
+[1250.8s - 1250.8s] And as always, I appreciate you guys
+[1250.8s - 1252.0s] And as always, I appreciate you guys making it to the end of the video. I'll
+[1252.0s - 1252.0s] making it to the end of the video. I'll
+[1252.0s - 1253.4s] making it to the end of the video. I'll see you on the next one. Thanks
+[1253.4s - 1253.4s] see you on the next one. Thanks
+[1253.4s - 1256.0s] see you on the next one. Thanks everyone.

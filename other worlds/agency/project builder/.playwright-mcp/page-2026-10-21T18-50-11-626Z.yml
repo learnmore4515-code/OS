@@ -1,0 +1,148 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - heading "Medical Insurance Quote Comparison" [level=1] [ref=e4]
+    - paragraph [ref=e5]: Built for Kevin Osiga — Insurance Broker, Kenya (EAT / UTC+3) • Client-ready comparative proposal in minutes, not hours
+  - generic [ref=e52]: Saved automatically
+  - generic [ref=e6]: "Time saved: Manual quotation comparison takes 2–3 hours. With this tool, under 30 minutes."
+  - generic [ref=e7]:
+    - heading "Client details" [level=2] [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: Client name
+        - textbox "Client name" [ref=e12]:
+          - /placeholder: e.g. Jane Wanjiku
+      - generic [ref=e13]:
+        - generic [ref=e14]: Age
+        - spinbutton "Age" [ref=e15]
+      - generic [ref=e16]:
+        - generic [ref=e17]: Sum insured (KSh)
+        - spinbutton "Sum insured (KSh)" [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]: Location
+        - textbox "Location" [ref=e21]:
+          - /placeholder: e.g. Nairobi, Kenya
+      - generic [ref=e22]:
+        - generic [ref=e23]: Pre-existing conditions (PEC)
+        - textbox "Pre-existing conditions (PEC)" [ref=e24]:
+          - /placeholder: e.g. Hypertension, diagnosed 2022
+        - generic [ref=e25]: Declared pre-existing conditions — affects waiting periods & terms.
+    - generic [ref=e26]:
+      - button "Load Jubilee vs Britam example" [ref=e27] [cursor=pointer]
+      - button "Clear all" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - heading "Underwriter quotes (add up to 4)" [level=2] [ref=e30]
+    - paragraph [ref=e31]: Add one block per underwriter. Enter the premium and benefits from their quote documents. The comparison table updates as you type.
+    - generic [ref=e32]:
+      - button "Jubilee" [ref=e33] [cursor=pointer]
+      - button "Britam" [active] [ref=e34] [cursor=pointer]
+      - button "Sanlam" [ref=e35] [cursor=pointer]
+      - button "APA Insurance" [ref=e36] [cursor=pointer]
+      - button "ICEA Lion" [ref=e37] [cursor=pointer]
+    - generic [ref=e53]:
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - generic [ref=e137]:
+            - generic [ref=e138]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e139]: Jubilee
+          - generic [ref=e140]:
+            - generic [ref=e141]: Premium type
+            - combobox [ref=e142]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e143]:
+            - generic [ref=e144]: Premium amount (KSh)
+            - spinbutton "0" [ref=e145]: "185000"
+          - button "Remove" [ref=e147] [cursor=pointer]
+        - generic [ref=e148]:
+          - generic [ref=e149]: Benefits
+          - generic [ref=e150]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e151]:
+          - rowgroup [ref=e152]:
+            - row [ref=e153]:
+              - columnheader "Benefit" [ref=e154]
+              - columnheader "Sub-limit (KSh)" [ref=e155]
+              - columnheader "Waiting period" [ref=e156]
+              - columnheader "Exclusions" [ref=e157]
+              - columnheader [ref=e158]
+          - rowgroup [ref=e159]:
+            - row [ref=e160]:
+              - cell "Inpatient" [ref=e161]:
+                - combobox [ref=e162]:
+                  - option "Inpatient" [selected]
+                  - option "Outpatient"
+                  - option "Dental"
+                  - option "Maternity"
+                  - option "Optical"
+                  - option "Cancer"
+                  - option "Chronic conditions"
+                  - option "Mental health"
+                  - option "HIV"
+                  - option "Congenital"
+                  - option "Wellness checks"
+                  - option "Telemedicine"
+                  - option "Other"
+              - cell [ref=e163]:
+                - spinbutton "0" [ref=e164]
+              - cell [ref=e165]:
+                - textbox "e.g. 12 months" [ref=e166]
+              - cell [ref=e167]:
+                - textbox "e.g. PEC waiting applies" [ref=e168]
+              - cell [ref=e169]:
+                - button "×" [ref=e170] [cursor=pointer]
+        - button "+ Add benefit" [ref=e172] [cursor=pointer]
+      - generic [ref=e173]:
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176]: Underwriter name
+            - textbox "e.g. Jubilee" [ref=e177]: Britam
+          - generic [ref=e178]:
+            - generic [ref=e179]: Premium type
+            - combobox [ref=e180]:
+              - option "Annual" [selected]
+              - option "Monthly"
+          - generic [ref=e181]:
+            - generic [ref=e182]: Premium amount (KSh)
+            - spinbutton "0" [ref=e183]
+          - button "Remove" [ref=e185] [cursor=pointer]
+        - generic [ref=e186]:
+          - generic [ref=e187]: Benefits
+          - generic [ref=e188]: Add each quoted benefit. Sub-limit, waiting period and exclusions normalise across underwriters.
+        - table [ref=e189]:
+          - rowgroup [ref=e190]:
+            - row [ref=e191]:
+              - columnheader "Benefit" [ref=e192]
+              - columnheader "Sub-limit (KSh)" [ref=e193]
+              - columnheader "Waiting period" [ref=e194]
+              - columnheader "Exclusions" [ref=e195]
+              - columnheader [ref=e196]
+          - rowgroup
+        - button "+ Add benefit" [ref=e198] [cursor=pointer]
+    - button "+ Add underwriter" [ref=e39] [cursor=pointer]
+  - generic [ref=e40]:
+    - heading "Comparative quotation — (client)" [level=2] [ref=e41]
+    - generic [ref=e42]:
+      - heading "Premium comparison" [level=3] [ref=e43]
+      - generic [ref=e78]:
+        - generic [ref=e199]:
+          - generic [ref=e200]: Jubilee
+          - generic [ref=e201]: KSh 185,000 /annual
+        - generic [ref=e202]:
+          - generic [ref=e203]: Britam
+          - generic [ref=e204]: — /annual
+    - table [ref=e44]:
+      - rowgroup [ref=e45]:
+        - row [ref=e205]:
+          - columnheader "Benefit" [ref=e47]
+          - columnheader "Jubilee" [ref=e88]
+          - columnheader "Britam" [ref=e206]
+      - rowgroup [ref=e128]:
+        - row [ref=e207]:
+          - cell "Inpatient" [ref=e208]
+          - 'cell "— Waiting: Excl:" [ref=e209]':
+            - generic [ref=e210]: —
+            - generic [ref=e211]: "Waiting:"
+            - generic [ref=e212]: "Excl:"
+          - cell "—" [ref=e213]
+    - generic [ref=e48]: "Disclaimer: For price comparison purposes only. Final terms, benefits, sub-limits, waiting periods and exclusions are subject to each underwriter's policy document. Premiums shown are as quoted and must be confirmed with the underwriter before binding. Not a policy document or advice."
+    - button "Print / Save as PDF →" [ref=e50] [cursor=pointer]
+  - generic [ref=e51]: MVP v1 · Medical insurance only · Zero installation — open this HTML file in any browser · No database, no backend, no account needed

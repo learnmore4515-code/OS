@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1280, height=769">
+<title>03 Business Outcome — Document Chase Dashboard</title>
+<style>
+  :root {
+    --ink: #0F172A;
+    --ivory: #F8F5F0;
+    --paper: #FFFFFF;
+    --mpesa-green: #059669;
+    --mpesa-green-dark: #047857;
+    --stamp-red: #DC2626;
+    --stamp-red-bg: #FEF2F2;
+    --exception-amber: #D97706;
+    --matched-bg: #F0FDF4;
+    --border: #E2E8F0;
+    --text-muted: #64748B;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-data: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+    --font-display: Georgia, 'Times New Roman', serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1280px; height: 769px; margin: 0; background: var(--ivory); color: var(--ink); font-family: var(--font-body); -webkit-font-smoothing: antialiased; overflow: hidden; }
+  .frame { width: 100%; height: 100%; position: relative; overflow: hidden; }
+  .pad { position: absolute; inset: 0 96px; }
+  .eyebrow { position: absolute; top: 30px; left: 0; font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: 0.3em; text-transform: uppercase; color: var(--mpesa-green); }
+  .headline { position: absolute; top: 56px; left: 0; width: 620px; font-family: var(--font-display); font-size: 34px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.14; color: var(--ink); }
+  .sub { position: absolute; top: 130px; left: 0; width: 620px; font-size: 14px; font-weight: 400; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); line-height: 1.5; }
+  .rule { position: absolute; top: 166px; left: 0; width: 44px; height: 3px; background: var(--mpesa-green); border-radius: 2px; }
+
+  .split { position: absolute; top: 200px; left: 0; width: 1088px; height: 528px; display: flex; gap: 24px; }
+  .half { flex: 1; background: var(--paper); border: 1px solid var(--border); border-radius: 12px; padding: 22px; display: flex; flex-direction: column; position: relative; overflow: hidden; }
+  .half .tag { font-family: var(--font-mono); font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+  .before .tag { color: var(--text-muted); }
+  .after .tag { color: var(--mpesa-green-dark); }
+  .half h2 { font-size: 16px; font-weight: 800; margin-bottom: 12px; color: var(--ink); letter-spacing: -0.01em; }
+  .after { background: #F0FDF4; border-color: var(--matched-bg); border-left: 4px solid var(--mpesa-green); }
+
+  .burden { font-size: 12.5px; color: var(--text-muted); line-height: 1.68; margin-bottom: 10px; flex: 1; overflow: auto; }
+  .burden .bold { color: var(--ink); font-weight: 700; }
+  .bullet { margin-top: 8px; margin-left: 16px; position: relative; padding-left: 10px; }
+  .bullet::before { content: '\2022'; color: var(--mpesa-green); font-weight: 800; position: absolute; left: 0; top: 0; }
+
+  /* After content */
+  .stats-mini { display: flex; gap: 8px; margin-bottom: 14px; flex-shrink: 0; }
+  .stat-mini { flex: 1; background: var(--paper); border: 1px solid var(--border); border-radius: 8px; padding: 11px 12px; }
+  .stat-mini b { display: block; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin-bottom: 2px; }
+  .stat-mini .value { font-size: 1.45rem; font-weight: 700; color: var(--ink); }
+  .stat-mini .value.green { color: var(--mpesa-green); }
+  .stat-mini .value.amber { color: var(--exception-amber); }
+
+  .table-wrap { flex: 1; overflow: auto; margin-bottom: 12px; }
+  table.cases { width: 100%; border-collapse: collapse; font-size: 0.78rem; }
+  table.cases th, table.cases td { border: 1px solid var(--border); padding: 5px 7px; text-align: left; vertical-align: top; }
+  table.cases th { background: #f1f5f9; color: #475569; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.04em; }
+  .case-client { font-weight: 700; color: var(--ink); }
+  .case-phone { font-family: var(--font-data); font-size: 0.76rem; color: var(--text-muted); }
+  .days-since { font-weight: 700; }
+  .days-since.amber { color: var(--exception-amber); }
+  .days-since.red { color: var(--stamp-red); }
+  .badge { display: inline-flex; align-items: center; gap: 5px; padding: 2.5px 8px; border-radius: 6px; font-size: 0.64rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+  .st-pending { background: #FEFBF3; color: #92400e; }
+  .st-docs_received { background: #DCFCE7; color: #166534; }
+  .st-complete { background: #DCFCE7; color: #166534; }
+  .st-exception { background: #FEF2F2; color: #DC2626; border: 1px solid #fecaca; }
+  .st-docs_requested { background: #DBEAFE; color: #1e40af; }
+  .st-verifying { background: #E0E7FF; color: #3730a3; }
+
+  .milestone { flex-shrink: 0; font-family: var(--font-mono); font-size: 8.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
+  .mile-row { display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
+  .mile-row .party { width: 56px; font-weight: 800; color: var(--ink); text-transform: uppercase; letter-spacing: 0.04em; }
+  .mile-line { flex: 1; display: flex; gap: 4px; }
+  .mile { height: 4px; border-radius: 2px; flex: 1; background: var(--border); }
+  .mile.done { background: var(--mpesa-green); }
+  .mile-labels { font-size: 8px; color: var(--text-muted); letter-spacing: 0.04em; white-space: nowrap; }
+
+  .foot { position: absolute; bottom: 22px; right: 0; font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); text-align: right; }
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="pad"></div>
+  <div class="eyebrow">BUSINESS APPLICATION &middot; DEMONSTRATION</div>
+  <div class="headline">Less Manual Work.<br>Better Visibility.</div>
+  <div class="sub">From fragmented threads to one tracking view &mdash; same documents, fewer chases.</div>
+  <div class="rule"></div>
+
+  <div class="split">
+    <div class="half before">
+      <div class="tag">Before &mdash; manual document chasing</div>
+      <h2>The manual burden</h2>
+      <div class="burden">
+        <p><span class="bold">Client texts on WhatsApp:</span> &ldquo;Hey, do you still need my ID?&rdquo;</p>
+        <div class="bullet">Broker scrolls chats, emails, and spreadsheets to check status.</div>
+        <div class="bullet">No single source of truth &mdash; follow-ups get forgotten.</div>
+        <div class="bullet">Insurer and loss adjuster are never in sync.</div>
+        <p><span class="bold">Documents arrive piecemeal:</span> ID today, KRA PIN next week, nothing verified.</p>
+        <div class="bullet">Deadlines slip past 7 days with no alert.</div>
+        <div class="bullet">Broker chases manually, every time, for every case.</div>
+      </div>
+    </div>
+
+    <div class="half after">
+      <div class="tag">After &mdash; BrokerFlow AI tracking view</div>
+      <h2>One tracking view</h2>
+      <div class="stats-mini">
+        <div class="stat-mini"><b>Total cases</b><span class="value">14</span></div>
+        <div class="stat-mini"><b>Awaiting docs</b><span class="value">6</span></div>
+        <div class="stat-mini"><b>Exception queue (&gt;7d)</b><span class="value amber">2</span></div>
+        <div class="stat-mini"><b>Completed</b><span class="value green">6</span></div>
+      </div>
+      <div class="table-wrap">
+        <table class="cases">
+          <thead>
+            <tr><th style="width:150px;">Client</th><th style="width:105px;">Phone</th><th style="width:115px;">Insurer</th><th style="width:85px;">Policy</th><th style="width:105px;">Status</th><th style="width:78px;">Channel</th><th style="width:95px;">Days since</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="case-client">Wanjiku Mwangi</td><td class="case-phone">0712 345678</td><td>Jubilee Insurance</td><td>Motor</td><td><span class="badge st-docs_received">Docs received</span></td><td><span class="badge" style="background:#dcfce7;color:#166534;">WhatsApp</span></td><td><span class="days-since">2d</span></td>
+            </tr>
+            <tr>
+              <td class="case-client">James Otieno</td><td class="case-phone">0723 456789</td><td>Britam</td><td>Commercial / PSV</td><td><span class="badge st-verifying">Verifying</span></td><td><span class="badge" style="background:#dbeafe;color:#1e40af;">SMS</span></td><td><span class="days-since">5d</span></td>
+            </tr>
+            <tr>
+              <td class="case-client">Grace Wanjiku</td><td class="case-phone">0734 567890</td><td>AAR Insurance</td><td>Fire / Burglary</td><td><span class="badge st-exception">Exception queue</span></td><td><span class="badge" style="background:#dbeafe;color:#1e40af;">Email</span></td><td><span class="days-since red">9d</span></td>
+            </tr>
+            <tr>
+              <td class="case-client">David Kimani</td><td class="case-phone">0745 678901</td><td>CIC Insurance</td><td>Motor</td><td><span class="badge st-complete">Complete</span></td><td><span class="badge" style="background:#dcfce7;color:#166534;">WhatsApp</span></td><td><span class="days-since">0d</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="milestone">
+        <div class="mile-row">
+          <span class="party">Client</span>
+          <div class="mile-line"><div class="mile done"></div><div class="mile done"></div><div class="mile done"></div><div class="mile"></div><div class="mile"></div></div>
+          <span class="mile-labels">Lodged &middot; Req'd &middot; Rec'd &middot; Verif. &middot; Complete</span>
+        </div>
+        <div class="mile-row">
+          <span class="party">Insurer</span>
+          <div class="mile-line"><div class="mile done"></div><div class="mile done"></div><div class="mile"></div><div class="mile"></div><div class="mile"></div></div>
+          <span class="mile-labels">Notified &middot; Shared &middot; Assess. &middot; Sign-off &middot; Complete</span>
+        </div>
+        <div class="mile-row">
+          <span class="party">Adjuster</span>
+          <div class="mile-line"><div class="mile done"></div><div class="mile done"></div><div class="mile"></div><div class="mile"></div><div class="mile"></div></div>
+          <span class="mile-labels">Assigned &middot; Visit &middot; Report &middot; Sign-off &middot; Complete</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">Demonstration interface &mdash; synthetic data &middot; not a live client deployment &middot; BrokerFlow AI &middot; ODPC-aligned</div>
+</div>
+</body>
+</html>

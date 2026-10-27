@@ -1,0 +1,1170 @@
+# Transcript: j4WPALlRO3c
+Language: en
+
+[0.0s - 2.2s] Everybody's talking about AI still and
+[2.2s - 2.2s] Everybody's talking about AI still and
+[2.2s - 3.9s] Everybody's talking about AI still and the big question for consultants is how
+[3.9s - 3.9s] the big question for consultants is how
+[3.9s - 6.4s] the big question for consultants is how can you help these businesses implement
+[6.4s - 6.4s] can you help these businesses implement
+[6.4s - 8.6s] can you help these businesses implement AI safely into their ecosystems. I'm
+[8.6s - 8.6s] AI safely into their ecosystems. I'm
+[8.6s - 9.9s] AI safely into their ecosystems. I'm going to be talking about that and more,
+[9.9s - 9.9s] going to be talking about that and more,
+[9.9s - 12.0s] going to be talking about that and more, so stay tuned and let's get straight
+[12.0s - 12.0s] so stay tuned and let's get straight
+[12.0s - 14.3s] so stay tuned and let's get straight into it. So, here is the AI problems
+[14.3s - 14.3s] into it. So, here is the AI problems
+[14.3s - 15.8s] into it. So, here is the AI problems businesses actually face and what
+[15.8s - 15.8s] businesses actually face and what
+[15.8s - 17.8s] businesses actually face and what consultants do about them. Now, I've got
+[17.8s - 17.8s] consultants do about them. Now, I've got
+[17.8s - 19.1s] consultants do about them. Now, I've got this quote here
+[19.1s - 19.1s] this quote here
+[19.1s - 20.9s] this quote here and essentially I was in a room with
+[20.9s - 20.9s] and essentially I was in a room with
+[20.9s - 22.4s] and essentially I was in a room with non-executive directors, trustees, and
+[22.4s - 22.4s] non-executive directors, trustees, and
+[22.4s - 24.8s] non-executive directors, trustees, and CEOs last week and nobody was asking
+[24.8s - 24.8s] CEOs last week and nobody was asking
+[24.8s - 26.1s] CEOs last week and nobody was asking which tool to use. They know which tool
+[26.1s - 26.1s] which tool to use. They know which tool
+[26.1s - 28.1s] which tool to use. They know which tool to use. They were asking what happens to
+[28.1s - 28.1s] to use. They were asking what happens to
+[28.1s - 29.1s] to use. They were asking what happens to our clients' data. That's the big
+[29.1s - 29.2s] our clients' data. That's the big
+[29.2s - 31.1s] our clients' data. That's the big question to answer, but before we get
+[31.1s - 31.2s] question to answer, but before we get
+[31.2s - 33.5s] question to answer, but before we get into it, if you're interested in 6-week
+[33.5s - 33.5s] into it, if you're interested in 6-week
+[33.5s - 35.4s] into it, if you're interested in 6-week sprints on how to become a successful
+[35.4s - 35.4s] sprints on how to become a successful
+[35.4s - 37.1s] sprints on how to become a successful independent consultant, so learning how
+[37.1s - 37.1s] independent consultant, so learning how
+[37.1s - 38.8s] independent consultant, so learning how to get the clients, how to deliver
+[38.8s - 38.8s] to get the clients, how to deliver
+[38.8s - 40.2s] to get the clients, how to deliver value, how to set yourself up
+[40.2s - 40.2s] value, how to set yourself up
+[40.2s - 42.9s] value, how to set yourself up appropriately, then click on the link
+[42.9s - 42.9s] appropriately, then click on the link
+[42.9s - 44.6s] appropriately, then click on the link below to fill out the form. Of course,
+[44.6s - 44.6s] below to fill out the form. Of course,
+[44.6s - 46.0s] below to fill out the form. Of course, if you want to keep updated with latest
+[46.0s - 46.0s] if you want to keep updated with latest
+[46.0s - 47.1s] if you want to keep updated with latest news centered around independent
+[47.1s - 47.2s] news centered around independent
+[47.2s - 49.0s] news centered around independent consulting and portfolio careers, then
+[49.0s - 49.0s] consulting and portfolio careers, then
+[49.0s - 51.4s] consulting and portfolio careers, then sign up to my newsletter.
+[51.4s - 51.4s] sign up to my newsletter.
+[51.4s - 52.7s] sign up to my newsletter. Perfect, let's get into it. So, let's
+[52.7s - 52.7s] Perfect, let's get into it. So, let's
+[52.7s - 54.7s] Perfect, let's get into it. So, let's get into the context. So, you've heard
+[54.7s - 54.7s] get into the context. So, you've heard
+[54.7s - 56.3s] get into the context. So, you've heard me say this so many times. There was an
+[56.3s - 56.3s] me say this so many times. There was an
+[56.3s - 58.4s] me say this so many times. There was an MIT study that was done in 2025 that
+[58.4s - 58.4s] MIT study that was done in 2025 that
+[58.4s - 60.7s] MIT study that was done in 2025 that basically looked at 300 businesses to
+[60.7s - 60.7s] basically looked at 300 businesses to
+[60.7s - 61.7s] basically looked at 300 businesses to see whether they got a return on
+[61.7s - 61.7s] see whether they got a return on
+[61.7s - 64.1s] see whether they got a return on investment when they utilized AI. The
+[64.1s - 64.1s] investment when they utilized AI. The
+[64.1s - 66.6s] investment when they utilized AI. The answer to that was only 5% got a return
+[66.6s - 66.6s] answer to that was only 5% got a return
+[66.6s - 68.0s] answer to that was only 5% got a return on investment and actually there was use
+[68.0s - 68.0s] on investment and actually there was use
+[68.0s - 70.7s] on investment and actually there was use cases that were beneficial towards admin
+[70.7s - 70.7s] cases that were beneficial towards admin
+[70.7s - 72.6s] cases that were beneficial towards admin and I think a bit of sales as well. And
+[72.6s - 72.6s] and I think a bit of sales as well. And
+[72.6s - 74.0s] and I think a bit of sales as well. And so, there's something to be said about,
+[74.0s - 74.0s] so, there's something to be said about,
+[74.0s - 75.7s] so, there's something to be said about, well,
+[75.7s - 75.7s] well,
+[75.7s - 76.8s] well, how are we going to actually get a
+[76.8s - 76.8s] how are we going to actually get a
+[76.8s - 78.0s] how are we going to actually get a return on investment when it comes to
+[78.0s - 78.0s] return on investment when it comes to
+[78.0s - 80.6s] return on investment when it comes to using AI agentic tools? Now, there was a
+[80.6s - 80.6s] using AI agentic tools? Now, there was a
+[80.6s - 82.4s] using AI agentic tools? Now, there was a further study done but I think it was
+[82.4s - 82.4s] further study done but I think it was
+[82.4s - 84.6s] further study done but I think it was called the the Iceberg Index and
+[84.6s - 84.6s] called the the Iceberg Index and
+[84.6s - 86.0s] called the the Iceberg Index and essentially it was talking about the
+[86.0s - 86.0s] essentially it was talking about the
+[86.0s - 87.8s] essentially it was talking about the fact that at the top of the iceberg, if
+[87.8s - 87.8s] fact that at the top of the iceberg, if
+[87.8s - 89.2s] fact that at the top of the iceberg, if you think about an iceberg at the top of
+[89.2s - 89.2s] you think about an iceberg at the top of
+[89.2s - 91.3s] you think about an iceberg at the top of it, the tip of it, you're seeing stuff
+[91.3s - 91.3s] it, the tip of it, you're seeing stuff
+[91.3s - 94.1s] it, the tip of it, you're seeing stuff and changes in relation to uh a tech.
+[94.1s - 94.1s] and changes in relation to uh a tech.
+[94.1s - 95.8s] and changes in relation to uh a tech. So, think about Klarna. Think about all
+[95.8s - 95.8s] So, think about Klarna. Think about all
+[95.8s - 97.6s] So, think about Klarna. Think about all these other big companies. But then at
+[97.6s - 97.6s] these other big companies. But then at
+[97.6s - 99.1s] these other big companies. But then at the bottom of the iceberg, all these
+[99.1s - 99.1s] the bottom of the iceberg, all these
+[99.1s - 101.2s] the bottom of the iceberg, all these other skills that haven't necessarily
+[101.2s - 101.2s] other skills that haven't necessarily
+[101.2s - 102.4s] other skills that haven't necessarily been taken into consideration and
+[102.4s - 102.4s] been taken into consideration and
+[102.4s - 104.9s] been taken into consideration and measured such as HR relevant skills,
+[104.9s - 104.9s] measured such as HR relevant skills,
+[104.9s - 107.8s] measured such as HR relevant skills, admin related skills, and the op skills,
+[107.8s - 107.8s] admin related skills, and the op skills,
+[107.8s - 110.4s] admin related skills, and the op skills, there is so much potential for for for
+[110.4s - 110.4s] there is so much potential for for for
+[110.4s - 113.8s] there is so much potential for for for them to be turned into AI specific
+[113.8s - 113.8s] them to be turned into AI specific
+[113.8s - 116.2s] them to be turned into AI specific workflows. And so, actually there is
+[116.2s - 116.2s] workflows. And so, actually there is
+[116.2s - 118.8s] workflows. And so, actually there is more potential to
+[118.8s - 118.8s] more potential to
+[118.8s - 120.1s] more potential to well, create efficiencies, should we
+[120.1s - 120.1s] well, create efficiencies, should we
+[120.1s - 122.3s] well, create efficiencies, should we say? And so, this kind of raises
+[122.3s - 122.4s] say? And so, this kind of raises
+[122.4s - 124.4s] say? And so, this kind of raises eyebrows in terms of what organizations
+[124.4s - 124.4s] eyebrows in terms of what organizations
+[124.4s - 128.0s] eyebrows in terms of what organizations can be doing to better use AI.
+[128.0s - 128.0s] can be doing to better use AI.
+[128.0s - 130.1s] can be doing to better use AI. So, again, I've got here 90% of
+[130.1s - 130.1s] So, again, I've got here 90% of
+[130.1s - 132.2s] So, again, I've got here 90% of employees are using personal AI tools. I
+[132.2s - 132.2s] employees are using personal AI tools. I
+[132.2s - 133.7s] employees are using personal AI tools. I don't know if it's 90%, but what I'm
+[133.7s - 133.7s] don't know if it's 90%, but what I'm
+[133.7s - 136.2s] don't know if it's 90%, but what I'm trying to illustrate here is that a lot
+[136.2s - 136.2s] trying to illustrate here is that a lot
+[136.2s - 138.7s] trying to illustrate here is that a lot of individuals are basically using
+[138.7s - 138.7s] of individuals are basically using
+[138.7s - 141.0s] of individuals are basically using ChatGPT, Gemini, and Claude on the side
+[141.0s - 141.0s] ChatGPT, Gemini, and Claude on the side
+[141.0s - 143.0s] ChatGPT, Gemini, and Claude on the side to help them generate better emails,
+[143.0s - 143.0s] to help them generate better emails,
+[143.0s - 145.4s] to help them generate better emails, better understand technical information,
+[145.4s - 145.4s] better understand technical information,
+[145.4s - 147.6s] better understand technical information, as well as do research for them,
+[147.6s - 147.6s] as well as do research for them,
+[147.6s - 149.6s] as well as do research for them, but they haven't necessarily been given
+[149.6s - 149.6s] but they haven't necessarily been given
+[149.6s - 151.5s] but they haven't necessarily been given a green light from their their leader or
+[151.5s - 151.5s] a green light from their their leader or
+[151.5s - 153.0s] a green light from their their leader or their organization.
+[153.0s - 153.0s] their organization.
+[153.0s - 155.6s] their organization. Now, the problem isn't necessarily the
+[155.6s - 155.6s] Now, the problem isn't necessarily the
+[155.6s - 157.3s] Now, the problem isn't necessarily the tools themselves. It's understanding the
+[157.3s - 157.3s] tools themselves. It's understanding the
+[157.3s - 158.6s] tools themselves. It's understanding the governance, the architecture, and the
+[158.6s - 158.6s] governance, the architecture, and the
+[158.6s - 160.7s] governance, the architecture, and the strategy required to use these tools
+[160.7s - 160.7s] strategy required to use these tools
+[160.7s - 163.7s] strategy required to use these tools appropriately. And like I said, I was at
+[163.7s - 163.7s] appropriately. And like I said, I was at
+[163.7s - 166.1s] appropriately. And like I said, I was at a number of conferences and events last
+[166.1s - 166.1s] a number of conferences and events last
+[166.1s - 167.2s] a number of conferences and events last week,
+[167.2s - 167.2s] week,
+[167.2s - 169.2s] week, and essentially, I learned quite a lot
+[169.2s - 169.2s] and essentially, I learned quite a lot
+[169.2s - 170.5s] and essentially, I learned quite a lot of things in terms of what are the big
+[170.5s - 170.5s] of things in terms of what are the big
+[170.5s - 171.8s] of things in terms of what are the big questions that some of these
+[171.8s - 171.8s] questions that some of these
+[171.8s - 173.6s] questions that some of these organizations are facing. There's
+[173.6s - 173.6s] organizations are facing. There's
+[173.6s - 175.3s] organizations are facing. There's challenges with revenue. There are
+[175.3s - 175.4s] challenges with revenue. There are
+[175.4s - 177.4s] challenges with revenue. There are challenges with defining value. There
+[177.4s - 177.4s] challenges with defining value. There
+[177.4s - 179.0s] challenges with defining value. There are challenges with creating the right
+[179.0s - 179.0s] are challenges with creating the right
+[179.0s - 180.6s] are challenges with creating the right level of community. But one of the
+[180.6s - 180.6s] level of community. But one of the
+[180.6s - 182.6s] level of community. But one of the biggest challenges is understanding how
+[182.6s - 182.6s] biggest challenges is understanding how
+[182.6s - 185.1s] biggest challenges is understanding how to utilize AI and agentic tools in a
+[185.1s - 185.1s] to utilize AI and agentic tools in a
+[185.1s - 187.4s] to utilize AI and agentic tools in a safe way, in a secure way, and a way
+[187.4s - 187.4s] safe way, in a secure way, and a way
+[187.4s - 191.5s] safe way, in a secure way, and a way that doesn't breach on confidentiality.
+[191.5s - 191.5s] that doesn't breach on confidentiality.
+[191.5s - 194.6s] that doesn't breach on confidentiality. And so, let's get into it a bit further.
+[194.6s - 194.6s] And so, let's get into it a bit further.
+[194.6s - 197.8s] And so, let's get into it a bit further. Now, section one, the real concerns. So,
+[197.8s - 197.8s] Now, section one, the real concerns. So,
+[197.8s - 199.1s] Now, section one, the real concerns. So, what leaders are actually asking about
+[199.1s - 199.1s] what leaders are actually asking about
+[199.1s - 200.9s] what leaders are actually asking about AI? This is what I was hearing.
+[200.9s - 200.9s] AI? This is what I was hearing.
+[200.9s - 202.4s] AI? This is what I was hearing. So, questions like this, what happens to
+[202.4s - 202.4s] So, questions like this, what happens to
+[202.4s - 203.6s] So, questions like this, what happens to our client's data when it goes into
+[203.6s - 203.6s] our client's data when it goes into
+[203.6s - 205.2s] our client's data when it goes into ChatGPT? If you don't know the answer to
+[205.2s - 205.2s] ChatGPT? If you don't know the answer to
+[205.2s - 206.8s] ChatGPT? If you don't know the answer to that, shouldn't be using it. But it's
+[206.8s - 206.8s] that, shouldn't be using it. But it's
+[206.8s - 208.4s] that, shouldn't be using it. But it's almost like a FOMO situation where it's
+[208.4s - 208.4s] almost like a FOMO situation where it's
+[208.4s - 210.2s] almost like a FOMO situation where it's like fear of missing out. All these
+[210.2s - 210.2s] like fear of missing out. All these
+[210.2s - 213.4s] like fear of missing out. All these people are using these AI tools, general
+[213.4s - 213.4s] people are using these AI tools, general
+[213.4s - 215.8s] people are using these AI tools, general AI tools. So, if I don't use it, I'm
+[215.8s - 215.8s] AI tools. So, if I don't use it, I'm
+[215.8s - 217.1s] AI tools. So, if I don't use it, I'm going to be slower.
+[217.1s - 217.1s] going to be slower.
+[217.1s - 218.6s] going to be slower. But nine times out of 10, you're using
+[218.6s - 218.6s] But nine times out of 10, you're using
+[218.6s - 220.7s] But nine times out of 10, you're using these tools in such a way where you're
+[220.7s - 220.7s] these tools in such a way where you're
+[220.7s - 223.2s] these tools in such a way where you're working out how to iterate and improve
+[223.2s - 223.2s] working out how to iterate and improve
+[223.2s - 224.9s] working out how to iterate and improve the response that was generated by AI
+[224.9s - 225.0s] the response that was generated by AI
+[225.0s - 226.0s] the response that was generated by AI when you could have just wrote it from
+[226.0s - 226.0s] when you could have just wrote it from
+[226.0s - 227.8s] when you could have just wrote it from the dome at the beginning.
+[227.8s - 227.8s] the dome at the beginning.
+[227.8s - 229.2s] the dome at the beginning. And so, these are some of the things
+[229.2s - 229.2s] And so, these are some of the things
+[229.2s - 231.3s] And so, these are some of the things that are being asked, at least anyway.
+[231.3s - 231.3s] that are being asked, at least anyway.
+[231.3s - 234.1s] that are being asked, at least anyway. Now, when it comes to commercial tools
+[234.1s - 234.1s] Now, when it comes to commercial tools
+[234.1s - 236.0s] Now, when it comes to commercial tools such as the Claude's, the Gemini's, the
+[236.0s - 236.0s] such as the Claude's, the Gemini's, the
+[236.0s - 238.6s] such as the Claude's, the Gemini's, the ChatGPT's, they're all being processed
+[238.6s - 238.6s] ChatGPT's, they're all being processed
+[238.6s - 241.4s] ChatGPT's, they're all being processed on the the they they cloud servers.
+[241.4s - 241.4s] on the the they they cloud servers.
+[241.4s - 243.9s] on the the they they cloud servers. They're third-party tools. And because
+[243.9s - 243.9s] They're third-party tools. And because
+[243.9s - 245.8s] They're third-party tools. And because these are the B2C, so
+[245.8s - 245.8s] these are the B2C, so
+[245.8s - 247.6s] these are the B2C, so business-to-consumer type tools, okay,
+[247.6s - 247.6s] business-to-consumer type tools, okay,
+[247.6s - 249.7s] business-to-consumer type tools, okay, the £20 a month ones, the £17 a month
+[249.7s - 249.7s] the £20 a month ones, the £17 a month
+[249.7s - 252.1s] the £20 a month ones, the £17 a month ones,
+[252.1s - 252.1s] ones,
+[252.1s - 253.6s] ones, the the there's so much potential for
+[253.6s - 253.6s] the the there's so much potential for
+[253.6s - 256.1s] the the there's so much potential for data to be used, sensitive data to be
+[256.1s - 256.1s] data to be used, sensitive data to be
+[256.1s - 258.1s] data to be used, sensitive data to be used for their own means.
+[258.1s - 258.1s] used for their own means.
+[258.1s - 259.3s] used for their own means. And if you have a promise as an
+[259.3s - 259.3s] And if you have a promise as an
+[259.3s - 261.9s] And if you have a promise as an organization to not process this data
+[261.9s - 262.0s] organization to not process this data
+[262.0s - 264.5s] organization to not process this data based on GDPR and the Data Protection
+[264.5s - 264.5s] based on GDPR and the Data Protection
+[264.5s - 265.5s] based on GDPR and the Data Protection Act and all these different things
+[265.5s - 265.5s] Act and all these different things
+[265.5s - 266.4s] Act and all these different things there,
+[266.4s - 266.4s] there,
+[266.4s - 268.1s] there, then you're you're a breach of that. So,
+[268.1s - 268.1s] then you're you're a breach of that. So,
+[268.1s - 270.4s] then you're you're a breach of that. So, you need to be clear about how do you
+[270.4s - 270.4s] you need to be clear about how do you
+[270.4s - 272.2s] you need to be clear about how do you measure against that?
+[272.2s - 272.2s] measure against that?
+[272.2s - 274.2s] measure against that? The other thing is every organization
+[274.2s - 274.2s] The other thing is every organization
+[274.2s - 276.9s] The other thing is every organization needs an AI policy. So, there was a
+[276.9s - 276.9s] needs an AI policy. So, there was a
+[276.9s - 279.4s] needs an AI policy. So, there was a question that was asked at uh one of the
+[279.4s - 279.4s] question that was asked at uh one of the
+[279.4s - 280.6s] question that was asked at uh one of the events that I went to that had a whole
+[280.6s - 280.6s] events that I went to that had a whole
+[280.6s - 283.2s] events that I went to that had a whole bunch of trustees. The question was,
+[283.2s - 283.2s] bunch of trustees. The question was,
+[283.2s - 286.1s] bunch of trustees. The question was, "How many of you are having AI as a
+[286.1s - 286.2s] "How many of you are having AI as a
+[286.2s - 287.9s] "How many of you are having AI as a board item
+[287.9s - 288.0s] board item
+[288.0s - 291.2s] board item at your boards?" And 90 to 95% of the
+[291.2s - 291.2s] at your boards?" And 90 to 95% of the
+[291.2s - 293.5s] at your boards?" And 90 to 95% of the room did not have their hand up.
+[293.5s - 293.5s] room did not have their hand up.
+[293.5s - 295.0s] room did not have their hand up. And so, the advice was, "You need to
+[295.0s - 295.0s] And so, the advice was, "You need to
+[295.0s - 296.6s] And so, the advice was, "You need to speak about AI like it was any other
+[296.6s - 296.6s] speak about AI like it was any other
+[296.6s - 299.8s] speak about AI like it was any other governance issue or challenge or thing
+[299.8s - 299.8s] governance issue or challenge or thing
+[299.8s - 302.2s] governance issue or challenge or thing to improve on as well as any other
+[302.2s - 302.2s] to improve on as well as any other
+[302.2s - 304.6s] to improve on as well as any other strategy conversation."
+[304.6s - 304.6s] strategy conversation."
+[304.6s - 306.6s] strategy conversation." So, that's what it comes down to. Rather
+[306.6s - 306.6s] So, that's what it comes down to. Rather
+[306.6s - 308.6s] So, that's what it comes down to. Rather than seeing it as this scary thing for
+[308.6s - 308.6s] than seeing it as this scary thing for
+[308.6s - 310.7s] than seeing it as this scary thing for tech individuals.
+[310.7s - 310.7s] tech individuals.
+[310.7s - 313.1s] tech individuals. So, AI policies definitely need to be
+[313.1s - 313.1s] So, AI policies definitely need to be
+[313.1s - 315.6s] So, AI policies definitely need to be developed and it needs to help inform
+[315.6s - 315.6s] developed and it needs to help inform
+[315.6s - 316.7s] developed and it needs to help inform behavior. That's the whole point of a
+[316.7s - 316.7s] behavior. That's the whole point of a
+[316.7s - 318.9s] behavior. That's the whole point of a policy. It helps to inform behavior.
+[318.9s - 318.9s] policy. It helps to inform behavior.
+[318.9s - 320.6s] policy. It helps to inform behavior. Now, the thing that AI does is that AI
+[320.6s - 320.6s] Now, the thing that AI does is that AI
+[320.6s - 324.0s] Now, the thing that AI does is that AI exposes the the challenges that a
+[324.0s - 324.0s] exposes the the challenges that a
+[324.0s - 326.9s] exposes the the challenges that a business already has. So, if you weren't
+[326.9s - 327.0s] business already has. So, if you weren't
+[327.0s - 329.8s] business already has. So, if you weren't uh an organization or a business that
+[329.8s - 329.8s] uh an organization or a business that
+[329.8s - 331.5s] uh an organization or a business that necessarily had the right systems in
+[331.5s - 331.5s] necessarily had the right systems in
+[331.5s - 333.7s] necessarily had the right systems in place, then this exposes this challenge
+[333.7s - 333.7s] place, then this exposes this challenge
+[333.7s - 335.2s] place, then this exposes this challenge for you. It's going to be harder for you
+[335.2s - 335.2s] for you. It's going to be harder for you
+[335.2s - 336.6s] for you. It's going to be harder for you to do these things. And as a consultant,
+[336.6s - 336.6s] to do these things. And as a consultant,
+[336.6s - 338.2s] to do these things. And as a consultant, if you're coming in as a consultant, you
+[338.2s - 338.2s] if you're coming in as a consultant, you
+[338.2s - 339.7s] if you're coming in as a consultant, you can help them with this stuff as well
+[339.7s - 339.7s] can help them with this stuff as well
+[339.7s - 341.9s] can help them with this stuff as well because the AI conversation isn't just
+[341.9s - 341.9s] because the AI conversation isn't just
+[341.9s - 343.8s] because the AI conversation isn't just about tools that you can build or tools
+[343.8s - 343.8s] about tools that you can build or tools
+[343.8s - 345.8s] about tools that you can build or tools that you can use. It's also about how do
+[345.8s - 345.8s] that you can use. It's also about how do
+[345.8s - 347.3s] that you can use. It's also about how do you structure your business extremely
+[347.3s - 347.3s] you structure your business extremely
+[347.3s - 349.1s] you structure your business extremely well. This is why strategy, delivery,
+[349.1s - 349.2s] well. This is why strategy, delivery,
+[349.2s - 351.0s] well. This is why strategy, delivery, risk, and governance are key things when
+[351.0s - 351.0s] risk, and governance are key things when
+[351.0s - 353.7s] risk, and governance are key things when it comes to all of this stuff.
+[353.7s - 353.7s] it comes to all of this stuff.
+[353.7s - 356.5s] it comes to all of this stuff. So, let's get into the nuts and bolts.
+[356.5s - 356.5s] So, let's get into the nuts and bolts.
+[356.5s - 357.6s] So, let's get into the nuts and bolts. I've written here also that the
+[357.6s - 357.6s] I've written here also that the
+[357.6s - 360.0s] I've written here also that the consultant's first job is to help them
+[360.0s - 360.0s] consultant's first job is to help them
+[360.0s - 362.4s] consultant's first job is to help them understand what they're dealing with.
+[362.4s - 362.4s] understand what they're dealing with.
+[362.4s - 364.8s] understand what they're dealing with. And this is why it's so key for them to
+[364.8s - 364.8s] And this is why it's so key for them to
+[364.8s - 366.8s] And this is why it's so key for them to be clear about what they're currently
+[366.8s - 366.8s] be clear about what they're currently
+[366.8s - 369.1s] be clear about what they're currently doing so that they know what they want
+[369.1s - 369.1s] doing so that they know what they want
+[369.1s - 370.6s] doing so that they know what they want to do moving forward. There There needs
+[370.6s - 370.6s] to do moving forward. There There needs
+[370.6s - 372.3s] to do moving forward. There There needs to be a conversation, a consolidated
+[372.3s - 372.3s] to be a conversation, a consolidated
+[372.3s - 374.4s] to be a conversation, a consolidated conversation, about what they're doing
+[374.4s - 374.4s] conversation, about what they're doing
+[374.4s - 376.2s] conversation, about what they're doing right now.
+[376.2s - 376.2s] right now.
+[376.2s - 378.8s] right now. Right. So, section two.
+[378.8s - 378.8s] Right. So, section two.
+[378.8s - 380.6s] Right. So, section two. So, this is all about implementation and
+[380.6s - 380.6s] So, this is all about implementation and
+[380.6s - 382.9s] So, this is all about implementation and five ways you can implement AI into your
+[382.9s - 382.9s] five ways you can implement AI into your
+[382.9s - 384.9s] five ways you can implement AI into your space. Now, I want to be very clear.
+[384.9s - 385.0s] space. Now, I want to be very clear.
+[385.0s - 386.5s] space. Now, I want to be very clear. When I'm talking about AI, I'm not just
+[386.5s - 386.5s] When I'm talking about AI, I'm not just
+[386.5s - 388.4s] When I'm talking about AI, I'm not just talking about general AI per se,
+[388.4s - 388.4s] talking about general AI per se,
+[388.4s - 389.8s] talking about general AI per se, although that is the main thing that's
+[389.8s - 389.8s] although that is the main thing that's
+[389.8s - 393.4s] although that is the main thing that's being utilized. I'm also talking about
+[393.4s - 393.4s] being utilized. I'm also talking about
+[393.4s - 396.0s] being utilized. I'm also talking about agents. So, AI agents. I'm also talking
+[396.0s - 396.0s] agents. So, AI agents. I'm also talking
+[396.0s - 398.8s] agents. So, AI agents. I'm also talking about automation. And actually, if you
+[398.8s - 398.8s] about automation. And actually, if you
+[398.8s - 400.3s] about automation. And actually, if you look under the hood, a lot of this is
+[400.3s - 400.3s] look under the hood, a lot of this is
+[400.3s - 402.8s] look under the hood, a lot of this is just really good automation. See the
+[402.8s - 402.8s] just really good automation. See the
+[402.8s - 404.6s] just really good automation. See the connection and integration of different
+[404.6s - 404.6s] connection and integration of different
+[404.6s - 406.7s] connection and integration of different things and different processes as the
+[406.7s - 406.7s] things and different processes as the
+[406.7s - 408.7s] things and different processes as the automation workflow based on triggers
+[408.7s - 408.7s] automation workflow based on triggers
+[408.7s - 411.2s] automation workflow based on triggers that happen, and then the AI element is
+[411.2s - 411.2s] that happen, and then the AI element is
+[411.2s - 413.9s] that happen, and then the AI element is acting as your intelligence layer, okay?
+[413.9s - 413.9s] acting as your intelligence layer, okay?
+[413.9s - 415.4s] acting as your intelligence layer, okay? Um and when I say intelligence layer,
+[415.4s - 415.4s] Um and when I say intelligence layer,
+[415.4s - 417.2s] Um and when I say intelligence layer, it's it's less about intelligence, but
+[417.2s - 417.2s] it's it's less about intelligence, but
+[417.2s - 419.0s] it's it's less about intelligence, but your decision-making layer, okay, to a
+[419.0s - 419.0s] your decision-making layer, okay, to a
+[419.0s - 421.1s] your decision-making layer, okay, to a degree. The intelligence layer is being
+[421.1s - 421.1s] degree. The intelligence layer is being
+[421.1s - 424.8s] degree. The intelligence layer is being informed by data and information that
+[424.8s - 424.8s] informed by data and information that
+[424.8s - 426.1s] informed by data and information that your business holds, whether that is a
+[426.1s - 426.1s] your business holds, whether that is a
+[426.1s - 427.6s] your business holds, whether that is a strategy document, whether that's
+[427.6s - 427.6s] strategy document, whether that's
+[427.6s - 429.4s] strategy document, whether that's minutes, whether that is financial
+[429.4s - 429.4s] minutes, whether that is financial
+[429.4s - 431.8s] minutes, whether that is financial information, or whatever it may be,
+[431.8s - 431.8s] information, or whatever it may be,
+[431.8s - 433.2s] information, or whatever it may be, okay? So, think about it in those
+[433.2s - 433.2s] okay? So, think about it in those
+[433.2s - 435.1s] okay? So, think about it in those different ways.
+[435.1s - 435.1s] different ways.
+[435.1s - 436.7s] different ways. Now, the first thing to think about is
+[436.7s - 436.7s] Now, the first thing to think about is
+[436.7s - 438.6s] Now, the first thing to think about is the first sort of like part on the lower
+[438.6s - 438.6s] the first sort of like part on the lower
+[438.6s - 440.1s] the first sort of like part on the lower part of the pyramid is the commercial
+[440.1s - 440.1s] part of the pyramid is the commercial
+[440.1s - 442.7s] part of the pyramid is the commercial tools plus an AI policy. Commercial
+[442.7s - 442.7s] tools plus an AI policy. Commercial
+[442.7s - 445.1s] tools plus an AI policy. Commercial tools include, you know, obviously the
+[445.1s - 445.1s] tools include, you know, obviously the
+[445.1s - 446.8s] tools include, you know, obviously the ChatGPT, so you're thinking about GPT
+[446.8s - 446.8s] ChatGPT, so you're thinking about GPT
+[446.8s - 450.4s] ChatGPT, so you're thinking about GPT 5.5, or you're thinking about Opus 4.7,
+[450.4s - 450.4s] 5.5, or you're thinking about Opus 4.7,
+[450.4s - 451.8s] 5.5, or you're thinking about Opus 4.7, or maybe you're thinking about Gemini
+[451.8s - 451.8s] or maybe you're thinking about Gemini
+[451.8s - 454.5s] or maybe you're thinking about Gemini 3.1 or 4 when it comes out.
+[454.5s - 454.5s] 3.1 or 4 when it comes out.
+[454.5s - 455.9s] 3.1 or 4 when it comes out. These are the basic tools that one can
+[455.9s - 456.0s] These are the basic tools that one can
+[456.0s - 458.5s] These are the basic tools that one can use, and if your organization or the
+[458.5s - 458.5s] use, and if your organization or the
+[458.5s - 461.1s] use, and if your organization or the organization doesn't mind the risk of
+[461.1s - 461.2s] organization doesn't mind the risk of
+[461.2s - 463.4s] organization doesn't mind the risk of use using these tools, then they should
+[463.4s - 463.4s] use using these tools, then they should
+[463.4s - 464.8s] use using these tools, then they should use those tools. Now, of course, there
+[464.8s - 464.8s] use those tools. Now, of course, there
+[464.8s - 465.6s] use those tools. Now, of course, there is
+[465.6s - 465.6s] is
+[465.6s - 467.8s] is there is Microsoft Copilot.
+[467.8s - 467.8s] there is Microsoft Copilot.
+[467.8s - 470.5s] there is Microsoft Copilot. And Copilot is part of the ecosystem of
+[470.5s - 470.5s] And Copilot is part of the ecosystem of
+[470.5s - 473.1s] And Copilot is part of the ecosystem of Microsoft just as Gemini is part of the
+[473.1s - 473.1s] Microsoft just as Gemini is part of the
+[473.1s - 476.1s] Microsoft just as Gemini is part of the ecosystem for businesses of the Google
+[476.1s - 476.1s] ecosystem for businesses of the Google
+[476.1s - 478.2s] ecosystem for businesses of the Google Workspace. And they have their own sort
+[478.2s - 478.2s] Workspace. And they have their own sort
+[478.2s - 480.3s] Workspace. And they have their own sort of like service. So, for example, Google
+[480.3s - 480.3s] of like service. So, for example, Google
+[480.3s - 483.8s] of like service. So, for example, Google has a Google Cloud. Um Microsoft has
+[483.8s - 483.8s] has a Google Cloud. Um Microsoft has
+[483.8s - 485.3s] has a Google Cloud. Um Microsoft has Microsoft Azure.
+[485.3s - 485.3s] Microsoft Azure.
+[485.3s - 486.8s] Microsoft Azure. So, they're going to have certain
+[486.8s - 486.8s] So, they're going to have certain
+[486.8s - 489.3s] So, they're going to have certain policies and you know, documentations
+[489.3s - 489.3s] policies and you know, documentations
+[489.3s - 491.4s] policies and you know, documentations that align to be some of the things that
+[491.4s - 491.4s] that align to be some of the things that
+[491.4s - 493.0s] that align to be some of the things that organizations would like to see in terms
+[493.0s - 493.0s] organizations would like to see in terms
+[493.0s - 494.9s] organizations would like to see in terms of privacy and protection, okay? But
+[494.9s - 494.9s] of privacy and protection, okay? But
+[494.9s - 496.3s] of privacy and protection, okay? But there are there ways you can be even
+[496.3s - 496.3s] there are there ways you can be even
+[496.3s - 498.6s] there are there ways you can be even more protective by nature.
+[498.6s - 498.6s] more protective by nature.
+[498.6s - 499.8s] more protective by nature. That's the first thing. Second thing is
+[499.8s - 499.8s] That's the first thing. Second thing is
+[499.8s - 501.5s] That's the first thing. Second thing is local models. So, you can use things
+[501.5s - 501.5s] local models. So, you can use things
+[501.5s - 503.9s] local models. So, you can use things like Ollama, which is almost like a
+[503.9s - 503.9s] like Ollama, which is almost like a
+[503.9s - 506.2s] like Ollama, which is almost like a a graphical user interface of GUI,
+[506.2s - 506.2s] a graphical user interface of GUI,
+[506.2s - 509.0s] a graphical user interface of GUI, uh which looks like a ChatGPT or general
+[509.0s - 509.0s] uh which looks like a ChatGPT or general
+[509.0s - 511.2s] uh which looks like a ChatGPT or general chat, okay, sort of thing. And you can
+[511.2s - 511.2s] chat, okay, sort of thing. And you can
+[511.2s - 513.9s] chat, okay, sort of thing. And you can install it with an open-source LLM
+[513.9s - 513.9s] install it with an open-source LLM
+[513.9s - 515.7s] install it with an open-source LLM learning language model
+[515.7s - 515.7s] learning language model
+[515.7s - 518.6s] learning language model uh that comes from the likes of Google
+[518.6s - 518.6s] uh that comes from the likes of Google
+[518.6s - 521.0s] uh that comes from the likes of Google or Qwen or Deep Seek. So, for example,
+[521.0s - 521.0s] or Qwen or Deep Seek. So, for example,
+[521.0s - 523.8s] or Qwen or Deep Seek. So, for example, Google has an open-source LLM that you
+[523.8s - 523.8s] Google has an open-source LLM that you
+[523.8s - 525.9s] Google has an open-source LLM that you can download locally onto your computer
+[525.9s - 525.9s] can download locally onto your computer
+[525.9s - 527.4s] can download locally onto your computer called Gemma 4.
+[527.4s - 527.4s] called Gemma 4.
+[527.4s - 529.4s] called Gemma 4. And so, there are different sort of I
+[529.4s - 529.4s] And so, there are different sort of I
+[529.4s - 532.4s] And so, there are different sort of I would say specifications to Gemma 4 that
+[532.4s - 532.4s] would say specifications to Gemma 4 that
+[532.4s - 534.7s] would say specifications to Gemma 4 that will be useful for a specific type of
+[534.7s - 534.7s] will be useful for a specific type of
+[534.7s - 536.4s] will be useful for a specific type of computer. Why am I saying all of this
+[536.4s - 536.4s] computer. Why am I saying all of this
+[536.4s - 537.3s] computer. Why am I saying all of this stuff?
+[537.3s - 537.3s] stuff?
+[537.3s - 538.3s] stuff? If you wanted to, you could have a
+[538.3s - 538.3s] If you wanted to, you could have a
+[538.3s - 540.0s] If you wanted to, you could have a pre-installed
+[540.0s - 540.0s] pre-installed
+[540.0s - 542.6s] pre-installed Ollama plus Gemma 4
+[542.6s - 542.6s] Ollama plus Gemma 4
+[542.6s - 544.3s] Ollama plus Gemma 4 open-source LLM installed onto your
+[544.3s - 544.3s] open-source LLM installed onto your
+[544.3s - 545.6s] open-source LLM installed onto your computer that doesn't require the
+[545.6s - 545.6s] computer that doesn't require the
+[545.6s - 546.9s] computer that doesn't require the internet
+[546.9s - 546.9s] internet
+[546.9s - 550.1s] internet where it's only on that that person's
+[550.1s - 550.1s] where it's only on that that person's
+[550.1s - 552.0s] where it's only on that that person's local server. So, the server is where
+[552.0s - 552.0s] local server. So, the server is where
+[552.0s - 554.4s] local server. So, the server is where things are hosted and commands, actions,
+[554.4s - 554.4s] things are hosted and commands, actions,
+[554.4s - 558.0s] things are hosted and commands, actions, tasks are executed on, okay? And so, the
+[558.0s - 558.0s] tasks are executed on, okay? And so, the
+[558.0s - 559.6s] tasks are executed on, okay? And so, the difference between a local server and a
+[559.6s - 559.6s] difference between a local server and a
+[559.6s - 561.8s] difference between a local server and a cloud server is that the local one sits
+[561.8s - 561.8s] cloud server is that the local one sits
+[561.8s - 563.7s] cloud server is that the local one sits on the hardware, sits on the device,
+[563.7s - 563.7s] on the hardware, sits on the device,
+[563.7s - 567.3s] on the hardware, sits on the device, whereas a cloud server sits digitally up
+[567.3s - 567.3s] whereas a cloud server sits digitally up
+[567.3s - 569.2s] whereas a cloud server sits digitally up in the ether somewhere. And it's owned
+[569.2s - 569.2s] in the ether somewhere. And it's owned
+[569.2s - 571.2s] in the ether somewhere. And it's owned by some Well, I say it's owned by
+[571.2s - 571.2s] by some Well, I say it's owned by
+[571.2s - 572.7s] by some Well, I say it's owned by someone else, but there are sort of like
+[572.7s - 572.7s] someone else, but there are sort of like
+[572.7s - 574.4s] someone else, but there are sort of like protocols and measures that you can you
+[574.4s - 574.4s] protocols and measures that you can you
+[574.4s - 576.3s] protocols and measures that you can you can you can have to make it as secure as
+[576.3s - 576.3s] can you can have to make it as secure as
+[576.3s - 577.5s] can you can have to make it as secure as possible.
+[577.5s - 577.5s] possible.
+[577.5s - 579.0s] possible. So, obviously, the cloud version means
+[579.0s - 579.0s] So, obviously, the cloud version means
+[579.0s - 580.4s] So, obviously, the cloud version means that you can move around anywhere as
+[580.4s - 580.4s] that you can move around anywhere as
+[580.4s - 581.8s] that you can move around anywhere as long as you have the internet, you can
+[581.8s - 581.8s] long as you have the internet, you can
+[581.8s - 584.0s] long as you have the internet, you can utilize this stuff. The local one means
+[584.0s - 584.0s] utilize this stuff. The local one means
+[584.0s - 586.0s] utilize this stuff. The local one means that you can only use it on that device.
+[586.0s - 586.0s] that you can only use it on that device.
+[586.0s - 587.8s] that you can only use it on that device. So, if people wanted to be very, very,
+[587.8s - 587.8s] So, if people wanted to be very, very,
+[587.8s - 590.3s] So, if people wanted to be very, very, very careful, they can do that as an
+[590.3s - 590.3s] very careful, they can do that as an
+[590.3s - 592.5s] very careful, they can do that as an option. The other thing is utilizing
+[592.5s - 592.5s] option. The other thing is utilizing
+[592.5s - 595.4s] option. The other thing is utilizing APIs. So, an API, I forgot what it
+[595.4s - 595.4s] APIs. So, an API, I forgot what it
+[595.4s - 597.1s] APIs. So, an API, I forgot what it stands for, but it's a programming
+[597.1s - 597.1s] stands for, but it's a programming
+[597.1s - 599.0s] stands for, but it's a programming interface, okay? And what that really
+[599.0s - 599.0s] interface, okay? And what that really
+[599.0s - 600.7s] interface, okay? And what that really means is it allows connections to
+[600.7s - 600.7s] means is it allows connections to
+[600.7s - 602.5s] means is it allows connections to happen. You would have hit heard things
+[602.5s - 602.5s] happen. You would have hit heard things
+[602.5s - 605.6s] happen. You would have hit heard things called MCPs. They act like a APIs. There
+[605.6s - 605.6s] called MCPs. They act like a APIs. There
+[605.6s - 607.5s] called MCPs. They act like a APIs. There are web hooks as well. So, these are all
+[607.5s - 607.6s] are web hooks as well. So, these are all
+[607.6s - 609.0s] are web hooks as well. So, these are all connectors. They all connect in
+[609.0s - 609.0s] connectors. They all connect in
+[609.0s - 611.5s] connectors. They all connect in different ways to allow programs,
+[611.5s - 611.5s] different ways to allow programs,
+[611.5s - 613.8s] different ways to allow programs, software, different things to talk to
+[613.8s - 613.8s] software, different things to talk to
+[613.8s - 615.1s] software, different things to talk to each other, to communicate with each
+[615.1s - 615.2s] each other, to communicate with each
+[615.2s - 616.0s] each other, to communicate with each other.
+[616.0s - 616.0s] other.
+[616.0s - 618.5s] other. And so, this is where organizations may
+[618.5s - 618.5s] And so, this is where organizations may
+[618.5s - 620.2s] And so, this is where organizations may want their CRM to talk to different
+[620.2s - 620.2s] want their CRM to talk to different
+[620.2s - 621.7s] want their CRM to talk to different things. This is where they may want
+[621.7s - 621.7s] things. This is where they may want
+[621.7s - 623.0s] things. This is where they may want their
+[623.0s - 623.0s] their
+[623.0s - 624.7s] their Let's say, for example,
+[624.7s - 624.7s] Let's say, for example,
+[624.7s - 626.9s] Let's say, for example, their main chat interface to speak to
+[626.9s - 626.9s] their main chat interface to speak to
+[626.9s - 628.9s] their main chat interface to speak to different things. And so, you've got the
+[628.9s - 628.9s] different things. And so, you've got the
+[628.9s - 632.5s] different things. And so, you've got the likes of Open AI and Anthropic that are
+[632.5s - 632.5s] likes of Open AI and Anthropic that are
+[632.5s - 634.4s] likes of Open AI and Anthropic that are trying to connect to as many different
+[634.4s - 634.4s] trying to connect to as many different
+[634.4s - 636.3s] trying to connect to as many different tools as possible because that's where
+[636.3s - 636.3s] tools as possible because that's where
+[636.3s - 638.8s] tools as possible because that's where the beauty of this comes into play.
+[638.8s - 638.8s] the beauty of this comes into play.
+[638.8s - 640.8s] the beauty of this comes into play. So, it's it's not just the agents, it's
+[640.8s - 640.8s] So, it's it's not just the agents, it's
+[640.8s - 642.9s] So, it's it's not just the agents, it's not just the AI, it's not even just the
+[642.9s - 642.9s] not just the AI, it's not even just the
+[642.9s - 644.9s] not just the AI, it's not even just the automation, it's the integrations.
+[644.9s - 644.9s] automation, it's the integrations.
+[644.9s - 646.4s] automation, it's the integrations. That's what makes this stuff even more
+[646.4s - 646.4s] That's what makes this stuff even more
+[646.4s - 650.2s] That's what makes this stuff even more powerful. And so, if you have APIs, um
+[650.2s - 650.2s] powerful. And so, if you have APIs, um
+[650.2s - 652.8s] powerful. And so, if you have APIs, um with the right sort of agreements, then,
+[652.8s - 652.8s] with the right sort of agreements, then,
+[652.8s - 654.6s] with the right sort of agreements, then, you know, you you're you're able to
+[654.6s - 654.6s] you know, you you're you're able to
+[654.6s - 656.7s] you know, you you're you're able to enable connections that have never been
+[656.7s - 656.7s] enable connections that have never been
+[656.7s - 658.4s] enable connections that have never been enabled before. And a lot of these APIs
+[658.4s - 658.4s] enabled before. And a lot of these APIs
+[658.4s - 660.9s] enabled before. And a lot of these APIs can be built manually as well or with
+[660.9s - 660.9s] can be built manually as well or with
+[660.9s - 663.1s] can be built manually as well or with the the guidance of AI to generate them
+[663.1s - 663.1s] the the guidance of AI to generate them
+[663.1s - 665.2s] the the guidance of AI to generate them as well. Of course, if you can speak to
+[665.2s - 665.2s] as well. Of course, if you can speak to
+[665.2s - 666.7s] as well. Of course, if you can speak to these organizations that provide these
+[666.7s - 666.7s] these organizations that provide these
+[666.7s - 669.6s] these organizations that provide these APIs, then you're in a position where
+[669.6s - 669.6s] APIs, then you're in a position where
+[669.6s - 671.5s] APIs, then you're in a position where potentially you can you can check their
+[671.5s - 671.5s] potentially you can you can check their
+[671.5s - 673.3s] potentially you can you can check their agreements or even see if they can put
+[673.3s - 673.3s] agreements or even see if they can put
+[673.3s - 675.1s] agreements or even see if they can put an agreement in place specific bespoke
+[675.1s - 675.1s] an agreement in place specific bespoke
+[675.1s - 677.5s] an agreement in place specific bespoke for your company. Again, this is what
+[677.5s - 677.5s] for your company. Again, this is what
+[677.5s - 680.0s] for your company. Again, this is what you'd be advising as a consultant.
+[680.0s - 680.0s] you'd be advising as a consultant.
+[680.0s - 682.1s] you'd be advising as a consultant. Okay, so, the other thing is you could
+[682.1s - 682.2s] Okay, so, the other thing is you could
+[682.2s - 684.6s] Okay, so, the other thing is you could build your tool or softwares within a
+[684.6s - 684.6s] build your tool or softwares within a
+[684.6s - 687.5s] build your tool or softwares within a private cloud server, okay? So, this is
+[687.5s - 687.5s] private cloud server, okay? So, this is
+[687.5s - 689.8s] private cloud server, okay? So, this is using Microsoft Azure. This is utilizing
+[689.8s - 689.8s] using Microsoft Azure. This is utilizing
+[689.8s - 692.6s] using Microsoft Azure. This is utilizing Google Cloud. This is utilizing AWS,
+[692.6s - 692.6s] Google Cloud. This is utilizing AWS,
+[692.6s - 695.0s] Google Cloud. This is utilizing AWS, Amazon's AWS. And so you can utilize
+[695.0s - 695.0s] Amazon's AWS. And so you can utilize
+[695.0s - 698.2s] Amazon's AWS. And so you can utilize these open-source models like again, uh
+[698.2s - 698.2s] these open-source models like again, uh
+[698.2s - 700.8s] these open-source models like again, uh Aquin or Deep Seek. Although these are
+[700.8s - 700.8s] Aquin or Deep Seek. Although these are
+[700.8s - 703.1s] Aquin or Deep Seek. Although these are Chinese-based APIs,
+[703.1s - 703.1s] Chinese-based APIs,
+[703.1s - 705.1s] Chinese-based APIs, but maybe it's a Gemini 4 situation,
+[705.1s - 705.1s] but maybe it's a Gemini 4 situation,
+[705.1s - 707.1s] but maybe it's a Gemini 4 situation, which is a Google-based one,
+[707.1s - 707.1s] which is a Google-based one,
+[707.1s - 709.0s] which is a Google-based one, to basically
+[709.0s - 709.0s] to basically
+[709.0s - 712.4s] to basically be the uh AI layer for your specific
+[712.4s - 712.4s] be the uh AI layer for your specific
+[712.4s - 713.3s] be the uh AI layer for your specific tool.
+[713.3s - 713.3s] tool.
+[713.3s - 714.4s] tool. So that's another way in which you can
+[714.4s - 714.4s] So that's another way in which you can
+[714.4s - 715.6s] So that's another way in which you can do it.
+[715.6s - 715.6s] do it.
+[715.6s - 718.8s] do it. Now of course, you you can sort of like
+[718.8s - 718.8s] Now of course, you you can sort of like
+[718.8s - 721.0s] Now of course, you you can sort of like utilize this whole idea of developing
+[721.0s - 721.0s] utilize this whole idea of developing
+[721.0s - 723.8s] utilize this whole idea of developing your own LLM, and some organizations may
+[723.8s - 723.8s] your own LLM, and some organizations may
+[723.8s - 725.9s] your own LLM, and some organizations may want to do that, but these are very
+[725.9s - 725.9s] want to do that, but these are very
+[725.9s - 728.4s] want to do that, but these are very expensive. These take time. These take
+[728.4s - 728.4s] expensive. These take time. These take
+[728.4s - 730.5s] expensive. These take time. These take investment. Even ChatGPT, who's been
+[730.5s - 730.6s] investment. Even ChatGPT, who's been
+[730.6s - 732.8s] investment. Even ChatGPT, who's been losing money for months,
+[732.8s - 732.8s] losing money for months,
+[732.8s - 734.3s] losing money for months, they still don't have enough.
+[734.3s - 734.3s] they still don't have enough.
+[734.3s - 734.4s] they still don't have enough. >> [laughter]
+[734.4s - 734.4s] >> [laughter]
+[734.4s - 736.6s] >> [laughter] >> So what makes a smaller company feel
+[736.6s - 736.6s] >> So what makes a smaller company feel
+[736.6s - 740.8s] >> So what makes a smaller company feel like they have more resources than a an
+[740.8s - 740.8s] like they have more resources than a an
+[740.8s - 743.1s] like they have more resources than a an Open AI. So think about all of this
+[743.1s - 743.1s] Open AI. So think about all of this
+[743.1s - 745.5s] Open AI. So think about all of this stuff. So maybe your option, your
+[745.5s - 745.5s] stuff. So maybe your option, your
+[745.5s - 746.6s] stuff. So maybe your option, your opportunity that you're a advisor
+[746.6s - 746.6s] opportunity that you're a advisor
+[746.6s - 748.2s] opportunity that you're a advisor consultant, or maybe you're an exec-
+[748.2s - 748.2s] consultant, or maybe you're an exec-
+[748.2s - 750.4s] consultant, or maybe you're an exec- executive listening to this,
+[750.4s - 750.4s] executive listening to this,
+[750.4s - 752.5s] executive listening to this, is fine-tuning or using some sort of
+[752.5s - 752.6s] is fine-tuning or using some sort of
+[752.6s - 755.1s] is fine-tuning or using some sort of rag, okay? Which is basically another
+[755.1s - 755.1s] rag, okay? Which is basically another
+[755.1s - 757.0s] rag, okay? Which is basically another way is an aug- uh is is is another way
+[757.0s - 757.0s] way is an aug- uh is is is another way
+[757.0s - 760.8s] way is an aug- uh is is is another way of saying that you can utilize specific
+[760.8s - 760.8s] of saying that you can utilize specific
+[760.8s - 763.4s] of saying that you can utilize specific information sources or data sources, all
+[763.4s - 763.4s] information sources or data sources, all
+[763.4s - 765.8s] information sources or data sources, all pulled and trained a specific way. I
+[765.8s - 765.8s] pulled and trained a specific way. I
+[765.8s - 767.8s] pulled and trained a specific way. I think a LangChain is is a tool that you
+[767.8s - 767.8s] think a LangChain is is a tool that you
+[767.8s - 770.1s] think a LangChain is is a tool that you can use to train this stuff, where it
+[770.1s - 770.2s] can use to train this stuff, where it
+[770.2s - 773.7s] can use to train this stuff, where it utilizes, let's say, geeky mathematical
+[773.7s - 773.7s] utilizes, let's say, geeky mathematical
+[773.7s - 776.4s] utilizes, let's say, geeky mathematical formulas and and ratios and and
+[776.4s - 776.4s] formulas and and ratios and and
+[776.4s - 777.7s] formulas and and ratios and and instances
+[777.7s - 777.7s] instances
+[777.7s - 781.6s] instances to help decide what specific
+[781.6s - 781.6s] to help decide what specific
+[781.6s - 784.0s] to help decide what specific decision should be made when a prompt is
+[784.0s - 784.0s] decision should be made when a prompt is
+[784.0s - 786.5s] decision should be made when a prompt is is is is entered. That's essentially
+[786.5s - 786.6s] is is is entered. That's essentially
+[786.6s - 788.3s] is is is entered. That's essentially what happens, and that's what happens
+[788.3s - 788.3s] what happens, and that's what happens
+[788.3s - 789.8s] what happens, and that's what happens with the likes of the ChatGPTs, the
+[789.8s - 789.8s] with the likes of the ChatGPTs, the
+[789.8s - 792.3s] with the likes of the ChatGPTs, the Clauds, the Geminis, etc., etc.
+[792.3s - 792.3s] Clauds, the Geminis, etc., etc.
+[792.3s - 793.8s] Clauds, the Geminis, etc., etc. So that can be fine-tuned, and it's not
+[793.8s - 793.8s] So that can be fine-tuned, and it's not
+[793.8s - 795.4s] So that can be fine-tuned, and it's not as difficult as it sounds. You could do
+[795.4s - 795.4s] as difficult as it sounds. You could do
+[795.4s - 797.5s] as difficult as it sounds. You could do it as fine-tuned as it sounds based on
+[797.5s - 797.5s] it as fine-tuned as it sounds based on
+[797.5s - 799.5s] it as fine-tuned as it sounds based on what I've just said. Or you can utilize
+[799.5s - 799.5s] what I've just said. Or you can utilize
+[799.5s - 801.2s] what I've just said. Or you can utilize something like a a notebook LLM, you
+[801.2s - 801.2s] something like a a notebook LLM, you
+[801.2s - 803.6s] something like a a notebook LLM, you know? It you can upload up to 300 bits
+[803.6s - 803.6s] know? It you can upload up to 300 bits
+[803.6s - 806.4s] know? It you can upload up to 300 bits of uh data or or documents or whatever
+[806.4s - 806.4s] of uh data or or documents or whatever
+[806.4s - 808.2s] of uh data or or documents or whatever it may be, and it will process all of
+[808.2s - 808.2s] it may be, and it will process all of
+[808.2s - 811.2s] it may be, and it will process all of that information and give you outputs
+[811.2s - 811.2s] that information and give you outputs
+[811.2s - 813.5s] that information and give you outputs only based on that information. I think
+[813.5s - 813.6s] only based on that information. I think
+[813.6s - 815.4s] only based on that information. I think there's also something called Google
+[815.4s - 815.4s] there's also something called Google
+[815.4s - 817.4s] there's also something called Google Workspace projects. That's another thing
+[817.4s - 817.4s] Workspace projects. That's another thing
+[817.4s - 818.5s] Workspace projects. That's another thing that enables you to do this. So, you can
+[818.5s - 818.6s] that enables you to do this. So, you can
+[818.6s - 820.0s] that enables you to do this. So, you can do this on a larger scale or a smaller
+[820.0s - 820.0s] do this on a larger scale or a smaller
+[820.0s - 821.8s] do this on a larger scale or a smaller scale. But, if if you're helping these
+[821.8s - 821.8s] scale. But, if if you're helping these
+[821.8s - 823.7s] scale. But, if if you're helping these businesses, these are some of the five
+[823.7s - 823.7s] businesses, these are some of the five
+[823.7s - 826.0s] businesses, these are some of the five solutions that you can provide to them
+[826.0s - 826.0s] solutions that you can provide to them
+[826.0s - 828.3s] solutions that you can provide to them as options, okay? So, the consultant's
+[828.3s - 828.3s] as options, okay? So, the consultant's
+[828.3s - 829.8s] as options, okay? So, the consultant's job here is to match the right option to
+[829.8s - 829.8s] job here is to match the right option to
+[829.8s - 832.2s] job here is to match the right option to the organization's risk profile
+[832.2s - 832.2s] the organization's risk profile
+[832.2s - 834.3s] the organization's risk profile and also their budget. So, their risk
+[834.3s - 834.3s] and also their budget. So, their risk
+[834.3s - 836.4s] and also their budget. So, their risk profile may be dependent upon
+[836.4s - 836.4s] profile may be dependent upon
+[836.4s - 838.6s] profile may be dependent upon the compliance, the law, what government
+[838.6s - 838.6s] the compliance, the law, what government
+[838.6s - 841.5s] the compliance, the law, what government says, what they've done today, how they
+[841.5s - 841.6s] says, what they've done today, how they
+[841.6s - 843.6s] says, what they've done today, how they are perceived based on their their
+[843.6s - 843.6s] are perceived based on their their
+[843.6s - 845.3s] are perceived based on their their target audience. And you as the
+[845.3s - 845.3s] target audience. And you as the
+[845.3s - 846.9s] target audience. And you as the consultant need to have some expertise
+[846.9s - 846.9s] consultant need to have some expertise
+[846.9s - 848.5s] consultant need to have some expertise and insights into some of this stuff,
+[848.5s - 848.5s] and insights into some of this stuff,
+[848.5s - 850.5s] and insights into some of this stuff, not everything, but some of this stuff.
+[850.5s - 850.5s] not everything, but some of this stuff.
+[850.5s - 852.8s] not everything, but some of this stuff. But, the budget is also dependent upon
+[852.8s - 852.8s] But, the budget is also dependent upon
+[852.8s - 854.3s] But, the budget is also dependent upon what they're willing to spend. Are they
+[854.3s - 854.3s] what they're willing to spend. Are they
+[854.3s - 855.8s] what they're willing to spend. Are they in a situation where they have technical
+[855.8s - 855.8s] in a situation where they have technical
+[855.8s - 857.8s] in a situation where they have technical in-house expertise, or do they require
+[857.8s - 857.8s] in-house expertise, or do they require
+[857.8s - 860.0s] in-house expertise, or do they require you to be that person, or do they
+[860.0s - 860.0s] you to be that person, or do they
+[860.0s - 862.3s] you to be that person, or do they require you to bring in somebody who
+[862.3s - 862.3s] require you to bring in somebody who
+[862.3s - 864.4s] require you to bring in somebody who could provide those those opportunities?
+[864.4s - 864.4s] could provide those those opportunities?
+[864.4s - 866.9s] could provide those those opportunities? So, bear bear all of this stuff in mind.
+[866.9s - 866.9s] So, bear bear all of this stuff in mind.
+[866.9s - 868.8s] So, bear bear all of this stuff in mind. The third section is what gets built and
+[868.8s - 868.8s] The third section is what gets built and
+[868.8s - 870.4s] The third section is what gets built and how it gets managed. So, it's very
+[870.4s - 870.4s] how it gets managed. So, it's very
+[870.4s - 871.5s] how it gets managed. So, it's very simple. I've spoken about this stuff
+[871.5s - 871.6s] simple. I've spoken about this stuff
+[871.6s - 872.8s] simple. I've spoken about this stuff before. The first thing is to make sure
+[872.8s - 872.8s] before. The first thing is to make sure
+[872.8s - 875.1s] before. The first thing is to make sure that number one, you're very very clear
+[875.1s - 875.1s] that number one, you're very very clear
+[875.1s - 878.1s] that number one, you're very very clear about what tasks could be automated. So,
+[878.1s - 878.2s] about what tasks could be automated. So,
+[878.2s - 879.7s] about what tasks could be automated. So, you need to have standard operating
+[879.7s - 879.7s] you need to have standard operating
+[879.7s - 882.5s] you need to have standard operating procedures that talk about everything
+[882.5s - 882.5s] procedures that talk about everything
+[882.5s - 883.8s] procedures that talk about everything that's done within a department. You
+[883.8s - 883.8s] that's done within a department. You
+[883.8s - 885.3s] that's done within a department. You don't have to do every single department
+[885.3s - 885.3s] don't have to do every single department
+[885.3s - 887.6s] don't have to do every single department first off. Just start off with one area
+[887.6s - 887.6s] first off. Just start off with one area
+[887.6s - 888.8s] first off. Just start off with one area and write it down. So, you haven't done
+[888.8s - 888.8s] and write it down. So, you haven't done
+[888.8s - 891.1s] and write it down. So, you haven't done this, document it. The second thing to
+[891.1s - 891.1s] this, document it. The second thing to
+[891.1s - 893.5s] this, document it. The second thing to do is to think about
+[893.5s - 893.5s] do is to think about
+[893.5s - 895.0s] do is to think about what does the process flow look like,
+[895.0s - 895.0s] what does the process flow look like,
+[895.0s - 897.4s] what does the process flow look like, okay? What integrations are required?
+[897.4s - 897.4s] okay? What integrations are required?
+[897.4s - 899.3s] okay? What integrations are required? What does the pipeline look like? There
+[899.3s - 899.3s] What does the pipeline look like? There
+[899.3s - 900.5s] What does the pipeline look like? There are all these different questions. So,
+[900.5s - 900.5s] are all these different questions. So,
+[900.5s - 901.8s] are all these different questions. So, if you can list out those different
+[901.8s - 901.8s] if you can list out those different
+[901.8s - 903.5s] if you can list out those different tools that you want to connect and link
+[903.5s - 903.6s] tools that you want to connect and link
+[903.6s - 904.7s] tools that you want to connect and link and all these different things there and
+[904.7s - 904.7s] and all these different things there and
+[904.7s - 906.4s] and all these different things there and things that you actually need, then
+[906.4s - 906.4s] things that you actually need, then
+[906.4s - 907.4s] things that you actually need, then you're in a better position to
+[907.4s - 907.4s] you're in a better position to
+[907.4s - 908.6s] you're in a better position to understand what the workload would look
+[908.6s - 908.6s] understand what the workload would look
+[908.6s - 909.6s] understand what the workload would look like.
+[909.6s - 909.6s] like.
+[909.6s - 911.5s] like. The third thing is a whole bunch of
+[911.5s - 911.5s] The third thing is a whole bunch of
+[911.5s - 914.0s] The third thing is a whole bunch of stuff centered around cost, scalability,
+[914.0s - 914.0s] stuff centered around cost, scalability,
+[914.0s - 917.7s] stuff centered around cost, scalability, okay? Uh thinking about, you know, um
+[917.7s - 917.7s] okay? Uh thinking about, you know, um
+[917.7s - 919.3s] okay? Uh thinking about, you know, um what what whether you can use it on the
+[919.3s - 919.3s] what what whether you can use it on the
+[919.3s - 921.4s] what what whether you can use it on the cloud or locally. Data quality is
+[921.4s - 921.4s] cloud or locally. Data quality is
+[921.4s - 923.0s] cloud or locally. Data quality is another thing. So, how is it actually
+[923.0s - 923.0s] another thing. So, how is it actually
+[923.0s - 925.6s] another thing. So, how is it actually being uh managed in terms of
+[925.6s - 925.6s] being uh managed in terms of
+[925.6s - 928.3s] being uh managed in terms of quality of data? Code quality as well.
+[928.3s - 928.3s] quality of data? Code quality as well.
+[928.3s - 929.5s] quality of data? Code quality as well. There's also things centered around
+[929.5s - 929.5s] There's also things centered around
+[929.5s - 931.4s] There's also things centered around security and privacy. How are you
+[931.4s - 931.4s] security and privacy. How are you
+[931.4s - 933.1s] security and privacy. How are you solving the governance issue? These are
+[933.1s - 933.1s] solving the governance issue? These are
+[933.1s - 935.0s] solving the governance issue? These are all the things to bear in mind.
+[935.0s - 935.0s] all the things to bear in mind.
+[935.0s - 936.6s] all the things to bear in mind. The other thing is, the UK is not
+[936.6s - 936.6s] The other thing is, the UK is not
+[936.6s - 938.0s] The other thing is, the UK is not Silicon Valley. If you're in the UK
+[938.0s - 938.0s] Silicon Valley. If you're in the UK
+[938.0s - 939.8s] Silicon Valley. If you're in the UK listening to this, or even in Europe,
+[939.8s - 939.8s] listening to this, or even in Europe,
+[939.8s - 941.1s] listening to this, or even in Europe, it's different. Different procurement
+[941.1s - 941.2s] it's different. Different procurement
+[941.2s - 944.3s] it's different. Different procurement rules, different trustee understandings,
+[944.3s - 944.3s] rules, different trustee understandings,
+[944.3s - 946.4s] rules, different trustee understandings, different behaviors, different culture,
+[946.4s - 946.4s] different behaviors, different culture,
+[946.4s - 949.3s] different behaviors, different culture, different legal exposure. So, it's very
+[949.3s - 949.3s] different legal exposure. So, it's very
+[949.3s - 951.4s] different legal exposure. So, it's very real. You know, you'll hear these people
+[951.4s - 951.4s] real. You know, you'll hear these people
+[951.4s - 952.5s] real. You know, you'll hear these people on
+[952.5s - 952.5s] on
+[952.5s - 954.1s] on YouTube who are typically from the
+[954.1s - 954.2s] YouTube who are typically from the
+[954.2s - 955.5s] YouTube who are typically from the States who say, "It's so easy to set up
+[955.5s - 955.5s] States who say, "It's so easy to set up
+[955.5s - 958.0s] States who say, "It's so easy to set up an AI agency. All you need to do is use,
+[958.0s - 958.0s] an AI agency. All you need to do is use,
+[958.0s - 959.6s] an AI agency. All you need to do is use, I don't know, Claude code, Claude code,
+[959.6s - 959.6s] I don't know, Claude code, Claude code,
+[959.6s - 960.9s] I don't know, Claude code, Claude code, Claude code."
+[960.9s - 960.9s] Claude code."
+[960.9s - 961.3s] Claude code." >> [laughter]
+[961.3s - 961.3s] >> [laughter]
+[961.3s - 963.1s] >> [laughter] >> And then they may say any term because
+[963.1s - 963.1s] >> And then they may say any term because
+[963.1s - 965.6s] >> And then they may say any term because it's got a new feature where you can I
+[965.6s - 965.6s] it's got a new feature where you can I
+[965.6s - 968.5s] it's got a new feature where you can I think integrate the MCP into
+[968.5s - 968.5s] think integrate the MCP into
+[968.5s - 970.2s] think integrate the MCP into Claude code as an example. But, the
+[970.2s - 970.2s] Claude code as an example. But, the
+[970.2s - 972.5s] Claude code as an example. But, the point to be made is the behaviors there
+[972.5s - 972.5s] point to be made is the behaviors there
+[972.5s - 974.2s] point to be made is the behaviors there are different. And so, if you can solve
+[974.2s - 974.2s] are different. And so, if you can solve
+[974.2s - 975.7s] are different. And so, if you can solve this layer of understanding how you
+[975.7s - 975.7s] this layer of understanding how you
+[975.7s - 978.1s] this layer of understanding how you cater towards privacy, data security,
+[978.1s - 978.1s] cater towards privacy, data security,
+[978.1s - 979.1s] cater towards privacy, data security, and all these different things there,
+[979.1s - 979.1s] and all these different things there,
+[979.1s - 981.1s] and all these different things there, then you've done something incredible
+[981.1s - 981.2s] then you've done something incredible
+[981.2s - 983.0s] then you've done something incredible because not only do you know how to do
+[983.0s - 983.0s] because not only do you know how to do
+[983.0s - 985.9s] because not only do you know how to do what these individuals on YouTube know
+[985.9s - 985.9s] what these individuals on YouTube know
+[985.9s - 988.1s] what these individuals on YouTube know how to do, you know what to do from a
+[988.1s - 988.1s] how to do, you know what to do from a
+[988.1s - 989.8s] how to do, you know what to do from a security layer, from an information
+[989.8s - 989.8s] security layer, from an information
+[989.8s - 991.5s] security layer, from an information governance layer. You've worked out the
+[991.5s - 991.6s] governance layer. You've worked out the
+[991.6s - 993.9s] governance layer. You've worked out the harder problem, okay? So, solve that
+[993.9s - 993.9s] harder problem, okay? So, solve that
+[993.9s - 996.1s] harder problem, okay? So, solve that one, and I I I promise you it promise
+[996.1s - 996.1s] one, and I I I promise you it promise
+[996.1s - 999.1s] one, and I I I promise you it promise you it will help you widely.
+[999.1s - 999.1s] you it will help you widely.
+[999.1s - 1000.5s] you it will help you widely. The other thing is
+[1000.5s - 1000.6s] The other thing is
+[1000.6s - 1002.0s] The other thing is you don't necessarily need to build it.
+[1002.0s - 1002.0s] you don't necessarily need to build it.
+[1002.0s - 1003.2s] you don't necessarily need to build it. You just need to understand it well
+[1003.2s - 1003.2s] You just need to understand it well
+[1003.2s - 1006.1s] You just need to understand it well enough to advise on it. And so, what
+[1006.1s - 1006.1s] enough to advise on it. And so, what
+[1006.1s - 1008.6s] enough to advise on it. And so, what you're coming in to do is just basically
+[1008.6s - 1008.6s] you're coming in to do is just basically
+[1008.6s - 1010.0s] you're coming in to do is just basically doing some sort of review or audit,
+[1010.0s - 1010.0s] doing some sort of review or audit,
+[1010.0s - 1011.3s] doing some sort of review or audit, understanding
+[1011.3s - 1011.3s] understanding
+[1011.3s - 1013.1s] understanding how they can improve. And you may not
+[1013.1s - 1013.2s] how they can improve. And you may not
+[1013.2s - 1014.6s] how they can improve. And you may not even be talking about AI initially, you
+[1014.6s - 1014.6s] even be talking about AI initially, you
+[1014.6s - 1016.0s] even be talking about AI initially, you may be talking about strategy, you may
+[1016.0s - 1016.0s] may be talking about strategy, you may
+[1016.0s - 1017.5s] may be talking about strategy, you may be helping them deliver something else.
+[1017.5s - 1017.5s] be helping them deliver something else.
+[1017.5s - 1018.8s] be helping them deliver something else. But, as long as you understand the
+[1018.8s - 1018.8s] But, as long as you understand the
+[1018.8s - 1020.1s] But, as long as you understand the basics of it,
+[1020.1s - 1020.2s] basics of it,
+[1020.2s - 1022.4s] basics of it, basic architecture of it, then you can
+[1022.4s - 1022.4s] basic architecture of it, then you can
+[1022.4s - 1024.7s] basic architecture of it, then you can decide how you actually support these
+[1024.7s - 1024.7s] decide how you actually support these
+[1024.7s - 1026.6s] decide how you actually support these individuals. Do you come as an advisor?
+[1026.6s - 1026.6s] individuals. Do you come as an advisor?
+[1026.6s - 1028.0s] individuals. Do you come as an advisor? Do you come as the lead? Do you come as
+[1028.0s - 1028.0s] Do you come as the lead? Do you come as
+[1028.0s - 1029.5s] Do you come as the lead? Do you come as the person delivering it? Do you bring
+[1029.5s - 1029.5s] the person delivering it? Do you bring
+[1029.5s - 1031.4s] the person delivering it? Do you bring someone in? Do you just do the audit?
+[1031.4s - 1031.4s] someone in? Do you just do the audit?
+[1031.4s - 1034.7s] someone in? Do you just do the audit? You get to decide that information.
+[1034.7s - 1034.7s] You get to decide that information.
+[1034.7s - 1037.4s] You get to decide that information. And so, the the the the section is what
+[1037.4s - 1037.4s] And so, the the the the section is what
+[1037.4s - 1039.4s] And so, the the the the section is what this means for you as the consultant.
+[1039.4s - 1039.4s] this means for you as the consultant.
+[1039.4s - 1041.2s] this means for you as the consultant. I've spoken about how essentially
+[1041.2s - 1041.2s] I've spoken about how essentially
+[1041.2s - 1043.7s] I've spoken about how essentially American YouTube model is real, but it
+[1043.7s - 1043.7s] American YouTube model is real, but it
+[1043.7s - 1045.4s] American YouTube model is real, but it it may be different in different sort of
+[1045.4s - 1045.4s] it may be different in different sort of
+[1045.4s - 1047.0s] it may be different in different sort of markets. The risk is different, etc.,
+[1047.0s - 1047.0s] markets. The risk is different, etc.,
+[1047.0s - 1050.2s] markets. The risk is different, etc., etc. For UK public sector and charities,
+[1050.2s - 1050.2s] etc. For UK public sector and charities,
+[1050.2s - 1051.7s] etc. For UK public sector and charities, uh this is sort of like the area that
+[1051.7s - 1051.7s] uh this is sort of like the area that
+[1051.7s - 1053.5s] uh this is sort of like the area that I'm big on, as well as professional
+[1053.5s - 1053.5s] I'm big on, as well as professional
+[1053.5s - 1055.7s] I'm big on, as well as professional services, they need a different kind of
+[1055.7s - 1055.7s] services, they need a different kind of
+[1055.7s - 1056.9s] services, they need a different kind of consultant that can think about the
+[1056.9s - 1056.9s] consultant that can think about the
+[1056.9s - 1058.6s] consultant that can think about the information governance and the data
+[1058.6s - 1058.6s] information governance and the data
+[1058.6s - 1060.2s] information governance and the data privacy layer as well and the security
+[1060.2s - 1060.2s] privacy layer as well and the security
+[1060.2s - 1061.6s] privacy layer as well and the security elements.
+[1061.6s - 1061.6s] elements.
+[1061.6s - 1063.3s] elements. Now, you don't need to be a data
+[1063.3s - 1063.3s] Now, you don't need to be a data
+[1063.3s - 1064.8s] Now, you don't need to be a data architect, although of course it would
+[1064.8s - 1064.8s] architect, although of course it would
+[1064.8s - 1066.6s] architect, although of course it would help. Um but you need to ask the right
+[1066.6s - 1066.6s] help. Um but you need to ask the right
+[1066.6s - 1068.3s] help. Um but you need to ask the right questions. You need to be absorbed
+[1068.3s - 1068.3s] questions. You need to be absorbed
+[1068.3s - 1070.0s] questions. You need to be absorbed within the space to understand how you
+[1070.0s - 1070.0s] within the space to understand how you
+[1070.0s - 1071.6s] within the space to understand how you can be useful. So, go to events, watch
+[1071.6s - 1071.6s] can be useful. So, go to events, watch
+[1071.6s - 1072.9s] can be useful. So, go to events, watch the videos, read the books, read the
+[1072.9s - 1072.9s] the videos, read the books, read the
+[1072.9s - 1075.2s] the videos, read the books, read the white papers, read the reports. You will
+[1075.2s - 1075.2s] white papers, read the reports. You will
+[1075.2s - 1076.8s] white papers, read the reports. You will be in a better position relative to many
+[1076.8s - 1076.8s] be in a better position relative to many
+[1076.8s - 1078.5s] be in a better position relative to many other people.
+[1078.5s - 1078.5s] other people.
+[1078.5s - 1079.8s] other people. If you can help them develop some sort
+[1079.8s - 1079.8s] If you can help them develop some sort
+[1079.8s - 1081.3s] If you can help them develop some sort of AI policy, great if they don't have
+[1081.3s - 1081.4s] of AI policy, great if they don't have
+[1081.4s - 1082.8s] of AI policy, great if they don't have one already. If they do, you can review
+[1082.8s - 1082.8s] one already. If they do, you can review
+[1082.8s - 1085.5s] one already. If they do, you can review that and ask multiple questions. So,
+[1085.5s - 1085.5s] that and ask multiple questions. So,
+[1085.5s - 1087.0s] that and ask multiple questions. So, let's summarize a few things to try to
+[1087.0s - 1087.0s] let's summarize a few things to try to
+[1087.0s - 1088.8s] let's summarize a few things to try to understand what you can do to better
+[1088.8s - 1088.8s] understand what you can do to better
+[1088.8s - 1090.5s] understand what you can do to better position yourself.
+[1090.5s - 1090.5s] position yourself.
+[1090.5s - 1093.2s] position yourself. So, the first thing is read one AI
+[1093.2s - 1093.2s] So, the first thing is read one AI
+[1093.2s - 1095.1s] So, the first thing is read one AI policy and try to understand it, okay?
+[1095.1s - 1095.1s] policy and try to understand it, okay?
+[1095.1s - 1096.8s] policy and try to understand it, okay? Or notice an organization you know
+[1096.8s - 1096.8s] Or notice an organization you know
+[1096.8s - 1099.5s] Or notice an organization you know doesn't have one. The second thing is
+[1099.5s - 1099.5s] doesn't have one. The second thing is
+[1099.5s - 1100.6s] doesn't have one. The second thing is learn the five different types of
+[1100.6s - 1100.6s] learn the five different types of
+[1100.6s - 1102.1s] learn the five different types of deployments. You can go back and forth
+[1102.1s - 1102.1s] deployments. You can go back and forth
+[1102.1s - 1104.1s] deployments. You can go back and forth with your general AI of choice to better
+[1104.1s - 1104.1s] with your general AI of choice to better
+[1104.1s - 1106.4s] with your general AI of choice to better understand the architecture of these
+[1106.4s - 1106.4s] understand the architecture of these
+[1106.4s - 1108.2s] understand the architecture of these different things and try to explain it
+[1108.2s - 1108.2s] different things and try to explain it
+[1108.2s - 1110.9s] different things and try to explain it to a non-technical CEO or even person.
+[1110.9s - 1110.9s] to a non-technical CEO or even person.
+[1110.9s - 1113.3s] to a non-technical CEO or even person. The final thing is research RAG. RAG is
+[1113.3s - 1113.3s] The final thing is research RAG. RAG is
+[1113.3s - 1115.1s] The final thing is research RAG. RAG is the future, I'm telling you. I say RAG
+[1115.1s - 1115.1s] the future, I'm telling you. I say RAG
+[1115.1s - 1117.5s] the future, I'm telling you. I say RAG is the future, but it's the it's the
+[1117.5s - 1117.6s] is the future, but it's the it's the
+[1117.6s - 1120.6s] is the future, but it's the it's the most bespoke but simplest option
+[1120.6s - 1120.6s] most bespoke but simplest option
+[1120.6s - 1123.2s] most bespoke but simplest option relative to developing your own LLM or
+[1123.2s - 1123.2s] relative to developing your own LLM or
+[1123.2s - 1125.0s] relative to developing your own LLM or helping them develop their own LLMs. So,
+[1125.0s - 1125.0s] helping them develop their own LLMs. So,
+[1125.0s - 1127.2s] helping them develop their own LLMs. So, understand why organizations want AI
+[1127.2s - 1127.2s] understand why organizations want AI
+[1127.2s - 1130.1s] understand why organizations want AI trained on their own data, documents,
+[1130.1s - 1130.1s] trained on their own data, documents,
+[1130.1s - 1132.7s] trained on their own data, documents, information, context, etc. So, hopefully
+[1132.7s - 1132.7s] information, context, etc. So, hopefully
+[1132.7s - 1134.7s] information, context, etc. So, hopefully that that makes perfect sense. And to to
+[1134.7s - 1134.7s] that that makes perfect sense. And to to
+[1134.7s - 1136.8s] that that makes perfect sense. And to to really finish this off,
+[1136.8s - 1136.8s] really finish this off,
+[1136.8s - 1139.2s] really finish this off, this is just another side of AI that you
+[1139.2s - 1139.2s] this is just another side of AI that you
+[1139.2s - 1140.6s] this is just another side of AI that you should be thinking about if you're
+[1140.6s - 1140.6s] should be thinking about if you're
+[1140.6s - 1143.2s] should be thinking about if you're within the consulting space. Really,
+[1143.2s - 1143.2s] within the consulting space. Really,
+[1143.2s - 1145.2s] within the consulting space. Really, really important. So, I've given you a
+[1145.2s - 1145.2s] really important. So, I've given you a
+[1145.2s - 1149.7s] really important. So, I've given you a very, very consolidated view of
+[1149.7s - 1149.7s] very, very consolidated view of
+[1149.7s - 1151.1s] very, very consolidated view of what things you should be thinking about
+[1151.1s - 1151.1s] what things you should be thinking about
+[1151.1s - 1152.9s] what things you should be thinking about as a consultant, not just as an AI
+[1152.9s - 1152.9s] as a consultant, not just as an AI
+[1152.9s - 1154.1s] as a consultant, not just as an AI consultant, but as a consultant in
+[1154.1s - 1154.1s] consultant, but as a consultant in
+[1154.1s - 1156.6s] consultant, but as a consultant in general. And if you can take this into
+[1156.6s - 1156.6s] general. And if you can take this into
+[1156.6s - 1158.8s] general. And if you can take this into spaces and provide value this way, I'm
+[1158.8s - 1158.8s] spaces and provide value this way, I'm
+[1158.8s - 1161.0s] spaces and provide value this way, I'm telling you you are going to thank me,
+[1161.0s - 1161.0s] telling you you are going to thank me,
+[1161.0s - 1162.0s] telling you you are going to thank me, okay?
+[1162.0s - 1162.0s] okay?
+[1162.0s - 1162.9s] okay? >> [laughter]
+[1162.9s - 1162.9s] >> [laughter]
+[1162.9s - 1164.1s] >> [laughter] >> So, hopefully this is very helpful for
+[1164.1s - 1164.1s] >> So, hopefully this is very helpful for
+[1164.1s - 1165.2s] >> So, hopefully this is very helpful for you. If you want to see more videos
+[1165.2s - 1165.2s] you. If you want to see more videos
+[1165.2s - 1166.5s] you. If you want to see more videos centered around
+[1166.5s - 1166.5s] centered around
+[1166.5s - 1167.8s] centered around independent consulting, portfolio
+[1167.8s - 1167.8s] independent consulting, portfolio
+[1167.8s - 1169.5s] independent consulting, portfolio careers, and all of this wonderful
+[1169.5s - 1169.6s] careers, and all of this wonderful
+[1169.6s - 1170.9s] careers, and all of this wonderful colorful stuff that I talk about, don't
+[1170.9s - 1170.9s] colorful stuff that I talk about, don't
+[1170.9s - 1172.4s] colorful stuff that I talk about, don't forget to like this video, subscribe,
+[1172.4s - 1172.4s] forget to like this video, subscribe,
+[1172.4s - 1174.1s] forget to like this video, subscribe, and hit the notification bell. And as
+[1174.1s - 1174.1s] and hit the notification bell. And as
+[1174.1s - 1175.9s] and hit the notification bell. And as always, my friends, understand, reach,
+[1175.9s - 1175.9s] always, my friends, understand, reach,
+[1175.9s - 1179.1s] always, my friends, understand, reach, and expand. Peace.

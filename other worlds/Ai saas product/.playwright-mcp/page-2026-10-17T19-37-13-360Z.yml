@@ -1,0 +1,190 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - banner [ref=f3e3]:
+      - navigation "Main navigation" [ref=f3e4]:
+        - generic [ref=f3e5]:
+          - link "Leo Pisha Home" [ref=f3e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f3e7]: Leo Pisha
+            - generic [ref=f3e9]: Insurance operations
+          - generic [ref=f3e10]:
+            - link "What I Fix" [ref=f3e11] [cursor=pointer]:
+              - /url: /#what-i-fix
+            - link "How I Work" [ref=f3e12] [cursor=pointer]:
+              - /url: /#how-i-work
+            - link "About" [ref=f3e13] [cursor=pointer]:
+              - /url: /about
+          - link [ref=f3e15] [cursor=pointer]:
+            - /url: /book
+            - button "Book a consultation" [ref=f3e16]
+    - main [ref=f3e18]:
+      - region [ref=f3e19]:
+        - generic [ref=f3e20]:
+          - generic [ref=f3e21]:
+            - generic [ref=f3e22]: Book a Strategy Call
+            - heading "Bring Us the Process Slowing Your Team Down Most" [level=1] [ref=f3e23]
+            - paragraph [ref=f3e24]: This call is for insurance teams that already know manual work is costing them time. We will map the bottleneck, show what automation would actually change, and tell you honestly whether a pilot is worth doing.
+            - generic [ref=f3e25]:
+              - generic [ref=f3e26]: No hard pitch
+              - generic [ref=f3e29]: You leave with a clear opportunity assessment
+              - generic [ref=f3e32]: We confirm within 24 hours
+          - generic [ref=f3e35]:
+            - generic [ref=f3e36]:
+              - generic [ref=f3e37]:
+                - heading "Request Your Strategy Call" [level=3] [ref=f3e38]
+                - paragraph [ref=f3e39]: Takes about 2 minutes. We reply within 24 hours.
+              - generic [ref=f3e41]:
+                - generic [ref=f3e42]:
+                  - generic [ref=f3e43]:
+                    - generic [ref=f3e44]: Full Name*
+                    - textbox "Full Name" [ref=f3e46]
+                  - generic [ref=f3e47]:
+                    - generic [ref=f3e48]: Company Name*
+                    - textbox "Company Name" [ref=f3e50]
+                  - generic [ref=f3e51]:
+                    - generic [ref=f3e52]: Work Email*
+                    - textbox "Work Email" [ref=f3e54]
+                  - generic [ref=f3e55]:
+                    - generic [ref=f3e56]: Phone*
+                    - textbox "Phone" [ref=f3e58]
+                - generic [ref=f3e59]:
+                  - generic [ref=f3e60]:
+                    - generic [ref=f3e61]: Your Role*
+                    - combobox "Your Role" [ref=f3e62]:
+                      - option "Select your role" [disabled] [selected]
+                      - option "Broker / Agent"
+                      - option "Underwriter"
+                      - option "Claims Adjuster"
+                      - option "Customer Service"
+                      - option "Operations Manager"
+                      - option "IT / Technical"
+                      - option "Other"
+                  - generic [ref=f3e63]:
+                    - generic [ref=f3e64]: Service of Interest*
+                    - combobox "Service of Interest" [ref=f3e65]:
+                      - option "Select a service" [disabled] [selected]
+                      - option "Automation Diagnosis"
+                      - option "Claims Processing Automation"
+                      - option "Underwriting Automation"
+                      - option "Customer Operations Automation"
+                      - option "Fraud Detection & Prevention"
+                      - option "Managed Automation Operations"
+                - generic [ref=f3e66]:
+                  - generic [ref=f3e67]:
+                    - generic [ref=f3e68]: Booking Date*
+                    - textbox "Booking Date" [ref=f3e70]
+                  - generic [ref=f3e71]:
+                    - generic [ref=f3e72]: Booking Time*
+                    - textbox "Booking Time" [ref=f3e74]
+                - generic [ref=f3e75]:
+                  - generic [ref=f3e76]: What process should we look at?
+                  - textbox "What process should we look at?" [ref=f3e78]:
+                    - /placeholder: Describe the workflow, the bottleneck, and what the manual work is costing your team right now.
+                  - paragraph [ref=f3e79]: Optional, but useful. The more specific you are, the sharper the first call will be.
+                - generic [ref=f3e81]:
+                  - paragraph [ref=f3e83]:
+                    - text: 30-minute call. No obligation. If email is easier, use
+                    - link "hello@leopisha.com" [ref=f3e84] [cursor=pointer]:
+                      - /url: mailto:hello@leopisha.com
+                    - text: .
+                  - button "Confirm Booking" [disabled] [ref=f3e85]
+            - generic [ref=f3e87]:
+              - generic [ref=f3e88]:
+                - heading "What happens on the call" [level=3] [ref=f3e90]
+                - list [ref=f3e92]:
+                  - listitem [ref=f3e93]:
+                    - generic [ref=f3e95]: The one workflow costing your team the most time right now
+                  - listitem [ref=f3e96]:
+                    - generic [ref=f3e98]: Whether Leopisha should diagnose, build, or operate with you
+                  - listitem [ref=f3e99]:
+                    - generic [ref=f3e101]: What a zero-risk pilot would look like in your environment
+              - generic [ref=f3e102]:
+                - heading "Who this is for" [level=3] [ref=f3e104]
+                - generic [ref=f3e105]:
+                  - paragraph [ref=f3e106]: Insurance brokers, underwriters, claims teams, customer ops leaders, and operators who already feel manual work dragging throughput down.
+                  - generic [ref=f3e107]: "Best fit: one painful workflow, real internal ownership, and a team that wants clarity before buying anything."
+              - generic [ref=f3e108]:
+                - heading "Quiet proof" [level=3] [ref=f3e110]
+                - generic [ref=f3e112]:
+                  - generic [ref=f3e113]: Zero-risk pilot structure
+                  - generic [ref=f3e114]: You own the workflows and data
+                  - generic [ref=f3e115]: Kenya-based team, global standards
+          - generic [ref=f3e116]:
+            - generic [ref=f3e117]:
+              - generic [ref=f3e118]: What happens next
+              - heading "Clear next steps, not pressure" [level=2] [ref=f3e119]
+              - paragraph [ref=f3e120]: If there is a strong fit, we tell you how a pilot would work. If there is not, we tell you that too.
+            - generic [ref=f3e121]:
+              - generic [ref=f3e122]:
+                - generic [ref=f3e123]: "1"
+                - heading "We review your request" [level=3] [ref=f3e124]
+                - paragraph [ref=f3e125]: We read the process context before we reply, so the first call starts at the bottleneck, not at introductions.
+              - generic [ref=f3e126]:
+                - generic [ref=f3e127]: "2"
+                - heading "We confirm your slot" [level=3] [ref=f3e128]
+                - paragraph [ref=f3e129]: You get a response within 24 hours with the next step, the right contact, and the call format.
+              - generic [ref=f3e130]:
+                - generic [ref=f3e131]: "3"
+                - heading "You leave with a plan" [level=3] [ref=f3e132]
+                - paragraph [ref=f3e133]: We map the workflow, the likely ROI, and whether a pilot is worth doing now, later, or not at all.
+    - contentinfo [ref=f3e134]:
+      - generic [ref=f3e135]:
+        - generic [ref=f3e136]:
+          - generic [ref=f3e137]:
+            - link "Leo Pisha Home" [ref=f3e138] [cursor=pointer]:
+              - /url: /
+              - generic [ref=f3e139]: Leo Pisha
+            - paragraph [ref=f3e141]: Insurance operations specialist for firms that want sharper claims flow, underwriting response, and service follow-through.
+            - list "Social links" [ref=f3e142]:
+              - link "LinkedIn" [ref=f3e143] [cursor=pointer]:
+                - /url: "#"
+              - link "Twitter" [ref=f3e146] [cursor=pointer]:
+                - /url: "#"
+              - link "Email" [ref=f3e149] [cursor=pointer]:
+                - /url: mailto:hello@leopisha.com
+          - navigation "Company links" [ref=f3e152]:
+            - heading "Company" [level=3] [ref=f3e153]
+            - list [ref=f3e154]:
+              - listitem [ref=f3e155]:
+                - link "About" [ref=f3e156] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f3e157]:
+                - link "Case Studies" [ref=f3e158] [cursor=pointer]:
+                  - /url: /case-studies
+              - listitem [ref=f3e159]:
+                - link "Services" [ref=f3e160] [cursor=pointer]:
+                  - /url: /services
+          - navigation "Resources" [ref=f3e161]:
+            - heading "Resources" [level=3] [ref=f3e162]
+            - list [ref=f3e163]:
+              - listitem [ref=f3e164]:
+                - link "Book a Call" [ref=f3e165] [cursor=pointer]:
+                  - /url: /book
+              - listitem [ref=f3e166]:
+                - link "About the Practice" [ref=f3e167] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f3e168]:
+                - link "Case Studies" [ref=f3e169] [cursor=pointer]:
+                  - /url: /case-studies
+          - navigation "Connect" [ref=f3e170]:
+            - heading "Connect" [level=3] [ref=f3e171]
+            - list [ref=f3e172]:
+              - listitem [ref=f3e173]:
+                - link "Email" [ref=f3e174] [cursor=pointer]:
+                  - /url: mailto:hello@leopisha.com
+              - listitem [ref=f3e175]:
+                - link "Book a Session" [ref=f3e176] [cursor=pointer]:
+                  - /url: /book
+              - listitem [ref=f3e177]:
+                - link "Case Studies" [ref=f3e178] [cursor=pointer]:
+                  - /url: /case-studies
+        - generic [ref=f3e179]:
+          - paragraph [ref=f3e180]: © 2026 Leo Pisha. All rights reserved.
+          - generic [ref=f3e181]:
+            - link "About" [ref=f3e182] [cursor=pointer]:
+              - /url: /about
+            - link "Book" [ref=f3e183] [cursor=pointer]:
+              - /url: /book
+            - link "Case Studies" [ref=f3e184] [cursor=pointer]:
+              - /url: /case-studies
+  - alert [ref=f3e185]

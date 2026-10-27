@@ -1,0 +1,31 @@
+- generic [ref=f5e2]:
+  - generic [ref=f5e3]: Case Study · Page 3 of 3
+  - heading "Execution and Handover" [level=1] [ref=f5e4]
+  - heading "Outputs produced" [level=2] [ref=f5e6]
+  - list [ref=f5e7]:
+    - listitem [ref=f5e8]: ▸ Upload link Tokenised, mobile-friendly client upload link per case — no app installation required.
+    - listitem [ref=f5e9]: "▸ Tracker record Chase record in Google Sheets: client, policy, missing fields, stage, last contact, consent."
+    - listitem [ref=f5e10]: ▸ Party notification Insurer and loss adjuster notified via webhook; shared milestone status per role.
+    - listitem [ref=f5e11]: ▸ Exception queue Cases >7 days routed to senior review with 24-hour SLA and recommended action.
+  - heading "Testing approach" [level=2] [ref=f5e12]
+  - paragraph [ref=f5e13]: The workflow runs against bundled synthetic demo data (8 customer requests, 6 leads, 7 policies, 7 M-Pesa transactions, 5 insurer statements, including deliberate edge cases such as an unmatched payment and an expired policy). No real client data is used, no live webhook is executed during the demo, and no credentials are hard-coded — secrets go through n8n’s credential system.
+  - heading "Error handling" [level=2] [ref=f5e14]
+  - list [ref=f5e15]:
+    - listitem [ref=f5e16]: ▸ Gmail sends Use continueErrorOutput — a failed send is logged to the tracker rather than halting the chase.
+    - listitem [ref=f5e17]: ▸ Dashboard fallback The broker dashboard falls back to localStorage-only mode when the n8n webhook is unavailable — the UI keeps working offline.
+    - listitem [ref=f5e18]: ▸ Send errors Logged to the tracker sheet with the failed client and channel for manual follow-up.
+  - heading "Deliverables included" [level=2] [ref=f5e19]
+  - list [ref=f5e20]:
+    - listitem [ref=f5e21]: ▸ Workflow WB-08 Document Chasing Escalation (n8n workflow definition, importable).
+    - listitem [ref=f5e22]: ▸ Dashboard BrokerFlow document-chase dashboard (case create, case list, multi-party milestone tracker, communication history).
+    - listitem [ref=f5e23]: ▸ Client upload Tokenised, mobile-friendly upload page.
+  - table [ref=f5e24]:
+    - rowgroup [ref=f5e25]:
+      - row [ref=f5e26]:
+        - cell "Verified functionality" [ref=f5e27]
+        - cell "Workflow node configuration and connections; Day 0 / +2 / +4 / +7 cadence; conditional escalation routing; tracker read/write; ODPC consent logging; dashboard UI with stats, case table and milestone tracker." [ref=f5e28]
+      - row [ref=f5e29]:
+        - cell "Planned improvements" [ref=f5e30]
+        - cell "Live n8n deployment wired to the buyer’s own Gmail and Google Sheets credentials; AI document verification of uploads; production exception-queue review UI; SLA reporting." [ref=f5e31]
+  - generic [ref=f5e32]: Honesty statement. This case study demonstrates a workflow built and specified in the project. It has not been delivered to a paying client, no client results or metrics are claimed, and no revenue outcome is implied. Buyers should treat this as a capability reference, not a guarantee.
+  - generic [ref=f5e33]: Automation case study · Document Chasing Escalation · synthetic demo data · no live credentials · not a paid-client deployment

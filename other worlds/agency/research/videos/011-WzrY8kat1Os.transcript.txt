@@ -1,0 +1,1046 @@
+# Transcript: WzrY8kat1Os
+Language: en
+
+[0.3s - 2.5s] Every business needs AI, but almost none
+[2.5s - 2.5s] Every business needs AI, but almost none
+[2.5s - 4.2s] Every business needs AI, but almost none of them know how and where to implement
+[4.2s - 4.2s] of them know how and where to implement
+[4.2s - 6.0s] of them know how and where to implement it. That's why over the next couple of
+[6.0s - 6.0s] it. That's why over the next couple of
+[6.0s - 7.5s] it. That's why over the next couple of years, there's going to be a massive
+[7.5s - 7.5s] years, there's going to be a massive
+[7.5s - 9.3s] years, there's going to be a massive increase in demand for AI consultants.
+[9.3s - 9.4s] increase in demand for AI consultants.
+[9.4s - 10.6s] increase in demand for AI consultants. Now, if you guys don't know who I am,
+[10.6s - 10.6s] Now, if you guys don't know who I am,
+[10.6s - 12.2s] Now, if you guys don't know who I am, I'm Kia and I've worked as an AI
+[12.2s - 12.2s] I'm Kia and I've worked as an AI
+[12.2s - 13.7s] I'm Kia and I've worked as an AI consultant for the past couple of years.
+[13.7s - 13.8s] consultant for the past couple of years.
+[13.8s - 15.2s] consultant for the past couple of years. And in this video, I'm going to show you
+[15.2s - 15.2s] And in this video, I'm going to show you
+[15.2s - 16.9s] And in this video, I'm going to show you the exact road map that you can follow
+[16.9s - 17.0s] the exact road map that you can follow
+[17.0s - 19.3s] the exact road map that you can follow to set up your own AI consultancy, even
+[19.3s - 19.3s] to set up your own AI consultancy, even
+[19.3s - 21.1s] to set up your own AI consultancy, even if you're a complete beginner. So, let's
+[21.1s - 21.1s] if you're a complete beginner. So, let's
+[21.1s - 22.9s] if you're a complete beginner. So, let's get right into it. I want to first start
+[22.9s - 22.9s] get right into it. I want to first start
+[22.9s - 25.5s] get right into it. I want to first start by saying that AI consulting is the
+[25.5s - 25.5s] by saying that AI consulting is the
+[25.5s - 27.1s] by saying that AI consulting is the future. Now, implementing AI into
+[27.1s - 27.1s] future. Now, implementing AI into
+[27.1s - 29.1s] future. Now, implementing AI into businesses is really a two-step process.
+[29.1s - 29.1s] businesses is really a two-step process.
+[29.1s - 30.7s] businesses is really a two-step process. First and foremost, you have to
+[30.7s - 30.7s] First and foremost, you have to
+[30.7s - 32.5s] First and foremost, you have to strategize by telling the business what
+[32.5s - 32.5s] strategize by telling the business what
+[32.5s - 34.1s] strategize by telling the business what the best opportunities for AI
+[34.1s - 34.1s] the best opportunities for AI
+[34.1s - 36.2s] the best opportunities for AI implementation actually is. And then you
+[36.2s - 36.2s] implementation actually is. And then you
+[36.2s - 38.5s] implementation actually is. And then you need a developer to come in and develop
+[38.5s - 38.6s] need a developer to come in and develop
+[38.6s - 40.5s] need a developer to come in and develop those custom solutions for that
+[40.5s - 40.5s] those custom solutions for that
+[40.5s - 42.2s] those custom solutions for that business. So, for example, if I were to
+[42.2s - 42.2s] business. So, for example, if I were to
+[42.2s - 44.0s] business. So, for example, if I were to go up to an accounting firm, I would
+[44.0s - 44.0s] go up to an accounting firm, I would
+[44.0s - 45.5s] go up to an accounting firm, I would first need to tell them, well, there's
+[45.5s - 45.5s] first need to tell them, well, there's
+[45.5s - 47.3s] first need to tell them, well, there's five opportunities that you guys can
+[47.3s - 47.3s] five opportunities that you guys can
+[47.3s - 48.8s] five opportunities that you guys can implement AI that will bring you
+[48.8s - 48.8s] implement AI that will bring you
+[48.8s - 50.7s] implement AI that will bring you positive ROI. That's the strategizing
+[50.7s - 50.7s] positive ROI. That's the strategizing
+[50.7s - 52.2s] positive ROI. That's the strategizing component. And then I'll get the
+[52.2s - 52.2s] component. And then I'll get the
+[52.2s - 54.0s] component. And then I'll get the developers to come in and develop that
+[54.0s - 54.0s] developers to come in and develop that
+[54.0s - 56.2s] developers to come in and develop that project for them. But the reality is as
+[56.2s - 56.2s] project for them. But the reality is as
+[56.2s - 59.3s] project for them. But the reality is as AI capabilities improve, strategy
+[59.3s - 59.4s] AI capabilities improve, strategy
+[59.4s - 61.4s] AI capabilities improve, strategy becomes way more important than
+[61.4s - 61.4s] becomes way more important than
+[61.4s - 63.1s] becomes way more important than development. Because if you think about
+[63.1s - 63.1s] development. Because if you think about
+[63.1s - 66.1s] development. Because if you think about it, even right now building AI apps is
+[66.1s - 66.1s] it, even right now building AI apps is
+[66.1s - 69.1s] it, even right now building AI apps is pretty easy. Building on NA10 as a noode
+[69.1s - 69.1s] pretty easy. Building on NA10 as a noode
+[69.1s - 71.5s] pretty easy. Building on NA10 as a noode platform is pretty easy. Now, as AI
+[71.5s - 71.5s] platform is pretty easy. Now, as AI
+[71.5s - 73.7s] platform is pretty easy. Now, as AI capabilities get better and better, the
+[73.7s - 73.7s] capabilities get better and better, the
+[73.7s - 76.2s] capabilities get better and better, the barriers to entry to development will
+[76.2s - 76.2s] barriers to entry to development will
+[76.2s - 78.5s] barriers to entry to development will keep decreasing until eventually
+[78.5s - 78.5s] keep decreasing until eventually
+[78.5s - 79.9s] keep decreasing until eventually development will probably get
+[79.9s - 79.9s] development will probably get
+[79.9s - 81.5s] development will probably get commoditized. Because what was happening
+[81.5s - 81.5s] commoditized. Because what was happening
+[81.5s - 83.3s] commoditized. Because what was happening in the past is for example to build an
+[83.3s - 83.4s] in the past is for example to build an
+[83.4s - 85.2s] in the past is for example to build an app you'd need a full team of software
+[85.2s - 85.2s] app you'd need a full team of software
+[85.2s - 87.0s] app you'd need a full team of software developers that spent 3 or 4 years at
+[87.0s - 87.0s] developers that spent 3 or 4 years at
+[87.0s - 89.4s] developers that spent 3 or 4 years at university. Nowadays you can build some
+[89.4s - 89.4s] university. Nowadays you can build some
+[89.4s - 91.8s] university. Nowadays you can build some basic apps using just prompts. But in
+[91.8s - 91.8s] basic apps using just prompts. But in
+[91.8s - 94.1s] basic apps using just prompts. But in the future as these coding agents get
+[94.1s - 94.2s] the future as these coding agents get
+[94.2s - 95.9s] the future as these coding agents get better and better what will happen is
+[95.9s - 95.9s] better and better what will happen is
+[95.9s - 97.7s] better and better what will happen is literally every business will be able to
+[97.7s - 97.8s] literally every business will be able to
+[97.8s - 99.7s] literally every business will be able to write a prompt and build their own apps
+[99.7s - 99.7s] write a prompt and build their own apps
+[99.7s - 101.9s] write a prompt and build their own apps in seconds. And a big testimony to this
+[101.9s - 101.9s] in seconds. And a big testimony to this
+[101.9s - 103.9s] in seconds. And a big testimony to this is literally the update that NA10 made
+[103.9s - 103.9s] is literally the update that NA10 made
+[103.9s - 106.0s] is literally the update that NA10 made the other day where you can now prompt
+[106.0s - 106.0s] the other day where you can now prompt
+[106.0s - 107.9s] the other day where you can now prompt the workflow that you want rather than
+[107.9s - 107.9s] the workflow that you want rather than
+[107.9s - 109.7s] the workflow that you want rather than having to drag and drop it. Not like
+[109.7s - 109.7s] having to drag and drop it. Not like
+[109.7s - 111.7s] having to drag and drop it. Not like dragging and dropping was already easy
+[111.7s - 111.7s] dragging and dropping was already easy
+[111.7s - 113.4s] dragging and dropping was already easy enough. Now they're making it even
+[113.4s - 113.4s] enough. Now they're making it even
+[113.4s - 115.0s] enough. Now they're making it even easier. So you can literally just write
+[115.0s - 115.0s] easier. So you can literally just write
+[115.0s - 117.0s] easier. So you can literally just write whatever you want in natural language
+[117.0s - 117.0s] whatever you want in natural language
+[117.0s - 119.1s] whatever you want in natural language and in the back end the full system will
+[119.1s - 119.1s] and in the back end the full system will
+[119.1s - 121.0s] and in the back end the full system will get built for you. But as I said this
+[121.0s - 121.0s] get built for you. But as I said this
+[121.0s - 122.8s] get built for you. But as I said this technology and also similar technologies
+[122.8s - 122.8s] technology and also similar technologies
+[122.8s - 125.3s] technology and also similar technologies like AI applications and AI agents are
+[125.3s - 125.4s] like AI applications and AI agents are
+[125.4s - 127.5s] like AI applications and AI agents are still quite primitive. But if we
+[127.5s - 127.5s] still quite primitive. But if we
+[127.5s - 129.6s] still quite primitive. But if we continue to accelerate at the same rate
+[129.6s - 129.6s] continue to accelerate at the same rate
+[129.6s - 131.5s] continue to accelerate at the same rate that we are going at the moment, it's
+[131.5s - 131.5s] that we are going at the moment, it's
+[131.5s - 133.2s] that we are going at the moment, it's very likely that over the next couple of
+[133.2s - 133.2s] very likely that over the next couple of
+[133.2s - 135.5s] very likely that over the next couple of years development will be commoditized.
+[135.5s - 135.5s] years development will be commoditized.
+[135.5s - 137.0s] years development will be commoditized. Now let's think into the future. Let's
+[137.0s - 137.0s] Now let's think into the future. Let's
+[137.0s - 138.2s] Now let's think into the future. Let's imagine it's a couple years down the
+[138.2s - 138.2s] imagine it's a couple years down the
+[138.2s - 140.2s] imagine it's a couple years down the line and we have these amazing coding
+[140.2s - 140.2s] line and we have these amazing coding
+[140.2s - 142.2s] line and we have these amazing coding and automation agents that can build out
+[142.2s - 142.2s] and automation agents that can build out
+[142.2s - 144.6s] and automation agents that can build out anything from just one prompt. How I see
+[144.6s - 144.6s] anything from just one prompt. How I see
+[144.6s - 146.9s] anything from just one prompt. How I see it is that even in a world like that,
+[146.9s - 146.9s] it is that even in a world like that,
+[146.9s - 149.0s] it is that even in a world like that, business owners would still get a lot of
+[149.0s - 149.0s] business owners would still get a lot of
+[149.0s - 151.5s] business owners would still get a lot of value from talking to an AI consultant
+[151.5s - 151.5s] value from talking to an AI consultant
+[151.5s - 154.2s] value from talking to an AI consultant and seeking advice and strategy before
+[154.2s - 154.2s] and seeking advice and strategy before
+[154.2s - 155.7s] and seeking advice and strategy before they go and build out these apps.
+[155.7s - 155.7s] they go and build out these apps.
+[155.7s - 157.3s] they go and build out these apps. Because the reality is that the average
+[157.3s - 157.4s] Because the reality is that the average
+[157.4s - 159.2s] Because the reality is that the average Joe doesn't know anything about where
+[159.2s - 159.2s] Joe doesn't know anything about where
+[159.2s - 161.3s] Joe doesn't know anything about where current capabilities are and how they
+[161.3s - 161.4s] current capabilities are and how they
+[161.4s - 163.6s] current capabilities are and how they can use current capabilities to maximize
+[163.6s - 163.6s] can use current capabilities to maximize
+[163.6s - 165.8s] can use current capabilities to maximize their ROI. And so even if technically
+[165.8s - 165.8s] their ROI. And so even if technically
+[165.8s - 167.7s] their ROI. And so even if technically they could build anything they want,
+[167.7s - 167.7s] they could build anything they want,
+[167.7s - 169.6s] they could build anything they want, they still probably would want to talk
+[169.6s - 169.6s] they still probably would want to talk
+[169.6s - 171.9s] they still probably would want to talk to an AI consultant. And that is exactly
+[171.9s - 171.9s] to an AI consultant. And that is exactly
+[171.9s - 174.6s] to an AI consultant. And that is exactly why I believe AI consulting is the
+[174.6s - 174.6s] why I believe AI consulting is the
+[174.6s - 176.2s] why I believe AI consulting is the future. Okay. Now let's say you agree
+[176.2s - 176.2s] future. Okay. Now let's say you agree
+[176.2s - 178.1s] future. Okay. Now let's say you agree that AI consulting is going to be very
+[178.1s - 178.1s] that AI consulting is going to be very
+[178.1s - 180.0s] that AI consulting is going to be very important in the future. How can you
+[180.0s - 180.0s] important in the future. How can you
+[180.0s - 182.1s] important in the future. How can you actually capitalize on this opportunity?
+[182.1s - 182.2s] actually capitalize on this opportunity?
+[182.2s - 184.0s] actually capitalize on this opportunity? Let me show you. The approach that most
+[184.0s - 184.0s] Let me show you. The approach that most
+[184.0s - 186.1s] Let me show you. The approach that most beginners in the AI automation space are
+[186.1s - 186.1s] beginners in the AI automation space are
+[186.1s - 188.4s] beginners in the AI automation space are following is to open an AI agency. Now
+[188.4s - 188.4s] following is to open an AI agency. Now
+[188.4s - 190.5s] following is to open an AI agency. Now the idea of an AI agency is that you
+[190.5s - 190.5s] the idea of an AI agency is that you
+[190.5s - 192.4s] the idea of an AI agency is that you build custom solutions for businesses.
+[192.4s - 192.4s] build custom solutions for businesses.
+[192.4s - 194.3s] build custom solutions for businesses. And generally how those custom solutions
+[194.3s - 194.3s] And generally how those custom solutions
+[194.3s - 196.4s] And generally how those custom solutions come about is that a business comes to
+[196.4s - 196.4s] come about is that a business comes to
+[196.4s - 198.2s] come about is that a business comes to you with requirements and you go and you
+[198.2s - 198.2s] you with requirements and you go and you
+[198.2s - 199.7s] you with requirements and you go and you build that solution out for them. So a
+[199.7s - 199.7s] build that solution out for them. So a
+[199.7s - 200.6s] build that solution out for them. So a business will come to you with
+[200.6s - 200.6s] business will come to you with
+[200.6s - 202.1s] business will come to you with requirements. For example, they might
+[202.1s - 202.2s] requirements. For example, they might
+[202.2s - 203.7s] requirements. For example, they might say can you please automate this
+[203.7s - 203.7s] say can you please automate this
+[203.7s - 205.6s] say can you please automate this specific onboarding process for me and
+[205.6s - 205.6s] specific onboarding process for me and
+[205.6s - 207.0s] specific onboarding process for me and what you do is you figure out how that
+[207.0s - 207.0s] what you do is you figure out how that
+[207.0s - 208.3s] what you do is you figure out how that process works and then you go in the
+[208.3s - 208.3s] process works and then you go in the
+[208.3s - 210.1s] process works and then you go in the back end and you automate that process
+[210.1s - 210.1s] back end and you automate that process
+[210.1s - 211.8s] back end and you automate that process for them using no code tools or whatever
+[211.8s - 211.8s] for them using no code tools or whatever
+[211.8s - 214.0s] for them using no code tools or whatever you end up using. But the idea behind AI
+[214.0s - 214.0s] you end up using. But the idea behind AI
+[214.0s - 216.1s] you end up using. But the idea behind AI agencies is that you build out specific
+[216.1s - 216.1s] agencies is that you build out specific
+[216.1s - 217.9s] agencies is that you build out specific projects for businesses. Now, to run an
+[217.9s - 217.9s] projects for businesses. Now, to run an
+[217.9s - 219.8s] projects for businesses. Now, to run an AI agency, you still do need to do a
+[219.8s - 219.8s] AI agency, you still do need to do a
+[219.8s - 221.3s] AI agency, you still do need to do a certain amount of discovery and
+[221.3s - 221.4s] certain amount of discovery and
+[221.4s - 223.3s] certain amount of discovery and consulting, but that's not the prominent
+[223.3s - 223.4s] consulting, but that's not the prominent
+[223.4s - 224.5s] consulting, but that's not the prominent side of your business. You're not
+[224.5s - 224.5s] side of your business. You're not
+[224.5s - 226.1s] side of your business. You're not necessarily getting paid to do the
+[226.1s - 226.1s] necessarily getting paid to do the
+[226.1s - 227.4s] necessarily getting paid to do the consulting. You're kind of just doing
+[227.4s - 227.4s] consulting. You're kind of just doing
+[227.4s - 229.8s] consulting. You're kind of just doing the consulting as a gateway to do that
+[229.8s - 229.8s] the consulting as a gateway to do that
+[229.8s - 231.5s] the consulting as a gateway to do that specific project for that business. Now,
+[231.5s - 231.5s] specific project for that business. Now,
+[231.5s - 233.2s] specific project for that business. Now, if you agree that AI consulting is going
+[233.2s - 233.2s] if you agree that AI consulting is going
+[233.2s - 234.8s] if you agree that AI consulting is going to be the future, what you should be
+[234.8s - 234.8s] to be the future, what you should be
+[234.8s - 236.6s] to be the future, what you should be doing is you should be trying to
+[236.6s - 236.6s] doing is you should be trying to
+[236.6s - 238.7s] doing is you should be trying to position yourself as an AI
+[238.7s - 238.7s] position yourself as an AI
+[238.7s - 240.8s] position yourself as an AI transformation partner. Now, if you have
+[240.8s - 240.8s] transformation partner. Now, if you have
+[240.8s - 242.2s] transformation partner. Now, if you have no clue what that means, let me explain
+[242.2s - 242.2s] no clue what that means, let me explain
+[242.2s - 243.8s] no clue what that means, let me explain it to you. The difference between an AI
+[243.8s - 243.8s] it to you. The difference between an AI
+[243.8s - 246.2s] it to you. The difference between an AI agency and an AI transformation partner
+[246.2s - 246.2s] agency and an AI transformation partner
+[246.2s - 248.1s] agency and an AI transformation partner is that with an AI agency, you're kind
+[248.1s - 248.2s] is that with an AI agency, you're kind
+[248.2s - 250.1s] is that with an AI agency, you're kind of just building out one-off solutions.
+[250.1s - 250.1s] of just building out one-off solutions.
+[250.1s - 252.6s] of just building out one-off solutions. But as an AI transformation partner,
+[252.6s - 252.6s] But as an AI transformation partner,
+[252.6s - 254.6s] But as an AI transformation partner, you're actually partnering with the
+[254.6s - 254.6s] you're actually partnering with the
+[254.6s - 257.2s] you're actually partnering with the business to completely transform their
+[257.2s - 257.2s] business to completely transform their
+[257.2s - 259.5s] business to completely transform their processes with AI. So instead of you
+[259.5s - 259.5s] processes with AI. So instead of you
+[259.5s - 261.3s] processes with AI. So instead of you just building out one project for them,
+[261.3s - 261.3s] just building out one project for them,
+[261.3s - 262.6s] just building out one project for them, what you're doing is you're actually
+[262.6s - 262.6s] what you're doing is you're actually
+[262.6s - 264.2s] what you're doing is you're actually investing time in understanding how
+[264.2s - 264.2s] investing time in understanding how
+[264.2s - 265.7s] investing time in understanding how their business works, building out a
+[265.7s - 265.8s] their business works, building out a
+[265.8s - 267.7s] their business works, building out a full road map, and then automating their
+[267.7s - 267.7s] full road map, and then automating their
+[267.7s - 269.7s] full road map, and then automating their processes one by one using AI and
+[269.7s - 269.8s] processes one by one using AI and
+[269.8s - 271.9s] processes one by one using AI and automation. So, in an AI agency, you're
+[271.9s - 271.9s] automation. So, in an AI agency, you're
+[271.9s - 273.9s] automation. So, in an AI agency, you're very developmentheavy because you're
+[273.9s - 273.9s] very developmentheavy because you're
+[273.9s - 275.5s] very developmentheavy because you're making the majority of your money from
+[275.5s - 275.5s] making the majority of your money from
+[275.5s - 276.8s] making the majority of your money from development and you're only doing
+[276.8s - 276.8s] development and you're only doing
+[276.8s - 278.8s] development and you're only doing consulting as a gateway to building out
+[278.8s - 278.8s] consulting as a gateway to building out
+[278.8s - 280.2s] consulting as a gateway to building out those projects. But as an AI
+[280.2s - 280.2s] those projects. But as an AI
+[280.2s - 282.6s] those projects. But as an AI transformation partner, you're actually
+[282.6s - 282.6s] transformation partner, you're actually
+[282.6s - 285.6s] transformation partner, you're actually more valued as a consultant than a
+[285.6s - 285.6s] more valued as a consultant than a
+[285.6s - 287.1s] more valued as a consultant than a developer. You're coming in, you're
+[287.1s - 287.1s] developer. You're coming in, you're
+[287.1s - 288.1s] developer. You're coming in, you're understanding the business, you're
+[288.1s - 288.2s] understanding the business, you're
+[288.2s - 289.6s] understanding the business, you're building a full strategy, and then
+[289.6s - 289.6s] building a full strategy, and then
+[289.6s - 291.5s] building a full strategy, and then you're building out those projects one
+[291.5s - 291.5s] you're building out those projects one
+[291.5s - 293.5s] you're building out those projects one by one. So, if you did want to become a
+[293.5s - 293.5s] by one. So, if you did want to become a
+[293.5s - 295.4s] by one. So, if you did want to become a transformation partner, it's very likely
+[295.4s - 295.4s] transformation partner, it's very likely
+[295.4s - 297.0s] transformation partner, it's very likely that you'll end up targeting businesses
+[297.0s - 297.0s] that you'll end up targeting businesses
+[297.0s - 299.9s] that you'll end up targeting businesses that are about 50 to 250 employees,
+[299.9s - 299.9s] that are about 50 to 250 employees,
+[299.9s - 301.5s] that are about 50 to 250 employees, otherwise known as mid-market
+[301.5s - 301.5s] otherwise known as mid-market
+[301.5s - 303.4s] otherwise known as mid-market businesses. The reason why you target
+[303.4s - 303.4s] businesses. The reason why you target
+[303.4s - 304.9s] businesses. The reason why you target these businesses is that these
+[304.9s - 304.9s] these businesses is that these
+[304.9s - 306.6s] these businesses is that these businesses actually have money. I mean,
+[306.6s - 306.6s] businesses actually have money. I mean,
+[306.6s - 308.5s] businesses actually have money. I mean, if they have 50 to 250 employees,
+[308.5s - 308.5s] if they have 50 to 250 employees,
+[308.5s - 310.5s] if they have 50 to 250 employees, they're likely making at least more than
+[310.5s - 310.5s] they're likely making at least more than
+[310.5s - 313.2s] they're likely making at least more than 5 to$10 million a year. And so, they can
+[313.2s - 313.2s] 5 to$10 million a year. And so, they can
+[313.2s - 315.2s] 5 to$10 million a year. And so, they can invest in someone coming in and helping
+[315.2s - 315.2s] invest in someone coming in and helping
+[315.2s - 317.1s] invest in someone coming in and helping them with AI transformation. But the
+[317.1s - 317.1s] them with AI transformation. But the
+[317.1s - 319.5s] them with AI transformation. But the real opportunity here is that they can't
+[319.5s - 319.5s] real opportunity here is that they can't
+[319.5s - 321.7s] real opportunity here is that they can't go to these big consulting firms. they
+[321.7s - 321.8s] go to these big consulting firms. they
+[321.8s - 323.6s] go to these big consulting firms. they can't go to McKenzie and the likes
+[323.6s - 323.6s] can't go to McKenzie and the likes
+[323.6s - 325.3s] can't go to McKenzie and the likes because those consulting firms are going
+[325.3s - 325.3s] because those consulting firms are going
+[325.3s - 327.6s] because those consulting firms are going to charge them a lot of money to
+[327.6s - 327.6s] to charge them a lot of money to
+[327.6s - 329.6s] to charge them a lot of money to transform their business with AI. And
+[329.6s - 329.6s] transform their business with AI. And
+[329.6s - 331.2s] transform their business with AI. And although these businesses have money,
+[331.2s - 331.2s] although these businesses have money,
+[331.2s - 333.4s] although these businesses have money, they probably don't have enough money to
+[333.4s - 333.4s] they probably don't have enough money to
+[333.4s - 335.3s] they probably don't have enough money to invest in these big consulting firms.
+[335.3s - 335.3s] invest in these big consulting firms.
+[335.3s - 337.2s] invest in these big consulting firms. And that's why they need someone to come
+[337.2s - 337.2s] And that's why they need someone to come
+[337.2s - 339.2s] And that's why they need someone to come and help them with this transition. And
+[339.2s - 339.2s] and help them with this transition. And
+[339.2s - 340.9s] and help them with this transition. And that is a perfect opportunity for people
+[340.9s - 341.0s] that is a perfect opportunity for people
+[341.0s - 343.3s] that is a perfect opportunity for people like me and you to come in and take that
+[343.3s - 343.3s] like me and you to come in and take that
+[343.3s - 344.9s] like me and you to come in and take that part of the market. But the gap in the
+[344.9s - 345.0s] part of the market. But the gap in the
+[345.0s - 346.2s] part of the market. But the gap in the market and the fact that we're moving
+[346.2s - 346.2s] market and the fact that we're moving
+[346.2s - 348.0s] market and the fact that we're moving towards a world where consulting is very
+[348.0s - 348.0s] towards a world where consulting is very
+[348.0s - 349.6s] towards a world where consulting is very important aren't the only reasons why
+[349.6s - 349.6s] important aren't the only reasons why
+[349.6s - 350.9s] important aren't the only reasons why you should become a transformation
+[350.9s - 351.0s] you should become a transformation
+[351.0s - 352.7s] you should become a transformation partner. Because by positioning your
+[352.7s - 352.7s] partner. Because by positioning your
+[352.7s - 354.5s] partner. Because by positioning your business as a transformation partner,
+[354.5s - 354.5s] business as a transformation partner,
+[354.5s - 356.6s] business as a transformation partner, you'll also maximize your customer
+[356.6s - 356.6s] you'll also maximize your customer
+[356.6s - 358.1s] you'll also maximize your customer lifetime value. Because if you think
+[358.1s - 358.1s] lifetime value. Because if you think
+[358.1s - 359.8s] lifetime value. Because if you think about it, with the AI agency model,
+[359.8s - 359.8s] about it, with the AI agency model,
+[359.8s - 361.7s] about it, with the AI agency model, what's happening is you're building off
+[361.7s - 361.7s] what's happening is you're building off
+[361.7s - 363.0s] what's happening is you're building off one-off projects. So you might build
+[363.0s - 363.0s] one-off projects. So you might build
+[363.0s - 364.9s] one-off projects. So you might build this project for company X, and then
+[364.9s - 365.0s] this project for company X, and then
+[365.0s - 367.0s] this project for company X, and then you'll build this project for company Y,
+[367.0s - 367.0s] you'll build this project for company Y,
+[367.0s - 369.2s] you'll build this project for company Y, and you build this project for company
+[369.2s - 369.2s] and you build this project for company
+[369.2s - 370.9s] and you build this project for company Zed. But the beauty about this business
+[370.9s - 371.0s] Zed. But the beauty about this business
+[371.0s - 373.1s] Zed. But the beauty about this business model is that you come into company X,
+[373.1s - 373.1s] model is that you come into company X,
+[373.1s - 375.4s] model is that you come into company X, you build out a full road map and then
+[375.4s - 375.4s] you build out a full road map and then
+[375.4s - 377.8s] you build out a full road map and then you automate projects one by one. So you
+[377.8s - 377.8s] you automate projects one by one. So you
+[377.8s - 379.4s] you automate projects one by one. So you probably end up doing five to 10
+[379.4s - 379.4s] probably end up doing five to 10
+[379.4s - 381.4s] probably end up doing five to 10 projects for each company. Now the fact
+[381.4s - 381.4s] projects for each company. Now the fact
+[381.4s - 382.9s] projects for each company. Now the fact that you're doing repeated projects for
+[382.9s - 383.0s] that you're doing repeated projects for
+[383.0s - 384.9s] that you're doing repeated projects for the same business also means that you'll
+[384.9s - 384.9s] the same business also means that you'll
+[384.9s - 387.4s] the same business also means that you'll have more trust built with that business
+[387.4s - 387.4s] have more trust built with that business
+[387.4s - 389.8s] have more trust built with that business which in turn means the sale will become
+[389.8s - 389.8s] which in turn means the sale will become
+[389.8s - 392.0s] which in turn means the sale will become easier and easier every single time. So
+[392.0s - 392.0s] easier and easier every single time. So
+[392.0s - 393.6s] easier and easier every single time. So once you build out the first project for
+[393.6s - 393.6s] once you build out the first project for
+[393.6s - 395.7s] once you build out the first project for the business and they see real ROI,
+[395.7s - 395.8s] the business and they see real ROI,
+[395.8s - 397.4s] the business and they see real ROI, they'll start trusting for you to build
+[397.4s - 397.4s] they'll start trusting for you to build
+[397.4s - 399.0s] they'll start trusting for you to build more and more projects for them. So then
+[399.0s - 399.0s] more and more projects for them. So then
+[399.0s - 400.8s] more and more projects for them. So then the pitch on the second project is going
+[400.8s - 400.8s] the pitch on the second project is going
+[400.8s - 402.5s] the pitch on the second project is going to be a lot easier. And if you do a good
+[402.5s - 402.5s] to be a lot easier. And if you do a good
+[402.5s - 404.1s] to be a lot easier. And if you do a good job at both of them, the third project
+[404.1s - 404.1s] job at both of them, the third project
+[404.1s - 405.5s] job at both of them, the third project is going to be even easier than that.
+[405.5s - 405.5s] is going to be even easier than that.
+[405.5s - 407.6s] is going to be even easier than that. Fourth, fifth, and so on so forth. So
+[407.6s - 407.6s] Fourth, fifth, and so on so forth. So
+[407.6s - 408.9s] Fourth, fifth, and so on so forth. So because you're building that
+[408.9s - 409.0s] because you're building that
+[409.0s - 411.7s] because you're building that relationship with the client, doing more
+[411.7s - 411.7s] relationship with the client, doing more
+[411.7s - 413.7s] relationship with the client, doing more and more with that same client, which is
+[413.7s - 413.8s] and more with that same client, which is
+[413.8s - 415.7s] and more with that same client, which is going to increase your old TV, is also
+[415.7s - 415.8s] going to increase your old TV, is also
+[415.8s - 417.8s] going to increase your old TV, is also going to be a lot easier than trying to
+[417.8s - 417.8s] going to be a lot easier than trying to
+[417.8s - 419.8s] going to be a lot easier than trying to sell and convince a new client that
+[419.8s - 419.8s] sell and convince a new client that
+[419.8s - 421.3s] sell and convince a new client that you're the best at what you do. Now,
+[421.3s - 421.3s] you're the best at what you do. Now,
+[421.3s - 422.9s] you're the best at what you do. Now, also, as you're building relationships
+[422.9s - 422.9s] also, as you're building relationships
+[422.9s - 424.0s] also, as you're building relationships with this business and you're
+[424.0s - 424.0s] with this business and you're
+[424.0s - 425.4s] with this business and you're understanding their business back to
+[425.4s - 425.4s] understanding their business back to
+[425.4s - 426.9s] understanding their business back to front, you're going to have to do less
+[426.9s - 426.9s] front, you're going to have to do less
+[426.9s - 428.8s] front, you're going to have to do less discovery than if you were trying to go
+[428.8s - 428.8s] discovery than if you were trying to go
+[428.8s - 430.1s] discovery than if you were trying to go to different businesses every single
+[430.1s - 430.2s] to different businesses every single
+[430.2s - 431.3s] to different businesses every single time. Because let's say if you're
+[431.3s - 431.3s] time. Because let's say if you're
+[431.3s - 432.9s] time. Because let's say if you're working with an accounting firm, you'll
+[432.9s - 432.9s] working with an accounting firm, you'll
+[432.9s - 434.7s] working with an accounting firm, you'll do that discovery up front and you'll
+[434.7s - 434.7s] do that discovery up front and you'll
+[434.7s - 436.0s] do that discovery up front and you'll understand their business back and
+[436.0s - 436.0s] understand their business back and
+[436.0s - 437.3s] understand their business back and forth. And then, as you're building out
+[437.3s - 437.3s] forth. And then, as you're building out
+[437.3s - 438.9s] forth. And then, as you're building out the first and second project, now you
+[438.9s - 438.9s] the first and second project, now you
+[438.9s - 440.2s] the first and second project, now you know a lot more about their business.
+[440.2s - 440.2s] know a lot more about their business.
+[440.2s - 441.8s] know a lot more about their business. And so, you don't have to do as much
+[441.8s - 441.8s] And so, you don't have to do as much
+[441.8s - 443.9s] And so, you don't have to do as much discovery for the third project. And so
+[443.9s - 443.9s] discovery for the third project. And so
+[443.9s - 445.3s] discovery for the third project. And so by positioning yourself as a
+[445.3s - 445.3s] by positioning yourself as a
+[445.3s - 447.2s] by positioning yourself as a transformation partner, not only you'll
+[447.2s - 447.2s] transformation partner, not only you'll
+[447.2s - 449.0s] transformation partner, not only you'll make more money from each client, but
+[449.0s - 449.0s] make more money from each client, but
+[449.0s - 451.5s] make more money from each client, but also making money will become easier and
+[451.5s - 451.5s] also making money will become easier and
+[451.5s - 453.0s] also making money will become easier and easier as you build more and more
+[453.0s - 453.0s] easier as you build more and more
+[453.0s - 454.5s] easier as you build more and more projects for them. Now with that said,
+[454.5s - 454.5s] projects for them. Now with that said,
+[454.5s - 455.8s] projects for them. Now with that said, let's take a look at the approach you'd
+[455.8s - 455.8s] let's take a look at the approach you'd
+[455.8s - 457.7s] let's take a look at the approach you'd use as an AI transformation partner. So
+[457.7s - 457.7s] use as an AI transformation partner. So
+[457.7s - 460.1s] use as an AI transformation partner. So generally as an AITP, you'd follow a
+[460.1s - 460.2s] generally as an AITP, you'd follow a
+[460.2s - 462.1s] generally as an AITP, you'd follow a six-step process. First off, you do
+[462.1s - 462.2s] six-step process. First off, you do
+[462.2s - 463.8s] six-step process. First off, you do discovery, meaning you try and talk to
+[463.8s - 463.8s] discovery, meaning you try and talk to
+[463.8s - 465.8s] discovery, meaning you try and talk to that business to understand all their
+[465.8s - 465.8s] that business to understand all their
+[465.8s - 467.5s] that business to understand all their processes and understand how their
+[467.5s - 467.5s] processes and understand how their
+[467.5s - 469.4s] processes and understand how their business actually works. And then once
+[469.4s - 469.4s] business actually works. And then once
+[469.4s - 471.8s] business actually works. And then once you know their business quite well, you
+[471.8s - 471.8s] you know their business quite well, you
+[471.8s - 474.1s] you know their business quite well, you will diagnose problems and bottlenecks
+[474.1s - 474.2s] will diagnose problems and bottlenecks
+[474.2s - 475.4s] will diagnose problems and bottlenecks that are currently inside their
+[475.4s - 475.4s] that are currently inside their
+[475.4s - 476.9s] that are currently inside their business. So you might figure out that a
+[476.9s - 477.0s] business. So you might figure out that a
+[477.0s - 479.3s] business. So you might figure out that a certain process is producing a lot of
+[479.3s - 479.3s] certain process is producing a lot of
+[479.3s - 481.4s] certain process is producing a lot of waste for them. And if you automate that
+[481.4s - 481.4s] waste for them. And if you automate that
+[481.4s - 483.4s] waste for them. And if you automate that process, it could bring a lot of ROI for
+[483.4s - 483.4s] process, it could bring a lot of ROI for
+[483.4s - 485.0s] process, it could bring a lot of ROI for their business. But you can only do that
+[485.0s - 485.0s] their business. But you can only do that
+[485.0s - 486.9s] their business. But you can only do that once you actually have done discovery
+[486.9s - 487.0s] once you actually have done discovery
+[487.0s - 488.9s] once you actually have done discovery and you've understood their processes
+[488.9s - 488.9s] and you've understood their processes
+[488.9s - 490.5s] and you've understood their processes back to front. Then once you've
+[490.5s - 490.5s] back to front. Then once you've
+[490.5s - 492.5s] back to front. Then once you've diagnosed the bottlenecks inside their
+[492.5s - 492.5s] diagnosed the bottlenecks inside their
+[492.5s - 494.1s] diagnosed the bottlenecks inside their business, what you'll do is you'll build
+[494.1s - 494.1s] business, what you'll do is you'll build
+[494.1s - 496.8s] business, what you'll do is you'll build out a project road map that will tell
+[496.8s - 496.8s] out a project road map that will tell
+[496.8s - 499.3s] out a project road map that will tell them exactly what projects they should
+[499.3s - 499.3s] them exactly what projects they should
+[499.3s - 501.8s] them exactly what projects they should build in sequence to maximize ROI. So
+[501.8s - 501.8s] build in sequence to maximize ROI. So
+[501.8s - 503.3s] build in sequence to maximize ROI. So you might, for example, come up with a
+[503.3s - 503.3s] you might, for example, come up with a
+[503.3s - 505.0s] you might, for example, come up with a conclusion that first they should build
+[505.0s - 505.0s] conclusion that first they should build
+[505.0s - 506.9s] conclusion that first they should build out a quick onboarding automation. Now,
+[506.9s - 507.0s] out a quick onboarding automation. Now,
+[507.0s - 508.2s] out a quick onboarding automation. Now, I know I keep saying the onboarding
+[508.2s - 508.2s] I know I keep saying the onboarding
+[508.2s - 509.6s] I know I keep saying the onboarding example, but this is the one that comes
+[509.6s - 509.6s] example, but this is the one that comes
+[509.6s - 511.1s] example, but this is the one that comes to mind. But let's say first they have
+[511.1s - 511.1s] to mind. But let's say first they have
+[511.1s - 512.5s] to mind. But let's say first they have to build an onboarding project because
+[512.5s - 512.5s] to build an onboarding project because
+[512.5s - 513.7s] to build an onboarding project because that one is going to get them the
+[513.7s - 513.7s] that one is going to get them the
+[513.7s - 516.0s] that one is going to get them the quickest and highest ROI out of all the
+[516.0s - 516.0s] quickest and highest ROI out of all the
+[516.0s - 517.5s] quickest and highest ROI out of all the projects that you have planned out for
+[517.5s - 517.5s] projects that you have planned out for
+[517.5s - 519.4s] projects that you have planned out for them in the future. Then they might want
+[519.4s - 519.4s] them in the future. Then they might want
+[519.4s - 521.1s] them in the future. Then they might want to automate some sort of lead genen
+[521.1s - 521.1s] to automate some sort of lead genen
+[521.1s - 522.6s] to automate some sort of lead genen process that you've come up with with
+[522.6s - 522.6s] process that you've come up with with
+[522.6s - 524.2s] process that you've come up with with them. Then they might want to automate
+[524.2s - 524.2s] them. Then they might want to automate
+[524.2s - 526.2s] them. Then they might want to automate some sort of customer support process.
+[526.2s - 526.2s] some sort of customer support process.
+[526.2s - 527.8s] some sort of customer support process. Then they might want to build some sort
+[527.8s - 527.8s] Then they might want to build some sort
+[527.8s - 529.9s] Then they might want to build some sort of client-f facing app and so on so
+[529.9s - 529.9s] of client-f facing app and so on so
+[529.9s - 532.1s] of client-f facing app and so on so forth. So you come up with this pipeline
+[532.1s - 532.1s] forth. So you come up with this pipeline
+[532.1s - 535.2s] forth. So you come up with this pipeline of projects that if built sequentially
+[535.2s - 535.2s] of projects that if built sequentially
+[535.2s - 538.5s] of projects that if built sequentially will bring them the highest ROI in the
+[538.5s - 538.6s] will bring them the highest ROI in the
+[538.6s - 540.9s] will bring them the highest ROI in the least amount of time because that's what
+[540.9s - 540.9s] least amount of time because that's what
+[540.9s - 543.4s] least amount of time because that's what it's really about, maximizing ROI in the
+[543.4s - 543.4s] it's really about, maximizing ROI in the
+[543.4s - 545.1s] it's really about, maximizing ROI in the shortest amount of time possible. So
+[545.1s - 545.1s] shortest amount of time possible. So
+[545.1s - 546.8s] shortest amount of time possible. So once you've built out this road map,
+[546.8s - 546.8s] once you've built out this road map,
+[546.8s - 548.6s] once you've built out this road map, then you'll actually start developing
+[548.6s - 548.6s] then you'll actually start developing
+[548.6s - 550.1s] then you'll actually start developing these projects for them. Now if you
+[550.1s - 550.2s] these projects for them. Now if you
+[550.2s - 552.4s] these projects for them. Now if you wanted to work as a pure AI consultant,
+[552.4s - 552.4s] wanted to work as a pure AI consultant,
+[552.4s - 553.7s] wanted to work as a pure AI consultant, you wouldn't actually do this
+[553.7s - 553.7s] you wouldn't actually do this
+[553.7s - 555.3s] you wouldn't actually do this development. You might have some sort of
+[555.3s - 555.3s] development. You might have some sort of
+[555.3s - 557.4s] development. You might have some sort of development agency that comes in and
+[557.4s - 557.4s] development agency that comes in and
+[557.4s - 559.2s] development agency that comes in and helps you build out these projects one
+[559.2s - 559.2s] helps you build out these projects one
+[559.2s - 560.7s] helps you build out these projects one by one. But what I'd recommend is
+[560.7s - 560.7s] by one. But what I'd recommend is
+[560.7s - 562.2s] by one. But what I'd recommend is building an internal team that will
+[562.2s - 562.2s] building an internal team that will
+[562.2s - 564.1s] building an internal team that will actually allow you to fulfill on these
+[564.1s - 564.2s] actually allow you to fulfill on these
+[564.2s - 566.0s] actually allow you to fulfill on these projects one by one as well because
+[566.0s - 566.0s] projects one by one as well because
+[566.0s - 568.8s] projects one by one as well because doing that will maximize your LTV by a
+[568.8s - 568.8s] doing that will maximize your LTV by a
+[568.8s - 570.3s] doing that will maximize your LTV by a huge amount because generally
+[570.3s - 570.3s] huge amount because generally
+[570.3s - 572.8s] huge amount because generally development is still a lot more costly
+[572.8s - 572.8s] development is still a lot more costly
+[572.8s - 574.7s] development is still a lot more costly than consulting itself. But as we move
+[574.7s - 574.7s] than consulting itself. But as we move
+[574.7s - 576.1s] than consulting itself. But as we move towards a world where development
+[576.1s - 576.2s] towards a world where development
+[576.2s - 578.1s] towards a world where development becomes easier and easier, this first
+[578.1s - 578.1s] becomes easier and easier, this first
+[578.1s - 579.9s] becomes easier and easier, this first portion that's related to consulting
+[579.9s - 579.9s] portion that's related to consulting
+[579.9s - 581.3s] portion that's related to consulting becomes more important than the
+[581.3s - 581.3s] becomes more important than the
+[581.3s - 583.0s] becomes more important than the development portion itself. Now, as
+[583.0s - 583.0s] development portion itself. Now, as
+[583.0s - 584.5s] development portion itself. Now, as you're developing these projects and
+[584.5s - 584.6s] you're developing these projects and
+[584.6s - 586.0s] you're developing these projects and you're building this relationship with
+[586.0s - 586.0s] you're building this relationship with
+[586.0s - 588.8s] you're building this relationship with the company, you also be training their
+[588.8s - 588.8s] the company, you also be training their
+[588.8s - 590.5s] the company, you also be training their staff members. So, not only are you
+[590.5s - 590.6s] staff members. So, not only are you
+[590.6s - 592.7s] staff members. So, not only are you helping them understand AI technology
+[592.7s - 592.7s] helping them understand AI technology
+[592.7s - 594.4s] helping them understand AI technology and understand how they can use it,
+[594.4s - 594.4s] and understand how they can use it,
+[594.4s - 596.6s] and understand how they can use it, you're also training them on the new
+[596.6s - 596.6s] you're also training them on the new
+[596.6s - 599.0s] you're also training them on the new processes post automation. Offering
+[599.0s - 599.0s] processes post automation. Offering
+[599.0s - 601.6s] processes post automation. Offering training as a service is also a really
+[601.6s - 601.6s] training as a service is also a really
+[601.6s - 603.7s] training as a service is also a really good way of making additional money from
+[603.7s - 603.7s] good way of making additional money from
+[603.7s - 605.5s] good way of making additional money from the business. And it's also really good
+[605.5s - 605.5s] the business. And it's also really good
+[605.5s - 607.3s] the business. And it's also really good because it will position you as an
+[607.3s - 607.3s] because it will position you as an
+[607.3s - 609.0s] because it will position you as an expert in the field and it will increase
+[609.0s - 609.0s] expert in the field and it will increase
+[609.0s - 611.2s] expert in the field and it will increase that trust and confidence the client has
+[611.2s - 611.2s] that trust and confidence the client has
+[611.2s - 613.1s] that trust and confidence the client has in your capabilities. Now, finally, as
+[613.1s - 613.1s] in your capabilities. Now, finally, as
+[613.1s - 614.4s] in your capabilities. Now, finally, as you're building out more and more
+[614.4s - 614.4s] you're building out more and more
+[614.4s - 615.9s] you're building out more and more projects, you'll eventually end up
+[615.9s - 615.9s] projects, you'll eventually end up
+[615.9s - 617.8s] projects, you'll eventually end up transforming their entire business from
+[617.8s - 617.8s] transforming their entire business from
+[617.8s - 619.9s] transforming their entire business from a business that was fully manual with no
+[619.9s - 619.9s] a business that was fully manual with no
+[619.9s - 623.2s] a business that was fully manual with no AI to a business that's now AI augmented
+[623.2s - 623.2s] AI to a business that's now AI augmented
+[623.2s - 625.4s] AI to a business that's now AI augmented and leading their industry. So, that's
+[625.4s - 625.4s] and leading their industry. So, that's
+[625.4s - 627.6s] and leading their industry. So, that's the general six-step process that you
+[627.6s - 627.6s] the general six-step process that you
+[627.6s - 629.6s] the general six-step process that you want to follow if you want to position
+[629.6s - 629.6s] want to follow if you want to position
+[629.6s - 631.7s] want to follow if you want to position yourself as an AI transformation partner
+[631.7s - 631.7s] yourself as an AI transformation partner
+[631.7s - 633.6s] yourself as an AI transformation partner with businesses. But the reality is that
+[633.6s - 633.6s] with businesses. But the reality is that
+[633.6s - 635.7s] with businesses. But the reality is that it's not that easy. Becoming an AI
+[635.7s - 635.7s] it's not that easy. Becoming an AI
+[635.7s - 637.9s] it's not that easy. Becoming an AI transformation partner is definitely not
+[637.9s - 637.9s] transformation partner is definitely not
+[637.9s - 639.8s] transformation partner is definitely not beginner friendly because you'd have to
+[639.8s - 639.8s] beginner friendly because you'd have to
+[639.8s - 642.4s] beginner friendly because you'd have to know a lot about technical AI concepts.
+[642.4s - 642.4s] know a lot about technical AI concepts.
+[642.4s - 644.2s] know a lot about technical AI concepts. If you want to be able to advise
+[644.2s - 644.2s] If you want to be able to advise
+[644.2s - 646.0s] If you want to be able to advise businesses on what steps they should
+[646.0s - 646.0s] businesses on what steps they should
+[646.0s - 648.3s] businesses on what steps they should take to maximize their ROI from AI
+[648.3s - 648.3s] take to maximize their ROI from AI
+[648.3s - 650.3s] take to maximize their ROI from AI implementation, then you need to have a
+[650.3s - 650.3s] implementation, then you need to have a
+[650.3s - 652.4s] implementation, then you need to have a fair amount of experience in the field.
+[652.4s - 652.4s] fair amount of experience in the field.
+[652.4s - 654.5s] fair amount of experience in the field. And you also have to understand AI back
+[654.5s - 654.6s] And you also have to understand AI back
+[654.6s - 656.1s] And you also have to understand AI back to front. And the reality is that if
+[656.1s - 656.1s] to front. And the reality is that if
+[656.1s - 657.6s] to front. And the reality is that if you're just starting out and you're just
+[657.6s - 657.6s] you're just starting out and you're just
+[657.6s - 659.4s] you're just starting out and you're just entering the industry, this is going to
+[659.4s - 659.4s] entering the industry, this is going to
+[659.4s - 661.3s] entering the industry, this is going to be very difficult for you to do. But
+[661.3s - 661.3s] be very difficult for you to do. But
+[661.3s - 662.9s] be very difficult for you to do. But even in addition to the lack of
+[662.9s - 663.0s] even in addition to the lack of
+[663.0s - 665.4s] even in addition to the lack of experience, pitching AI transformation
+[665.4s - 665.4s] experience, pitching AI transformation
+[665.4s - 667.9s] experience, pitching AI transformation services is also very difficult because
+[667.9s - 667.9s] services is also very difficult because
+[667.9s - 670.1s] services is also very difficult because the business needs to actually trust you
+[670.1s - 670.2s] the business needs to actually trust you
+[670.2s - 671.6s] the business needs to actually trust you first. Because technically what you're
+[671.6s - 671.6s] first. Because technically what you're
+[671.6s - 672.7s] first. Because technically what you're doing is you're telling the business
+[672.7s - 672.7s] doing is you're telling the business
+[672.7s - 674.2s] doing is you're telling the business that you're going to transform most of
+[674.2s - 674.2s] that you're going to transform most of
+[674.2s - 676.6s] that you're going to transform most of their processes with AI over a span of
+[676.6s - 676.6s] their processes with AI over a span of
+[676.6s - 678.3s] their processes with AI over a span of maybe a couple of months to a couple of
+[678.3s - 678.3s] maybe a couple of months to a couple of
+[678.3s - 680.3s] maybe a couple of months to a couple of years. And so that business is taking a
+[680.3s - 680.3s] years. And so that business is taking a
+[680.3s - 682.4s] years. And so that business is taking a big leap of faith by agreeing to work
+[682.4s - 682.4s] big leap of faith by agreeing to work
+[682.4s - 684.4s] big leap of faith by agreeing to work with you and listening to the advice
+[684.4s - 684.4s] with you and listening to the advice
+[684.4s - 685.8s] with you and listening to the advice that you're giving them. That's why if
+[685.8s - 685.8s] that you're giving them. That's why if
+[685.8s - 687.4s] that you're giving them. That's why if you're a complete beginner, I would
+[687.4s - 687.4s] you're a complete beginner, I would
+[687.4s - 688.9s] you're a complete beginner, I would definitely not recommend trying to be an
+[688.9s - 689.0s] definitely not recommend trying to be an
+[689.0s - 690.6s] definitely not recommend trying to be an AI transformation partner right off the
+[690.6s - 690.6s] AI transformation partner right off the
+[690.6s - 692.5s] AI transformation partner right off the bat. What you should do instead is you
+[692.5s - 692.6s] bat. What you should do instead is you
+[692.6s - 694.9s] bat. What you should do instead is you should start off as an AI agency owner.
+[694.9s - 695.0s] should start off as an AI agency owner.
+[695.0s - 696.8s] should start off as an AI agency owner. Build out these one-off projects and do
+[696.8s - 696.8s] Build out these one-off projects and do
+[696.8s - 698.9s] Build out these one-off projects and do some consulting. And then once you feel
+[698.9s - 698.9s] some consulting. And then once you feel
+[698.9s - 700.9s] some consulting. And then once you feel confident in your capabilities and you
+[700.9s - 700.9s] confident in your capabilities and you
+[700.9s - 703.6s] confident in your capabilities and you know that you can definitely advise big
+[703.6s - 703.6s] know that you can definitely advise big
+[703.6s - 705.0s] know that you can definitely advise big businesses on what they should and
+[705.0s - 705.0s] businesses on what they should and
+[705.0s - 707.0s] businesses on what they should and shouldn't do with AI only then I would
+[707.0s - 707.0s] shouldn't do with AI only then I would
+[707.0s - 709.0s] shouldn't do with AI only then I would recommend trying to transition into an
+[709.0s - 709.0s] recommend trying to transition into an
+[709.0s - 710.9s] recommend trying to transition into an AI transformation partner. And so with
+[710.9s - 710.9s] AI transformation partner. And so with
+[710.9s - 712.2s] AI transformation partner. And so with that said I actually think it's a good
+[712.2s - 712.2s] that said I actually think it's a good
+[712.2s - 713.8s] that said I actually think it's a good thing that most people that are entering
+[713.8s - 713.8s] thing that most people that are entering
+[713.8s - 715.4s] thing that most people that are entering the space are starting from here because
+[715.4s - 715.4s] the space are starting from here because
+[715.4s - 716.9s] the space are starting from here because they should. That's where you gain all
+[716.9s - 717.0s] they should. That's where you gain all
+[717.0s - 718.6s] they should. That's where you gain all the skills and all the knowledge and the
+[718.6s - 718.6s] the skills and all the knowledge and the
+[718.6s - 720.2s] the skills and all the knowledge and the experience. And then once you have all
+[720.2s - 720.2s] experience. And then once you have all
+[720.2s - 722.1s] experience. And then once you have all of those underneath your belt, then you
+[722.1s - 722.1s] of those underneath your belt, then you
+[722.1s - 723.8s] of those underneath your belt, then you can try and become a transformation
+[723.8s - 723.8s] can try and become a transformation
+[723.8s - 725.5s] can try and become a transformation partner, target slightly bigger
+[725.5s - 725.5s] partner, target slightly bigger
+[725.5s - 727.3s] partner, target slightly bigger businesses, and take advantage of all
+[727.3s - 727.3s] businesses, and take advantage of all
+[727.3s - 728.7s] businesses, and take advantage of all those opportunities that we talked about
+[728.7s - 728.7s] those opportunities that we talked about
+[728.7s - 730.1s] those opportunities that we talked about before. So with that said, here's the
+[730.1s - 730.2s] before. So with that said, here's the
+[730.2s - 731.7s] before. So with that said, here's the exact road map that you can follow
+[731.7s - 731.7s] exact road map that you can follow
+[731.7s - 733.7s] exact road map that you can follow starting today to eventually become an
+[733.7s - 733.7s] starting today to eventually become an
+[733.7s - 735.4s] starting today to eventually become an AI transformation partner. As I said,
+[735.4s - 735.4s] AI transformation partner. As I said,
+[735.4s - 736.6s] AI transformation partner. As I said, first and foremost, what you want to do
+[736.6s - 736.6s] first and foremost, what you want to do
+[736.6s - 738.2s] first and foremost, what you want to do is you want to start off as an AI
+[738.2s - 738.2s] is you want to start off as an AI
+[738.2s - 740.4s] is you want to start off as an AI agency. So you typically do this by
+[740.4s - 740.4s] agency. So you typically do this by
+[740.4s - 742.8s] agency. So you typically do this by working as a freelancer and doing custom
+[742.8s - 742.8s] working as a freelancer and doing custom
+[742.8s - 744.4s] working as a freelancer and doing custom one-off projects for businesses. This is
+[744.4s - 744.4s] one-off projects for businesses. This is
+[744.4s - 745.8s] one-off projects for businesses. This is actually a great place to start because
+[745.8s - 745.8s] actually a great place to start because
+[745.8s - 746.9s] actually a great place to start because once you're doing this, what you're
+[746.9s - 746.9s] once you're doing this, what you're
+[746.9s - 748.5s] once you're doing this, what you're doing is you're learning to develop
+[748.5s - 748.6s] doing is you're learning to develop
+[748.6s - 750.8s] doing is you're learning to develop projects. You're learning technical AI
+[750.8s - 750.8s] projects. You're learning technical AI
+[750.8s - 752.4s] projects. You're learning technical AI concepts. For example, what AI is
+[752.4s - 752.4s] concepts. For example, what AI is
+[752.4s - 754.4s] concepts. For example, what AI is capable of, what AI is not capable of,
+[754.4s - 754.4s] capable of, what AI is not capable of,
+[754.4s - 755.9s] capable of, what AI is not capable of, what needs to be considered for AI
+[755.9s - 755.9s] what needs to be considered for AI
+[755.9s - 758.2s] what needs to be considered for AI safety, what AI risks are there, and all
+[758.2s - 758.2s] safety, what AI risks are there, and all
+[758.2s - 759.4s] safety, what AI risks are there, and all these other concepts that will
+[759.4s - 759.4s] these other concepts that will
+[759.4s - 760.9s] these other concepts that will eventually make you into the perfect
+[760.9s - 761.0s] eventually make you into the perfect
+[761.0s - 762.7s] eventually make you into the perfect consultant. As you're also doing this,
+[762.7s - 762.7s] consultant. As you're also doing this,
+[762.7s - 764.5s] consultant. As you're also doing this, you're also gaining testimonials and
+[764.5s - 764.6s] you're also gaining testimonials and
+[764.6s - 766.3s] you're also gaining testimonials and reviews and increasing your social
+[766.3s - 766.3s] reviews and increasing your social
+[766.3s - 768.1s] reviews and increasing your social proof, which will later be used to
+[768.1s - 768.1s] proof, which will later be used to
+[768.1s - 770.2s] proof, which will later be used to convince bigger businesses that you can
+[770.2s - 770.2s] convince bigger businesses that you can
+[770.2s - 772.6s] convince bigger businesses that you can actually help them become AI first. Now,
+[772.6s - 772.6s] actually help them become AI first. Now,
+[772.6s - 774.4s] actually help them become AI first. Now, as you get more confident building out
+[774.4s - 774.4s] as you get more confident building out
+[774.4s - 776.4s] as you get more confident building out these projects as an AI agency, I'd
+[776.4s - 776.4s] these projects as an AI agency, I'd
+[776.4s - 778.1s] these projects as an AI agency, I'd recommend trying to do a little bit more
+[778.1s - 778.1s] recommend trying to do a little bit more
+[778.1s - 780.3s] recommend trying to do a little bit more of consulting in your day-to-day. So,
+[780.3s - 780.3s] of consulting in your day-to-day. So,
+[780.3s - 782.5s] of consulting in your day-to-day. So, actually try and diagnose problems for
+[782.5s - 782.5s] actually try and diagnose problems for
+[782.5s - 784.7s] actually try and diagnose problems for businesses and build out road maps for
+[784.7s - 784.7s] businesses and build out road maps for
+[784.7s - 786.5s] businesses and build out road maps for them after doing full discovery
+[786.5s - 786.5s] them after doing full discovery
+[786.5s - 788.4s] them after doing full discovery sessions. When you think you're ready, I
+[788.4s - 788.4s] sessions. When you think you're ready, I
+[788.4s - 790.4s] sessions. When you think you're ready, I want you to start training their team
+[790.4s - 790.4s] want you to start training their team
+[790.4s - 791.8s] want you to start training their team members. So, for example, you might
+[791.8s - 791.8s] members. So, for example, you might
+[791.8s - 793.3s] members. So, for example, you might offer sessions teaching their employees
+[793.3s - 793.3s] offer sessions teaching their employees
+[793.3s - 795.4s] offer sessions teaching their employees how to use perplexity or chatbt or how
+[795.4s - 795.4s] how to use perplexity or chatbt or how
+[795.4s - 796.9s] how to use perplexity or chatbt or how to do prompt engineering. Even if you
+[796.9s - 796.9s] to do prompt engineering. Even if you
+[796.9s - 798.9s] to do prompt engineering. Even if you don't charge for this at the start, it's
+[798.9s - 798.9s] don't charge for this at the start, it's
+[798.9s - 800.7s] don't charge for this at the start, it's still good practice because not only
+[800.7s - 800.7s] still good practice because not only
+[800.7s - 802.8s] still good practice because not only will it make you more confident, but it
+[802.8s - 802.8s] will it make you more confident, but it
+[802.8s - 804.7s] will it make you more confident, but it will also make that business be more
+[804.7s - 804.7s] will also make that business be more
+[804.7s - 806.6s] will also make that business be more confident in your capabilities. So even
+[806.6s - 806.6s] confident in your capabilities. So even
+[806.6s - 808.1s] confident in your capabilities. So even if you're not technically charging for
+[808.1s - 808.2s] if you're not technically charging for
+[808.2s - 810.0s] if you're not technically charging for these consultations, I want you to start
+[810.0s - 810.0s] these consultations, I want you to start
+[810.0s - 811.8s] these consultations, I want you to start practicing it anyway. Now, as you're
+[811.8s - 811.8s] practicing it anyway. Now, as you're
+[811.8s - 812.9s] practicing it anyway. Now, as you're building out these projects for
+[812.9s - 813.0s] building out these projects for
+[813.0s - 814.5s] building out these projects for businesses, I want you to start using
+[814.5s - 814.5s] businesses, I want you to start using
+[814.5s - 816.0s] businesses, I want you to start using the foot in the door technique. And
+[816.0s - 816.0s] the foot in the door technique. And
+[816.0s - 817.6s] the foot in the door technique. And basically what that technique means is
+[817.6s - 817.6s] basically what that technique means is
+[817.6s - 819.4s] basically what that technique means is once you've built out one smaller
+[819.4s - 819.4s] once you've built out one smaller
+[819.4s - 820.9s] once you've built out one smaller project for them and you've gained their
+[820.9s - 821.0s] project for them and you've gained their
+[821.0s - 822.8s] project for them and you've gained their trust, you can try and pitch them on
+[822.8s - 822.8s] trust, you can try and pitch them on
+[822.8s - 824.4s] trust, you can try and pitch them on bigger and bigger projects. And let's
+[824.4s - 824.4s] bigger and bigger projects. And let's
+[824.4s - 825.9s] bigger and bigger projects. And let's say for example now you guys have done
+[825.9s - 825.9s] say for example now you guys have done
+[825.9s - 827.8s] say for example now you guys have done two projects and you've proven that
+[827.8s - 827.8s] two projects and you've proven that
+[827.8s - 829.8s] two projects and you've proven that you'll bring good ROI for their business
+[829.8s - 829.8s] you'll bring good ROI for their business
+[829.8s - 832.1s] you'll bring good ROI for their business and now they trust you as an actual AI
+[832.1s - 832.1s] and now they trust you as an actual AI
+[832.1s - 834.0s] and now they trust you as an actual AI expert. What you'll do next is you'll
+[834.0s - 834.0s] expert. What you'll do next is you'll
+[834.0s - 836.0s] expert. What you'll do next is you'll actually pitch them on either consulting
+[836.0s - 836.0s] actually pitch them on either consulting
+[836.0s - 838.4s] actually pitch them on either consulting or transformation retainers as an AI
+[838.4s - 838.4s] or transformation retainers as an AI
+[838.4s - 840.1s] or transformation retainers as an AI transformation partner. So at this stage
+[840.1s - 840.2s] transformation partner. So at this stage
+[840.2s - 841.7s] transformation partner. So at this stage instead of you just saying okay I'll
+[841.7s - 841.7s] instead of you just saying okay I'll
+[841.7s - 843.5s] instead of you just saying okay I'll build out this specific project for you.
+[843.5s - 843.5s] build out this specific project for you.
+[843.5s - 844.9s] build out this specific project for you. You'll say let's have another
+[844.9s - 844.9s] You'll say let's have another
+[844.9s - 846.7s] You'll say let's have another conversation. Let me do a full discovery
+[846.7s - 846.7s] conversation. Let me do a full discovery
+[846.7s - 848.5s] conversation. Let me do a full discovery for your business. understand all the
+[848.5s - 848.5s] for your business. understand all the
+[848.5s - 850.3s] for your business. understand all the implementation opportunities and then
+[850.3s - 850.3s] implementation opportunities and then
+[850.3s - 852.4s] implementation opportunities and then map out the exact road map that we
+[852.4s - 852.4s] map out the exact road map that we
+[852.4s - 854.7s] map out the exact road map that we should follow to maximize your ROI in
+[854.7s - 854.7s] should follow to maximize your ROI in
+[854.7s - 856.3s] should follow to maximize your ROI in the least amount of time possible and
+[856.3s - 856.3s] the least amount of time possible and
+[856.3s - 857.8s] the least amount of time possible and then once you guys bang out that
+[857.8s - 857.8s] then once you guys bang out that
+[857.8s - 859.7s] then once you guys bang out that specific road map you can go and build
+[859.7s - 859.7s] specific road map you can go and build
+[859.7s - 861.5s] specific road map you can go and build out those projects one by one for them
+[861.5s - 861.5s] out those projects one by one for them
+[861.5s - 863.5s] out those projects one by one for them either on a retainer model or on a per
+[863.5s - 863.5s] either on a retainer model or on a per
+[863.5s - 865.3s] either on a retainer model or on a per project basis. So at this stage you're
+[865.3s - 865.3s] project basis. So at this stage you're
+[865.3s - 867.7s] project basis. So at this stage you're still technically an AI agency but
+[867.7s - 867.7s] still technically an AI agency but
+[867.7s - 868.9s] still technically an AI agency but you're actually trying to build
+[868.9s - 868.9s] you're actually trying to build
+[868.9s - 870.6s] you're actually trying to build relationships with your customers over
+[870.6s - 870.6s] relationships with your customers over
+[870.6s - 872.1s] relationships with your customers over the long term. Now, once you've done
+[872.1s - 872.1s] the long term. Now, once you've done
+[872.1s - 873.9s] the long term. Now, once you've done multiple projects for at least one
+[873.9s - 873.9s] multiple projects for at least one
+[873.9s - 875.7s] multiple projects for at least one customer and you feel confident in your
+[875.7s - 875.7s] customer and you feel confident in your
+[875.7s - 877.5s] customer and you feel confident in your capabilities and you have a case study
+[877.5s - 877.5s] capabilities and you have a case study
+[877.5s - 879.2s] capabilities and you have a case study to show for it, you then actually
+[879.2s - 879.2s] to show for it, you then actually
+[879.2s - 880.9s] to show for it, you then actually position your business as an AI
+[880.9s - 880.9s] position your business as an AI
+[880.9s - 882.5s] position your business as an AI transformation partner. Meaning, you
+[882.5s - 882.5s] transformation partner. Meaning, you
+[882.5s - 884.1s] transformation partner. Meaning, you change your marketing from saying you're
+[884.1s - 884.2s] change your marketing from saying you're
+[884.2s - 886.1s] change your marketing from saying you're an AI agency and you build out custom
+[886.1s - 886.1s] an AI agency and you build out custom
+[886.1s - 888.1s] an AI agency and you build out custom projects to saying that you work with
+[888.1s - 888.2s] projects to saying that you work with
+[888.2s - 890.4s] projects to saying that you work with businesses for the long term and you
+[890.4s - 890.4s] businesses for the long term and you
+[890.4s - 892.5s] businesses for the long term and you transform their processes one by one
+[892.5s - 892.6s] transform their processes one by one
+[892.6s - 894.1s] transform their processes one by one with AI. Now, at this point, you'd
+[894.1s - 894.1s] with AI. Now, at this point, you'd
+[894.1s - 895.8s] with AI. Now, at this point, you'd probably also change your ICP to start
+[895.8s - 895.8s] probably also change your ICP to start
+[895.8s - 897.6s] probably also change your ICP to start targeting mid-market businesses for the
+[897.6s - 897.6s] targeting mid-market businesses for the
+[897.6s - 899.3s] targeting mid-market businesses for the reasons that we spoke about before. And
+[899.3s - 899.3s] reasons that we spoke about before. And
+[899.3s - 901.4s] reasons that we spoke about before. And that forced their process is exactly how
+[901.4s - 901.4s] that forced their process is exactly how
+[901.4s - 903.6s] that forced their process is exactly how you can go from a complete beginner to
+[903.6s - 903.6s] you can go from a complete beginner to
+[903.6s - 906.7s] you can go from a complete beginner to AI and AI automation to an expert that
+[906.7s - 906.7s] AI and AI automation to an expert that
+[906.7s - 908.6s] AI and AI automation to an expert that works with big businesses on
+[908.6s - 908.6s] works with big businesses on
+[908.6s - 910.9s] works with big businesses on transforming their processes one by one.
+[910.9s - 910.9s] transforming their processes one by one.
+[910.9s - 912.5s] transforming their processes one by one. So just to reiterate on that one more
+[912.5s - 912.6s] So just to reiterate on that one more
+[912.6s - 914.0s] So just to reiterate on that one more time, you want to first start off as an
+[914.0s - 914.0s] time, you want to first start off as an
+[914.0s - 916.1s] time, you want to first start off as an AI agency owner building out one-off
+[916.1s - 916.1s] AI agency owner building out one-off
+[916.1s - 917.7s] AI agency owner building out one-off projects for businesses. And as you're
+[917.7s - 917.7s] projects for businesses. And as you're
+[917.7s - 919.0s] projects for businesses. And as you're doing this, you want to improve your
+[919.0s - 919.0s] doing this, you want to improve your
+[919.0s - 921.1s] doing this, you want to improve your consulting skills by diagnosing problems
+[921.1s - 921.1s] consulting skills by diagnosing problems
+[921.1s - 922.8s] consulting skills by diagnosing problems and building out full road maps. Now,
+[922.8s - 922.8s] and building out full road maps. Now,
+[922.8s - 924.8s] and building out full road maps. Now, once you've built out a successful first
+[924.8s - 924.8s] once you've built out a successful first
+[924.8s - 926.5s] once you've built out a successful first project for a business, you also want to
+[926.5s - 926.5s] project for a business, you also want to
+[926.5s - 928.6s] project for a business, you also want to pitch them on more and more projects to
+[928.6s - 928.6s] pitch them on more and more projects to
+[928.6s - 930.4s] pitch them on more and more projects to gain their trust and also increase the
+[930.4s - 930.4s] gain their trust and also increase the
+[930.4s - 932.1s] gain their trust and also increase the LTV. And eventually, once you think it's
+[932.1s - 932.2s] LTV. And eventually, once you think it's
+[932.2s - 933.7s] LTV. And eventually, once you think it's the right moment, you'll pitch the
+[933.7s - 933.7s] the right moment, you'll pitch the
+[933.7s - 935.3s] the right moment, you'll pitch the business on a full transformation
+[935.3s - 935.3s] business on a full transformation
+[935.3s - 937.4s] business on a full transformation package that will take them from zero to
+[937.4s - 937.4s] package that will take them from zero to
+[937.4s - 939.6s] package that will take them from zero to AI augmented, one project at a time.
+[939.6s - 939.6s] AI augmented, one project at a time.
+[939.6s - 940.9s] AI augmented, one project at a time. Now, once you've done this and you've
+[940.9s - 941.0s] Now, once you've done this and you've
+[941.0s - 942.9s] Now, once you've done this and you've got the skills and also social proof to
+[942.9s - 942.9s] got the skills and also social proof to
+[942.9s - 944.9s] got the skills and also social proof to show for it, what you do next is you'll
+[944.9s - 944.9s] show for it, what you do next is you'll
+[944.9s - 946.7s] show for it, what you do next is you'll actually position your business as an AI
+[946.7s - 946.7s] actually position your business as an AI
+[946.7s - 948.6s] actually position your business as an AI transformation partner for mid-market
+[948.6s - 948.6s] transformation partner for mid-market
+[948.6s - 950.2s] transformation partner for mid-market businesses. And that's exactly how you
+[950.2s - 950.2s] businesses. And that's exactly how you
+[950.2s - 952.6s] businesses. And that's exactly how you go from zero to AITP as a complete
+[952.6s - 952.6s] go from zero to AITP as a complete
+[952.6s - 954.1s] go from zero to AITP as a complete beginner. Now, we've just launched an
+[954.1s - 954.2s] beginner. Now, we've just launched an
+[954.2s - 955.5s] beginner. Now, we've just launched an accelerator program that's going to get
+[955.5s - 955.5s] accelerator program that's going to get
+[955.5s - 957.4s] accelerator program that's going to get you to not only become an AI expert, but
+[957.4s - 957.4s] you to not only become an AI expert, but
+[957.4s - 959.8s] you to not only become an AI expert, but also set up your agency within just 28
+[959.8s - 959.8s] also set up your agency within just 28
+[959.8s - 961.4s] also set up your agency within just 28 days. So, I'd love to see you guys in
+[961.4s - 961.4s] days. So, I'd love to see you guys in
+[961.4s - 963.1s] days. So, I'd love to see you guys in there if you're serious about the AI
+[963.1s - 963.1s] there if you're serious about the AI
+[963.1s - 964.8s] there if you're serious about the AI opportunity. I'll put the link for it in
+[964.8s - 964.8s] opportunity. I'll put the link for it in
+[964.8s - 966.4s] opportunity. I'll put the link for it in the description down below. Anyways, I
+[966.4s - 966.4s] the description down below. Anyways, I
+[966.4s - 968.1s] the description down below. Anyways, I hope you guys enjoyed this video. If you
+[968.1s - 968.1s] hope you guys enjoyed this video. If you
+[968.1s - 969.7s] hope you guys enjoyed this video. If you did find this video valuable, I'd really
+[969.7s - 969.7s] did find this video valuable, I'd really
+[969.7s - 971.1s] did find this video valuable, I'd really appreciate it if you like, subscribe,
+[971.1s - 971.1s] appreciate it if you like, subscribe,
+[971.1s - 972.2s] appreciate it if you like, subscribe, and let me know in the comments down
+[972.2s - 972.2s] and let me know in the comments down
+[972.2s - 973.6s] and let me know in the comments down below. But otherwise, I'll see you in
+[973.6s - 973.6s] below. But otherwise, I'll see you in
+[973.6s - 975.8s] below. But otherwise, I'll see you in the next

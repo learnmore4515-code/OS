@@ -1,0 +1,33 @@
+================================================================================
+CALL SCRIPT — OWEN KIPKIRUI (LinkedIn — no number shared yet)
+Role: Business Development Officer | Insurance
+Pain: Following up with prospects; chasing outstanding information to move quotations forward (#38)
+Channel: LinkedIn message first, then call if they share a number
+================================================================================
+
+OPENING (first 30 seconds):
+"Hi Owen, it's Peter from LinkedIn. Thanks for the call. You said following up with prospects and chasing outstanding information to move quotations forward is your main friction."
+
+PURPOSE STATEMENT:
+"I'm researching where insurance professionals lose time on manual work. Discovery only — not selling anything."
+
+QUESTIONS (ask one at a time, listen to answers):
+1. "Following up with prospects — how do you track who to follow up with and when?"
+2. "Chasing outstanding information for quotations — what information are you usually waiting for?"
+3. "How do you know which quotations are stuck vs. moving forward?"
+4. "What happens when a quotation sits too long — do you lose the client?"
+5. "If you could automate one part of this, which would save you the most time?"
+
+FOLLOW-UP QUESTIONS:
+- If they mention spreadsheets/Excel: "Is it one person managing this or a team?"
+- If they mention losing clients: "Roughly how often does that happen?"
+- If they ask what you do: "I'm researching automation for insurance brokers — trying to understand the problem before building anything."
+
+CLOSING:
+"Thanks Owen. Helpful to hear. Can I check back in a week or two?"
+
+NOTES:
+- He didn't share a number in the chat — send via LinkedIn first, ask for his number.
+- Business Development Officer — good for prospect follow-up pain data.
+
+================================================================================

@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      :root {
+        --ink: #0F172A;
+        --ivory: #F8F5F0;
+        --gallery-ivory: #F7F3EC;
+        --paper: #FFFFFF;
+        --accent: #059669;
+        --accent-dark: #047857;
+        --amber: #D97706;
+        --muted: #475569;
+        --border: #E5E1D6;
+        --line-warm: #D8D2C8;
+        --font-display: Georgia, 'Times New Roman', serif;
+        --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        --font-mono: 'SF Mono', 'Cascadia Code', 'Courier New', monospace;
+      }
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: var(--ivory); color: var(--ink); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
+      #root { width: 100%; height: 100%; position: relative; overflow: hidden; }
+      .scene { position: absolute; inset: 0; width: 100%; height: 100%; }
+      .scene-label { position: absolute; top: 34px; left: 34px; font-family: var(--font-mono); font-size: 13px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted); opacity: 0.5; }
+
+      /* shared text */
+      .g-display { font-family: var(--font-display); color: var(--ink); }
+      .g-mono { font-family: var(--font-mono); color: var(--muted); }
+
+      /* --- Scene 1: Hook --- */
+      .s1-line { position: absolute; left: 50%; transform: translateX(-50%); font-family: var(--font-display); font-size: 56px; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); text-align: center; }
+      .s1-card { position: absolute; left: 50%; transform: translateX(-50%); top: 610px; width: 520px; background: var(--paper); border: 1px solid var(--border); border-radius: 12px; padding: 26px 30px; text-align: center; box-shadow: 0 6px 20px -6px rgba(15,23,42,0.08); }
+      .s1-card b { display: block; font-size: 13px; text-transform: uppercase; letter-spacing: 0.16em; color: var(--muted); font-weight: 700; margin-bottom: 6px; }
+      .s1-card .value { font-size: 64px; font-weight: 800; letter-spacing: -0.02em; color: var(--ink); }
+
+      /* --- Scene 2: Introduction (gallery cover) --- */
+      .s2-wrap { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 1280px; height: 769px; background: var(--gallery-ivory); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; box-shadow: 0 10px 40px -10px rgba(15,23,42,0.12); }
+      .s2-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+      .s2-line { position: absolute; left: 50%; top: 880px; transform: translateX(-50%); font-family: var(--font-mono); font-size: 21px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); text-align: center; }
+
+      /* --- Scene 3: Proof (workflow nodes) --- */
+      .s3-title { position: absolute; left: 50%; top: 150px; transform: translateX(-50%); font-family: var(--font-display); font-size: 40px; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); text-align: center; }
+      .s3-flow { position: absolute; left: 50%; top: 540px; transform: translateX(-50%); width: 1590px; height: 160px; }
+      .s3-node { position: absolute; width: 240px; height: 86px; background: var(--paper); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; font-family: var(--font-body); font-size: 15px; font-weight: 700; color: var(--ink); line-height: 1.25; box-shadow: 0 4px 12px -4px rgba(15,23,42,0.08); }
+      .s3-node .ntype { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); margin-top: 6px; font-weight: 700; }
+      .s3-conn { position: absolute; border-top: 1.6px solid var(--accent); border-radius: 6px; pointer-events: none; }
+      .s3-dot { position: absolute; width: 9px; height: 9px; background: var(--accent); border-radius: 50%; }
+
+      /* --- Scene 4: Practical application (dashboard) --- */
+      .s4-wrap { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 1920px; height: 1080px; background: var(--paper); border: 2px solid var(--border); border-radius: 8px; overflow: hidden; box-shadow: 0 10px 40px -10px rgba(15,23,42,0.10); }
+      .s4-wrap img { position: absolute; width: 1500px; height: auto; left: 50%; top: 40px; transform: translateX(-50%); z-index: 1; display: block; }
+      .s4-stat { position: absolute; left: 50%; bottom: 70px; transform: translateX(-50%); width: 520px; background: var(--paper); border: 1px solid var(--border); border-radius: 12px; padding: 24px 30px; text-align: center; box-shadow: 0 8px 24px -8px rgba(15,23,42,0.14); z-index: 2; }
+      .s4-stat b { display: block; font-size: 13px; text-transform: uppercase; letter-spacing: 0.16em; color: var(--muted); font-weight: 700; margin-bottom: 6px; }
+      .s4-stat .value { font-size: 64px; font-weight: 800; letter-spacing: -0.02em; color: var(--accent-dark); }
+
+      /* --- Scene 5: Scope + closing --- */
+      .s5-scope { position: absolute; left: 50%; top: 430px; transform: translateX(-50%); font-family: var(--font-mono); font-size: 20px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); text-align: center; max-width: 1400px; }
+      .s5-close { position: absolute; left: 50%; top: 540px; transform: translateX(-50%); font-family: var(--font-display); font-size: 64px; font-weight: 800; letter-spacing: -0.02em; line-height: 1.14; color: var(--ink); text-align: center; max-width: 1500px; }
+      .s5-foot { position: absolute; left: 50%; bottom: 110px; transform: translateX(-50%); font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); text-align: center; }
+
+      .footer { position: absolute; bottom: 34px; left: 50%; transform: translateX(-50%); font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); opacity: 0.7; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="24" data-width="1920" data-height="1080">
+      <audio id="music" src="assets/music/happy-beats-business-moves-vol-1-by-ende-dot-app.mp3" data-start="0" data-duration="24" data-track-index="10" data-volume="0.30" data-fade-out="2"></audio>
+
+      <!-- SCENE 1 · Hook (0-3s) -->
+      <div id="s1" class="scene clip" data-start="0" data-duration="3">
+        <div class="scene-label">scene 1 · hook</div>
+        <div id="s1-l1" class="hidden s1-line" style="top:390px;">Repetitive tasks.</div>
+        <div id="s1-l2" class="hidden s1-line" style="top:470px;">Fragmented tools.</div>
+        <div id="s1-card" class="hidden s1-card">
+          <b>Awaiting docs</b>
+          <div class="value" id="s1-val">6</div>
+        </div>
+        <div class="footer" data-layout-ignore>brokerflow ai &middot; document chase dashboard</div>
+      </div>
+
+      <!-- SCENE 2 · Introduction (3-8s) -->
+      <div id="s2" class="scene clip" data-start="3" data-duration="5">
+        <div class="scene-label">scene 2 · introduction</div>
+        <div id="s2-wrap" class="hidden s2-wrap" data-hold>
+          <img src="assets/img/01-gig-cover.png" alt="Gallery cover: Business Workflow Automation" />
+        </div>
+        <div id="s2-line" class="hidden s2-line">n8n Workflows &middot; Integrations &middot; Operations Systems</div>
+        <div class="footer" data-layout-ignore>brokerflow ai &middot; business workflow automation</div>
+      </div>
+
+      <!-- SCENE 3 · Proof: workflow (8-15s) -->
+      <div id="s3" class="scene clip" data-start="8" data-duration="7">
+        <div class="scene-label">scene 3 · proof</div>
+        <div id="s3-title" class="hidden s3-title">Real n8n workflow: Document Chasing Escalation</div>
+        <div id="s3-flow" class="hidden s3-flow">
+          <!-- nodes appear left to right -->
+          <div id="s3-n1" class="hidden s3-node" style="left:0px;">
+            Document Chasing Trigger
+            <div class="ntype" data-layout-ignore>executeWorkflowTrigger &middot; passthrough</div>
+          </div>
+          <div id="s3-n2" class="hidden s3-node" style="left:270px;">
+            Normalize New Chase
+            <div class="ntype" data-layout-ignore>Set &middot; consent &amp; stage</div>
+          </div>
+          <div id="s3-n3" class="hidden s3-node" style="left:540px;">
+            Gmail &mdash; Secure Upload Link
+            <div class="ntype" data-layout-ignore>send email w/ tokenised link</div>
+          </div>
+          <div id="s3-n4" class="hidden s3-node" style="left:810px;">
+            Update Tracker Sheet
+            <div class="ntype" data-layout-ignore>Google Sheets &middot; append</div>
+          </div>
+          <div id="s3-n5" class="hidden s3-node" style="left:1080px;">
+            Switch &mdash; Escalation Day
+            <div class="ntype" data-layout-ignore>+2 / +4 / +7 &middot; renewals</div>
+          </div>
+          <div id="s3-n6" class="hidden s3-node" style="left:1350px;">
+            Exception Queue
+            <div class="ntype" data-layout-ignore>&gt;7 days &middot; senior review</div>
+          </div>
+          <div class="s3-conn" id="s3-c1" style="left:240px; top:75px; width:30px;"></div>
+          <div class="s3-conn" id="s3-c2" style="left:510px; top:75px; width:30px;"></div>
+          <div class="s3-conn" id="s3-c3" style="left:780px; top:75px; width:30px;"></div>
+          <div class="s3-conn" id="s3-c4" style="left:1050px; top:75px; width:30px;"></div>
+          <div class="s3-conn" id="s3-c5" style="left:1320px; top:75px; width:30px;"></div>
+          <div class="s3-dot" id="s3-d1" style="left:255px; top:70.5px;"></div>
+          <div class="s3-dot" id="s3-d2" style="left:525px; top:70.5px;"></div>
+          <div class="s3-dot" id="s3-d3" style="left:795px; top:70.5px;"></div>
+          <div class="s3-dot" id="s3-d4" style="left:1065px; top:70.5px;"></div>
+          <div class="s3-dot" id="s3-d5" style="left:1335px; top:70.5px;"></div>
+        </div>
+        <div class="footer" data-layout-ignore>real n8n workflow: WB-08 &middot; demo data, no live credentials</div>
+      </div>
+
+      <!-- SCENE 4 · Practical application (15-20s) -->
+      <div id="s4" class="scene clip" data-start="15" data-duration="5">
+        <div class="scene-label">scene 4 · application</div>
+        <div id="s4-wrap" class="hidden s4-wrap">
+          <img src="assets/img/dashboard.png" alt="Real dashboard: document chase tracking view" />
+        </div>
+        <div id="s4-stat" class="hidden s4-stat" data-layout-allow-occlusion>
+          <b>Completed</b>
+          <div class="value" id="s4-val">0</div>
+        </div>
+        <div class="footer" data-layout-ignore>dashboard screenshot &middot; synthetic data, demonstration only</div>
+      </div>
+
+      <!-- SCENE 5 · Scope + closing (20-24s) -->
+      <div id="s5" class="scene clip" data-start="20" data-duration="4">
+        <div class="scene-label">scene 5 · closing</div>
+        <div id="s5-scope" class="hidden s5-scope">Built around your existing process &mdash; WhatsApp, SMS, email, secure upload links.</div>
+        <div id="s5-close" class="hidden s5-close">Tell me what you want to automate.</div>
+        <div id="s5-foot" class="hidden s5-foot" data-layout-ignore>Business workflow automation &middot; n8n &middot; integrations &middot; operations systems</div>
+        <div class="footer" data-layout-ignore>tell me what you want to automate</div>
+      </div>
+
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+
+      const hide = (id) => gsap.set(id, { opacity: 0, y: 22 });
+
+      // Scene 1 (0-3s)
+      hide("#s1-l1"); hide("#s1-l2"); hide("#s1-card");
+      tl.fromTo("#s1-l1", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 0.05);
+      tl.fromTo("#s1-l2", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.45 }, 1.05);
+      tl.fromTo("#s1-card", { opacity: 0, y: 18, scale: 0.9 }, { opacity: 1, y: 0, scale: 1, duration: 0.5, ease: "power4.out" }, 1.75);
+
+      // Scene 2 (3-8s)
+      hide("#s2-wrap"); hide("#s2-line");
+      tl.fromTo("#s2-wrap", { opacity: 0, y: 20, scale: 0.92 }, { opacity: 1, y: 0, scale: 1, duration: 0.7, ease: "power4.out" }, 3.05);
+      tl.fromTo("#s2-line", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.45 }, 4.1);
+
+      // Scene 3 (8-15s): nodes appear one by one
+      hide("#s3-title");
+      gsap.set(["#s3-n1","#s3-n2","#s3-n3","#s3-n4","#s3-n5","#s3-n6"], { opacity: 0, y: 22 });
+      gsap.set([".s3-conn", ".s3-dot"], { opacity: 0 });
+      tl.fromTo("#s3-title", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.45 }, 8.05);
+      tl.fromTo("#s3-n1", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 8.5);
+      tl.to([".s3-conn", ".s3-dot"], { opacity: 1, duration: 0.25 }, 9.0);
+      tl.fromTo("#s3-n2", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 9.2);
+      tl.fromTo("#s3-n3", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 9.9);
+      tl.fromTo("#s3-n4", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 10.6);
+      tl.fromTo("#s3-n5", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 11.3);
+      tl.fromTo("#s3-n6", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.4, ease: "power4.out" }, 12.0);
+
+      // Scene 4 (15-20s)
+      hide("#s4-wrap"); hide("#s4-stat");
+      tl.fromTo("#s4-wrap", { opacity: 0, y: 16, scale: 0.94 }, { opacity: 1, y: 0, scale: 1, duration: 0.7, ease: "power4.out" }, 15.05);
+      tl.fromTo("#s4-stat", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 16.4);
+      tl.fromTo("#s4-val", { scale: 0.85 }, { scale: 1, duration: 0.4, ease: "back.out(1.4)" }, 16.9);
+
+      // Scene 5 (20-24s)
+      hide("#s5-scope"); hide("#s5-close"); hide("#s5-foot");
+      tl.fromTo("#s5-scope", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: "power4.out" }, 20.05);
+      tl.fromTo("#s5-close", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.55, ease: "power4.out" }, 21.0);
+      tl.fromTo("#s5-foot", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4 }, 22.6);
+
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>
